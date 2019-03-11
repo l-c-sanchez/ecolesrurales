@@ -1,5 +1,8 @@
 import pandas as pd
 # import bs4 as BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
 import json
 
 # def find_adresse(num):
@@ -46,8 +49,12 @@ for ind in df.index:
             new["Coordonnee Y"] = df_adresse["Coordonnee Y"][i]
             new["Latitude"] = df_adresse["Latitude"][i]
             new["Longitude"] = df_adresse["Longitude"][i]
+            new["Appellation officielle"] = df_adresse["Appellation officielle"][i]
+            new["Patronyme uai"] = df_adresse["Patronyme uai"][i]
         else:
             no_adresse.append(df["Numéro d'école"][ind])
+            # driver = webdriver.Firefox()
+            # driver.get("http://www.python.org")
         new["2015-2016"] = "no"
         new["2016-2017"] = "no"
         new["2017-2018"] = "no"
@@ -64,7 +71,7 @@ for ind in df.index:
 
 df = pd.DataFrame(csv_total)
 df_2 = pd.DataFrame(no_adresse)
-df.to_csv("data.csv", encoding='utf-8', index=False)
+df.to_csv("data.csv", encoding='utf-8', index=False, sep=";")
 try:
     df_2.to_csv("data_adresse.csv", encoding='utf-8', index=False)
 except:

@@ -1,19 +1,28 @@
 import pandas as pd
-# import bs4 as BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 import json
+import time
 
-# def find_adresse(num):
-#     url = "https://www.google.com/search?client=ubuntu&channel=fs&q=" + num + "&ie=utf-8&oe=utf-8"
-#     print(url)
-#     try:
-#         headers = {"User-Agent":"Mozilla/5.0"}
-#         response = requests.get(url, headers=headers, timeout=5)
-#         soup = bs4.BeautifulSoup(response.text, 'lxml')
-#     except:
-#         print("in except")
+def find(num, errors):
+    url = "https://www.journaldesfemmes.fr/maman/ecole/etablissement-" + num
+    try:
+        response = urllib2.urlopen(url).read()
+        soup = BeautifulSoup(response, 'lxml')
+        appellation = soup.find('div', {'class':"marB20"}).find("h1").text
+        ensemble = soup.findAll('div', {'class':"marB20"})[3].find('tbody').find('tr').findAll('td')[1]
+        
+        Adresse = str(ensemble).split("<br/>")[0].replace("<td>", "")
+        CodePostal = re.sub('[^0-9]','', str(ensemble).split("<br/>")[1])
+
+        Commune = str(ensemble).split("<br/>")[1].replace("</td>", "")
+        Commune = ''.join(i for i in Commune if not i.isdigit())[1:]
+        return(appellation, Adresse, CodePostal, Commune, errors)
+    except:
+        errors.append(num)
+        return("", "", "", "", errors)
+        print(url)
 
 df = pd.read_csv('fr-en-effectifs-premier-degre.csv', sep=";", low_memory=False)
 df_adresse = pd.read_csv('fr-en-adresse-et-geolocalisation-etablissements-premier-et-second-degre.csv', sep=";", low_memory=False)
@@ -21,6 +30,7 @@ already_csv = []
 already_adresse = []
 csv_total = []
 no_adresse = []
+errors = []
 
 for i in df_adresse.index:
     already_adresse.append(df_adresse["Code établissement"][i])
@@ -42,19 +52,18 @@ for ind in df.index:
             i = already_adresse.index(df["Numéro d'école"][ind])
             new["Adresse"] = df_adresse["Adresse"][i]
             new["Lieu dit"] = df_adresse["Lieu dit"][i]
-            new["Boite postale"] = df_adresse["Boite postale"][i]
+            new["Etat établissement"] = df_adresse["Etat établissement"][i]
             new["Code postal"] = df_adresse["Code postal"][i]
             new["Commune"] = df_adresse["Commune"][i]
-            new["Coordonnee X"] = df_adresse["Coordonnee X"][i]
-            new["Coordonnee Y"] = df_adresse["Coordonnee Y"][i]
             new["Latitude"] = df_adresse["Latitude"][i]
             new["Longitude"] = df_adresse["Longitude"][i]
             new["Appellation officielle"] = df_adresse["Appellation officielle"][i]
             new["Patronyme uai"] = df_adresse["Patronyme uai"][i]
         else:
+            time.sleep(0.5)
             no_adresse.append(df["Numéro d'école"][ind])
-            # driver = webdriver.Firefox()
-            # driver.get("http://www.python.org")
+            new["Appellation officielle"], new["Adresse"], new["Code postal"], new["Commune"], errors = find(df["Numéro d'école"][ind], errors)
+
         new["2015-2016"] = "no"
         new["2016-2017"] = "no"
         new["2017-2018"] = "no"
@@ -71,8 +80,9 @@ for ind in df.index:
 
 df = pd.DataFrame(csv_total)
 df_2 = pd.DataFrame(no_adresse)
+
 df.to_csv("data.csv", encoding='utf-8', index=False, sep=";")
-try:
-    df_2.to_csv("data_adresse.csv", encoding='utf-8', index=False)
-except:
-    print("no adresse")
+df_2.to_csv("data_adresse.csv", encoding='utf-8', index=False)
+
+df_errors = pd.DataFrame(errors)
+df_errors.to_csv("data_errorsbs4.csv", encoding='utf-8', index=False)

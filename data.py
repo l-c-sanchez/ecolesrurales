@@ -1,9 +1,12 @@
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-
 import json
 import time
+
+from bs4 import BeautifulSoup
+import urllib.request as urllib2
+import re
+import time
+
 
 def find(num, errors):
     url = "https://www.journaldesfemmes.fr/maman/ecole/etablissement-" + num
@@ -18,11 +21,17 @@ def find(num, errors):
 
         Commune = str(ensemble).split("<br/>")[1].replace("</td>", "")
         Commune = ''.join(i for i in Commune if not i.isdigit())[1:]
+        print(num)
         return(appellation, Adresse, CodePostal, Commune, errors)
-    except:
+    except Exception as e:
+        print(e)
         errors.append(num)
-        return("", "", "", "", errors)
         print(url)
+        return("", "", "", "", errors)
+        
+
+
+
 
 df = pd.read_csv('fr-en-effectifs-premier-degre.csv', sep=";", low_memory=False)
 df_adresse = pd.read_csv('fr-en-adresse-et-geolocalisation-etablissements-premier-et-second-degre.csv', sep=";", low_memory=False)
@@ -60,7 +69,7 @@ for ind in df.index:
             new["Appellation officielle"] = df_adresse["Appellation officielle"][i]
             new["Patronyme uai"] = df_adresse["Patronyme uai"][i]
         else:
-            time.sleep(0.5)
+            time.sleep(0.2)
             no_adresse.append(df["Numéro d'école"][ind])
             new["Appellation officielle"], new["Adresse"], new["Code postal"], new["Commune"], errors = find(df["Numéro d'école"][ind], errors)
 

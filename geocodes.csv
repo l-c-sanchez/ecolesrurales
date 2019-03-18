@@ -132,7 +132,11 @@
 0180234G;46.9921896;46.9921896;Saint-Florent-sur-Cher, Bourges, Cher, Centre-Val de Loire, France métropolitaine, 18400, France;True
 0420522P;45.4235;45.4235;Saint-Bonnet-le-Château, Montbrison, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42380, France;True
 0420673D;45.4401467;45.4401467;Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, France;True
+<<<<<<< HEAD
 0420702K;45.7445684131372;45.7445684131372;Feurs, Auvergne-Rhône-Alpes, France métropolitaine, 42110, France;False
+=======
+0420702K;45.7445684131371;45.7445684131371;Feurs, Auvergne-Rhône-Alpes, France métropolitaine, 42110, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0420928F;45.6072875;45.6072875;Montbrison, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42600, France;True
 0420933L;45.5414;45.5414;Sury-le-Comtal, Montbrison, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42450, France;True
 0290790B;47.9960325;47.9960325;Quimper, Finistère, Bretagne, France métropolitaine, 29000, France;True
@@ -229,7 +233,11 @@
 0311436T;42.7910617;42.7910617;Bagnères-de-Luchon, Saint-Gaudens, Haute-Garonne, Occitanie, France métropolitaine, 31110, France;True
 0311650A;43.6828953;43.6828953;Aussonne, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31840, France;True
 0320158Y;43.3525;43.3525;Monlaur-Bernet, Mirande, Gers, Occitanie, France métropolitaine, 32140, France;True
+<<<<<<< HEAD
 0320307K;43.6520371776118;43.6520371776118;Riscle, Occitanie, France métropolitaine, 32400, France;False
+=======
+0320307K;43.6520371776117;43.6520371776117;Riscle, Occitanie, France métropolitaine, 32400, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0320317W;43.4613889;43.4613889;Troncens, Mirande, Gers, Occitanie, France métropolitaine, 32230, France;True
 0320462D;43.9727778;43.9727778;Castelnau-sur-l'Auvignon, Condom, Gers, Occitanie, France métropolitaine, 32100, France;True
 0320611R;43.5479869;43.5479869;Pouylebon, Mirande, Gers, Occitanie, France métropolitaine, 32320, France;True
@@ -260,11 +268,19 @@
 0271493B;48.94946;48.94946;Fresney, Évreux, Eure, Normandie, France métropolitaine, 27220, France;True
 0280211C;48.0827574;48.0827574;Terminiers, Châteaudun, Eure-et-Loir, Centre-Val de Loire, France métropolitaine, 28140, France;True
 0511586X;49.1514315;49.1514315;Sept-Saulx, Reims, Marne, Grand Est, France métropolitaine, 51400, France;True
+<<<<<<< HEAD
 0511967L;48.8793138165297;48.8793138165297;Vauchamps, Grand Est, France métropolitaine, 51210, France;False
 0641242C;43.24619555;43.24619555;Ossès, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64780, France;True
 0220654S;48.4036054;48.4036054;Quintin, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22800, France;True
 0220690F;48.1960984;48.1960984;Mûr-de-Bretagne, Guerlédan, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22530, France;True
 0221312G;47.6631718588279;47.6631718588279;Derval, Pays de la Loire, France métropolitaine, 22380, France;False
+=======
+0511967L;48.8793143721415;48.8793143721415;Vauchamps, Grand Est, France métropolitaine, 51210, France;False
+0641242C;43.24619555;43.24619555;Ossès, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64780, France;True
+0220654S;48.4036054;48.4036054;Quintin, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22800, France;True
+0220690F;48.1960984;48.1960984;Mûr-de-Bretagne, Guerlédan, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22530, France;True
+0221312G;47.823188465697;47.823188465697;Messac, Bretagne, France métropolitaine, 22380, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0221317M;48.10298;48.10298;Saint-Étienne-du-Gué-de-l'Isle, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22210, France;True
 0221477L;48.5245;48.5245;Plouër-sur-Rance, Dinan, Côtes-d'Armor, Bretagne, France métropolitaine, 22490, France;True
 0221604Z;48.7732657;48.7732657;Pleumeur-Bodou, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22560, France;True
@@ -392,7 +408,11 @@
 0600148K;49.2413145823151;49.2413145823151;Liancourt-Saint-Pierre, Hauts-de-France, France métropolitaine, 60240, France;False
 0600166E;49.151971;49.151971;Antilly, Senlis, Oise, Hauts-de-France, France métropolitaine, 60620, France;True
 0600281E;49.6309601517763;49.6309601517763;Breteuil, Hauts-de-France, France métropolitaine, 60120, France;False
+<<<<<<< HEAD
 0070135J;44.447247261799;44.447247261799;Les Salelles, Auvergne-Rhône-Alpes, France métropolitaine, 07140, France;False
+=======
+0070135J;44.4472472617991;44.4472472617991;Les Salelles, Auvergne-Rhône-Alpes, France métropolitaine, 07140, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0070353W;44.5493789;44.5493789;Le Teil, Privas, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07400, France;True
 0071324B;45.1891;45.1891;Sarras, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07370, France;True
 0080216S;49.79756;49.79756;Damouzy, Charleville-Mézières, Ardennes, Grand Est, France métropolitaine, 08090, France;True
@@ -466,7 +486,11 @@
 0390138N;46.75453515;46.75453515;Saint-Germain-lès-Arlay, Arlay, Lons-le-Saunier, Jura, Bourgogne-Franche-Comté, France métropolitaine, 39210, France;True
 0390933C;47.2047;47.2047;Gendrey, Dole, Jura, Bourgogne-Franche-Comté, France métropolitaine, 39350, France;True
 0400652S;43.8911318;43.8911318;Mont-de-Marsan, Landes, Nouvelle-Aquitaine, France métropolitaine, 40000, France;True
+<<<<<<< HEAD
 0133520F;43.3277004483096;43.3277004483096;La Rose, Provence-Alpes-Côte d'Azur, France métropolitaine, 13013, France;True
+=======
+0133520F;43.3275943826647;43.3275943826647;La Rose, Provence-Alpes-Côte d'Azur, France métropolitaine, 13013, France;True
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0140286K;49.08899775;49.08899775;Billy, Valambray, Caen, Calvados, Normandie, France métropolitaine, 14370, France;True
 0140660S;48.9716102;48.9716102;Potigny, Caen, Calvados, Normandie, France métropolitaine, 14420, France;True
 0140679M;48.8965132;48.8965132;Villy-lez-Falaise, Caen, Calvados, Normandie, France métropolitaine, 14700, France;True
@@ -910,7 +934,11 @@
 0020228M;49.0483038718163;49.0483038718163;Château-Thierry, Hauts-de-France, France métropolitaine, 02400, France;False
 0020374W;49.0864834;49.0864834;Barzy-sur-Marne, Château-Thierry, Aisne, Hauts-de-France, France métropolitaine, 02850, France;True
 0020871L;49.8486111;49.8486111;Saint-Quentin, Aisne, Hauts-de-France, France métropolitaine, 02100, France;True
+<<<<<<< HEAD
 0021036R;49.2721699766556;49.2721699766556;Villers-Cotterêts, Hauts-de-France, France métropolitaine, 02600, France;False
+=======
+0021036R;49.2721699766557;49.2721699766557;Villers-Cotterêts, Hauts-de-France, France métropolitaine, 02600, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0021842S;49.5151;49.5151;Saint-Erme-Outre-et-Ramecourt, Laon, Aisne, Hauts-de-France, France métropolitaine, 02820, France;True
 0061803C;43.8119541;43.8119541;Contes, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06390, France;True
 0070337D;44.5493789;44.5493789;Le Teil, Privas, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07400, France;True
@@ -975,7 +1003,11 @@
 0490770W;47.4739884;47.4739884;Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, France;True
 0693749A;45.6815791;45.6815791;Thurins, Lyon, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69510, France;True
 0700108M;47.8637825;47.8637825;Anchenoncourt-et-Chazel, Lure, Haute-Saône, Bourgogne-Franche-Comté, France métropolitaine, 70210, France;True
+<<<<<<< HEAD
 0700385N;47.7322386893336;47.7322386893336;Molay, Bourgogne-Franche-Comté, France métropolitaine, 70120, France;False
+=======
+0700385N;47.7322386893335;47.7322386893335;Molay, Bourgogne-Franche-Comté, France métropolitaine, 70120, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0460223T;44.7939277;44.7939277;Molières, Figeac, Lot, Occitanie, France métropolitaine, 46120, France;True
 0460260H;45.007377;45.007377;Cavagnac, Gourdon, Lot, Occitanie, France métropolitaine, 46110, France;True
 0460427P;44.42166775;44.42166775;Le Boulvé, Porte-du-Quercy, Cahors, Lot, Occitanie, France métropolitaine, 46800, France;True
@@ -1165,7 +1197,11 @@
 0520108K;48.4441591;48.4441591;Suzannecourt, Saint-Dizier, Haute-Marne, Grand Est, France métropolitaine, 52300, France;True
 0540160F;49.2760476;49.2760476;Anoux, Briey, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54150, France;True
 0601686G;49.31280555;49.31280555;Villers-sur-Trie, Trie-Château, Beauvais, Oise, Hauts-de-France, France métropolitaine, 60590, France;True
+<<<<<<< HEAD
 0441306F;47.4264114581773;47.4264114581773;Petit-Mars, Pays de la Loire, France métropolitaine, 44390, France;False
+=======
+0441306F;47.4264114581774;47.4264114581774;Petit-Mars, Pays de la Loire, France métropolitaine, 44390, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0750979G;48.8566101;48.8566101;Paris, Île-de-France, France métropolitaine, France;True
 0621750R;50.6032472;50.6032472;Coyecques, Saint-Omer, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62560, France;True
 0622062E;50.3812113;50.3812113;Saint-Pol-sur-Ternoise, Arras, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62130, France;True
@@ -1234,7 +1270,11 @@
 0561493U;47.7477336;47.7477336;Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France;True
 0570770C;49.2716496;49.2716496;Berviller-en-Moselle, Forbach-Boulay-Moselle, Moselle, Grand Est, France métropolitaine, 57550, France;True
 0491165A;47.14726395;47.14726395;Les Verchers-sur-Layon, Doué-en-Anjou, Saumur, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49700, France;True
+<<<<<<< HEAD
 0441290N;47.194370743446;47.194370743446;Le Pellerin, Pays de la Loire, France métropolitaine, 44640, France;False
+=======
+0441290N;47.1943707434461;47.1943707434461;Le Pellerin, Pays de la Loire, France métropolitaine, 44640, France;False
+>>>>>>> 80824f74aeb9bc26955094200d556eb9599d2c4f
 0570930B;49.0540236;49.0540236;Wittring, Sarreguemines, Moselle, Grand Est, France métropolitaine, 57905, France;True
 0571701P;49.0530406;49.0530406;Puttelange-aux-Lacs, Sarreguemines, Moselle, Grand Est, France métropolitaine, 57510, France;True
 0440866C;47.2733517;47.2733517;Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44600, France;True

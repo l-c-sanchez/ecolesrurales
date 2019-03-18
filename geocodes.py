@@ -58,24 +58,28 @@ def normalize_postal_code(code):
 
 
 print("Reading data.csv")
-df = pd.read_csv("data.csv", sep=";")
+df = pd.read_csv("publicschools.csv", sep=",")
 
-# Keeping only closed schools
+# # Keeping only closed schools
 df = df[(df["2017-2018"] == "no")]
 
-with open("geocodes.csv", "w") as f:
-    with open("errors.csv", "w") as error_file:
+with open("geocodespublicall.csv", "w") as f:
+    with open("errors2.csv", "w") as error_file:
         i = 1
         for index, row in df.iterrows():
             print(f"School {i} out of {df.shape[0]}")
             i += 1
-
             try:
+                # print(row)
+                # print(coordinates.latitude)
                 postal_code = normalize_postal_code(row["Code postal"])
                 city = row["Commune"]
                 school_id = row["Numéro d'école"]
                 coordinates, display_name, city_used = find_coordinates(city, postal_code)
-                f.write(";".join([school_id, coordinates.latitude, coordinates.latitude, display_name, str(city_used)]) + "\n")
+                row["Latitude"] = coordinates.latitude
+                row["Longitude"] = coordinates.longitude
+                row["Département"] = display_name.split(",")[2]
+                f.write(";".join([school_id, coordinates.latitude, coordinates.longitude, display_name, str(city_used)]) + "\n")
             except BandwithLimitException:
                 print("Stopping as we've been blocked by openstreetmap API")
                 break
@@ -85,7 +89,8 @@ with open("geocodes.csv", "w") as f:
 
             time.sleep(2)
 
-
+with open("export.csv", "w") as test:
+    df.to_csv(sep = ';')
 
 # row = df.iloc[385, :]
 # postal_code = normalize_postal_code(row["Code postal"])

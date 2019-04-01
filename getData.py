@@ -1,6 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv('fr-en-effectifs-premier-degre.csv', sep=";", low_memory=False)
+df.insert(1, 'My 2nd new column', '')
 already_in_json = []
 json_total = []
 

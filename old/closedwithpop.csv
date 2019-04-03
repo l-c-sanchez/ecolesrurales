@@ -1,0 +1,1205 @@
+2015-2016;2016-2017;2017-2018;Académie;Adresse;Appellation officielle;Code département;Code postal;Commune;Département;Etat établissement;Latitude;Lieu dit;Longitude;Nombre d'élèves 2015-2016;Nombre d'élèves 2016-2017;Nombre d'élèves 2017-2018;Numéro d'école;Patronyme uai;Secteur d'enseignement;code région;libellé région;POPULATION
+yes;yes;no;BORDEAUX;Pomerede;Ecole primaire de Saint-Romain-et-Saint-Clément ;;24800.0;Saint-Romain-et-Saint-Clément;;;;;;20.0;17.0;;0240807X;;PUBLIC;75;Nouvelle-Aquitaine;328
+yes;no;no;BORDEAUX;4 rue des Charmilles;Ecole élémentaire Les Maurilloux ;;24750.0;Trélissac;;;;;;145.0;;;0240920V;;PUBLIC;75;Nouvelle-Aquitaine;6836
+yes;yes;no;BORDEAUX;Rue Aristide Briand;Ecole R.Desmaison ;;24100.0;Bergerac;;;;;;151.0;180.0;;0240955H;;PUBLIC;75;Nouvelle-Aquitaine;28063
+yes;no;no;BORDEAUX;6 rue André Rousseau;Ecole élémentaire de la Force ;;24130.0;La Force;;;;;;169.0;;;0240990W;;PUBLIC;75;Nouvelle-Aquitaine;2568
+yes;yes;no;BORDEAUX;4 place de l'Eglise;Ecole maternelle du Buisson-de-Cadouin ;;24480.0;Le Buisson-de-Cadouin;;;;;;49.0;49.0;;0241013W;;PUBLIC;75;Nouvelle-Aquitaine;2073
+yes;no;no;BORDEAUX;Route d'Angouleme;Ecole maternelle de Javerlhac-et-la-Chapelle-Saint-Robert ;;24300.0;Javerlhac-et-la-Chapelle-Saint-Robert;;;;;;19.0;;;0241115G;;PUBLIC;75;Nouvelle-Aquitaine;876
+yes;no;no;BORDEAUX;Rue Almunia de San Jan;Ecole maternelle d'Agonac ;;24460.0;Agonac;;;;;;66.0;;;0241123R;;PUBLIC;75;Nouvelle-Aquitaine;1718
+yes;no;no;BORDEAUX;Place Liberté;Ecole maternelle de Belvès ;;24170.0;Belvès;;;;;;69.0;;;0241133B;;PUBLIC;75;Nouvelle-Aquitaine;1383
+yes;yes;no;BESANCON;3 rue de l'Eglise;Ecole intercommunale ;;25380.0;Chamesey;;;;;;67.0;63.0;;0250343M;;PUBLIC;27;Bourgogne-et-Franche-Comté;119
+yes;no;no;BESANCON;Route Nationale;Ecole élémentaire de Cour-Saint-Maurice ;;25380.0;Cour-Saint-Maurice;;;;;;12.0;;;0250395U;;PUBLIC;27;Bourgogne-et-Franche-Comté;167
+yes;yes;no;AMIENS;11 rue de Champagne;Ecole élémentaire de Passy-sur-Marne ;;2850.0;Passy-sur-Marne;;;;;;25.0;20.0;;0020894L;;PUBLIC;32;Hauts-de-France;146
+yes;yes;no;AMIENS;9 rue du Châtelet;Ecole élémentaire de Jaulgonne ;;2850.0;Jaulgonne;;;;;;28.0;45.0;;0020944R;;PUBLIC;32;Hauts-de-France;654
+yes;yes;no;AMIENS;Rue de l'église;Ecole Jacques Prévert ;;2100.0;Saint-Quentin;;;;;;69.0;67.0;;0021699L;;PUBLIC;32;Hauts-de-France;55698
+yes;yes;no;CAEN;Le bourg;Ecole maternelle de Lison ;;14330.0;Lison;;;;;;41.0;39.0;;0140210C;;PUBLIC;28;Normandie;458
+yes;yes;no;BESANCON;Le village;Ecole de Vauclusotte ;;25380.0;Vauclusotte;;;;;;11.0;11.0;;0250935F;;PUBLIC;27;Bourgogne-et-Franche-Comté;98
+yes;no;no;GRENOBLE;Le village;Ecole de Bouvières ;;26460.0;Bouvières;;;;;;9.0;;;0260138J;;PUBLIC;84;Auvergne-et-Rhône-Alpes;139
+yes;no;no;GRENOBLE;29 rue Albert Thomas;Ecole maternelle Jules Ferry ;;26000.0;Valence;;;;;;78.0;;;0260659A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;61767
+yes;no;no;REIMS;Place de la Mairie;Ecole maternelle de Recy ;;51520.0;Recy;;;;;;44.0;;;0511234P;;PUBLIC;44;Grand-Est;1047
+yes;yes;no;REIMS;1 Grande rue;Ecole maternelle de Villers-Franqueux ;;51220.0;Villers-Franqueux;;;;;;22.0;20.0;;0511831N;;PUBLIC;44;Grand-Est;302
+yes;no;no;REIMS;Rue Basse;Ecole maternelle Les Carrières ;;51150.0;Vraux;;;;;;38.0;;;0512106M;;PUBLIC;44;Grand-Est;480
+yes;yes;no;REIMS;Rue Jules Ferry;Ecole maternelle Mermoz ;;52300.0;Joinville;;;;;;53.0;58.0;;0520103E;;PUBLIC;44;Grand-Est;3443
+yes;no;no;REIMS;3 rue de la Montagné;Ecole primaire de Condes ;;52000.0;Condes;;;;;;16.0;;;0520609E;;PUBLIC;44;Grand-Est;312
+yes;yes;no;REIMS;Avenue de Verdun;Ecole de Roches-Bettaincourt ;;52270.0;Roches-Bettaincourt;Haute-Marne;;48.16511;;5.34693;28.0;21.0;;0520909F;;PUBLIC;44;Grand-Est;621
+yes;no;no;REIMS;77 rue de Verdun;École élémentaire;52.0;52800.0;Nogent;Haute-Marne;;48.02438;;5.33576;62.0;;;0521077N;;PUBLIC;44;Grand-Est;3895
+yes;no;no;RENNES;Rue Pierre Gineste;Ecole primaire Pierre Gineste ;;22330.0;Collinée;;;;;;103.0;;;0221482S;;PUBLIC;53;Bretagne;921
+yes;yes;no;RENNES;23 rue des écoles;Ecole maternelle de Ploumilliau ;;22300.0;Ploumilliau;;;;;;68.0;61.0;;0221602X;;PUBLIC;53;Bretagne;2496
+yes;no;no;BORDEAUX;74 boulevard Ampère;Ecole élémentaire d'application Clos Chassaing ;;24000.0;Périgueux;;;;;;192.0;;;0240271P;;PUBLIC;75;Nouvelle-Aquitaine;30036
+yes;no;no;BORDEAUX;19 rue Emile Zola;Ecole maternelle Alba ;;24100.0;Bergerac;;;;;;64.0;;;0240304A;;PUBLIC;75;Nouvelle-Aquitaine;28063
+yes;no;no;BORDEAUX;Le bourg;Ecole élémentaire de Saint-Cernin-de-l'Herm ;;24550.0;Saint-Cernin-de-l'Herm;;;;;;18.0;;;0240334H;;PUBLIC;75;Nouvelle-Aquitaine;231
+yes;yes;no;BORDEAUX;Le bourg;Ecole maternelle de Queyssac ;;24140.0;Queyssac;;;;;;20.0;18.0;;0240383L;;PUBLIC;75;Nouvelle-Aquitaine;458
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Quinsac ;;24530.0;Quinsac;;;;;;27.0;23.0;;0240402G;;PUBLIC;75;Nouvelle-Aquitaine;388
+yes;no;no;BORDEAUX;Le bourg;Ecole de Saint-Front-d'Alemps ;;24460.0;Saint-Front-d'Alemps;;;;;;20.0;;;0240403H;;PUBLIC;75;Nouvelle-Aquitaine;262
+yes;yes;no;CAEN;23 rue Bosnières;Ecole maternelle Bosnières ;;14000.0;Caen;;;;;;112.0;101.0;;0140379L;;PUBLIC;28;Normandie;107229
+yes;no;no;CAEN;65 avenue de la Libération;Ecole maternelle Pigacière ;;14000.0;Caen;;;;;;72.0;;;0140421G;;PUBLIC;28;Normandie;107229
+yes;yes;no;CAEN;4 rue du Maréchal Foch;Ecole maternelle Maréchal Foch ;;14700.0;Falaise;;;;;;37.0;41.0;;0140643Y;;PUBLIC;28;Normandie;8343
+yes;yes;no;CAEN;Le bourg;Ecole élémentaire Les Roches-Feuilles ;;14700.0;La Hoguette;;;;;;77.0;76.0;;0140676J;;PUBLIC;28;Normandie;714
+yes;no;no;CAEN;6 rue Neuve;Ecole élémentaire la Varende ;;14110.0;Condé-sur-Noireau;;;;;;106.0;;;0141377W;;PUBLIC;28;Normandie;5244
+yes;no;no;CAEN;9 ter rue de la Haie Vigne;Ecole maternelle Haie Vigne ;;14000.0;Caen;;;;;;66.0;;;0141563Y;;PUBLIC;28;Normandie;107229
+yes;yes;no;CAEN;Rue de Beauvais;Ecole maternelle Argouges ;;14400.0;Bayeux;;;;;;82.0;84.0;;0141691M;;PUBLIC;28;Normandie;13888
+yes;yes;no;CAEN;Le bourg;Ecole maternelle d'Esquay-Notre-Dame ;;14210.0;Esquay-Notre-Dame;;;;;;61.0;58.0;;0142016R;;PUBLIC;28;Normandie;1438
+yes;no;no;TOULOUSE;7 rue Xavier Darasse;Ecole maternelle Limayrac Jérôme Pugens ;;31500.0;Toulouse;;;;;;36.0;;;0312623H;;PUBLIC;76;Occitanie;458298
+yes;no;no;TOULOUSE;Le village;Ecole Saint-Creac ;;32380.0;Saint-Créac;;;;;;19.0;;;0320247V;;PUBLIC;76;Occitanie;104
+yes;yes;no;TOULOUSE;Le village;Ecole Cahuzac Adour ;;32400.0;Cahuzac-sur-Adour;;;;;;19.0;21.0;;0320453U;;PUBLIC;76;Occitanie;233
+yes;yes;no;TOULOUSE;Le village;Ecole élémentaire de Castéra-Lectourois ;;32700.0;Castéra-Lectourois;;;;;;17.0;22.0;;0320464F;;PUBLIC;76;Occitanie;332
+yes;no;no;BORDEAUX;Avenue Louis Lescure;Ecole élémentaire Yves Peron ;;24750.0;Boulazac;;;;;;189.0;;;0240584E;;PUBLIC;75;Nouvelle-Aquitaine;6851
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Saint-Martial-Viveyrol ;;24320.0;Saint-Martial-Viveyrol;;;;;;24.0;24.0;;0240632G;;PUBLIC;75;Nouvelle-Aquitaine;202
+yes;yes;no;BORDEAUX;6 rue Fénelon;Ecole élémentaire du Buisson-de-Cadouin ;;24480.0;Le Buisson-de-Cadouin;;;;;;61.0;73.0;;0240682L;;PUBLIC;75;Nouvelle-Aquitaine;2073
+yes;no;no;BORDEAUX;Le bourg;Ecole élémentaire de Veyrignac ;;24370.0;Veyrignac;;;;;;25.0;;;0240716Y;;PUBLIC;75;Nouvelle-Aquitaine;333
+yes;yes;no;BORDEAUX;9 rue Eugène Leroy;Ecole maternelle d'Atur ;;24750.0;Atur;;;;;;50.0;48.0;;0241117J;;PUBLIC;75;Nouvelle-Aquitaine;1901
+yes;no;no;BESANCON;3 place Francois-Xavier Joubert;Ecole maternelle de Fournet-Blancheroche ;;25140.0;Fournet-Blancheroche;;;;;;14.0;;;0250495C;;PUBLIC;27;Bourgogne-et-Franche-Comté;347
+yes;yes;no;CAEN;Le bourg;Ecole maternelle de Villers-Canivet ;;14420.0;Villers-Canivet;;;;;;94.0;86.0;;0140671D;;PUBLIC;28;Normandie;766
+yes;yes;no;CLERMONT-FERRAND;Le bourg;Ecole de Pers ;;15290.0;Pers;;;;;;13.0;12.0;;0150174H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;302
+yes;yes;no;CAEN;Le bourg;Ecole maternelle de Genneville ;;14600.0;Genneville;;;;;;19.0;26.0;;0142135V;;PUBLIC;28;Normandie;782
+yes;no;no;CAEN;11 rue de Creuilly;Ecole maternelle de Martragny ;;14740.0;Martragny;;;;;;53.0;;;0142157U;;PUBLIC;28;Normandie;372
+yes;no;no;CLERMONT-FERRAND;Le bourg;Ecole de Cros-de-Montvert ;;15150.0;Cros-de-Montvert;;;;;;12.0;;;0150311G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;203
+yes;no;no;CLERMONT-FERRAND;24 avenue Jean Baptiste Veyre;Ecole maternelle Jean Baptiste Veyre ;;15000.0;Aurillac;;;;;;44.0;;;0150425F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;26572
+yes;yes;no;CLERMONT-FERRAND;La Pradelle;Ecole maternelle la Pradelle ;;15130.0;Saint-Simon;;;;;;34.0;37.0;;0150692W;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1143
+yes;yes;no;CLERMONT-FERRAND;13 boulevard de Courtais;Ecole maternelle Marie Laurencin ;;3000.0;Moulins;;;;;;27.0;22.0;;0030330T;;PUBLIC;84;Auvergne-et-Rhône-Alpes;19474
+yes;yes;no;TOULOUSE;Rue Ernest Vila;Ecole élémentaire Marianne ;;32000.0;Auch;;;;;;51.0;56.0;;0320585M;;PUBLIC;76;Occitanie;21962
+yes;no;no;NANCY-METZ;6 rue des Pressoirs;Ecole maternelle de Longeaux ;;55500.0;Longeaux;;;;;;30.0;;;0550991D;;PUBLIC;44;Grand-Est;229
+yes;yes;no;POITIERS;Le bourg;Ecole de Pillac ;;16390.0;Pillac;;;;;;21.0;24.0;;0160197C;;PUBLIC;75;Nouvelle-Aquitaine;270
+yes;yes;no;CLERMONT-FERRAND;10 rue Jean Epinat;Ecole maternelle Les Darcins ;;3300.0;Cusset;;;;;;75.0;69.0;;0030616D;;PUBLIC;84;Auvergne-et-Rhône-Alpes;13545
+yes;yes;no;CLERMONT-FERRAND;8 rue de la Mairie;Ecole élémentaire de Bert ;;3130.0;Bert;;;;;;18.0;14.0;;0030740N;;PUBLIC;84;Auvergne-et-Rhône-Alpes;256
+yes;yes;no;AIX-MARSEILLE;Boulevard Pasteur;Ecole maternelle la Farandole ;;5200.0;Embrun;;;;;;77.0;78.0;;0050153P;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;6123
+yes;no;no;DIJON;Place de l'Hôtel de Ville;Ecole maternelle de Recey-sur-Ource ;;21290.0;Recey-sur-Ource;;;;;;28.0;;;0212101V;;PUBLIC;27;Bourgogne-et-Franche-Comté;371
+yes;no;no;RENNES;2 rue de la corniche;Ecole maternelle Cesson Bourg ;;22000.0;Saint-Brieuc;;;;;;63.0;;;0220484G;;PUBLIC;53;Bretagne;45331
+yes;yes;no;RENNES;2 impasse des écoles;Ecole maternelle la Petite mer ;;56670.0;Riantec;;;;;;92.0;82.0;;0560739Z;;PUBLIC;53;Bretagne;5232
+yes;yes;no;RENNES;Rue des églantines;Ecole maternelle Marcel collet ;;56300.0;Pontivy;;;;;;73.0;78.0;;0561415J;;PUBLIC;53;Bretagne;13915
+yes;yes;no;RENNES;Rue de la Bollardière;Ecole maternelle Kerfichant ;;56100.0;Lorient;;;;;;76.0;76.0;;0561725W;;PUBLIC;53;Bretagne;57961
+yes;no;no;NANCY-METZ;14 rue de l'école;Ecole élémentaire de Rémering ;;57550.0;Rémering;;;;;;17.0;;;0570406G;;PUBLIC;44;Grand-Est;445
+yes;yes;no;NICE;Rue H.passeron;Ecole maternelle groupe Ricolfi 1 ;;6390.0;Contes;;;;;;72.0;72.0;;0060231U;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;7279
+yes;no;no;RENNES;5 rue Yves Le Bitter;Ecole maternelle Marcel Le Roy ;;22470.0;Plouézec;;;;;;86.0;;;0221474H;;PUBLIC;53;Bretagne;3259
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Molières ;;24480.0;Molières;;;;;;22.0;15.0;;0240180R;;PUBLIC;75;Nouvelle-Aquitaine;323
+yes;yes;no;ROUEN;Le bourg;Ecole élémentaire de Saint-Mards-de-Fresne ;;27230.0;Saint-Mards-de-Fresne;;;;;;21.0;21.0;;0270336U;;PUBLIC;28;Normandie;352
+yes;yes;no;ROUEN;24 rue de l'Ecole;Ecole élémentaire des Authieux ;;27220.0;Les Authieux;;;;;;55.0;42.0;;0270365A;;PUBLIC;28;Normandie;284
+yes;no;no;BORDEAUX;Rue Clos Chassaing;Ecole maternelle d'application Clos Chassaing ;;24000.0;Périgueux;;;;;;114.0;;;0240296S;;PUBLIC;75;Nouvelle-Aquitaine;30036
+yes;no;no;BORDEAUX;4 rue des Charmilles;Ecole maternelle Claudine Gerbeau ;;24750.0;Trélissac;;;;;;59.0;;;0240301X;;PUBLIC;75;Nouvelle-Aquitaine;6836
+yes;yes;no;BORDEAUX;Le bourg;Ecole de Biron ;;24540.0;Biron;;;;;;17.0;10.0;;0240313K;;PUBLIC;75;Nouvelle-Aquitaine;188
+yes;no;no;BORDEAUX;8 boulevard André Dupuy;Ecole élémentaire d'Excideuil ;;24160.0;Excideuil;;;;;;109.0;;;0240419A;;PUBLIC;75;Nouvelle-Aquitaine;1162
+yes;yes;no;BORDEAUX;9 rue Eugène Leroy;Ecole élémentaire d'Atur ;;24750.0;Atur;;;;;;132.0;121.0;;0240582C;;PUBLIC;75;Nouvelle-Aquitaine;1901
+yes;no;no;REIMS;9 Grande rue;Ecole primaire de Bernon ;;10130.0;Bernon;;;;;;14.0;;;0100144C;;PUBLIC;44;Grand-Est;191
+yes;no;no;REIMS;4 rue Jeanne d'Arc;Ecole primaire de Chaudrey ;;10240.0;Chaudrey;;;;;;18.0;;;0100198L;;PUBLIC;44;Grand-Est;155
+yes;no;no;REIMS;9 rue Eugénie Geoffroy;Ecole maternelle d'Estissac ;;10190.0;Estissac;;;;;;69.0;;;0100250T;;PUBLIC;44;Grand-Est;1902
+yes;no;no;REIMS;5 Route d'Estissac;Ecole maternelle de Bercenay-en-Othe ;;10190.0;Bercenay-en-Othe;;;;;;139.0;;;0100924A;;PUBLIC;44;Grand-Est;450
+yes;no;no;ORLEANS-TOURS;113 rue de Chantaloup;Ecole maternelle de Marcilly-en-Villette ;;45240.0;Marcilly-en-Villette;;;;;;70.0;;;0451199J;;PUBLIC;24;Centre-Val-de-Loire;2040
+yes;no;no;ORLEANS-TOURS;Rue des écoles;Ecole maternelle d'Outarville ;;45480.0;Outarville;;;;;;49.0;;;0451311F;;PUBLIC;24;Centre-Val-de-Loire;1400
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Montcabrier ;;46700.0;Montcabrier;;;;;;30.0;17.0;;0460227X;;PUBLIC;76;Occitanie;343
+yes;no;no;TOULOUSE;Le bourg;Ecole primaire de Condat ;;46110.0;Condat;;;;;;39.0;;;0460271V;;PUBLIC;76;Occitanie;397
+yes;no;no;TOULOUSE;Le bourg;Ecole maternelle d'Aynac ;;46120.0;Aynac;;;;;;31.0;;;0460401L;;PUBLIC;76;Occitanie;596
+yes;yes;no;TOULOUSE;Le bourg;Ecole maternelle de Belmontet ;;46800.0;Belmontet;;;;;;18.0;15.0;;0460419F;;PUBLIC;76;Occitanie;149
+yes;yes;no;TOULOUSE;Le bourg;Ecole maternelle des Quatre-Routes-du-Lot ;;46110.0;Les Quatre-Routes-du-Lot;;;;;;31.0;38.0;;0460600C;;PUBLIC;76;Occitanie;634
+yes;yes;no;ORLEANS-TOURS;9 rue de l'église;Ecole élémentaire Bonce ;;28150.0;Boncé;;;;;;73.0;49.0;;0280156T;;PUBLIC;24;Centre-Val-de-Loire;243
+yes;yes;no;ORLEANS-TOURS;1 avenue de la République;Ecole primaire Charlemagne ;;28600.0;Luisant;;;;;;111.0;111.0;;0280285H;;PUBLIC;24;Centre-Val-de-Loire;6720
+yes;yes;no;ORLEANS-TOURS;13 Route de Boisbelle;Ecole maternelle d'Henrichemont ;;18250.0;Henrichemont;;;;;;64.0;59.0;;0180451T;;PUBLIC;24;Centre-Val-de-Loire;1806
+yes;no;no;ORLEANS-TOURS;Breuil;Ecole maternelle Le Breuil ;;18400.0;Saint-Florent-sur-Cher;;;;;;63.0;;;0180588S;;PUBLIC;24;Centre-Val-de-Loire;6629
+yes;no;no;LA REUNION;Rue Louis Aragon;Ecole maternelle Françoise Dolto ;;97420.0;Le Port;;;;;;188.0;;;9740951R;;PUBLIC;4;La-Réunion;35881
+yes;no;no;MAYOTTE;Labatoir 1 la Ferme;Ecole élémentaire Labattoir 1 la Ferme ;;97615.0;Dzaoudzi;;;;;;166.0;;;9760022V;;PUBLIC;6;Mayotte;0
+yes;no;no;MAYOTTE;Bandrele;Ecole élémentaire Bandrele Village ;;97660.0;Bandrele;Mayotte;;-12.90875;;45.19529;5.0;;;9760028B;;PUBLIC;6;Mayotte;0
+yes;no;no;MAYOTTE;Kani Kéli;École élémentaire de Kani Bé de Kani Keli;;97625.0;Kani Kéli;Mayotte;;;;;5.0;;;9760058J;;PUBLIC;6;Mayotte;0
+yes;no;no;REIMS;6 rue Gambetta;Ecole maternelle Gambetta ;;8000.0;Villers-Semeuse;;;;;;42.0;;;0080345G;;PUBLIC;44;Grand-Est;3599
+yes;no;no;REIMS;3 Grande rue;Ecole élémentaire de Roizy ;;8190.0;Roizy;;;;;;47.0;;;0080520X;;PUBLIC;44;Grand-Est;231
+yes;yes;no;TOULOUSE;Hameau d'Espies;Ecole de Boussenac ;;9320.0;Boussenac;;;;;;20.0;21.0;;0090137A;;PUBLIC;76;Occitanie;185
+yes;no;no;POITIERS;18 rue des écoles;Ecole élémentaire Jules Ferry ;;17200.0;Royan;;;;;;115.0;;;0170589Y;;PUBLIC;75;Nouvelle-Aquitaine;18138
+yes;yes;no;MONTPELLIER;1  RUE RABELAIS;Ecole primaire la Prade;11.0;11000.0;Carcassonne;Aude;OUVERT;43.21789017331121;;2.3571295888265107;96.0;60.0;;0110864E;LA PRADE;PUBLIC;76;Occitanie;46724
+yes;yes;no;TOULOUSE;Rue Gonzague Florens;Ecole Prosper Mérimée ;;12320.0;Conques;;;;;;13.0;8.0;;0120338C;;PUBLIC;76;Occitanie;255
+yes;yes;no;TOULOUSE;Route Sangayrac;Ecole maternelle de Montbazens ;;12220.0;Montbazens;;;;;;42.0;37.0;;0120475B;;PUBLIC;76;Occitanie;1418
+yes;yes;no;ORLEANS-TOURS;Place Lucien Gigaud;Ecole Lucien Gigaud ;;41400.0;Bourré;;;;;;28.0;26.0;;0410098J;;PUBLIC;24;Centre-Val-de-Loire;676
+yes;no;no;LIMOGES;24 rue du Mouricou;Ecole maternelle Marcelle Bergeal ;;19300.0;Égletons;;;;;;57.0;;;0190375E;;PUBLIC;75;Nouvelle-Aquitaine;4334
+yes;no;no;LIMOGES;Le bourg;Ecole élémentaire de Chameyrat ;;19330.0;Chameyrat;;;;;;53.0;;;0190547S;;PUBLIC;75;Nouvelle-Aquitaine;1584
+yes;no;no;DIJON;2 Grande rue;Ecole RPI ;;21210.0;Villargoix;;;;;;14.0;;;0210472Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;154
+yes;yes;no;DIJON;8 Route de Genlis;Ecole élémentaire RPI ;;21110.0;Varanges;Côte-d'Or;;47.23045;;5.195930000000001;22.0;20.0;;0210509P;;PUBLIC;27;Bourgogne-et-Franche-Comté;751
+yes;no;no;MAYOTTE;;;;;;;;;;;5.0;;;9760237D;;PUBLIC;6;Mayotte;0
+yes;yes;no;REIMS;1 rue Pierre de Celle;Ecole maternelle Montier la Celle ;;10120.0;Saint-André-les-Vergers;;;;;;133.0;134.0;;0100796L;;PUBLIC;44;Grand-Est;11770
+yes;no;no;POITIERS;23 rue de la Terrasse;Ecole maternelle Jules Ferry ;;17200.0;Royan;;;;;;55.0;;;0171051A;;PUBLIC;75;Nouvelle-Aquitaine;18138
+yes;no;no;ORLEANS-TOURS;Ste Solange;Ecole maternelle de Sainte-Solange ;;18220.0;Sainte-Solange;;;;;;42.0;;;0180779Z;;PUBLIC;24;Centre-Val-de-Loire;1178
+yes;yes;no;TOULOUSE;Boyne;Ecole maternelle Boyne ;;12640.0;Rivière-sur-Tarn;;;;;;20.0;12.0;;0120585W;;PUBLIC;76;Occitanie;1050
+yes;no;no;LYON;18 place Berthelot;Ecole maternelle Berthelot ;;42300.0;Roanne;;;;;;72.0;;;0420322X;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35507
+yes;no;no;LYON;Place Larochette;Ecole maternelle Larochette ;;42300.0;Roanne;;;;;;71.0;;;0420327C;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35507
+yes;yes;no;DIJON;5 rue des Rosiers;Ecole maternelle de Villers-les-Pots ;;21130.0;Villers-les-Pots;;;;;;54.0;58.0;;0211333K;;PUBLIC;27;Bourgogne-et-Franche-Comté;1076
+yes;no;no;DIJON;4 bis rue du Marais;Ecole maternelle de Magny-sur-Tille ;;21110.0;Magny-sur-Tille;;;;;;38.0;;;0211891S;;PUBLIC;27;Bourgogne-et-Franche-Comté;847
+yes;no;no;ORLEANS-TOURS;Rue du Lièvre d'Or;Ecole maternelle Croix Tienac ;;28100.0;Dreux;;;;;;69.0;;;0280792J;;PUBLIC;24;Centre-Val-de-Loire;31373
+yes;yes;no;RENNES;75 rue Fontaine Blanche;Ecole maternelle Ferdinand Buisson ;;29800.0;Landerneau;;;;;;66.0;68.0;;0290512Z;;PUBLIC;53;Bretagne;15443
+yes;yes;no;TOULOUSE;Le bourg;Ecole de Saint-Symphorien-de-Thénières ;;12460.0;Saint-Symphorien-de-Thénières;;;;;;14.0;7.0;;0120719S;;PUBLIC;76;Occitanie;230
+yes;yes;no;LIMOGES;2 carrefour carriven;Ecole élémentaire Pont Cardinal ;;19100.0;Brive-la-Gaillarde;;;;;;119.0;105.0;;0190145E;;PUBLIC;75;Nouvelle-Aquitaine;46794
+yes;yes;no;LIMOGES;Le bourg;Ecole élémentaire de Sarroux ;;19110.0;Sarroux;;;;;;39.0;35.0;;0190510B;;PUBLIC;75;Nouvelle-Aquitaine;424
+yes;yes;no;RENNES;Rue Mathurin Meheut;Ecole maternelle Auguste Dupouy ;;29760.0;Penmarch;;;;;;53.0;43.0;;0291163G;;PUBLIC;53;Bretagne;5401
+yes;yes;no;ORLEANS-TOURS;Rue Charles Migraine;Ecole élémentaire Louis Dezelot 1 ;;18400.0;Saint-Florent-sur-Cher;;;;;;154.0;164.0;;0180234G;;PUBLIC;24;Centre-Val-de-Loire;6629
+yes;no;no;LYON;7 rue des Monnaires;Ecole maternelle chemin des Monnaires ;;42380.0;Saint-Bonnet-le-Château;;;;;;82.0;;;0420522P;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1583
+yes;yes;no;LYON;23 rue Ambroise Paré;Ecole maternelle Solaure ;;42100.0;Saint-Étienne;;;;;;98.0;114.0;;0420673D;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;LYON;Le bourg;Ecole Le Bourg ;;42110.0;Sainte-Foy-Saint-Sulpice;;;;;;62.0;51.0;;0420702K;;PUBLIC;84;Auvergne-et-Rhône-Alpes;533
+yes;no;no;LYON;50 avenue Alsace Lorraine;Ecole maternelle Château Lacheze ;;42600.0;Montbrison;;;;;;70.0;;;0420928F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;15673
+yes;yes;no;LYON;59 rue du Onze Novembre;Ecole maternelle R. du 11 Novembre ;;42450.0;Sury-le-Comtal;;;;;;72.0;74.0;;0420933L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6057
+yes;yes;no;RENNES;12 rue du Lycée;Ecole élémentaire Jules Ferry ;;29000.0;Quimper;;;;;;44.0;40.0;;0290790B;;PUBLIC;53;Bretagne;63532
+yes;yes;no;NICE;Place Lucien Rousset;Ecole Castillon ;;6500.0;Castillon;;;;;;11.0;10.0;;0061755A;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;381
+yes;yes;no;AIX-MARSEILLE;12 place des Carmes;Ecole maternelle Carmes  ;;13800.0;Istres;;;;;;54.0;33.0;;0130487J;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;42937
+yes;no;no;LYON;5 rue Raoul Follereau;Ecole maternelle Cotonne ;;42100.0;Saint-Étienne;;;;;;107.0;;;0422101F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;CLERMONT-FERRAND;Le bourg;Ecole élémentaire de Lavoûte-sur-Loire ;;43800.0;Lavoûte-sur-Loire;;;;;;36.0;42.0;;0430413R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;841
+yes;no;no;POITIERS;Le bourg;Ecole de Nonac ;;16190.0;Nonac;;;;;;27.0;;;0160196B;;PUBLIC;75;Nouvelle-Aquitaine;303
+yes;yes;no;POITIERS;Le bourg;Ecole élémentaire de Rouzède ;;16220.0;Rouzède;;;;;;17.0;14.0;;0160561Y;;PUBLIC;75;Nouvelle-Aquitaine;223
+yes;yes;no;GRENOBLE;Cité de Bernaudin;Ecole Bernaudin ;;7100.0;Annonay;;;;;;34.0;22.0;;0071178T;;PUBLIC;84;Auvergne-et-Rhône-Alpes;16075
+yes;yes;no;TOULOUSE;1 place des écoles;Ecole primaire de la Bastide-de-Besplas ;;9350.0;La Bastide-de-Besplas;;;;;;25.0;19.0;;0090111X;;PUBLIC;76;Occitanie;384
+yes;no;no;REIMS;Rue du Donjon;Ecole primaire de Champignol-lez-Mondeville ;;10200.0;Champignol-lez-Mondeville;;;;;;35.0;;;0100095Z;;PUBLIC;44;Grand-Est;323
+yes;no;no;REIMS;36 Route Principale;Ecole primaire des Croûtes ;;10130.0;Les Croûtes;;;;;;14.0;;;0100227T;;PUBLIC;44;Grand-Est;108
+yes;yes;no;REIMS;Rue du Four;Ecole maternelle de Pont-sur-Seine ;;10400.0;Pont-sur-Seine;;;;;;47.0;50.0;;0100412U;;PUBLIC;44;Grand-Est;1131
+yes;no;no;REIMS;99 rue Thiers;Ecole maternelle Auguste Renoir ;;10120.0;Saint-André-les-Vergers;;;;;;136.0;;;0100465B;;PUBLIC;44;Grand-Est;11770
+yes;yes;no;RENNES;3 avenue de la Mare Guesclin;Ecole maternelle Les Colombes ;;35230.0;Saint-Erblon;;;;;;101.0;102.0;;0351787C;;PUBLIC;53;Bretagne;2662
+yes;yes;no;RENNES;14 rue de la Dussetière;Ecole maternelle Montaubert ;;35133.0;Lécousse;;;;;;81.0;76.0;;0352095M;;PUBLIC;53;Bretagne;3058
+yes;no;no;ORLEANS-TOURS;8 rue François Habert;Ecole maternelle FranE£ois Habert ;;36100.0;Issoudun;;;;;;62.0;;;0360241S;;PUBLIC;24;Centre-Val-de-Loire;12420
+yes;yes;no;ORLEANS-TOURS;4 rue de l'Ecole;Ecole de Sazeray ;;36160.0;Sazeray;;;;;;16.0;13.0;;0360484F;;PUBLIC;24;Centre-Val-de-Loire;314
+yes;no;no;RENNES;Rue de Gwaremm Zu;Ecole maternelle Bourg ;;29920.0;Névez;;;;;;58.0;;;0292028X;;PUBLIC;53;Bretagne;2682
+yes;no;no;POITIERS;Rue Nicolas de Largilliére;Ecole maternelle Gaston Balande ;;17000.0;La Rochelle;;;;;;60.0;;;0170436G;;PUBLIC;75;Nouvelle-Aquitaine;74344
+yes;no;no;GUADELOUPE;Boulevard Chanzy;Ecole maternelle Cideme Salvator ;;97110.0;Pointe-à-Pitre;;;;;;50.0;;;9710152N;;PUBLIC;1;Guadeloupe;15826
+yes;yes;no;GUADELOUPE;Cadenet;Ecole maternelle Laurette Vitalle ;;97160.0;Le Moule;;;;;;110.0;55.0;;9710389W;;PUBLIC;1;Guadeloupe;22456
+yes;yes;no;GUADELOUPE;Rue Evremont Gène;Ecole maternelle Amédée Fengarol ;;97131.0;Petit-Canal;;;;;;98.0;115.0;;9710492H;;PUBLIC;1;Guadeloupe;8057
+yes;no;no;GUADELOUPE;Rue Victor Hugo;Ecole maternelle Paul Lacavé ;;97180.0;Sainte-Anne;;;;;;50.0;;;9710497N;;PUBLIC;1;Guadeloupe;24653
+yes;no;no;MONTPELLIER;6 rue Déodat de Séverac;Ecole maternelle Paul Lacombe ;;11000.0;Carcassonne;;;;;;29.0;;;0110176G;;PUBLIC;76;Occitanie;46724
+yes;no;no;MONTPELLIER;Place de l'Hôtel de Ville;Ecole maternelle Trebes Ville ;;11800.0;Trèbes;;;;;;27.0;;;0110651Y;;PUBLIC;76;Occitanie;5410
+yes;no;no;GRENOBLE;Boulevard Henri Dunant;Ecole maternelle Ninon Vallin ;;26100.0;Romans-sur-Isère;;;;;;65.0;;;0260940F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;33632
+yes;no;no;GRENOBLE;1 rue Maurice Ravel;Ecole maternelle Maurice Ravel ;;26000.0;Valence;;;;;;63.0;;;0261028B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;61767
+yes;yes;no;ROUEN;2 rue Saint-Barthélémy;Ecole élémentaire de Thomer-la-Sôgne ;;27240.0;Thomer-la-Sôgne;;;;;;27.0;26.0;;0270863S;;PUBLIC;28;Normandie;327
+yes;no;no;NANCY-METZ;55 rue Principale;Ecole élémentaire Le Cèdre Bleu ;;57420.0;Coin-lès-Cuvry;;;;;;9.0;;;0571959V;;PUBLIC;44;Grand-Est;685
+yes;yes;no;NANCY-METZ;13 rue Christian Pfister;Ecole maternelle Sablon Au pommier Rose ;;57000.0;Metz;;;;;;122.0;114.0;;0572137N;;PUBLIC;44;Grand-Est;118634
+yes;yes;no;NANCY-METZ;23 rue Principale;Ecole élémentaire d'Heining-lès-Bouzonville ;;57320.0;Heining-lès-Bouzonville;;;;;;12.0;12.0;;0572314F;;PUBLIC;44;Grand-Est;512
+yes;no;no;STRASBOURG;1 rue de l'Ecole;Ecole de la Walck ;;67350.0;La Walck;;;;;;116.0;;;0671974G;;PUBLIC;44;Grand-Est;1130
+yes;no;no;STRASBOURG;1 chemin de l'Oberberg;Ecole maternelle de Mittelbergheim ;;67140.0;Mittelbergheim;;;;;;19.0;;;0672452B;;PUBLIC;44;Grand-Est;658
+yes;no;no;STRASBOURG;16 A rue de Schirmeck;Ecole maternelle de Rothau ;;67570.0;Rothau;;;;;;48.0;;;0672620J;;PUBLIC;44;Grand-Est;1575
+yes;yes;no;MONTPELLIER;Le village;Ecole élémentaire de Villardebelle ;11.0;11580.0;Villardebelle;Aude;;;;;11.0;12.0;;0111002E;;PUBLIC;76;Occitanie;54
+yes;no;no;POITIERS;Le bourg;Ecole élémentaire de Palluaud ;;16390.0;Palluaud;;;;;;19.0;;;0160187S;;PUBLIC;75;Nouvelle-Aquitaine;239
+yes;no;no;POITIERS;63 rue des Seguins;Ecole élémentaire A. Daudet ;;16600.0;Ruelle-sur-Touvre;;;;;;51.0;;;0160287A;;PUBLIC;75;Nouvelle-Aquitaine;7357
+yes;yes;no;POITIERS;Rue principale;Ecole maternelle F Dolto ;;16330.0;Vars;;;;;;93.0;97.0;;0160449B;;PUBLIC;75;Nouvelle-Aquitaine;2021
+yes;no;no;POITIERS;Le bourg;Ecole d'Esse ;;16500.0;Esse;;;;;;23.0;;;0160529N;;PUBLIC;75;Nouvelle-Aquitaine;505
+yes;yes;no;ORLEANS-TOURS;110 avenue M Maunoury;Ecole maternelle Jean de la Fontaine ;;28600.0;Luisant;;;;;;106.0;107.0;;0280310K;;PUBLIC;24;Centre-Val-de-Loire;6720
+yes;no;no;NANCY-METZ;17 rue de l'Ecole;Ecole maternelle de Bousbach ;;57460.0;Bousbach;;;;;;48.0;;;0572592H;;PUBLIC;44;Grand-Est;1149
+yes;no;no;NANCY-METZ;5 rue de la Chappé;Ecole maternelle Les Quatre Saisons ;;57645.0;Montoy-Flanville;;;;;;69.0;;;0572687L;;PUBLIC;44;Grand-Est;1117
+yes;no;no;NANCY-METZ;Rue Saint Exupéry;Ecole maternelle Rond Bois ;;57120.0;Rombas;;;;;;62.0;;;0572781N;;PUBLIC;44;Grand-Est;10002
+yes;no;no;STRASBOURG;53 rue Principale;Ecole intercommunale ;;68210.0;Wolfersdorf;;;;;;35.0;;;0681387N;;PUBLIC;44;Grand-Est;346
+yes;yes;no;STRASBOURG;3 rue de la Station;Ecole élémentaire des 2 Aspach-Michelbach ;;68700.0;Aspach-le-Bas;;;;;;234.0;218.0;;0681512Z;;PUBLIC;44;Grand-Est;1307
+yes;no;no;POITIERS;Le bourg;Ecole Ratier - Lacouture ;;16500.0;Ansac-sur-Vienne;;;;;;21.0;;;0160851N;;PUBLIC;75;Nouvelle-Aquitaine;856
+yes;no;no;POITIERS;Rue du Docteur Feuillet;Ecole maternelle de Villefagnan ;;16240.0;Villefagnan;;;;;;47.0;;;0161030H;;PUBLIC;75;Nouvelle-Aquitaine;997
+yes;yes;no;POITIERS;Le bourg;Ecole maternelle d'Anais ;;16560.0;Anais;;;;;;49.0;41.0;;0161129R;;PUBLIC;75;Nouvelle-Aquitaine;591
+yes;yes;no;ORLEANS-TOURS;11 Route de Cloyes;Ecole maternelle de Droué ;;41270.0;Droué;;;;;;53.0;48.0;;0410893Y;;PUBLIC;24;Centre-Val-de-Loire;1013
+yes;no;no;LYON;18 rue Lakanal;Ecole maternelle Lakanal ;;42300.0;Roanne;;;;;;77.0;;;0420326B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35507
+yes;no;no;LYON;3 rue Louis Comté;Ecole primaire Centre 1 ;;42230.0;Roche-la-Molière;;;;;;130.0;;;0420377G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;10093
+yes;no;no;LYON;10 rue Docteur Laënnec;Ecole maternelle Guizay ;;42100.0;Saint-Étienne;;;;;;80.0;;;0420652F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;STRASBOURG;163 rue des Prelats;Ecole maternelle d'Orschwiller ;;67600.0;Orschwiller;;;;;;18.0;19.0;;0670207L;;PUBLIC;44;Grand-Est;633
+yes;no;no;STRASBOURG;Rue de Sélestat;Ecole maternelle Le Schloessel ;;67540.0;Ostwald;;;;;;73.0;;;0670220A;;PUBLIC;44;Grand-Est;11925
+yes;no;no;STRASBOURG;2 rue Welsch;Ecole maternelle Neuhof A ;;67100.0;Strasbourg;;;;;;98.0;;;0670292D;;PUBLIC;44;Grand-Est;275718
+yes;no;no;STRASBOURG;2 rue des écoles;Ecole maternelle de Hatten ;;67690.0;Hatten;;;;;;59.0;;;0670364G;;PUBLIC;44;Grand-Est;1935
+yes;no;no;STRASBOURG;3 rue de l'Eglise;Ecole élémentaire de Gingsheim ;;67270.0;Gingsheim;;;;;;23.0;;;0671099F;;PUBLIC;44;Grand-Est;334
+yes;no;no;LYON;Rue Winston Churchill;Ecole maternelle plaines ;;42120.0;Le Coteau;;;;;;71.0;;;0420961S;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6775
+yes;yes;no;LYON;4 rue de Bourgogne;Ecole maternelle Fontquentin ;;42300.0;Roanne;;;;;;95.0;88.0;;0421190R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35507
+yes;no;no;LYON;9 allée Rachel;Ecole primaire Montferre ;;42100.0;Saint-Étienne;;;;;;60.0;;;0421472X;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;no;no;LYON;17 rue Gounod;Ecole maternelle d'application Montreynaud Gounod ;;42000.0;Saint-Étienne;;;;;;64.0;;;0421529J;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;LYON;10 rue H Dunant;Ecole primaire Beaulieu ;;42100.0;Saint-Étienne;;;;;;135.0;143.0;;0421988H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;NICE;97 avenue Henri Guillaume;Ecole maternelle Romain Rolland ;;83500.0;La Seyne-sur-Mer;;;;;;50.0;44.0;;0830730T;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;64523
+yes;no;no;STRASBOURG;7 rue du Châlet;Ecole maternelle Le Petit Prince ;;67260.0;Sarre-Union;;;;;;150.0;;;0671470J;;PUBLIC;44;Grand-Est;2967
+yes;yes;no;STRASBOURG;170 rue Neuve;Ecole maternelle de Schleithal ;;67160.0;Schleithal;;;;;;40.0;40.0;;0671521P;;PUBLIC;44;Grand-Est;1473
+yes;no;no;MONTPELLIER;Le village;Ecole primaire de Saint-Martin-de-Boubaux ;;48160.0;Saint-Martin-de-Boubaux;;;;;;7.0;;;0480362H;;PUBLIC;76;Occitanie;180
+yes;yes;no;TOULOUSE;Rue du Maréchal Lyautey;Ecole maternelle Jean Mermoz ;;31600.0;Muret;;;;;;179.0;179.0;;0311118X;;PUBLIC;76;Occitanie;24725
+yes;no;no;NANTES;18 rue Colonel de Sauveboeuf;Ecole maternelle Pierre et Marie Curie ;;49000.0;Angers;;;;;;92.0;;;0490099S;;PUBLIC;52;Pays-de-la-Loire;150125
+yes;no;no;DIJON;17 rue d'En Haut;Ecole de Beugnon ;;89570.0;Beugnon;;;;;;13.0;;;0890470C;;PUBLIC;27;Bourgogne-et-Franche-Comté;329
+yes;no;no;DIJON;4 allée du Docteur Gauthereau;Ecole primaire de Villefranche ;;89120.0;Villefranche;;;;;;74.0;;;0890993W;;PUBLIC;27;Bourgogne-et-Franche-Comté;635
+yes;yes;no;DIJON;17 rue Nicolas Droin;Ecole de Courgis ;;89800.0;Courgis;;;;;;15.0;18.0;;0891081S;;PUBLIC;27;Bourgogne-et-Franche-Comté;259
+yes;no;no;DIJON;2 rue Auxerroise;Ecole élémentaire de Lignorelles ;;89800.0;Lignorelles;;;;;;26.0;;;0891294Y;;PUBLIC;27;Bourgogne-et-Franche-Comté;184
+yes;yes;no;BESANCON;40 rue des Vosges;Ecole primaire Romagny sous Rougemont ;;90110.0;Romagny-sous-Rougemont;;;;;;21.0;20.0;;0900055W;;PUBLIC;27;Bourgogne-et-Franche-Comté;201
+yes;yes;no;BESANCON;Rue haute Rive;Ecole primaire Docteur Benoît ;;90200.0;Giromagny;;;;;;85.0;87.0;;0900095P;;PUBLIC;27;Bourgogne-et-Franche-Comté;3141
+yes;no;no;NANTES;26 rue du Planty;Ecole maternelle Le Planty ;;49300.0;Cholet;;;;;;51.0;;;0490989J;;PUBLIC;52;Pays-de-la-Loire;53890
+yes;yes;no;STRASBOURG;2 rue des Marguerites;Ecole maternelle Les Marguerites ;;68000.0;Colmar;;;;;;30.0;31.0;;0681782T;;PUBLIC;44;Grand-Est;67956
+yes;yes;no;BORDEAUX;Groupe scolaire Grand Pontet;Ecole maternelle Elie Janailhac ;;33330.0;Saint-Émilion;;;;;;75.0;68.0;;0332316N;;PUBLIC;75;Nouvelle-Aquitaine;1911
+yes;yes;no;BORDEAUX;38 avenue du chemin de la vie;Ecole maternelle la Souris Verte ;;33440.0;Ambarès-et-Lagrave;;;;;;46.0;58.0;;0332763Z;;PUBLIC;75;Nouvelle-Aquitaine;14609
+yes;no;no;VERSAILLES;Rue des Pierres rangées;Ecole maternelle Champ de Coq ;;91590.0;La Ferté-Alais;;;;;;29.0;;;0911135P;;PUBLIC;11;Île-de-France;3960
+yes;no;no;AMIENS;18 rue Principale;Ecole élémentaire de Croix-Fonsomme ;;2110.0;Croix-Fonsomme;;;;;;24.0;;;0020597N;;PUBLIC;32;Hauts-de-France;230
+yes;no;no;AMIENS;Impasse Jacquart;Ecole maternelle Groupe scolaire Quentin-Barre ;;2100.0;Saint-Quentin;;;;;;71.0;;;0020868H;;PUBLIC;32;Hauts-de-France;55698
+yes;no;no;TOULOUSE;Place Jean Jaurès;Ecole maternelle Louise Michel ;;31840.0;Aussonne;;;;;;223.0;;;0311650A;;PUBLIC;76;Occitanie;6867
+yes;yes;no;TOULOUSE;Le village;Ecole maternelle Empu Monlaur Bernet ;;32140.0;Monlaur-Bernet;;;;;;18.0;14.0;;0320158Y;;PUBLIC;76;Occitanie;171
+yes;yes;no;TOULOUSE;Le village;Ecole maternelle Empu Termes d'Armagnanc ;;32400.0;Termes-d'Armagnac;;;;;;18.0;18.0;;0320307K;;PUBLIC;76;Occitanie;186
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire Troncens ;;32230.0;Troncens;;;;;;11.0;;;0320317W;;PUBLIC;76;Occitanie;184
+yes;yes;no;TOULOUSE;Le village;Ecole élémentaire Castelnau Auvignon ;;32100.0;Castelnau-sur-l'Auvignon;;;;;;15.0;12.0;;0320462D;;PUBLIC;76;Occitanie;177
+yes;no;no;TOULOUSE;Le village;Ecole maternelle Empu Pouylebon ;;32320.0;Pouylebon;;;;;;18.0;;;0320611R;;PUBLIC;76;Occitanie;147
+yes;no;no;MONTPELLIER;Avenue de Paris;Ecole maternelle Taillefer ;;30320.0;Marguerittes;;;;;;50.0;;;0301529Z;;PUBLIC;76;Occitanie;8608
+yes;no;no;BORDEAUX;12 rue Théodore Bellemer;Ecole primaire Camille Claudel ;;33520.0;Bruges;;;;;;185.0;;;0330545N;;PUBLIC;75;Nouvelle-Aquitaine;16954
+yes;yes;no;BORDEAUX;Rue de la gare;Ecole maternelle de Saint-Christoly-de-Blaye ;;33920.0;Saint-Christoly-de-Blaye;;;;;;62.0;43.0;;0331104W;;PUBLIC;75;Nouvelle-Aquitaine;2031
+yes;no;no;REIMS;8 rue Balzan;Ecole primaire de Vieux-lès-Asfeld ;;8190.0;Vieux-lès-Asfeld;;;;;;35.0;;;0080513P;;PUBLIC;44;Grand-Est;320
+yes;no;no;REIMS;Rue du Général Sarrail;Ecole maternelle Jeanine Lambeau ;;8320.0;Aubrives;;;;;;43.0;;;0080755C;;PUBLIC;44;Grand-Est;866
+yes;no;no;REIMS;Rue d'Obernai;Ecole élémentaire de Brienne-sur-Aisne ;;8190.0;Brienne-sur-Aisne;;;;;;29.0;;;0081101D;;PUBLIC;44;Grand-Est;193
+yes;yes;no;TOULOUSE;Le village;Ecole primaire de Vicdessos ;;9220.0;Vicdessos;;;;;;45.0;43.0;;0090070C;;PUBLIC;76;Occitanie;543
+yes;yes;no;CAEN;Rue du Docteur Callegari;Ecole maternelle Le Chat Perche ;;50250.0;La Haye-du-Puits;;;;;;93.0;82.0;;0500448R;;PUBLIC;28;Normandie;1547
+yes;no;no;CAEN;4 rue du Moulin Fauvel;Ecole RPI Les Bords de Terrette ;;50620.0;Le Hommet-d'Arthenay;;;;;;5.0;;;0500764J;;PUBLIC;28;Normandie;393
+yes;no;no;CAEN;Le bourg;Ecole Jules Ferry ;;50330.0;Cosqueville;;;;;;23.0;;;0501034C;;PUBLIC;28;Normandie;565
+yes;yes;no;VERSAILLES;19 rue d'Alsace;Ecole maternelle Victor Hugo ;;92110.0;Clichy;;;;;;264.0;279.0;;0920449N;;PUBLIC;11;Île-de-France;59255
+yes;yes;no;REIMS;43 rue Jean et Gilberte Droit;Ecole maternelle Gilberte Droit ;;51100.0;Reims;;;;;;70.0;68.0;;0511414K;;PUBLIC;44;Grand-Est;182592
+yes;yes;no;REIMS;2 allée des Acacias;Ecole maternelle du Parc de la Fontaine ;;51140.0;Jonchery-sur-Vesle;;;;;;77.0;71.0;;0511518Y;;PUBLIC;44;Grand-Est;1887
+yes;no;no;REIMS;1 place des Tilleuls;Ecole Henri Henriot ;;52150.0;Huilliécourt;;;;;;42.0;;;0520995Z;;PUBLIC;44;Grand-Est;120
+yes;yes;no;REIMS;Place Georges Pompidou;Ecole de Vecqueville ;;52300.0;Vecqueville;;;;;;45.0;28.0;;0521020B;;PUBLIC;44;Grand-Est;610
+yes;yes;no;ROUEN;7 rue de la Liberté;Ecole élémentaire de Saint-Germain-de-Fresney ;;27220.0;Saint-Germain-de-Fresney;;;;;;26.0;22.0;;0270396J;;PUBLIC;28;Normandie;216
+yes;no;no;REIMS;Rue Albert Camus;Ecole maternelle Léon Bourgeois ;;51400.0;Mourmelon-le-Grand;;;;;;68.0;;;0510366W;;PUBLIC;44;Grand-Est;5339
+yes;no;no;REIMS;3 rue J de la Fontaine;Ecole élémentaire d'application Jean de la Fontaine ;;51000.0;Châlons-en-Champagne;;;;;;110.0;;;0510629G;;PUBLIC;44;Grand-Est;44899
+yes;yes;no;VERSAILLES;9 rue Sophie Foucault;Ecole maternelle Sophie Foucault ;;92110.0;Clichy;;;;;;126.0;111.0;;0922522S;;PUBLIC;11;Île-de-France;59255
+yes;yes;no;CLERMONT-FERRAND;25 rue Victor Basch;Ecole maternelle Maurice Genest ;;63200.0;Riom;;;;;;125.0;126.0;;0631506V;;PUBLIC;84;Auvergne-et-Rhône-Alpes;18675
+yes;yes;no;ROUEN;Rue des Maraîchers;Ecole maternelle Pauline Kergomard ;;27700.0;Les Andelys;;;;;;128.0;113.0;;0271348U;;PUBLIC;28;Normandie;8201
+yes;yes;no;ROUEN;2 place de la Mairie;Ecole élémentaire de Fresney ;;27220.0;Fresney;;;;;;51.0;44.0;;0271493B;;PUBLIC;28;Normandie;337
+yes;no;no;ORLEANS-TOURS;9 rue Chanzy;Ecole maternelle de Terminiers ;;28140.0;Terminiers;;;;;;60.0;;;0280211C;;PUBLIC;24;Centre-Val-de-Loire;941
+yes;no;no;REIMS;3 rue de la gare;Ecole maternelle de Sept-Saulx ;;51400.0;Sept-Saulx;;;;;;46.0;;;0511586X;;PUBLIC;44;Grand-Est;593
+yes;yes;no;REIMS;4 Route de Montmort;Ecole maternelle de Fromentières ;;51210.0;Fromentières;;;;;;52.0;53.0;;0511967L;;PUBLIC;44;Grand-Est;385
+yes;yes;no;RENNES;18 rue Maréchal Leclerc;Ecole maternelle de Quintin ;;22800.0;Quintin;;;;;;102.0;74.0;;0220654S;;PUBLIC;53;Bretagne;2822
+yes;yes;no;RENNES;Rue Sainte-Suzanne;Ecole maternelle de Mûr-de-Bretagne ;;22530.0;Mûr-de-Bretagne;;;;;;51.0;53.0;;0220690F;;PUBLIC;53;Bretagne;2078
+yes;yes;no;RENNES;Le bourg;Ecole maternelle de Plouër-sur-Rance ;;22490.0;Plouër-sur-Rance;;;;;;96.0;89.0;;0221477L;;PUBLIC;53;Bretagne;3409
+yes;no;no;RENNES;22 Route de Trebeurden;Ecole maternelle Jean Le Morvan ;;22560.0;Pleumeur-Bodou;;;;;;36.0;;;0221604Z;;PUBLIC;53;Bretagne;3983
+yes;yes;no;MONTPELLIER;Avenue Robert Gourdon;Ecole élémentaire du Pic d'Etienne ;;30600.0;Vauvert;;;;;;149.0;145.0;;0301179U;;PUBLIC;76;Occitanie;11195
+yes;no;no;CRETEIL;4 rue P Brossolette;Ecole élémentaire Marie Curie ;;93270.0;Sevran;;;;;;152.0;;;0931314Y;;PUBLIC;11;Île-de-France;49465
+yes;yes;no;CRETEIL;77 avenue H Barbusse;Ecole maternelle Camille Claudel ;;93140.0;Bondy;Seine-Saint-Denis;;48.90157;;2.48791;282.0;288.0;;0932067S;;PUBLIC;11;Île-de-France;52865
+yes;no;no;CRETEIL;;;;;;;;;;;101.0;;;0932596S;;PUBLIC;11;Île-de-France;0
+yes;yes;no;AMIENS;3 rue de l'église;Ecole élémentaire de Montépilloy ;;60810.0;Montépilloy;;;;;;19.0;15.0;;0601124W;;PUBLIC;32;Hauts-de-France;162
+yes;no;no;BORDEAUX;Hameau de Cadouin;Ecole primaire du Buisson-de-Cadouin ;;24480.0;Le Buisson-de-Cadouin;;;;;;18.0;;;0240182T;;PUBLIC;75;Nouvelle-Aquitaine;2073
+yes;yes;no;BORDEAUX;Rue Eugénie Cotton;Ecole maternelle Eugène Le Roy ;;24660.0;Coulounieix-Chamiers;;;;;;141.0;137.0;;0240274T;;PUBLIC;75;Nouvelle-Aquitaine;8108
+yes;yes;no;BORDEAUX;Avenue Aristide Briand;Ecole maternelle René Desmaison  ;;24100.0;Bergerac;;;;;;88.0;86.0;;0240307D;;PUBLIC;75;Nouvelle-Aquitaine;28063
+yes;no;no;BORDEAUX;Bourg Nord;Ecole élémentaire de Grèzes ;;24120.0;Grèzes;;;;;;23.0;;;0240766C;;PUBLIC;75;Nouvelle-Aquitaine;196
+yes;no;no;BORDEAUX;19 rue Emile Zola;Ecole élémentaire Alba ;;24100.0;Bergerac;;;;;;102.0;;;0240954G;;PUBLIC;75;Nouvelle-Aquitaine;28063
+yes;yes;no;POITIERS;2 rue de la Liberté;Ecole primaire de Messemé ;;86200.0;Messemé;;;;;;19.0;19.0;;0860375R;;PUBLIC;75;Nouvelle-Aquitaine;228
+yes;no;no;POITIERS;Rue Baptiste Toussaint;Ecole de Millac ;;86150.0;Millac;;;;;;18.0;;;0860383Z;;PUBLIC;75;Nouvelle-Aquitaine;489
+yes;no;no;POITIERS;2 place du Vieux marché;Ecole maternelle Ville haute ;;86500.0;Montmorillon;;;;;;37.0;;;0860402V;;PUBLIC;75;Nouvelle-Aquitaine;6197
+yes;yes;no;CAEN;18 rue du Paty;Ecole maternelle Fernand Léger ;;61200.0;Argentan;;;;;;99.0;100.0;;0610072X;;PUBLIC;28;Normandie;13903
+yes;yes;no;CAEN;Le bourg;Ecole élémentaire Louis Louvrier ;;61310.0;Silly-en-Gouffern;;;;;;42.0;37.0;;0610662N;;PUBLIC;28;Normandie;399
+yes;yes;no;BESANCON;Place Cassard;Ecole de Flangebouche ;;25390.0;Flangebouche;;;;;;69.0;70.0;;0250481M;;PUBLIC;27;Bourgogne-et-Franche-Comté;724
+yes;no;no;BESANCON;2 rue du Neuf Clos;Ecole Chauffaud ;;25130.0;Villers-le-Lac;;;;;;29.0;;;0250591G;;PUBLIC;27;Bourgogne-et-Franche-Comté;4680
+yes;yes;no;BESANCON;8 rue de la Maltournée;Ecole primaire de Pugey ;;25720.0;Pugey;;;;;;100.0;52.0;;0250811W;;PUBLIC;27;Bourgogne-et-Franche-Comté;784
+yes;yes;no;BESANCON;26 grande rue;Ecole primaire Intercommunale d'Aibre;25.0;25750.0;Aibre;Doubs;OUVERT;47.55087170291518;;6.697787443641003;105.0;99.0;;0251879G;INTERCOMMUNALE;PUBLIC;27;Bourgogne-et-Franche-Comté;472
+yes;no;no;RENNES;33 rue Guy Ropartz;Ecole maternelle Pauline Kergomard ;;56600.0;Lanester;;;;;;28.0;;;0560313L;;PUBLIC;53;Bretagne;21874
+yes;no;no;RENNES;Hameau de Talvern Neneze;Ecole primaire de Pluméliau ;;56930.0;Pluméliau;;;;;;33.0;;;0560383M;;PUBLIC;53;Bretagne;3594
+yes;no;no;RENNES;Rue de Kerdisson;Ecole maternelle Paul Langevin ;;56300.0;Pontivy;;;;;;60.0;;;0560834C;;PUBLIC;53;Bretagne;13915
+yes;yes;no;POITIERS;5 rue de la Mairie;Ecole primaire de Ranton ;;86200.0;Ranton;;;;;;19.0;11.0;;0860525D;;PUBLIC;75;Nouvelle-Aquitaine;184
+yes;yes;no;POITIERS;37 rue des Pignons Blancs;Ecole maternelle Les Guiraudières ;;86300.0;Chauvigny;;;;;;34.0;31.0;;0860715K;;PUBLIC;75;Nouvelle-Aquitaine;7086
+yes;no;no;POITIERS;1 rue de Montmorillon;Ecole primaire Saint-Pierre Les Eglises ;;86300.0;Chauvigny;;;;;;79.0;;;0861025X;;PUBLIC;75;Nouvelle-Aquitaine;7086
+yes;yes;no;POITIERS;9 rue d'Alsace;Ecole maternelle Marcel Ribbe ;;86530.0;Cenon-sur-Vienne;;;;;;69.0;83.0;;0861065R;;PUBLIC;75;Nouvelle-Aquitaine;1828
+yes;yes;no;POITIERS;3 rue haute;Ecole maternelle de Beaumont ;;86490.0;Beaumont;;;;;;58.0;58.0;;0861104H;;PUBLIC;75;Nouvelle-Aquitaine;1897
+yes;yes;no;LIMOGES;10 rue Edouard Cholet;Ecole maternelle Edouard Herriot ;;87000.0;Limoges;;;;;;136.0;139.0;;0870247W;;PUBLIC;75;Nouvelle-Aquitaine;135098
+yes;no;no;RENNES;2 rue Victor Rossel;Ecole maternelle Vauban ;;29200.0;Brest;;;;;;47.0;;;0290478M;;PUBLIC;53;Bretagne;139386
+yes;no;no;RENNES;75 rue de la Terre Noire;Ecole maternelle Yves Le Manchec ;;29000.0;Quimper;;;;;;66.0;;;0290564F;;PUBLIC;53;Bretagne;63532
+yes;no;no;NANCY-METZ;1 Route de la forêt;Ecole élémentaire d'Elvange ;;57690.0;Elvange;;;;;;12.0;;;0570333C;;PUBLIC;44;Grand-Est;364
+yes;no;no;NANCY-METZ;2 rue de l'Ecole;Ecole élémentaire de Villing ;;57550.0;Villing;;;;;;19.0;;;0570416T;;PUBLIC;44;Grand-Est;491
+yes;yes;no;NANCY-METZ;13 place Carrière;Ecole maternelle Jean Rostand ;;88300.0;Neufchâteau;;;;;;68.0;70.0;;0880330F;;PUBLIC;44;Grand-Est;6602
+yes;no;no;NANCY-METZ;1 rue de l'Eglise;Ecole maternelle du Ménil ;;88160.0;Le Ménil;;;;;;38.0;;;0881505H;;PUBLIC;44;Grand-Est;1110
+yes;no;no;NANCY-METZ;14 Grand rue;Ecole maternelle B. Fremiot ;;88460.0;Charmois-devant-Bruyères;;;;;;17.0;;;0881614B;;PUBLIC;44;Grand-Est;408
+yes;no;no;NANCY-METZ;262 rue du Stade;Ecole maternelle Centre ;;88220.0;Hadol;;;;;;86.0;;;0881665G;;PUBLIC;44;Grand-Est;2351
+yes;yes;no;DIJON;2 rue de la Mairie;Ecole d'Andryes ;;89480.0;Andryes;;;;;;20.0;15.0;;0890309C;;PUBLIC;27;Bourgogne-et-Franche-Comté;443
+yes;yes;no;AMIENS;8 rue de la Caure;Ecole de Condé-sur-Aisne ;;2370.0;Condé-sur-Aisne;;;;;;37.0;35.0;;0020556U;;PUBLIC;32;Hauts-de-France;386
+yes;no;no;AMIENS;22 rue de la Grange aux Bois;Ecole élémentaire de Mesnil-Saint-Laurent ;;2720.0;Mesnil-Saint-Laurent;;;;;;17.0;;;0020687L;;PUBLIC;32;Hauts-de-France;447
+yes;no;no;AMIENS;Rue de Verdun;Ecole élémentaire de Monceau-le-Neuf-et-Faucouzy ;;2270.0;Monceau-le-Neuf-et-Faucouzy;;;;;;26.0;;;0020699Z;;PUBLIC;32;Hauts-de-France;332
+yes;no;no;AMIENS;8 rue Principale;Ecole élémentaire de Monnes ;;2470.0;Monnes;;;;;;20.0;;;0020708J;;PUBLIC;32;Hauts-de-France;119
+yes;no;no;AMIENS;218 rue de Paris;Ecole maternelle Ernest Lavisse ;;2100.0;Saint-Quentin;;;;;;112.0;;;0020874P;;PUBLIC;32;Hauts-de-France;55698
+yes;no;no;AMIENS;Rue du Vert Galan;Ecole maternelle Marguerite Jolly ;;2120.0;Landifay-et-Bertaignemont;;;;;;24.0;;;0020961J;;PUBLIC;32;Hauts-de-France;282
+yes;yes;no;NANTES;Rue du Tillay;Ecole maternelle Condorcet ;;44800.0;Saint-Herblain;;;;;;124.0;139.0;;0442108C;;PUBLIC;52;Pays-de-la-Loire;43784
+yes;no;no;ORLEANS-TOURS;1 impasse Joseph Cressot;Ecole maternelle d'application Jardin des Plantes ;;45100.0;Orléans;;;;;;154.0;;;0450262R;;PUBLIC;24;Centre-Val-de-Loire;114375
+yes;yes;no;CORSE;Hameau de Trinité;Ecole maternelle Trinité maternelle ;;20137.0;Porto-Vecchio;;;;;;70.0;74.0;;6200677S;;PUBLIC;94;Corse;11354
+yes;yes;no;LILLE;50 boulevard de Strasbourg;Ecole Saint-Exupery-Mme de Ségur ;;59000.0;Lille;;;;;;115.0;106.0;;0596638V;;PUBLIC;32;Hauts-de-France;231491
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Parnac ;;46140.0;Parnac;;;;;;14.0;13.0;;0460242N;;PUBLIC;76;Occitanie;380
+yes;yes;no;TOULOUSE;4 rue d'Alsace;Ecole maternelle Louis Mazet ;;46500.0;Gramat;;;;;;70.0;73.0;;0460340V;;PUBLIC;76;Occitanie;3596
+yes;yes;no;AMIENS;6 rue Charles de Gaulle;Ecole du Centre ;;60600.0;Breuil-le-Vert;;;;;;37.0;13.0;;0600685U;;PUBLIC;32;Hauts-de-France;2957
+yes;no;no;REIMS;18 rue Basse;Ecole primaire de Bouy-Luxembourg ;;10220.0;Bouy-Luxembourg;;;;;;23.0;;;0100156R;;PUBLIC;44;Grand-Est;211
+yes;yes;no;REIMS;2 boulevard du 14 juillet;Ecole maternelle Jacobins ;;10000.0;Troyes;Aube;;48.29435;;4.0782099999999994;67.0;72.0;;0100565K;;PUBLIC;44;Grand-Est;59671
+yes;no;no;REIMS;153 rue de Preize;Ecole maternelle Preize ;;10000.0;Troyes;Aube;;48.309940000000005;;4.066330000000001;71.0;;;0100584F;;PUBLIC;44;Grand-Est;59671
+yes;no;no;REIMS;1 rue de l'Ecole;Ecole primaire d'Urville ;;10200.0;Urville;;;;;;16.0;;;0100597V;;PUBLIC;44;Grand-Est;142
+yes;no;no;REIMS;17 Route Nationale;Ecole primaire de Villery ;;10320.0;Villery;;;;;;19.0;;;0100634K;;PUBLIC;44;Grand-Est;274
+yes;no;no;REIMS;43 Route impériale;Ecole primaire de Voué ;;10150.0;Voué;;;;;;207.0;;;0100654G;;PUBLIC;44;Grand-Est;640
+yes;no;no;DIJON;Le Maupas;Ecole RPI ;;21430.0;Sussey;;;;;;13.0;;;0210554N;;PUBLIC;27;Bourgogne-et-Franche-Comté;269
+yes;no;no;DIJON;Place de la Mairie;Ecole maternelle de Lacanche ;;21230.0;Lacanche;;;;;;19.0;;;0210906W;;PUBLIC;27;Bourgogne-et-Franche-Comté;587
+yes;no;no;BORDEAUX;Rue du chemin Rouge;Ecole élémentaire chemin Rouge ;;47500.0;Fumel;;;;;;34.0;;;0470387R;;PUBLIC;75;Nouvelle-Aquitaine;5074
+yes;no;no;ORLEANS-TOURS;13 rue Chevaliers Macquaux;Ecole primaire des Essards ;;37130.0;Les Essards;;;;;;24.0;;;0370445H;;PUBLIC;24;Centre-Val-de-Loire;152
+yes;yes;no;NANTES;5 rue de Lozère;Ecole maternelle Bernardière ;;44800.0;Saint-Herblain;;;;;;109.0;104.0;;0440992P;;PUBLIC;52;Pays-de-la-Loire;43784
+yes;yes;no;NANCY-METZ;18 Grande rue;Ecole élémentaire de Gélacourt ;;54120.0;Gélacourt;;;;;;23.0;22.0;;0540466N;;PUBLIC;44;Grand-Est;172
+yes;no;no;REIMS;867 Route de Troyes;Ecole maternelle Jean Monnet ;;10120.0;Saint-Germain;;;;;;74.0;;;0101026L;;PUBLIC;44;Grand-Est;2284
+yes;no;no;REIMS;2 Ruelle Cocos;Ecole élémentaire de Pougy ;;10240.0;Pougy;;;;;;18.0;;;0101075P;;PUBLIC;44;Grand-Est;294
+yes;yes;no;MONTPELLIER;129 Route d'Armissan;Ecole maternelle Les Platanes ;11.0;11100.0;Narbonne;Aude;;;;;13.0;10.0;;0110799J;;PUBLIC;76;Occitanie;52802
+yes;yes;no;BORDEAUX;Villeneuve de Mezin;Ecole maternelle Villeneuve de Mezin ;;47170.0;Lannes;;;;;;16.0;8.0;;0470890M;;PUBLIC;75;Nouvelle-Aquitaine;389
+yes;no;no;ORLEANS-TOURS;Rue des Grands Clos;Ecole primaire Guehenno  ;;37260.0;Artannes-sur-Indre;;;;;;154.0;;;0371109E;;PUBLIC;24;Centre-Val-de-Loire;2534
+yes;no;no;GRENOBLE;Route Nationale;Ecole Les Sables ;;38520.0;Le Bourg-d'Oisans;;;;;;14.0;;;0380214B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;3235
+yes;no;no;TOULOUSE;Taurines;Ecole Taurines ;;12120.0;Centrès;;;;;;15.0;;;0120260T;;PUBLIC;76;Occitanie;526
+yes;no;no;TOULOUSE;Le bourg;Ecole élémentaire de Montfranc ;;12380.0;Montfranc;;;;;;11.0;;;0120481H;;PUBLIC;76;Occitanie;124
+yes;no;no;TOULOUSE;Le bourg;Ecole de Plaisance ;;12550.0;Plaisance;;;;;;13.0;;;0120913C;;PUBLIC;76;Occitanie;201
+yes;yes;no;LIMOGES;3 rue Laënnec;Ecole maternelle Gaubre ;;19100.0;Brive-la-Gaillarde;;;;;;65.0;56.0;;0190161X;;PUBLIC;75;Nouvelle-Aquitaine;46794
+yes;yes;no;NANTES;25 quai des Mariniers;Ecole élémentaire du Thoureil ;;49350.0;Le Thoureil;;;;;;24.0;23.0;;0490734G;;PUBLIC;52;Pays-de-la-Loire;444
+yes;yes;no;GRENOBLE;Le bourg;Ecole primaire Les Marronniers ;;38840.0;La Sône;;;;;;16.0;10.0;;0381292Y;;PUBLIC;84;Auvergne-et-Rhône-Alpes;591
+yes;yes;no;GRENOBLE;15 rue Le Corbusier;Ecole maternelle Saint-Just ;;38400.0;Saint-Martin-d'Hères;;;;;;51.0;34.0;;0381893B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;38019
+yes;yes;no;LYON;57 rue de la Libération;Ecole maternelle R. de la Libération ;;42480.0;La Fouillouse;;;;;;123.0;121.0;;0420280B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;4316
+yes;yes;no;LYON;112 rue du 11 Novembre;Ecole maternelle R. du 11 Novembre ;;42720.0;Pouilly-sous-Charlieu;;;;;;80.0;69.0;;0420309H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2512
+yes;yes;no;LYON;7 avenue Jules Ferry;Ecole maternelle Ferry ;;42270.0;Saint-Priest-en-Jarez;;;;;;83.0;76.0;;0420790F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6125
+yes;yes;no;LYON;15 rue de l'Université;Ecole maternelle Metare Cottencière ;;42100.0;Saint-Étienne;;;;;;122.0;138.0;;0421075R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;no;no;LIMOGES;Avenue Jean Vinatier;Ecole maternelle de Seilhac ;;19700.0;Seilhac;;;;;;58.0;;;0190360N;;PUBLIC;75;Nouvelle-Aquitaine;1699
+yes;yes;no;DIJON;Village Thorey;Ecole élémentaire RPI ;;21350.0;Thorey-sous-Charny;;;;;;22.0;13.0;;0210535T;;PUBLIC;27;Bourgogne-et-Franche-Comté;169
+yes;no;no;DIJON;Rue des Fossés;Ecole de Rougemont ;;21500.0;Rougemont;;;;;;11.0;;;0210665J;;PUBLIC;27;Bourgogne-et-Franche-Comté;170
+yes;no;no;DIJON;29 rue Marceau;Ecole maternelle Jules Ferry ;;21500.0;Montbard;;;;;;31.0;;;0210787S;;PUBLIC;27;Bourgogne-et-Franche-Comté;5394
+yes;yes;no;DIJON;Rue de l'Eglise;Ecole d'Écutigny ;;21360.0;Écutigny;;;;;;13.0;12.0;;0211008G;;PUBLIC;27;Bourgogne-et-Franche-Comté;99
+yes;no;no;CAEN;Rue du Xii ème Arrondissement;Ecole maternelle Yves Pouliquen ;;50140.0;Mortain;;;;;;34.0;;;0500497U;;PUBLIC;28;Normandie;1685
+yes;no;no;BESANCON;1 Route des Sapins;Ecole élémentaire d'Équevillon ;;39300.0;Équevillon;;;;;;17.0;;;0390290D;;PUBLIC;27;Bourgogne-et-Franche-Comté;592
+yes;no;no;BESANCON;1 place de la Mairie;Ecole élémentaire de Dournon ;;39110.0;Dournon;;;;;;22.0;;;0390449B;;PUBLIC;27;Bourgogne-et-Franche-Comté;128
+yes;no;no;BESANCON;5 avenue Aristide Briand;Ecole élémentaire Aristide Briand ;;39000.0;Lons-le-Saunier;;;;;;199.0;;;0390509S;;PUBLIC;27;Bourgogne-et-Franche-Comté;17063
+yes;yes;no;BESANCON;7 montée de l'Ecole;Ecole de Jeurre ;;39360.0;Jeurre;;;;;;17.0;17.0;;0390684G;;PUBLIC;27;Bourgogne-et-Franche-Comté;259
+yes;yes;no;LYON;4 impasse de la Palle;Ecole maternelle Montchovet ;;42100.0;Saint-Étienne;;;;;;124.0;119.0;;0422157S;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;no;no;DIJON;40 rue de l'Eglise;Ecole maternelle de Fontaine-Française ;;21610.0;Fontaine-Française;;;;;;91.0;;;0211412W;;PUBLIC;27;Bourgogne-et-Franche-Comté;909
+yes;no;no;DIJON;1 rue de Lis;Ecole maternelle de Sainte-Marie-la-Blanche ;;21200.0;Sainte-Marie-la-Blanche;;;;;;23.0;;;0211728P;;PUBLIC;27;Bourgogne-et-Franche-Comté;835
+yes;no;no;DIJON;Rue Princesse de Conti;Ecole RPI ;;21250.0;Tichey;;;;;;21.0;;;0211912P;;PUBLIC;27;Bourgogne-et-Franche-Comté;217
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Saint-Projet ;;46300.0;Saint-Projet;;;;;;28.0;21.0;;0460078K;;PUBLIC;76;Occitanie;361
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Fons ;;46100.0;Fons;;;;;;21.0;24.0;;0460313R;;PUBLIC;76;Occitanie;399
+yes;no;no;BESANCON;11 rue de Franche-Comté;Ecole maternelle Franche Comté ;;39200.0;Saint-Claude;;;;;;78.0;;;0390934D;;PUBLIC;27;Bourgogne-et-Franche-Comté;10346
+yes;no;no;TOULOUSE;Le bourg;Ecole maternelle de Leyme ;;46120.0;Leyme;Lot;;44.78457;;1.90061;34.0;;;0460576B;;PUBLIC;76;Occitanie;947
+yes;yes;no;CAEN;13 rue de Tinchebray;École maternelle publique Les Petits Lutins;;50150.0;Sourdeval;Manche;;48.72503;;-0.91556;46.0;51.0;;0500892Y;;PUBLIC;28;Normandie;2651
+yes;no;no;CAEN;Avenue de Normandie;Ecole primaire Amont Quentin ;;50100.0;Cherbourg-Octeville;;;;;;114.0;;;0501849N;;PUBLIC;28;Normandie;37055
+yes;no;no;LILLE;64 rue de la Victoire;Ecole maternelle Louise Michel ;;59620.0;Aulnoye-Aymeries;;;;;;23.0;;;0595308Z;;PUBLIC;32;Hauts-de-France;8816
+yes;no;no;REIMS;22 rue Albert Thomas;Ecole maternelle Jules Ferry ;;51100.0;Reims;;;;;;59.0;;;0510576Z;;PUBLIC;44;Grand-Est;182592
+yes;yes;no;REIMS;2 rue de l'école;Ecole de Bisseuil ;;51150.0;Bisseuil;;;;;;22.0;14.0;;0510968A;;PUBLIC;44;Grand-Est;645
+yes;yes;no;REIMS;4 rue de Sezanne;Ecole maternelle de Gaye ;;51120.0;Gaye;;;;;;27.0;27.0;;0511908X;;PUBLIC;44;Grand-Est;581
+yes;yes;no;LILLE;Rue du guet;Ecole maternelle de Vendeville ;;59175.0;Vendeville;;;;;;77.0;71.0;;0595764V;;PUBLIC;32;Hauts-de-France;1692
+yes;no;no;AMIENS;6 rue Pelée;Ecole élémentaire de Bouconvillers ;;60240.0;Bouconvillers;;;;;;18.0;;;0600128N;;PUBLIC;32;Hauts-de-France;361
+yes;no;no;AMIENS;11 rue de la Mairie;Ecole de Montjavoult ;;60240.0;Montjavoult;;;;;;35.0;;;0600148K;;PUBLIC;32;Hauts-de-France;454
+yes;yes;no;AMIENS;3 place de l'église;Ecole élémentaire d'Antilly ;;60620.0;Antilly;;;;;;26.0;26.0;;0600166E;;PUBLIC;32;Hauts-de-France;302
+yes;no;no;AMIENS;8 rue Cardonnois-Broyes;Ecole élémentaire de Broyes ;;60120.0;Broyes;;;;;;26.0;;;0600281E;;PUBLIC;32;Hauts-de-France;174
+yes;no;no;GRENOBLE;Le village;Ecole primaire Noël Garidel ;;7140.0;Malbosc;;;;;;7.0;;;0070135J;;PUBLIC;84;Auvergne-et-Rhône-Alpes;147
+yes;yes;no;GRENOBLE;42 boulevard Pasteur;Ecole maternelle Teillaret ;;7400.0;Le Teil;;;;;;25.0;17.0;;0070353W;;PUBLIC;84;Auvergne-et-Rhône-Alpes;8292
+yes;no;no;GRENOBLE;Place du Général de Goutel;Ecole maternelle de Sarras ;;7370.0;Sarras;;;;;;5.0;;;0071324B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2082
+yes;no;no;REIMS;4 rue du Paquis;Ecole de Damouzy ;;8090.0;Damouzy;;;;;;18.0;;;0080216S;;PUBLIC;44;Grand-Est;414
+yes;no;no;REIMS;3 rue du Tertre;Ecole primaire de Riaucourt ;;52000.0;Riaucourt;;;;;;23.0;;;0520619R;;PUBLIC;44;Grand-Est;435
+yes;yes;no;REIMS;Rue du Château;Ecole maternelle de Villiers-en-Lieu ;;52100.0;Villiers-en-Lieu;;;;;;67.0;68.0;;0520824N;;PUBLIC;44;Grand-Est;1555
+yes;no;no;MONTPELLIER;210 rue de la Guesse;Ecole la Guesse ;;34160.0;Castries;;;;;;176.0;;;0342061F;;PUBLIC;76;Occitanie;5935
+yes;yes;no;RENNES;3 allée de l'Ecole;Ecole maternelle Lucie Aubrac ;;35131.0;Pont-Péan;;;;;;151.0;163.0;;0350904T;;PUBLIC;53;Bretagne;3905
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Grateloup-Saint-Gayrand ;;47400.0;Grateloup-Saint-Gayrand;;;;;;20.0;20.0;;0470249R;;PUBLIC;75;Nouvelle-Aquitaine;444
+yes;yes;no;RENNES;1 rue Plessis d'Arradon;Ecole maternelle Les Corallines ;;56610.0;Arradon;;;;;;64.0;54.0;;0561525D;;PUBLIC;53;Bretagne;5514
+yes;yes;no;RENNES;17 rue Nationale;Ecole maternelle de Landévant ;;56690.0;Landévant;;;;;;158.0;153.0;;0561623K;;PUBLIC;53;Bretagne;3482
+yes;no;no;DIJON;1 rue de la Mairie;Ecole maternelle d'Izier ;;21110.0;Izier;;;;;;25.0;;;0211940V;;PUBLIC;27;Bourgogne-et-Franche-Comté;806
+yes;no;no;RENNES;38 rue de la Madeleine;Ecole maternelle de Broons ;;22250.0;Broons;;;;;;89.0;;;0220754A;;PUBLIC;53;Bretagne;2958
+yes;no;no;RENNES;Le bourg;Ecole primaire de Dolo ;;22270.0;Dolo;;;;;;98.0;;;0220818V;;PUBLIC;53;Bretagne;672
+yes;no;no;RENNES;15 rue docteur Lavergne;Ecole maternelle Lavergne ;;22400.0;Lamballe;;;;;;89.0;;;0220898G;;PUBLIC;53;Bretagne;12217
+yes;no;no;RENNES;Le bourg;Ecole primaire Le Ble En Herbe ;;22330.0;Langourla;;;;;;52.0;;;0220914Z;;PUBLIC;53;Bretagne;522
+yes;yes;no;RENNES;7 allée de la Hodeyère;Ecole maternelle la Hodeyère ;;35500.0;Vitré;;;;;;102.0;107.0;;0351837G;;PUBLIC;53;Bretagne;17463
+yes;no;no;NANTES;61 avenue Pierre de Coubertin;Ecole maternelle groupe scolaire Les Pommeraies ;;53000.0;Laval;;;;;;80.0;;;0530295H;;PUBLIC;52;Pays-de-la-Loire;50479
+yes;yes;no;MONTPELLIER;Le village;Ecole de Saint-Georges-de-Lévéjac ;;48500.0;Saint-Georges-de-Lévéjac;;;;;;12.0;10.0;;0480430G;;PUBLIC;76;Occitanie;250
+yes;yes;no;ORLEANS-TOURS;Le bourg;Ecole élémentaire de Vicq-Exemplet ;;36400.0;Vicq-Exemplet;;;;;;15.0;12.0;;0360555H;;PUBLIC;24;Centre-Val-de-Loire;322
+yes;yes;no;RENNES;8 rue des écoles;Ecole maternelle de Caulnes ;;22350.0;Caulnes;;;;;;115.0;119.0;;0221534Y;;PUBLIC;53;Bretagne;2448
+yes;no;no;RENNES;Rue des écoles;Ecole maternelle de Plémet ;;22210.0;Plémet;;;;;;86.0;;;0221633F;;PUBLIC;53;Bretagne;3212
+yes;no;no;RENNES;Rue des écoles;Ecole primaire de Saint-Gilles-du-Mené ;;22330.0;Saint-Gilles-du-Mené;;;;;;39.0;;;0221640N;;PUBLIC;53;Bretagne;468
+yes;no;no;RENNES;2 rue du Meloir Sentier;Ecole maternelle Montafilan ;;22980.0;Plélan-le-Petit;;;;;;71.0;;;0221826R;;PUBLIC;53;Bretagne;1836
+yes;no;no;BORDEAUX;1 rue Antoine Gay;Ecole maternelle d'Excideuil ;;24160.0;Excideuil;;;;;;50.0;;;0240276V;;PUBLIC;75;Nouvelle-Aquitaine;1162
+yes;yes;no;LYON;3 rue Fernand Léger;Ecole maternelle Beauregard ;;42600.0;Montbrison;;;;;;48.0;46.0;;0421465P;;PUBLIC;84;Auvergne-et-Rhône-Alpes;15673
+yes;yes;no;ORLEANS-TOURS;2 rue de la Corderie;Ecole maternelle Camus  ;;37230.0;Luynes;;;;;;48.0;46.0;;0371373S;;PUBLIC;24;Centre-Val-de-Loire;5207
+yes;yes;no;ORLEANS-TOURS;Place de l'église;Ecole maternelle d'Huismes ;;37420.0;Huismes;;;;;;58.0;55.0;;0371404A;;PUBLIC;24;Centre-Val-de-Loire;1550
+yes;yes;no;GRENOBLE;17 rue du Général Brocard;Ecole élémentaire Brocard ;;38690.0;Biol;;;;;;56.0;50.0;;0380196G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1405
+yes;no;no;BORDEAUX;Rue de la BEAURONNE;Ecole élémentaire d'Agonac ;;24460.0;Agonac;;;;;;98.0;;;0240388S;;PUBLIC;75;Nouvelle-Aquitaine;1718
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Bassillac ;;24330.0;Bassillac;;;;;;91.0;108.0;;0240583D;;PUBLIC;75;Nouvelle-Aquitaine;1786
+yes;no;no;BORDEAUX;Le bourg;Ecole maternelle de Lusignac ;;24320.0;Lusignac;;;;;;18.0;;;0240627B;;PUBLIC;75;Nouvelle-Aquitaine;189
+yes;no;no;BORDEAUX;Le bourg;Ecole maternelle de Simeyrols ;;24370.0;Simeyrols;;;;;;15.0;;;0240715X;;PUBLIC;75;Nouvelle-Aquitaine;252
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Ligueux ;;24460.0;Ligueux;;;;;;42.0;40.0;;0240753N;;PUBLIC;75;Nouvelle-Aquitaine;282
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Saint-Maime-de-Péreyrol ;;24380.0;Saint-Maime-de-Péreyrol;;;;;;25.0;21.0;;0240854Y;;PUBLIC;75;Nouvelle-Aquitaine;276
+yes;yes;no;BORDEAUX;Rue Eugénie Cotton;Ecole élémentaire Eugène Le Roy ;;24660.0;Coulounieix-Chamiers;;;;;;229.0;238.0;;0240968X;;PUBLIC;75;Nouvelle-Aquitaine;8108
+yes;no;no;BORDEAUX;4 rue André Rousseau;Ecole maternelle de la Force ;;24130.0;La Force;;;;;;88.0;;;0240985R;;PUBLIC;75;Nouvelle-Aquitaine;2568
+yes;yes;no;CLERMONT-FERRAND;Le bourg;Ecole maternelle de Lavoûte-sur-Loire ;;43800.0;Lavoûte-sur-Loire;;;;;;37.0;35.0;;0430911G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;841
+yes;yes;no;NANCY-METZ;4 rue de la Mairie;Ecole maternelle de Reherrey ;;54120.0;Reherrey;;;;;;24.0;25.0;;0542180B;;PUBLIC;44;Grand-Est;126
+yes;no;no;NANCY-METZ;2 Grande rue;Ecole d'Avricourt ;;54450.0;Avricourt;;;;;;30.0;;;0542341B;;PUBLIC;44;Grand-Est;392
+yes;yes;no;NANCY-METZ;8 place Jean Blaise;Ecole d'Aubréville ;;55120.0;Aubréville;;;;;;21.0;22.0;;0550789J;;PUBLIC;44;Grand-Est;391
+yes;no;no;BESANCON;Rue Samuel Marti;Ecole maternelle Grosjean Jules ;;25200.0;Montbéliard;;;;;;50.0;;;0251612S;;PUBLIC;27;Bourgogne-et-Franche-Comté;25697
+yes;yes;no;ORLEANS-TOURS;4 rue Hector Berlioz;Ecole maternelle Prévert  ;;37110.0;Château-Renault;;;;;;52.0;45.0;;0370304E;;PUBLIC;24;Centre-Val-de-Loire;5072
+yes;yes;no;ORLEANS-TOURS;Place de la Mairie;Ecole primaire d'Huismes ;;37420.0;Huismes;;;;;;111.0;105.0;;0370570U;;PUBLIC;24;Centre-Val-de-Loire;1550
+yes;no;no;ORLEANS-TOURS;32 rue des écoles;Ecole primaire Emile Thierry ;;37340.0;Gizeux;;;;;;13.0;;;0371380Z;;PUBLIC;24;Centre-Val-de-Loire;408
+yes;yes;no;CAEN;Avenue Général Koenig;Ecole maternelle Jean Baptiste Couture ;;14750.0;Saint-Aubin-sur-Mer;;;;;;67.0;58.0;;0141839Y;;PUBLIC;28;Normandie;2266
+yes;no;no;CLERMONT-FERRAND;Le bourg;Ecole élémentaire du Claux ;;15400.0;Le Claux;;;;;;9.0;;;0150332E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;196
+yes;no;no;CLERMONT-FERRAND;Rue Georges Clémenceau;Ecole Marmiers ;;15000.0;Aurillac;;;;;;154.0;;;0150619S;;PUBLIC;84;Auvergne-et-Rhône-Alpes;26572
+yes;no;no;GRENOBLE;Rue de la Convention Estressin;Ecole maternelle Côteau Sainte-Hélène ;;38200.0;Vienne;;;;;;58.0;;;0381415G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;29325
+yes;no;no;GRENOBLE;Avenue de Venaria;Ecole maternelle Joliot Curie ;;38220.0;Vizille;;;;;;76.0;;;0381476Y;;PUBLIC;84;Auvergne-et-Rhône-Alpes;7571
+yes;no;no;CLERMONT-FERRAND;Rue des écoles;Ecole maternelle de Vertolaye ;;63480.0;Vertolaye;;;;;;18.0;;;0631289J;;PUBLIC;84;Auvergne-et-Rhône-Alpes;554
+yes;yes;no;BORDEAUX;Le bourg;Ecole primaire de Lées-Athas ;;64490.0;Lées-Athas;;;;;;17.0;23.0;;0640564R;;PUBLIC;75;Nouvelle-Aquitaine;291
+yes;yes;no;BESANCON;Place de la Mairie;Ecole de Montmirey-le-Château ;;39290.0;Montmirey-le-Château;;;;;;19.0;24.0;;0390618K;;PUBLIC;27;Bourgogne-et-Franche-Comté;170
+yes;yes;no;POITIERS;Le bourg;Ecole élémentaire de Montchaude ;;16300.0;Montchaude;;;;;;22.0;21.0;;0160501H;;PUBLIC;75;Nouvelle-Aquitaine;540
+yes;yes;no;POITIERS;Avenue Bernard Fischer;Ecole élémentaire Félix Gaillard ;;16300.0;Barbezieux-Saint-Hilaire;;;;;;148.0;139.0;;0160510T;;PUBLIC;75;Nouvelle-Aquitaine;4774
+yes;no;no;POITIERS;7 rue des écoles;Ecole maternelle de Chabanais ;;16150.0;Chabanais;;;;;;69.0;;;0160587B;;PUBLIC;75;Nouvelle-Aquitaine;1763
+yes;yes;no;POITIERS;Le bourg;Ecole d'Écuras ;;16220.0;Écuras;;;;;;12.0;13.0;;0160927W;;PUBLIC;75;Nouvelle-Aquitaine;598
+yes;yes;no;POITIERS;1 place des Tilleuls;Ecole maternelle de Champagne-Mouton ;;16350.0;Champagne-Mouton;;;;;;47.0;44.0;;0160972V;;PUBLIC;75;Nouvelle-Aquitaine;945
+yes;yes;no;POITIERS;Le Menallier;Ecole élémentaire André Clerjaud ;;16300.0;Lachaise;;;;;;20.0;22.0;;0161026D;;PUBLIC;75;Nouvelle-Aquitaine;336
+yes;no;no;POITIERS;10 rue Jean Monnet;Ecole maternelle de Dompierre-sur-Charente ;;17610.0;Dompierre-sur-Charente;;;;;;18.0;;;0170302L;;PUBLIC;75;Nouvelle-Aquitaine;475
+yes;no;no;BESANCON;40 place de la Mairie;Ecole de Saint-Germain-lès-Arlay ;;39210.0;Saint-Germain-lès-Arlay;;;;;;48.0;;;0390138N;;PUBLIC;27;Bourgogne-et-Franche-Comté;482
+yes;no;no;BESANCON;2 rue Fontaine d'Embrun;Ecole maternelle de Gendrey ;;39350.0;Gendrey;;;;;;22.0;;;0390933C;;PUBLIC;27;Bourgogne-et-Franche-Comté;408
+yes;yes;no;BORDEAUX;5 impasse du Carboue;Ecole maternelle Carboue ;;40000.0;Mont-de-Marsan;;;;;;63.0;63.0;;0400652S;;PUBLIC;75;Nouvelle-Aquitaine;31334
+yes;yes;no;CAEN;2 rue des Canadiens;Ecole élémentaire de Billy ;;14370.0;Billy;;;;;;40.0;51.0;;0140286K;;PUBLIC;28;Normandie;377
+yes;yes;no;CAEN;Rue du marché;Ecole maternelle Antoine de Saint-Exupéry ;;14420.0;Potigny;;;;;;107.0;97.0;;0140660S;;PUBLIC;28;Normandie;1954
+yes;yes;no;CAEN;Rue la Croix;Ecole élémentaire de Villy-lez-Falaise ;;14700.0;Villy-lez-Falaise;;;;;;24.0;23.0;;0140679M;;PUBLIC;28;Normandie;277
+yes;no;no;CAEN;Cidex E  13;Ecole élémentaire d'Ernes ;;14270.0;Ernes;;;;;;21.0;;;0140686V;;PUBLIC;28;Normandie;325
+yes;no;no;CAEN;Le bourg;Ecole de Saint-Manvieu-Bocage ;;14380.0;Saint-Manvieu-Bocage;;;;;;51.0;;;0141059A;;PUBLIC;28;Normandie;545
+yes;yes;no;CAEN;4 Allée des Enfants;Ecole maternelle de Démouville ;;14840.0;Démouville;;;;;;139.0;121.0;;0141565A;;PUBLIC;28;Normandie;3281
+yes;no;no;CAEN;Rue de l'Eglise;Ecole maternelle Malraux-Neuville ;;14500.0;Vire;;;;;;55.0;;;0141659C;;PUBLIC;28;Normandie;11597
+yes;no;no;AIX-MARSEILLE;429 avenue Mireille Lauze;Ecole maternelle Pomme Mazenode  ;;13011.0;Marseille;;;;;;79.0;;;0131829T;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;90555
+yes;no;no;ORLEANS-TOURS;13 rue de la Halle;Ecole élémentaire Auron B ;;18000.0;Bourges;;;;;;119.0;;;0180320A;;PUBLIC;24;Centre-Val-de-Loire;67189
+yes;no;no;LYON;Impasse Bonlieu;Ecole primaire;42.0;42720.0;La Bénisson-Dieu;Loire;OUVERT;46.15036108160135;;4.04535506968729;33.0;;;0420122E;LE BOURG PRIMAIRE;PUBLIC;84;Auvergne-et-Rhône-Alpes;432
+yes;no;no;LYON;Place Pasteur;Ecole maternelle Pasteur ;;42800.0;Rive-de-Gier;;;;;;51.0;;;0420319U;;PUBLIC;84;Auvergne-et-Rhône-Alpes;14658
+yes;yes;no;LYON;Le bourg;Ecole primaire Le Bourg ;;42560.0;Soleymieux;;;;;;5.0;72.0;;0420841L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;666
+yes;yes;no;POITIERS;Le bourg;Ecole maternelle de Salles-Lavalette ;;16190.0;Salles-Lavalette;;;;;;14.0;15.0;;0160198D;;PUBLIC;75;Nouvelle-Aquitaine;364
+yes;no;no;POITIERS;17 avenue de la gare;Ecole élémentaire Jacques Prévert ;;16400.0;La Couronne;;;;;;119.0;;;0160375W;;PUBLIC;75;Nouvelle-Aquitaine;7466
+yes;no;no;POITIERS;Place du Canton;Ecole de Vaux-Rouillac ;;16170.0;Vaux-Rouillac;;;;;;23.0;;;0160422X;;PUBLIC;75;Nouvelle-Aquitaine;300
+yes;no;no;POITIERS;Le bourg;Ecole maternelle de Taizé-Aizie ;;16700.0;Taizé-Aizie;;;;;;37.0;;;0160666M;;PUBLIC;75;Nouvelle-Aquitaine;588
+yes;no;no;POITIERS;Le bourg;Ecole élémentaire de Verrières ;;16130.0;Verrières;;;;;;21.0;;;0160739S;;PUBLIC;75;Nouvelle-Aquitaine;346
+yes;yes;no;POITIERS;98 avenue Jean Jaurès;Ecole maternelle Le Maine Gagnaud ;;16600.0;Ruelle-sur-Touvre;;;;;;47.0;37.0;;0160869H;;PUBLIC;75;Nouvelle-Aquitaine;7357
+yes;no;no;POITIERS;Rue des écoles;Ecole Jean Rostand ;;16100.0;Javrezac;;;;;;32.0;;;0160892H;;PUBLIC;75;Nouvelle-Aquitaine;605
+yes;no;no;POITIERS;11 Route du Pineau;Ecole élémentaire de Chenac-Saint-Seurin-d'Uzet ;;17120.0;Chenac-Saint-Seurin-d'Uzet;;;;;;21.0;;;0170899K;;PUBLIC;75;Nouvelle-Aquitaine;582
+yes;yes;no;CLERMONT-FERRAND;Route de Lezoux;Ecole Pont Astier ;;63190.0;Orléat;;;;;;122.0;119.0;;0630592B;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2081
+yes;no;no;AIX-MARSEILLE;Hameau de mas Thibert;Ecole maternelle Marinette Carletti ;;13104.0;Arles;;;;;;54.0;;;0132749T;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;52566
+yes;yes;no;CLERMONT-FERRAND;Rue Emile Zola;Ecole maternelle Emile Zola ;;63300.0;Thiers;;;;;;73.0;74.0;;0631515E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;11308
+yes;yes;no;CLERMONT-FERRAND;4 rue de la Porte du Vent;Ecole maternelle de Dallet ;;63111.0;Dallet;;;;;;61.0;49.0;;0631749J;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1452
+yes;no;no;CAEN;Le bourg;Ecole élémentaire d'Ellon ;;14250.0;Ellon;;;;;;25.0;;;0140131S;;PUBLIC;28;Normandie;476
+yes;no;no;CAEN;Place de la République;Ecole maternelle Caroline Duchemin ;;14100.0;Lisieux;;;;;;97.0;;;0140513G;;PUBLIC;28;Normandie;21132
+yes;no;no;CAEN;Le bourg;Ecole élémentaire des Loges-Saulces ;;14700.0;Les Loges-Saulces;;;;;;22.0;;;0140647C;;PUBLIC;28;Normandie;175
+yes;no;no;CAEN;Rue Albert Camus;Ecole Albert Camus ;;14110.0;Condé-sur-Noireau;;;;;;84.0;;;0141019G;;PUBLIC;28;Normandie;5244
+yes;no;no;CAEN;Rue de la Foulerie;Ecole maternelle de la Tour aux Raines ;;14500.0;Vire;;;;;;84.0;;;0141100V;;PUBLIC;28;Normandie;11597
+yes;no;no;CAEN;917 boulevard Grande Delle;Ecole maternelle Jean Boisard ;;14200.0;Hérouville-Saint-Clair;;;;;;69.0;;;0141384D;;PUBLIC;28;Normandie;21393
+yes;yes;no;CAEN;3 rue Charlotte Herpin;Ecole maternelle Charlotte Herpin ;;14700.0;Falaise;;;;;;67.0;59.0;;0141566B;;PUBLIC;28;Normandie;8343
+yes;no;no;CAEN;Rue des écoles;Ecole maternelle de Biéville-Beuville ;;14112.0;Biéville-Beuville;;;;;;119.0;;;0141656Z;;PUBLIC;28;Normandie;2747
+yes;yes;no;AMIENS;1 rue du 11 Novembre 1918;Ecole primaire J Cozette M.Berquer ;;80460.0;Ault;;;;;;76.0;75.0;;0800730J;;PUBLIC;32;Hauts-de-France;1584
+yes;no;no;RENNES;Rue de Coet Ligne;Ecole maternelle Gourandel ;;56150.0;Baud;;;;;;78.0;;;0561316B;;PUBLIC;53;Bretagne;6126
+yes;yes;no;CAEN;7 rue Delavigne;Ecole maternelle de Clécy ;;14570.0;Clécy;;;;;;58.0;54.0;;0141657A;;PUBLIC;28;Normandie;1251
+yes;yes;no;CAEN;Route de Four;Ecole maternelle intercommunale ;;14540.0;Soliers;;;;;;104.0;101.0;;0141679Z;;PUBLIC;28;Normandie;2164
+yes;no;no;CAEN;15 Route de Bayeux;Ecole de Vaubadon ;;14490.0;Vaubadon;;;;;;41.0;;;0142129N;;PUBLIC;28;Normandie;438
+yes;no;no;CAEN;4 rue Marivaux;Ecole maternelle Jean Vilar ;;14123.0;Ifs;;;;;;78.0;;;0142252X;;PUBLIC;28;Normandie;11500
+yes;no;no;ORLEANS-TOURS;Rue de la Poterie;Ecole maternelle Tunnel Château ;;18100.0;Vierzon;;;;;;78.0;;;0180286N;;PUBLIC;24;Centre-Val-de-Loire;27113
+yes;yes;no;ORLEANS-TOURS;Rue Jean Valette;Ecole élémentaire;18.0;18200.0;Ainay-le-Vieil;Cher;OUVERT;46.66345329068646;;2.5527995758041047;12.0;;;0180414C;;PUBLIC;24;Centre-Val-de-Loire;203
+yes;no;no;ORLEANS-TOURS;Rue du Champ de Foire;Ecole maternelle du Châtelet ;;18170.0;Le Châtelet;;;;;;41.0;;;0180439E;;PUBLIC;24;Centre-Val-de-Loire;1068
+yes;no;no;NANCY-METZ;2 rue de l'Abbé Nicolas;Ecole élémentaire de Vatimont ;;57580.0;Vatimont;;;;;;19.0;;;0570360G;;PUBLIC;44;Grand-Est;319
+yes;yes;no;NANCY-METZ;1 rue Houchard;Ecole maternelle Le Temps des Cerises ;;57800.0;Rosbruck;;;;;;33.0;31.0;;0570814A;;PUBLIC;44;Grand-Est;771
+yes;yes;no;NANCY-METZ;19 rue Pougin;Ecole maternelle d'application Pougin ;;57950.0;Montigny-lès-Metz;;;;;;99.0;102.0;;0571145K;;PUBLIC;44;Grand-Est;21831
+yes;yes;no;AMIENS;22 rue Paul Doumer;Ecole maternelle Elsa Triolet ;;60000.0;Beauvais;;;;;;119.0;119.0;;0600467G;;PUBLIC;32;Hauts-de-France;55252
+yes;yes;no;LIMOGES;Le bourg;Ecole élémentaire de Camps-Saint-Mathurin-Léobazel ;;19430.0;Camps-Saint-Mathurin-Léobazel;;;;;;11.0;14.0;;0190415Y;;PUBLIC;75;Nouvelle-Aquitaine;242
+yes;yes;no;LIMOGES;Les Buges;Ecole maternelle Les Buges ;;19140.0;Uzerche;;;;;;76.0;59.0;;0190482W;;PUBLIC;75;Nouvelle-Aquitaine;2934
+yes;yes;no;LIMOGES;Le bourg;Ecole du Chastang ;;19190.0;Le Chastang;;;;;;7.0;6.0;;0190561G;;PUBLIC;75;Nouvelle-Aquitaine;372
+yes;yes;no;DIJON;Route de Thorey sur Ouche;Ecole élémentaire RPI ;;21360.0;Crugey;;;;;;28.0;25.0;;0210200D;;PUBLIC;27;Bourgogne-et-Franche-Comté;192
+yes;yes;no;DIJON;Place de la Mairie;Ecole élémentaire RPI ;;21360.0;La Bussière-sur-Ouche;;;;;;20.0;24.0;;0210304S;;PUBLIC;27;Bourgogne-et-Franche-Comté;137
+yes;no;no;DIJON;1 Grand rue;Ecole d'Asnières-en-Montagne ;;21500.0;Asnières-en-Montagne;;;;;;14.0;;;0210413K;;PUBLIC;27;Bourgogne-et-Franche-Comté;190
+yes;yes;no;CRETEIL;56 rue Paul Vaillant Couturier;Ecole maternelle Henri Barbusse ;;94140.0;Alfortville;;;;;;296.0;255.0;;0940492Z;;PUBLIC;11;Île-de-France;44818
+yes;no;no;AMIENS;7 rue de l'école;Ecole de Wambez ;;60380.0;Wambez;;;;;;17.0;;;0600921A;;PUBLIC;32;Hauts-de-France;156
+yes;no;no;AMIENS;3 rue Edouard Branly;Ecole maternelle Georges Pompidou 1 ;;60200.0;Compiègne;Oise;;49.39878;;2.79271;71.0;;;0601538W;;PUBLIC;32;Hauts-de-France;40430
+yes;no;no;DIJON;;Ecole primaire;;21130.0;Billey;Côte-d'Or;;47.14512;;5.4317;15.0;;;0211840L;;PUBLIC;27;Bourgogne-et-Franche-Comté;237
+yes;yes;no;CLERMONT-FERRAND;Rue du 18 Juin 1940;Ecole élémentaire de Montcombroux-les-Mines ;;3130.0;Montcombroux-les-Mines;;;;;;9.0;13.0;;0030360A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;334
+yes;yes;no;NANCY-METZ;11 Grande rue;Ecole primaire de Senonges ;;88260.0;Senonges;;;;;;23.0;14.0;;0880445F;;PUBLIC;44;Grand-Est;125
+yes;yes;no;NANCY-METZ;45 rue du Gras;Ecole maternelle de Parey-sous-Montfort ;;88800.0;Parey-sous-Montfort;;;;;;15.0;13.0;;0880620W;;PUBLIC;44;Grand-Est;140
+yes;yes;no;NANCY-METZ;8 rue de la Mairie;Ecole maternelle des Forges ;;88390.0;Les Forges;;;;;;60.0;59.0;;0881543Z;;PUBLIC;44;Grand-Est;1953
+yes;yes;no;DIJON;4 rue de la Mairie;Ecole de Saint-Brancher ;;89630.0;Saint-Brancher;;;;;;14.0;11.0;;0890175G;;PUBLIC;27;Bourgogne-et-Franche-Comté;314
+yes;no;no;CAEN;8 rue Pierre Neveu;Ecole maternelle Charles Perrault ;;61600.0;La Ferté-Macé;;;;;;66.0;;;0610077C;;PUBLIC;28;Normandie;5661
+yes;yes;no;CAEN;Le bourg;Ecole maternelle de Médavy ;;61570.0;Médavy;;;;;;22.0;20.0;;0610200L;;PUBLIC;28;Normandie;152
+yes;yes;no;GUADELOUPE;Rue Shoelcher;Ecole primaire Amédée Fengarol 2 ;;97110.0;Pointe-à-Pitre;;;;;;230.0;216.0;;9710676H;;PUBLIC;1;Guadeloupe;15826
+yes;yes;no;MARTINIQUE;Rue Victor Schoëlcher;Ecole maternelle Gilbert Tarquin ;;97214.0;Le Lorrain;;;;;;66.0;53.0;;9720207T;;PUBLIC;2;Martinique;7177
+yes;yes;no;BESANCON;53 rue d'Alsace;Ecole maternelle Louise Michel ;;90100.0;Delle;;;;;;52.0;51.0;;0900284V;;PUBLIC;27;Bourgogne-et-Franche-Comté;5818
+yes;no;no;LILLE;80 boulevard Alexandre III;Ecole primaire Parc de la Marine ;;59140.0;Dunkerque;;;;;;105.0;;;0590966E;;PUBLIC;32;Hauts-de-France;89882
+yes;yes;no;LILLE;Avenue François Mitterrand;Ecole maternelle Groupe Philpppe-Laurent Roland ;;59710.0;Pont-à-Marcq;;;;;;108.0;110.0;;0591052Y;;PUBLIC;32;Hauts-de-France;2774
+yes;no;no;LILLE;76 rue du Président Wilson;Ecole maternelle Parc de la Marine ;;59140.0;Dunkerque;;;;;;78.0;;;0590970J;;PUBLIC;32;Hauts-de-France;89882
+yes;no;no;LILLE;245 avenue du Général Leclerc;Ecole maternelle Les jonquilles ;;59330.0;Hautmont;;;;;;123.0;;;0591354B;;PUBLIC;32;Hauts-de-France;14271
+yes;yes;no;PARIS;17 rue Alphonse Baudin;Ecole primaire Alphonse Baudin ;;75011.0;Paris;;;;;;169.0;160.0;;0751217R;;PUBLIC;11;Île-de-France;153461
+yes;no;no;LILLE;12 rue Jules Watteeuw;Ecole maternelle Marie Curie ;;59223.0;Roncq;;;;;;76.0;;;0592680T;;PUBLIC;32;Hauts-de-France;13524
+yes;no;no;LILLE;2 rue Siméon Courcot;Ecole primaire Lamartine niveau 1;59.0;59279.0;Loon-Plage;Nord;A FERMER;50.99553437777035;;2.2190645628932377;83.0;80.0;;0591679E;LAMARTINE NIVEAU 1;PUBLIC;32;Hauts-de-France;6314
+yes;yes;no;LILLE;Rue du 14 juillet;Ecole maternelle Bracke-Desrousseaux ;;59139.0;Wattignies;;;;;;110.0;119.0;;0592517R;;PUBLIC;32;Hauts-de-France;14179
+yes;yes;no;VERSAILLES;Allée du Canada;Ecole maternelle Les Sablons ;;92190.0;Meudon;;;;;;59.0;48.0;;0921519B;;PUBLIC;11;Île-de-France;45043
+yes;yes;no;VERSAILLES;1 boulevard Aristide Briand;Ecole maternelle Aristide Briand ;;92400.0;Courbevoie;;;;;;84.0;67.0;;0922053G;;PUBLIC;11;Île-de-France;85523
+yes;yes;no;PARIS;20 rue Paul Valéry;Ecole maternelle Paul Valéry C ;;75016.0;Paris;;;;;;107.0;94.0;;0751366C;;PUBLIC;11;Île-de-France;166552
+yes;no;no;NANCY-METZ;5 Grand rue;Ecole maternelle d'Abaucourt ;;54610.0;Abaucourt;;;;;;24.0;;;0540143M;;PUBLIC;44;Grand-Est;304
+yes;yes;no;NANCY-METZ;4 bis rue Jeanne d'Arc;Ecole élémentaire du Centre ;;54570.0;Foug;;;;;;63.0;51.0;;0540444P;;PUBLIC;44;Grand-Est;2668
+yes;no;no;ROUEN;2 rue du faubourg de la Barre;Ecole élémentaire Madame de Sévigné ;;76200.0;Dieppe;;;;;;88.0;;;0760388J;;PUBLIC;28;Normandie;30214
+yes;no;no;ROUEN;618 rte de la Vallée;Ecole élémentaire Fernand Grandin ;;76116.0;Saint-Denis-le-Thiboult;;;;;;17.0;;;0760457J;;PUBLIC;28;Normandie;513
+yes;no;no;ROUEN;15 Route du Carreau;Ecole élémentaire Albert Jacquard ;;76280.0;Vergetot;;;;;;16.0;;;0760662G;;PUBLIC;28;Normandie;433
+yes;no;no;ROUEN;Route de la Mairie;Ecole élémentaire de Bertreville-Saint-Ouen ;;76590.0;Bertreville-Saint-Ouen;;;;;;13.0;;;0760709H;;PUBLIC;28;Normandie;355
+yes;no;no;ROUEN;8 rue Gustave Brindeau;Ecole élémentaire Valmy I ;;76600.0;Le Havre;;;;;;129.0;;;0760843D;;PUBLIC;28;Normandie;172074
+yes;yes;no;ROUEN;299 rue de l'Avenir;Ecole élémentaire de Criquetot-sur-Ouville ;;76760.0;Criquetot-sur-Ouville;;;;;;52.0;49.0;;0761042V;;PUBLIC;28;Normandie;780
+yes;yes;no;ROUEN;3 Route de Berville;Ecole d'Ouville-l'Abbaye ;;76760.0;Ouville-l'Abbaye;;;;;;141.0;140.0;;0761052F;;PUBLIC;28;Normandie;642
+yes;yes;no;NANCY-METZ;2 rue de la Mairie;Ecole maternelle de Vacqueville ;;54540.0;Vacqueville;;;;;;17.0;14.0;;0541089R;;PUBLIC;44;Grand-Est;255
+yes;no;no;NANCY-METZ;4 rue haute;Ecole élémentaire de Vallois ;;54830.0;Vallois;;;;;;12.0;;;0541095X;;PUBLIC;44;Grand-Est;141
+yes;no;no;NANCY-METZ;31 Grande rue;Ecole élémentaire de Xousse ;;54370.0;Xousse;;;;;;16.0;;;0541188Y;;PUBLIC;44;Grand-Est;123
+yes;no;no;NANCY-METZ;5 rue de l'Eglise;Ecole élémentaire de Bey-sur-Seille ;;54760.0;Bey-sur-Seille;;;;;;23.0;;;0542107X;;PUBLIC;44;Grand-Est;155
+yes;no;no;NANCY-METZ;16 rue André Maginot;Ecole élémentaire de Neuvilly-en-Argonne ;;55120.0;Neuvilly-en-Argonne;;;;;;17.0;;;0550684V;;PUBLIC;44;Grand-Est;219
+yes;no;no;BESANCON;Rue de la Mairie;Ecole primaire de Neuvelle-lès-la-Charité ;;70130.0;Neuvelle-lès-la-Charité;;;;;;19.0;;;0700546N;;PUBLIC;27;Bourgogne-et-Franche-Comté;231
+yes;yes;no;DIJON;1 rue Leschenault de la Tour;Ecole maternelle la Citadelle ;;71100.0;Chalon-sur-Saône;;;;;;68.0;71.0;;0710169Y;;PUBLIC;27;Bourgogne-et-Franche-Comté;45166
+yes;yes;no;DIJON;15 rue du Vilet;Ecole maternelle Mouillelongue ;;71200.0;Le Creusot;;;;;;40.0;44.0;;0710180K;;PUBLIC;27;Bourgogne-et-Franche-Comté;22308
+yes;yes;no;DIJON;12 rue Jean Bouveri;Ecole maternelle Jean de la Fontaine ;;71210.0;Montchanin;;;;;;55.0;45.0;;0710211U;;PUBLIC;27;Bourgogne-et-Franche-Comté;5226
+yes;yes;no;DIJON;Rue Danton;Ecole élémentaire Jean Macé ;;71130.0;Gueugnon;;;;;;104.0;97.0;;0710369R;;PUBLIC;27;Bourgogne-et-Franche-Comté;7367
+yes;yes;no;LILLE;192 rue de la Vallée;Ecole maternelle de Lattre de Tassigny ;;59510.0;Hem;;;;;;88.0;83.0;;0594842T;;PUBLIC;32;Hauts-de-France;18721
+yes;yes;no;BORDEAUX;Place de l'Eglise;Ecole primaire d'Osse-en-Aspe ;;64490.0;Osse-en-Aspe;;;;;;12.0;15.0;;0640665A;;PUBLIC;75;Nouvelle-Aquitaine;330
+yes;no;no;BORDEAUX;Route Départementale 918;Ecole élémentaire de Bunus ;;64120.0;Bunus;;;;;;15.0;;;0640855G;;PUBLIC;75;Nouvelle-Aquitaine;153
+yes;no;no;BORDEAUX;27 rue Euskadi;Ecole maternelle Tivoli ;;64600.0;Anglet;;;;;;26.0;;;0641524J;;PUBLIC;75;Nouvelle-Aquitaine;39184
+yes;yes;no;GUADELOUPE;Rue Paul Lacavé;Ecole primaire Alice Delacroix ;;97131.0;Petit-Canal;;;;;;227.0;211.0;;9710117A;;PUBLIC;1;Guadeloupe;8057
+yes;yes;no;LILLE;145 rue de Cassel;Ecole Albert Samain ;;59640.0;Dunkerque;;;;;;121.0;109.0;;0596364X;;PUBLIC;32;Hauts-de-France;89882
+yes;no;no;AMIENS;45 rue de l'Aunette;Ecole élémentaire de Senots ;;60240.0;Senots;;;;;;25.0;;;0600150M;;PUBLIC;32;Hauts-de-France;329
+yes;yes;no;TOULOUSE;26 rue des Pyrénées;Ecole élémentaire de Gensac ;;65140.0;Gensac;;;;;;20.0;14.0;;0650181U;;PUBLIC;76;Occitanie;108
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire de Vier-Bordes ;;65400.0;Vier-Bordes;;;;;;13.0;;;0650280B;;PUBLIC;76;Occitanie;102
+yes;no;no;TOULOUSE;1 rue Ribère;Ecole élémentaire d'Aspin-en-Lavedan ;;65100.0;Aspin-en-Lavedan;;;;;;17.0;;;0650332H;;PUBLIC;76;Occitanie;267
+yes;yes;no;TOULOUSE;Avenue de Lesponne;Ecole maternelle de Loures-Barousse ;;65370.0;Loures-Barousse;;;;;;59.0;60.0;;0650699G;;PUBLIC;76;Occitanie;611
+yes;yes;no;TOULOUSE;Rue de la Lande de Boc;Ecole maternelle Le Guerissa ;;65300.0;Lannemezan;;;;;;50.0;50.0;;0650700H;;PUBLIC;76;Occitanie;5940
+yes;yes;no;MONTPELLIER;Place de l'Ancienne Mairie;Ecole maternelle de Vernet-les-Bains ;;66820.0;Vernet-les-Bains;;;;;;37.0;40.0;;0660202L;;PUBLIC;76;Occitanie;1379
+yes;no;no;GRENOBLE;Le Chatelard;Ecole élémentaire Le Chatelard-Montvalezan ;;73700.0;Montvalezan;;;;;;18.0;;;0730673K;;PUBLIC;84;Auvergne-et-Rhône-Alpes;673
+yes;yes;no;ROUEN;Rue des Sangliers;Ecole maternelle du Canada ;;27000.0;Évreux;;;;;;37.0;35.0;;0271137P;;PUBLIC;28;Normandie;49722
+yes;yes;no;LILLE;8 rue de la Mairie;Ecole primaire RPI 39 ;;62810.0;Grand-Rullecourt;Pas-de-Calais;;50.25535;;2.4729900000000002;19.0;16.0;;0620489V;;PUBLIC;32;Hauts-de-France;404
+yes;yes;no;LILLE;Rue de Versailles;Ecole maternelle Marcel Cachin ;;62210.0;Avion;;;;;;68.0;67.0;;0622251K;;PUBLIC;32;Hauts-de-France;17876
+yes;yes;no;VERSAILLES;5 allée Marco Polo;Ecole élémentaire Marco Polo ;;91000.0;Évry;;;;;;133.0;127.0;;0911795G;;PUBLIC;11;Île-de-France;53237
+yes;yes;no;VERSAILLES;2 rue des écoles;Ecole maternelle Bastard ;;91730.0;Chamarande;;;;;;40.0;41.0;;0911892M;;PUBLIC;11;Île-de-France;1143
+yes;yes;no;ORLEANS-TOURS;30 rue Emmeline;Ecole Beaumont Les Autels ;;28480.0;Beaumont-les-Autels;;;;;;42.0;40.0;;0280367X;;PUBLIC;24;Centre-Val-de-Loire;435
+yes;no;no;LILLE;23 rue de Fouquières;Ecole maternelle de Fouquereuil ;;62232.0;Fouquereuil;;;;;;58.0;;;0623048B;;PUBLIC;32;Hauts-de-France;1340
+yes;no;no;GRENOBLE;Le Quart;Ecole maternelle la Quart ;;74340.0;Samoëns;;;;;;60.0;;;0741271E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2282
+yes;no;no;GRENOBLE;Rue des écoles;Ecole maternelle de Messery ;;74140.0;Messery;;;;;;88.0;;;0741411G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2153
+yes;yes;no;RENNES;3 rue Yves Giloux;Ecole maternelle Ferdinand Buisson ;;29200.0;Brest;;;;;;108.0;103.0;;0290490A;;PUBLIC;53;Bretagne;139386
+yes;yes;no;BORDEAUX;135 avenue de la Somme;Ecole maternelle Arnaud Lafon ;;33700.0;Mérignac;;;;;;132.0;147.0;;0332730N;;PUBLIC;75;Nouvelle-Aquitaine;68386
+yes;yes;no;MONTPELLIER;Rue des écoles Republicaines;Ecole maternelle de Ganges ;;34190.0;Ganges;;;;;;145.0;136.0;;0340358E;;PUBLIC;76;Occitanie;3967
+yes;yes;no;CRETEIL;1 rue Nicolas Tappereau;Ecole maternelle Les Mezereaux 1 ;;77000.0;Melun;;;;;;96.0;103.0;;0771491C;;PUBLIC;11;Île-de-France;40066
+yes;no;no;NANCY-METZ;3 allée des Tilleuls;Ecole de Plein Air écolE de Plein Air Landonvillers ;;57530.0;Courcelles-Chaussy; Moselle ;;49.13472;;6.38952;24.0;;;0572903W;;PUBLIC;44;Grand-Est;3054
+yes;no;no;DIJON;Le bourg;Ecole primaire de Saint-Péreuse ;;58110.0;Saint-Péreuse;;;;;;14.0;;;0580185L;;PUBLIC;27;Bourgogne-et-Franche-Comté;265
+yes;no;no;DIJON;56 boulevard Victor Hugo;Ecole primaire Victor Hugo ;;58000.0;Nevers;;;;;;112.0;;;0580341F;;PUBLIC;27;Bourgogne-et-Franche-Comté;34841
+yes;yes;no;BORDEAUX;14 rue Alsace;Ecole maternelle d'Alsace ;;64200.0;Biarritz;;;;;;59.0;59.0;;0640818S;;PUBLIC;75;Nouvelle-Aquitaine;24993
+yes;no;no;BORDEAUX;5 rue d'Armagnac;Ecole maternelle Stanislas Lavigne ;;64000.0;Pau;;;;;;48.0;;;0641053X;;PUBLIC;75;Nouvelle-Aquitaine;77575
+yes;no;no;CAEN;19 rue Augustin Fresnel;Ecole Jacques Prévert ;;61000.0;Alençon;;;;;;54.0;;;0611063Z;;PUBLIC;28;Normandie;26350
+yes;yes;no;STRASBOURG;15 rue des Jardins;Ecole Les îles du Rhin ;;68320.0;Baltzenheim;;;;;;46.0;29.0;;0680483F;;PUBLIC;44;Grand-Est;584
+yes;yes;no;STRASBOURG;Rue des écoles;Ecole maternelle Soeur Fridoline ;;68500.0;Issenheim;;;;;;79.0;58.0;;0680692H;;PUBLIC;44;Grand-Est;3457
+yes;yes;no;STRASBOURG;6 rue Jean Montavont;Ecole maternelle Montavont ;;68200.0;Mulhouse;;;;;;140.0;150.0;;0681038J;;PUBLIC;44;Grand-Est;112063
+yes;yes;no;TOULOUSE;Avenue Jean Jaurès;Ecole élémentaire Lamartine ;;65800.0;Aureilhan;;;;;;120.0;134.0;;0650218J;;PUBLIC;76;Occitanie;7959
+yes;yes;no;TOULOUSE;2 rue Joliot Curie;Ecole élémentaire Joliot Curie ;;65800.0;Aureilhan;;;;;;98.0;90.0;;0650219K;;PUBLIC;76;Occitanie;7959
+yes;yes;no;TOULOUSE;Place Réné Escoula;Ecole élémentaire du Pic du Midi ;;65200.0;Bagnères-de-Bigorre;;;;;;101.0;78.0;;0650296U;;PUBLIC;76;Occitanie;7633
+yes;no;no;TOULOUSE;Rue Jean Zay;Ecole élémentaire Montaigu ;;65600.0;Séméac;;;;;;145.0;;;0650402J;;PUBLIC;76;Occitanie;4713
+yes;no;no;CRETEIL;213 rue Jules Ferry;Ecole élémentaire Louis Pergaud ;;77480.0;Bray-sur-Seine;;;;;;89.0;;;0770064B;;PUBLIC;11;Île-de-France;2294
+yes;yes;no;BESANCON;10 grande rue;Ecole primaire intercommunale;25.0;25340.0;Pompierre-sur-Doubs;Doubs;OUVERT;47.41746426839706;;6.523127289258772;97.0;99.0;;0251818R;INTERCOMMUNALE TRIO'MINOTS;PUBLIC;27;Bourgogne-et-Franche-Comté;299
+yes;yes;no;TOULOUSE;Le village;Ecole élémentaire de Lanespède ;;65190.0;Lanespède;;;;;;18.0;16.0;;0650554Z;;PUBLIC;76;Occitanie;147
+yes;yes;no;TOULOUSE;346 rue Pasteur;Ecole maternelle Paul Baratgin ;;65300.0;Lannemezan;;;;;;50.0;43.0;;0650645Y;;PUBLIC;76;Occitanie;5940
+yes;yes;no;TOULOUSE;Avenue de Lesponne;Ecole élémentaire de Loures-Barousse ;;65370.0;Loures-Barousse;;;;;;101.0;103.0;;0650719D;;PUBLIC;76;Occitanie;611
+yes;yes;no;TOULOUSE;474 Boulevard des Tilleuls;Ecole primaire Bourtoulets ;;65300.0;Lannemezan;;;;;;102.0;93.0;;0650928F;;PUBLIC;76;Occitanie;5940
+yes;yes;no;MONTPELLIER;Rue Damien Benizet;Ecole maternelle de Saint-Laurent-de-Cerdans ;;66260.0;Saint-Laurent-de-Cerdans;;;;;;33.0;5.0;;0660385K;;PUBLIC;76;Occitanie;1173
+yes;no;no;ROUEN;89 rue Alexandre Papin;Ecole maternelle Pierre Brossolette ;;76470.0;Le Tréport;;;;;;69.0;;;0761567R;;PUBLIC;28;Normandie;5116
+yes;yes;no;ROUEN;95 avenue Aristide Briand;Ecole maternelle Marie Curie ;;27930.0;Gravigny;;;;;;157.0;145.0;;0270093E;;PUBLIC;28;Normandie;3984
+yes;no;no;DIJON;Le bourg;Ecole de Champlecy ;;71120.0;Champlecy;;;;;;20.0;;;0710841D;;PUBLIC;27;Bourgogne-et-Franche-Comté;219
+yes;no;no;DIJON;15 rue Clos Laval;Ecole de Saint-Martin-sous-Montaigu ;;71640.0;Saint-Martin-sous-Montaigu;;;;;;13.0;;;0711047C;;PUBLIC;27;Bourgogne-et-Franche-Comté;368
+yes;yes;no;DIJON;Le bourg;Ecole maternelle de la Chapelle-de-Guinchay ;;71570.0;La Chapelle-de-Guinchay;;;;;;163.0;141.0;;0711276B;;PUBLIC;27;Bourgogne-et-Franche-Comté;3943
+yes;no;no;DIJON;Rue des Preauds;Ecole maternelle de Prissé ;;71960.0;Prissé;;;;;;82.0;;;0711280F;;PUBLIC;27;Bourgogne-et-Franche-Comté;1937
+yes;no;no;ROUEN;Rue Général de Gaulle;Ecole maternelle Maurice Genevoix ;;76240.0;Belbeuf;;;;;;63.0;;;0762415M;;PUBLIC;28;Normandie;1966
+yes;no;no;LYON;47 avenue Ferdinand Buisson;Ecole maternelle Ferdinand Buisson ;;69500.0;Bron;;;;;;155.0;;;0690444H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;38746
+yes;yes;no;BORDEAUX;Le bourg;Ecole primaire de Champagne-et-Fontaine ;;24320.0;Champagne-et-Fontaine;;;;;;40.0;35.0;;0240488A;;PUBLIC;75;Nouvelle-Aquitaine;405
+yes;no;no;NANTES;Grande rue;Ecole primaire RPI ;;72320.0;Gréez-sur-Roc;;;;;;19.0;;;0720417M;;PUBLIC;52;Pays-de-la-Loire;354
+yes;no;no;NANTES;3 rue du Tusson;Ecole maternelle Les P'tits Loups;72.0;72340.0;Loir en Vallée;Sarthe;OUVERT;47.79031000209935;Lavenay;0.7027841320007969;16.0;;;0721272S;R.P.I. LES P'TITS LOUPS;PUBLIC;52;Pays-de-la-Loire;350
+yes;no;no;LYON;Le bourg;Ecole de Saint-Cyr-le-Chatoux ;;69870.0;Saint-Cyr-le-Chatoux;;;;;;11.0;;;0691107D;;PUBLIC;84;Auvergne-et-Rhône-Alpes;136
+yes;yes;no;BORDEAUX;Le bourg;Ecole élémentaire de Lacropte ;;24380.0;Lacropte;;;;;;43.0;20.0;;0240851V;;PUBLIC;75;Nouvelle-Aquitaine;650
+yes;yes;no;BORDEAUX;5 rue Lucien Fauré;Ecole maternelle Lucien Fauré ;;33300.0;Bordeaux;;;;;;70.0;35.0;;0330247P;;PUBLIC;75;Nouvelle-Aquitaine;243626
+yes;yes;no;STRASBOURG;2 place du Tramway;Ecole maternelle de Krautergersheim ;;67880.0;Krautergersheim;;;;;;60.0;65.0;;0670245C;;PUBLIC;44;Grand-Est;1715
+yes;no;no;STRASBOURG;32 rue des Forgerons;Ecole maternelle de Seebach ;;67160.0;Seebach;;;;;;35.0;;;0670375U;;PUBLIC;44;Grand-Est;1707
+yes;yes;no;GRENOBLE;161 rue de la Poste;Ecole maternelle de Cranves-Sales ;;74380.0;Cranves-Sales;;;;;;180.0;176.0;;0741145T;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6292
+yes;yes;no;GRENOBLE;Les Mogets;Ecole maternelle de Loisin ;;74140.0;Loisin;;;;;;58.0;58.0;;0741461L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1458
+yes;yes;no;STRASBOURG;39 rue de Wattwiller;Ecole maternelle Ampère ;;67100.0;Strasbourg;;;;;;103.0;96.0;;0672108C;;PUBLIC;44;Grand-Est;275718
+yes;yes;no;STRASBOURG;88 chemin de la Souffel;Ecole maternelle Le Petit Pont ;;67370.0;Stutzheim-Offenheim;;;;;;35.0;35.0;;0672541Y;;PUBLIC;44;Grand-Est;1415
+yes;yes;no;STRASBOURG;2 rue de l'Eglise;Ecole maternelle de Gresswiller ;;67190.0;Gresswiller;;;;;;55.0;53.0;;0672667K;;PUBLIC;44;Grand-Est;1609
+yes;yes;no;STRASBOURG;3 place de la Mairie;Ecole de Hartmannswiller ;;68500.0;Hartmannswiller;;;;;;54.0;54.0;;0680227C;;PUBLIC;44;Grand-Est;652
+yes;yes;no;PARIS;9 rue Franc Nohain;Ecole maternelle Franc Nohain M ;;75013.0;Paris;Paris;;48.82139;;2.37518;98.0;83.0;;0751306M;;PUBLIC;11;Île-de-France;183713
+yes;yes;no;GRENOBLE;65 avenue de Horgen;Ecole maternelle Réné Cassin ;;74210.0;Faverges;;;;;;112.0;97.0;;0740368Y;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6968
+yes;yes;no;GRENOBLE;Rue Pargoud;Ecole maternelle Pargoud-Albertville ;;73200.0;Albertville;;;;;;130.0;125.0;;0730374K;;PUBLIC;84;Auvergne-et-Rhône-Alpes;19071
+yes;yes;no;GRENOBLE;La Pallaz;Ecole maternelle la Pallaz-Ste Hélène sur Isère ;;73460.0;Sainte-Hélène-sur-Isère;;;;;;43.0;55.0;;0731393T;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1147
+yes;yes;no;ROUEN;Route de la Lezarde;Ecole élémentaire de Notre-Dame-du-Bec ;;76133.0;Notre-Dame-du-Bec;;;;;;18.0;20.0;;0761143E;;PUBLIC;28;Normandie;447
+yes;no;no;CRETEIL;Rue du Tripot;Ecole élémentaire Jéhan de Brie ;;77480.0;Bray-sur-Seine;;;;;;93.0;;;0770063A;;PUBLIC;11;Île-de-France;2294
+yes;no;no;LYON;20 chemin de Beauregard;Ecole maternelle la Tour ;;69320.0;Feyzin;;;;;;73.0;;;0692598Z;;PUBLIC;84;Auvergne-et-Rhône-Alpes;9377
+yes;yes;no;CRETEIL;5 place Thomas Le Pilleur;Ecole maternelle Robert Doisneau ;;77700.0;Serris;;;;;;72.0;68.0;;0772528E;;PUBLIC;11;Île-de-France;8369
+yes;yes;no;BESANCON;Rue Cornée;Ecole primaire de Melincourt ;;70210.0;Melincourt;;;;;;25.0;19.0;;0700602Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;241
+yes;yes;no;DIJON;14 rue Camille Desmoulins;Ecole maternelle Jean Damichel ;;71230.0;Saint-Vallier;;;;;;53.0;53.0;;0710287B;;PUBLIC;27;Bourgogne-et-Franche-Comté;8824
+yes;yes;no;STRASBOURG;Rue de Fulleren;Ecole maternelle de Dannemarie ;;68210.0;Dannemarie;;;;;;82.0;78.0;;0680655T;;PUBLIC;44;Grand-Est;2292
+yes;no;no;STRASBOURG;13 rue des Chanoines;Ecole maternelle Les Remparts ;;68500.0;Guebwiller;;;;;;54.0;;;0680666E;;PUBLIC;44;Grand-Est;11322
+yes;yes;no;STRASBOURG;10 rue des Vignerons;Ecole élémentaire Rebzunft ;;68500.0;Guebwiller;;;;;;161.0;140.0;;0681214A;;PUBLIC;44;Grand-Est;11322
+yes;yes;no;STRASBOURG;1 rue de la Moselle;Ecole maternelle Arc-en-ciel ;;68310.0;Wittelsheim;;;;;;36.0;28.0;;0681464X;;PUBLIC;44;Grand-Est;10562
+yes;yes;no;PARIS;5 rue Milton;Ecole maternelle Milton E ;;75009.0;Paris;;;;;;125.0;123.0;;0753277E;;PUBLIC;11;Île-de-France;59427
+yes;yes;no;CLERMONT-FERRAND;Le bourg;Ecole élémentaire de Liernolles ;;3130.0;Liernolles;;;;;;22.0;5.0;;0030402W;;PUBLIC;84;Auvergne-et-Rhône-Alpes;211
+yes;yes;no;ROUEN;Le bourg;Ecole élémentaire de Fontaine-en-Bray ;;76440.0;Fontaine-en-Bray;;;;;;24.0;25.0;;0760293F;;PUBLIC;28;Normandie;169
+yes;yes;no;ROUEN;350 Route du Village;Ecole élémentaire d'Hermeville ;;76280.0;Hermeville;;;;;;15.0;5.0;;0760653X;;PUBLIC;28;Normandie;369
+yes;yes;no;ROUEN;Rue de l'Ancienne Mare;Ecole élémentaire d'Ambrumesnil ;;76550.0;Ambrumesnil;;;;;;25.0;16.0;;0760847H;;PUBLIC;28;Normandie;501
+yes;yes;no;ROUEN;Rue de la Mairie;Ecole élémentaire de Sauqueville ;;76550.0;Sauqueville;;;;;;22.0;15.0;;0760870H;;PUBLIC;28;Normandie;377
+yes;yes;no;CLERMONT-FERRAND;Le bourg;Ecole Claudius Meunier ;;3250.0;Châtel-Montagne;;;;;;9.0;9.0;;0030551H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;380
+yes;no;no;ROUEN;15 rue Maurice Bouchor;Ecole élémentaire Maurice Bouchor I ;;76610.0;Le Havre;;;;;;143.0;;;0760820D;;PUBLIC;28;Normandie;172074
+yes;no;no;ROUEN;Route de Dieppe;Ecole élémentaire Pauline Kergomard ;;76740.0;Le Bourg-Dun;;;;;;18.0;;;0760852N;;PUBLIC;28;Normandie;419
+yes;yes;no;ROUEN;Rue de l'Ecole;Ecole élémentaire d'Hautot-l'Auvray ;;76450.0;Hautot-l'Auvray;;;;;;27.0;21.0;;0760891F;;PUBLIC;28;Normandie;357
+yes;no;no;AMIENS;Rue du Château;Ecole élémentaire de Chevresis-Monceau ;;2270.0;Chevresis-Monceau;;;;;;20.0;;;0020276P;;PUBLIC;32;Hauts-de-France;368
+yes;yes;no;AMIENS;6 rue de l'école;Ecole élémentaire d'Étouvelles ;;2000.0;Étouvelles;;;;;;22.0;26.0;;0020434L;;PUBLIC;32;Hauts-de-France;215
+yes;no;no;AMIENS;2bis rue du Moulin;Ecole de la Malmaison ;;2190.0;La Malmaison;;;;;;28.0;;;0020648U;;PUBLIC;32;Hauts-de-France;417
+yes;yes;no;CRETEIL;2 Grande rue;Ecole élémentaire de Villiers-sur-Seine ;;77114.0;Villiers-sur-Seine;;;;;;22.0;22.0;;0770080U;;PUBLIC;11;Île-de-France;301
+yes;no;no;AMIENS;3 rue de la place;Ecole de Prouvais ;;2190.0;Prouvais;;;;;;31.0;;;0020936G;;PUBLIC;32;Hauts-de-France;347
+yes;yes;no;AMIENS;Rue de Priel;Ecole de Villeret ;;2420.0;Villeret;;;;;;54.0;45.0;;0021324D;;PUBLIC;32;Hauts-de-France;310
+yes;no;no;AMIENS;Rue des écoles;Ecole de Vierzy ;;2210.0;Vierzy;;;;;;76.0;;;0021678N;;PUBLIC;32;Hauts-de-France;446
+yes;yes;no;BESANCON;8 rue Albert Camus;Ecole maternelle Péguy Charles ;;25300.0;Pontarlier;;;;;;64.0;59.0;;0251384U;;PUBLIC;27;Bourgogne-et-Franche-Comté;17398
+yes;yes;no;BESANCON;Route de Bonnay;Ecole maternelle de Devecey ;;25870.0;Devecey;;;;;;67.0;63.0;;0251627H;;PUBLIC;27;Bourgogne-et-Franche-Comté;1374
+yes;yes;no;CRETEIL;Route de trois Moulins;Ecole élémentaire Claudine Fabrici ;;77950.0;Rubelles;;;;;;148.0;154.0;;0770592A;;PUBLIC;11;Île-de-France;2012
+yes;no;no;GRENOBLE;43 avenue du Grand Champ;Ecole maternelle Blanche Rochas ;;38180.0;Seyssins;;;;;;75.0;;;0382802P;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6945
+yes;no;no;GRENOBLE;465 rue du Grand Champ;Ecole maternelle de la Vallée ;;38730.0;Virieu;;;;;;58.0;;;0382899V;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1109
+yes;no;no;BESANCON;2 Route de Pontarlier;Ecole maternelle de Cernans ;;39110.0;Cernans;;;;;;22.0;;;0390446Y;;PUBLIC;27;Bourgogne-et-Franche-Comté;139
+yes;no;no;BORDEAUX;Rue Hugues;Ecole maternelle Les Pins ;;40100.0;Dax;;;;;;105.0;;;0400725W;;PUBLIC;75;Nouvelle-Aquitaine;20776
+yes;yes;no;BORDEAUX;21 avenue du 21 aoE»t;Ecole maternelle Bourg ;;40280.0;Saint-Pierre-du-Mont;;;;;;101.0;106.0;;0400775A;;PUBLIC;75;Nouvelle-Aquitaine;9337
+yes;no;no;ORLEANS-TOURS;2 rue des Jacobins;Ecole primaire France  ;;37000.0;Tours;;;;;;154.0;;;0370212E;;PUBLIC;24;Centre-Val-de-Loire;134803
+yes;no;no;ORLEANS-TOURS;Les Grands Clos;Ecole maternelle Guehenno  ;;37260.0;Artannes-sur-Indre;;;;;;88.0;;;0371382B;;PUBLIC;24;Centre-Val-de-Loire;2534
+yes;yes;no;CAEN;1 rue de Nyon;Ecole maternelle Camp Ferme ;;14700.0;Falaise;;;;;;89.0;97.0;;0140642X;;PUBLIC;28;Normandie;8343
+yes;yes;no;TOULOUSE;Hameau du Parre;Ecole élémentaire Margouet-Meymes ;;32290.0;Margouët-Meymes;;;;;;21.0;14.0;;0320120G;;PUBLIC;76;Occitanie;193
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire Maumusson Laguian ;;32400.0;Maumusson-Laguian;;;;;;13.0;;;0320129S;;PUBLIC;76;Occitanie;146
+yes;no;no;TOULOUSE;Le village;Ecole maternelle Empu Monlezun Pardiac ;;32230.0;Monlezun;;;;;;15.0;;;0320159Z;;PUBLIC;76;Occitanie;203
+yes;no;no;TOULOUSE;Le village;Ecole maternelle Empu Montaut d'Astarac ;;32300.0;Montaut;;;;;;11.0;;;0320164E;;PUBLIC;76;Occitanie;111
+yes;no;no;TOULOUSE;Le village;Ecole Lagarde Hachan ;;32300.0;Lagarde-Hachan;;;;;;15.0;;;0320371E;;PUBLIC;76;Occitanie;161
+yes;yes;no;CAEN;Rue du collège;Ecole maternelle de Saint-Sever-Calvados ;;14380.0;Saint-Sever-Calvados;;;;;;65.0;72.0;;0141622M;;PUBLIC;28;Normandie;1248
+yes;yes;no;CAEN;6 avenue de la Crosse;Ecole maternelle Fontaine Couverte ;;14700.0;Falaise;;;;;;83.0;63.0;;0141664H;;PUBLIC;28;Normandie;8343
+yes;yes;no;CAEN;Route du Général de Gaulle;Ecole maternelle de Moyaux ;;14590.0;Moyaux;;;;;;63.0;64.0;;0141871H;;PUBLIC;28;Normandie;1337
+yes;yes;no;TOULOUSE;Le bourg;Ecole élémentaire Crastes ;;32270.0;Crastes;;;;;;17.0;14.0;;0320503Y;;PUBLIC;76;Occitanie;251
+yes;yes;no;ROUEN;Rue du Général de Gaulle;Ecole élémentaire du Thuit-Simer ;;27370.0;Le Thuit-Simer;;;;;;61.0;43.0;;0270420K;;PUBLIC;28;Normandie;458
+yes;yes;no;ROUEN;43 rue Georges Clémenceau;Ecole élémentaire Georges Veuclin grouPe I ;;27250.0;Rugles;;;;;;93.0;74.0;;0270902J;;PUBLIC;28;Normandie;2353
+yes;yes;no;ORLEANS-TOURS;30 rue des Murgers;Ecole maternelle Saint-Cloud En Dunois ;;28200.0;Saint-Cloud-en-Dunois;;;;;;18.0;16.0;;0280088U;;PUBLIC;24;Centre-Val-de-Loire;240
+yes;yes;no;LILLE;125 rue de la Mairie;Ecole primaire de Boursin ;;62132.0;Boursin;;;;;;16.0;15.0;;0621029G;;PUBLIC;32;Hauts-de-France;272
+yes;yes;no;ORLEANS-TOURS;Cours Charles Brune;Ecole primaire André Juster ;;28600.0;Luisant;;;;;;90.0;91.0;;0280284G;;PUBLIC;24;Centre-Val-de-Loire;6720
+yes;yes;no;ROUEN;1 rue du Côteau;Ecole maternelle Joliot Curie ;;27140.0;Gisors;;;;;;88.0;102.0;;0271270J;;PUBLIC;28;Normandie;11201
+yes;no;no;LILLE;118 rue haute;Ecole d'Aire-sur-la-Lys ;;62120.0;Aire-sur-la-Lys;;;;;;58.0;;;0621738C;;PUBLIC;32;Hauts-de-France;9947
+yes;no;no;LILLE;12 rue Marcel Dollet;Ecole primaire RPI 125 ;;62134.0;Teneur;;;;;;23.0;;;0621832E;;PUBLIC;32;Hauts-de-France;287
+yes;yes;no;ORLEANS-TOURS;20 rue Jules Ferry;Ecole primaire de Meslay-le-Vidame ;;28360.0;Meslay-le-Vidame;;;;;;51.0;39.0;;0280422G;;PUBLIC;24;Centre-Val-de-Loire;533
+yes;yes;no;BORDEAUX;Route de la Ruasse;Ecole maternelle Pomarède ;;33550.0;Langoiran;;;;;;97.0;100.0;;0332329C;;PUBLIC;75;Nouvelle-Aquitaine;2302
+yes;no;no;BORDEAUX;18 rue Docteur Gelineau;Ecole maternelle Pierre Bergeon ;;33390.0;Blaye;;;;;;78.0;;;0332480S;;PUBLIC;75;Nouvelle-Aquitaine;4730
+yes;yes;no;LILLE;29 rue Raoul Briquet;Ecole maternelle Constant Dutilleux ;;62223.0;Saint-Nicolas;;;;;;77.0;74.0;;0623070A;;PUBLIC;32;Hauts-de-France;4634
+yes;yes;no;ORLEANS-TOURS;16 Grande rue;Ecole maternelle Saint-Avit Les Guespières ;;28120.0;Saint-Avit-les-Guespières;;;;;;40.0;32.0;;0280446H;;PUBLIC;24;Centre-Val-de-Loire;376
+yes;no;no;MONTPELLIER;759 rue Croix de Figuerolles;Ecole élémentaire Dante Alighieri ;;34070.0;Montpellier;;;;;;128.0;;;0340514Z;;PUBLIC;76;Occitanie;272084
+yes;yes;no;GRENOBLE;1 rue des Parcs;Ecole maternelle Rivoire la Dame ;;38360.0;Sassenage;;;;;;45.0;37.0;;0382256W;;PUBLIC;84;Auvergne-et-Rhône-Alpes;11705
+yes;yes;no;GRENOBLE;Rue du 11 Novembre;Ecole élémentaire Le Bérard ;;38500.0;Coublevie;;;;;;135.0;122.0;;0382466Z;;PUBLIC;84;Auvergne-et-Rhône-Alpes;4567
+yes;yes;no;TOULOUSE;Chemin des Près;Ecole maternelle Les Près ;;31700.0;Blagnac;;;;;;113.0;113.0;;0311295P;;PUBLIC;76;Occitanie;22969
+yes;no;no;RENNES;Avenue Laënnec;Ecole maternelle Jacques et Mona Ozouf ;;22580.0;Plouha;;;;;;110.0;;;0220346G;;PUBLIC;53;Bretagne;4505
+yes;no;no;RENNES;Rue Penthievre;Ecole du Gouray ;;22330.0;Le Gouray;;;;;;148.0;;;0221124C;;PUBLIC;53;Bretagne;1263
+yes;yes;no;BORDEAUX;Le bourg;Ecole maternelle d'Uza ;;40170.0;Uza;;;;;;21.0;21.0;;0400558P;;PUBLIC;75;Nouvelle-Aquitaine;159
+yes;yes;no;RENNES;1 place d'Aiguilles;Ecole maternelle de Trélévern ;;22660.0;Trélévern;;;;;;49.0;42.0;;0221609E;;PUBLIC;53;Bretagne;1360
+yes;yes;no;RENNES;Rue du calvaire;Ecole maternelle Servel ;;22300.0;Lannion;;;;;;80.0;67.0;;0221627Z;;PUBLIC;53;Bretagne;19627
+yes;no;no;RENNES;Rue des 7 Tournants;Ecole maternelle Kroas-Hent ;;22300.0;Lannion;;;;;;73.0;;;0221628A;;PUBLIC;53;Bretagne;19627
+yes;no;no;RENNES;Rue du Phare de la Corne;Ecole maternelle Goas Mikaël ;;22220.0;Tréguier;;;;;;60.0;;;0221637K;;PUBLIC;53;Bretagne;2489
+yes;no;no;BORDEAUX;Le bourg;Ecole élémentaire de Valeuil ;;24310.0;Valeuil;;;;;;25.0;;;0240407M;;PUBLIC;75;Nouvelle-Aquitaine;388
+yes;no;no;BORDEAUX;Route d'Angouleme;Ecole primaire de Javerlhac-et-la-Chapelle-Saint-Robert ;;24300.0;Javerlhac-et-la-Chapelle-Saint-Robert;;;;;;58.0;;;0240556Z;;PUBLIC;75;Nouvelle-Aquitaine;876
+yes;yes;no;BORDEAUX;29 rue Mozart;Ecole maternelle Marancy ;;64000.0;Pau;;;;;;136.0;132.0;;0641049T;;PUBLIC;75;Nouvelle-Aquitaine;77575
+yes;no;no;REIMS;16 rue Désiré Guelliot;Ecole primaire Hippolyte Taine ;;8400.0;Vouziers;;;;;;110.0;;;0080449V;;PUBLIC;44;Grand-Est;4019
+yes;no;no;REIMS;Rue principale;Ecole primaire de Houdilcourt ;;8190.0;Houdilcourt;;;;;;19.0;;;0080554J;;PUBLIC;44;Grand-Est;149
+yes;no;no;REIMS;22 Grande rue;Ecole primaire d'Éteignières ;;8260.0;Éteignières;;;;;;41.0;;;0080596E;;PUBLIC;44;Grand-Est;534
+yes;no;no;BORDEAUX;La Pisserotte;Ecole élémentaire de Saint-Michel-de-Villadeix ;;24380.0;Saint-Michel-de-Villadeix;;;;;;23.0;;;0240868N;;PUBLIC;75;Nouvelle-Aquitaine;317
+yes;no;no;BORDEAUX;20 rue des écoles;Ecole de Belvès ;;24170.0;Belvès;;;;;;109.0;;;0240963S;;PUBLIC;75;Nouvelle-Aquitaine;1383
+yes;no;no;BORDEAUX;2 place de 8 Mai 1945;Ecole maternelle Saint-Exupéry ;;24440.0;Beaumont-du-Périgord;;;;;;28.0;;;0240972B;;PUBLIC;75;Nouvelle-Aquitaine;1090
+yes;no;no;BORDEAUX;Rue Louis Lescure;Ecole maternelle Yves Peron ;;24750.0;Boulazac;;;;;;92.0;;;0241049K;;PUBLIC;75;Nouvelle-Aquitaine;6851
+yes;yes;no;BORDEAUX;Le bourg;Ecole maternelle de Bassillac ;;24330.0;Bassillac;;;;;;72.0;76.0;;0241094J;;PUBLIC;75;Nouvelle-Aquitaine;1786
+yes;yes;no;ORLEANS-TOURS;Rue de la Mairie;Ecole primaire de Candes-Saint-Martin ;;37500.0;Candes-Saint-Martin;;;;;;12.0;14.0;;0370567R;;PUBLIC;24;Centre-Val-de-Loire;229
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Vire-sur-Lot ;;46700.0;Vire-sur-Lot;;;;;;20.0;17.0;;0460382R;;PUBLIC;76;Occitanie;376
+yes;yes;no;TOULOUSE;Place de l'Ecole;Ecole maternelle Begoux ;;46000.0;Cahors;;;;;;45.0;48.0;;0460649F;;PUBLIC;76;Occitanie;19616
+yes;yes;no;CAEN;60 place Champlain;Ecole maternelle Nicolas Copernic ;;14000.0;Caen;;;;;;148.0;137.0;;0141560V;;PUBLIC;28;Normandie;107229
+yes;yes;no;REIMS;2 rue Ferdinand Buisson;Ecole maternelle Ferdinand Buisson ;;10600.0;La Chapelle-Saint-Luc;;;;;;67.0;78.0;;0100194G;;PUBLIC;44;Grand-Est;12634
+yes;no;no;REIMS;30 rue de l'Ecole militaire;Ecole maternelle Jean de la Fontaine ;;10500.0;Brienne-le-Château;;;;;;94.0;;;0100768F;;PUBLIC;44;Grand-Est;2950
+yes;no;no;REIMS;12 rue des Tonnelles;Ecole maternelle de Mailly-le-Camp ;;10230.0;Mailly-le-Camp;;;;;;79.0;;;0100814F;;PUBLIC;44;Grand-Est;1712
+yes;no;no;REIMS;10 rue de l'Ecole;Ecole maternelle de Vallentigny ;;10500.0;Vallentigny;;;;;;18.0;;;0101080V;;PUBLIC;44;Grand-Est;182
+yes;yes;no;NANCY-METZ;23 rue des Près;Ecole maternelle de l'Etang ;;57700.0;Ranguevaux;;;;;;26.0;5.0;;0570973Y;;PUBLIC;44;Grand-Est;791
+yes;yes;no;TOULOUSE;Le bourg;Ecole de Lugan ;;12220.0;Lugan;;;;;;23.0;14.0;;0120428A;;PUBLIC;76;Occitanie;343
+yes;yes;no;LILLE;80 rue Robert Schuman;Ecole maternelle Desrousseaux ;;59700.0;Marcq-en-Barœul;;;;;;85.0;86.0;;0591758R;;PUBLIC;32;Hauts-de-France;39392
+yes;no;no;ORLEANS-TOURS;6 rue Domaine;Ecole élémentaire de Drevant ;;18200.0;Drevant;;;;;;19.0;;;0180442H;;PUBLIC;24;Centre-Val-de-Loire;565
+yes;no;no;ORLEANS-TOURS;55 rue Victor Hugo;Ecole maternelle Jean de la Fontaine ;;18500.0;Mehun-sur-Yèvre;;;;;;43.0;;;0180813L;;PUBLIC;24;Centre-Val-de-Loire;6804
+yes;yes;no;LIMOGES;Le bourg;Ecole élémentaire de Sexcles ;;19430.0;Sexcles;;;;;;21.0;19.0;;0195040A;;PUBLIC;75;Nouvelle-Aquitaine;231
+yes;no;no;DIJON;2 place Monge;Ecole élémentaire Monge ;;21210.0;Saulieu;;;;;;64.0;;;0210593F;;PUBLIC;27;Bourgogne-et-Franche-Comté;2490
+yes;no;no;DIJON;1 bis rue Colonel Fonck;Ecole maternelle Valentin ;;21600.0;Longvic;;;;;;64.0;;;0210874L;;PUBLIC;27;Bourgogne-et-Franche-Comté;8981
+yes;no;no;DIJON;13 rue Bossuet;Ecole maternelle RPI ;;21170.0;Franxault;;;;;;25.0;;;0211752R;;PUBLIC;27;Bourgogne-et-Franche-Comté;449
+yes;yes;no;LILLE;23 rue Jules Ferry;Ecole maternelle du Grand Parc ;;59550.0;Landrecies;;;;;;63.0;62.0;;0594341Y;;PUBLIC;32;Hauts-de-France;3487
+yes;yes;no;TOULOUSE;12 rue Hount Blanque;Ecole élémentaire Jules Ferry ;;65200.0;Bagnères-de-Bigorre;;;;;;104.0;105.0;;0650294S;;PUBLIC;76;Occitanie;7633
+yes;no;no;AIX-MARSEILLE;3 impasse de la Gavelière;Ecole maternelle Marius Thomas ;;13007.0;Marseille;;;;;;95.0;;;0130888V;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;35262
+yes;yes;no;LYON;81 rue de la Jomayère;Ecole maternelle Jomayère ;;42100.0;Saint-Étienne;;;;;;128.0;120.0;;0420654H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;TOULOUSE;18 Rue Georges Clémenceau;Ecole élémentaire Paul Guth ;;65380.0;Ossun;;;;;;97.0;102.0;;0650748K;;PUBLIC;76;Occitanie;2314
+yes;yes;no;TOULOUSE;346 rue Pasteur;Ecole élémentaire Paul Bert Paul Baratgin ;;65300.0;Lannemezan;;;;;;90.0;90.0;;0650850W;;PUBLIC;76;Occitanie;5940
+yes;yes;no;DIJON;Le bourg;Ecole élémentaire de Céron ;;71110.0;Céron;;;;;;17.0;13.0;;0710791Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;281
+yes;no;no;DIJON;22 Grande rue;Ecole de Saint-Bonnet-en-Bresse ;;71310.0;Saint-Bonnet-en-Bresse;;;;;;9.0;;;0711274Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;475
+yes;no;no;DIJON;11 rue Pasteur;Ecole maternelle Pasteur ;;71230.0;Saint-Vallier;;;;;;43.0;;;0711367A;;PUBLIC;27;Bourgogne-et-Franche-Comté;8824
+yes;yes;no;STRASBOURG;3 chemin des écoliers;Ecole maternelle Le Verger ;;67760.0;Gambsheim;;;;;;74.0;71.0;;0670301N;;PUBLIC;44;Grand-Est;4615
+yes;no;no;CAEN;Route de Sallenelles;Ecole de Bréville-les-Monts ;;14860.0;Bréville-les-Monts;;;;;;33.0;;;0140766G;;PUBLIC;28;Normandie;651
+yes;no;no;CAEN;Le bourg;Ecole élémentaire de Clarbec ;;14130.0;Clarbec;;;;;;19.0;;;0140911P;;PUBLIC;28;Normandie;380
+yes;yes;no;BESANCON;5 rue de Barboilloz;Ecole maternelle Le Grand Gresil ;;70000.0;Vesoul;;;;;;61.0;53.0;;0700938P;;PUBLIC;27;Bourgogne-et-Franche-Comté;15473
+yes;yes;no;CAEN;2 place de l'Eglise;Ecole maternelle de Bretteville-sur-Odon ;;14760.0;Bretteville-sur-Odon;;;;;;107.0;99.0;;0141538W;;PUBLIC;28;Normandie;3894
+yes;no;no;CAEN;Le bourg;Ecole maternelle de Reux ;;14130.0;Reux;;;;;;34.0;;;0141670P;;PUBLIC;28;Normandie;402
+yes;no;no;CAEN;Le bourg;Ecole maternelle d'Ablon ;;14600.0;Ablon;;;;;;48.0;;;0141673T;;PUBLIC;28;Normandie;1211
+yes;no;no;CAEN;Place du marché;Ecole maternelle Pauline Kergomard ;;14111.0;Louvigny;;;;;;82.0;;;0141675V;;PUBLIC;28;Normandie;2766
+yes;no;no;CAEN;Chemin des écoles;Ecole maternelle d'Aubigny ;;14700.0;Aubigny;;;;;;22.0;;;0141995T;;PUBLIC;28;Normandie;290
+yes;yes;no;POITIERS;Le bourg;Ecole élémentaire de Montignac-le-Coq ;;16390.0;Montignac-le-Coq;;;;;;20.0;20.0;;0160195A;;PUBLIC;75;Nouvelle-Aquitaine;132
+yes;no;no;POITIERS;153 Route de Paris Le Pontouvre;Ecole maternelle Charles Perrault ;;16160.0;Gond-Pontouvre;;;;;;52.0;;;0160256S;;PUBLIC;75;Nouvelle-Aquitaine;5883
+yes;yes;no;DIJON;Cidex 106;Ecole élémentaire de Barizey ;;71640.0;Barizey;;;;;;18.0;19.0;;0710989P;;PUBLIC;27;Bourgogne-et-Franche-Comté;130
+yes;yes;no;TOULOUSE;Le village;Ecole maternelle Empu Peyrusse Grande ;;32320.0;Peyrusse-Grande;;;;;;21.0;15.0;;0320200U;;PUBLIC;76;Occitanie;157
+yes;no;no;POITIERS;Le bourg;Ecole élémentaire de Vilhonneur ;;16220.0;Vilhonneur;;;;;;20.0;;;0160625T;;PUBLIC;75;Nouvelle-Aquitaine;371
+yes;no;no;POITIERS;34 avenue 24 aoE»t 1944;Ecole maternelle Les Tilleuls ;;16440.0;Mouthiers-sur-Boëme;;;;;;74.0;;;0161068Z;;PUBLIC;75;Nouvelle-Aquitaine;2493
+yes;no;no;POITIERS;Le Treuil Mureau;Ecole élémentaire de Puyrolland ;;17380.0;Puyrolland;;;;;;17.0;;;0170196W;;PUBLIC;75;Nouvelle-Aquitaine;185
+yes;yes;no;STRASBOURG;6 rue des écoles;Ecole maternelle l'Envol ;;68560.0;Hirsingue;;;;;;73.0;86.0;;0680681W;;PUBLIC;44;Grand-Est;2202
+yes;yes;no;LA REUNION;32 rue Adrien Lagourgue;Ecole élémentaire Piton St-Leu grouPe B ;;97436.0;Saint-Leu;;;;;;358.0;355.0;;9740260P;;PUBLIC;4;La-Réunion;33154
+no;yes;no;LA REUNION;239 rue Louis Hoareau;Ecole élémentaire publique Bagatelle;974.0;97441.0;Sainte-Suzanne;La Réunion;OUVERT;-20.9280175558611;Bagatelle;55.58616034560367;;5.0;;9740433C;SARDA GARRIGA;PUBLIC;4;La-Réunion;22209
+yes;yes;no;LYON;22 rue Descours;Ecole maternelle Descours ;;42000.0;Saint-Étienne;;;;;;125.0;113.0;;0420657L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;LYON;Le bourg;Ecole maternelle Le Bourg ;;42410.0;Vérin;;;;;;35.0;30.0;;0420900A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;683
+yes;yes;no;VERSAILLES;Avenue 1ère Armée Française;Ecole maternelle Ferdinand Buisson ;;95160.0;Montmorency;;;;;;169.0;164.0;;0950533N;;PUBLIC;11;Île-de-France;20796
+yes;yes;no;CRETEIL;29 rue Albert 1er;Ecole maternelle Paul Langevin ;;94600.0;Choisy-le-Roi;;;;;;382.0;461.0;;0940394T;;PUBLIC;11;Île-de-France;42769
+yes;yes;no;CRETEIL;2 rue Edouard Vaillant;Ecole maternelle Edouard Vaillant 2 ;;94120.0;Fontenay-sous-Bois;;;;;;84.0;75.0;;0941548X;;PUBLIC;11;Île-de-France;53124
+yes;yes;no;GRENOBLE;13 rue Manouchian;Ecole maternelle Paul Langevin 1 ;;38130.0;Échirolles;;;;;;105.0;107.0;;0380442Z;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35684
+yes;yes;no;TOULOUSE;Avenue Jean Jaurès;Ecole maternelle Jean Jaurès ;;81130.0;Cagnac-les-Mines;;;;;;107.0;92.0;;0810839X;;PUBLIC;76;Occitanie;2353
+yes;yes;no;TOULOUSE;Place de la Gendarmerie;Ecole maternelle la Rose des vents ;;82230.0;Monclar-de-Quercy;;;;;;89.0;69.0;;0820768P;;PUBLIC;76;Occitanie;1914
+yes;yes;no;BORDEAUX;5 rue Louis Barthou;Ecole maternelle Pegle ;;40000.0;Mont-de-Marsan;;;;;;60.0;58.0;;0400833N;;PUBLIC;75;Nouvelle-Aquitaine;31334
+yes;no;no;BORDEAUX;3 bis rue Bonado;Ecole maternelle Maréchal Bosquet ;;64000.0;Pau;;;;;;95.0;;;0641039G;;PUBLIC;75;Nouvelle-Aquitaine;77575
+yes;yes;no;TOULOUSE;30 chemin Cami Dera Mignouna;Ecole élémentaire d'Ozon ;;65190.0;Ozon;;;;;;13.0;11.0;;0650563J;;PUBLIC;76;Occitanie;286
+yes;yes;no;TOULOUSE;474 boulevard des Tilleuls;Ecole maternelle Bourtoulets ;;65300.0;Lannemezan;;;;;;55.0;50.0;;0650603C;;PUBLIC;76;Occitanie;5940
+yes;no;no;VERSAILLES;18 rue Jean de la Bruyère;Ecole maternelle la Farandole ;;78000.0;Versailles;;;;;;106.0;;;0781217Z;;PUBLIC;11;Île-de-France;85272
+yes;yes;no;VERSAILLES;2 allée de Normandie;Ecole maternelle Maréchal Leclerc ;;78230.0;Le Pecq;;;;;;100.0;107.0;;0782252Z;;PUBLIC;11;Île-de-France;16237
+yes;yes;no;VERSAILLES;1 rue Tristan Bernard;Ecole maternelle Nouveau Cottage ;;78340.0;Les Clayes-sous-Bois;;;;;;68.0;75.0;;0782334N;;PUBLIC;11;Île-de-France;17735
+yes;yes;no;VERSAILLES;54 rue du Docteur Vaillant;Ecole maternelle Paul Langevin ;;78210.0;Saint-Cyr-l'École;;;;;;114.0;122.0;;0783080Z;;PUBLIC;11;Île-de-France;18089
+yes;yes;no;VERSAILLES;8 impasse des Ormes;Ecole maternelle Tom Pouce ;;78540.0;Vernouillet;;;;;;141.0;156.0;;0783368M;;PUBLIC;11;Île-de-France;9698
+yes;no;no;LILLE;Impasse de l'Eglise;Ecole élémentaire RPI 96 ;;62450.0;Warlencourt-Eaucourt;;;;;;21.0;;;0624299L;;PUBLIC;32;Hauts-de-France;160
+yes;no;no;GRENOBLE;Rue du Talweg;Ecole maternelle Pablo Neruda ;;73000.0;Chambéry;;;;;;55.0;;;0731216A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;58653
+yes;no;no;DIJON;1 rue des Pierres;Ecole élémentaire Chancelier Rolin ;;71400.0;Autun;;;;;;59.0;;;0710727E;;PUBLIC;27;Bourgogne-et-Franche-Comté;13863
+yes;no;no;DIJON;Le bourg;Ecole d'Artaix ;;71110.0;Artaix;;;;;;13.0;;;0710794C;;PUBLIC;27;Bourgogne-et-Franche-Comté;339
+yes;no;no;DIJON;Le bourg;Ecole élémentaire de Saint-Germain-en-Brionnais ;;71800.0;Saint-Germain-en-Brionnais;;;;;;15.0;;;0710802L;;PUBLIC;27;Bourgogne-et-Franche-Comté;197
+yes;no;no;DIJON;Rue du Général de Gaulle;Ecole de Saint-Émiland ;;71490.0;Saint-Émiland;;;;;;5.0;;;0710996X;;PUBLIC;27;Bourgogne-et-Franche-Comté;335
+yes;no;no;DIJON;Le bourg;Ecole maternelle de Saint-Symphorien-de-Marmagne ;;71710.0;Saint-Symphorien-de-Marmagne;;;;;;24.0;;;0711719H;;PUBLIC;27;Bourgogne-et-Franche-Comté;847
+yes;yes;no;DIJON;26 rue Champagny;Ecole maternelle Marguerite Bouzereau ;;71120.0;Charolles;;;;;;99.0;114.0;;0710177G;;PUBLIC;27;Bourgogne-et-Franche-Comté;2757
+yes;no;no;AMIENS;43 chaussée Brunehaut;Ecole maternelle d'Estrées-Deniécourt ;;80200.0;Estrées-Deniécourt;;;;;;30.0;;;0800437R;;PUBLIC;32;Hauts-de-France;346
+yes;no;no;AMIENS;1 rue de Marcaille;Ecole primaire de Soyécourt ;;80200.0;Soyécourt;;;;;;26.0;;;0800447B;;PUBLIC;32;Hauts-de-France;169
+yes;no;no;AMIENS;24 place du Pont des Près;Ecole maternelle Pont des Près ;;80100.0;Abbeville;;;;;;52.0;;;0800819F;;PUBLIC;32;Hauts-de-France;23821
+yes;no;no;AMIENS;24 rue Phileas Lebesgue;Ecole maternelle faubourg du Bois Chaufour ;;80100.0;Abbeville;;;;;;43.0;;;0800821H;;PUBLIC;32;Hauts-de-France;23821
+yes;no;no;AMIENS;Rue Baudrez;Ecole primaire Jean Cayeux ;;80136.0;Rivery;;;;;;85.0;;;0801177V;;PUBLIC;32;Hauts-de-France;3437
+yes;no;no;AMIENS;2 rue Defarcy;Ecole maternelle d'Hallencourt ;;80490.0;Hallencourt;;;;;;74.0;;;0801785F;;PUBLIC;32;Hauts-de-France;1374
+yes;no;no;TOULOUSE;Rue Ferdinand Cassan;Ecole maternelle Fernand Cassan ;;81400.0;Blaye-les-Mines;;;;;;23.0;;;0810295F;;PUBLIC;76;Occitanie;3073
+yes;yes;no;AMIENS;48 Grande rue;Ecole élémentaire de Hodenc-l'Évêque ;;60430.0;Hodenc-l'Évêque;;;;;;21.0;13.0;;0601888B;;PUBLIC;32;Hauts-de-France;246
+yes;yes;no;LILLE;Rue Marie Curie;Ecole maternelle Marie Curie ;;62380.0;Lumbres;;;;;;44.0;37.0;;0620423Y;;PUBLIC;32;Hauts-de-France;3801
+yes;no;no;CAEN;23 bis rue Marcel Louvel;Ecole maternelle Les Comptines ;;61110.0;Rémalard;;;;;;91.0;;;0610084K;;PUBLIC;28;Normandie;1212
+yes;no;no;CAEN;Le bourg;Ecole élémentaire de Neuilly-le-Bisson ;;61250.0;Neuilly-le-Bisson;;;;;;19.0;;;0610227R;;PUBLIC;28;Normandie;313
+yes;no;no;CAEN;5 place de Mairie;Ecole de Glos-la-Ferrière ;;61550.0;Glos-la-Ferrière;;;;;;43.0;;;0610480R;;PUBLIC;28;Normandie;544
+yes;no;no;CAEN;Rue Clémence Gibory;Ecole maternelle Moulin E  Vent ;;61300.0;L'Aigle;;;;;;61.0;;;0611003J;;PUBLIC;28;Normandie;7983
+yes;yes;no;NANCY-METZ;181 Grande rue;Ecole primaire de Domjulien ;;88800.0;Domjulien;;;;;;22.0;18.0;;0880589M;;PUBLIC;44;Grand-Est;188
+yes;yes;no;NANCY-METZ;95 rue de l'école;Ecole primaire de Bayecourt ;;88150.0;Bayecourt;;;;;;17.0;17.0;;0880746H;;PUBLIC;44;Grand-Est;271
+yes;no;no;ROUEN;248 avenue Jean Lorrain;Ecole maternelle Jean Lorrain ;;76400.0;Fécamp;;;;;;41.0;;;0761569T;;PUBLIC;28;Normandie;19381
+yes;yes;no;ROUEN;Rue de la Forge;Ecole maternelle du Point du jour ;;76290.0;Saint-Martin-du-Manoir;;;;;;54.0;47.0;;0762359B;;PUBLIC;28;Normandie;1539
+yes;yes;no;DIJON;14 rue de l'Eglise;Ecole de Saint-Léger-Vauban ;;89630.0;Saint-Léger-Vauban;;;;;;18.0;14.0;;0890181N;;PUBLIC;27;Bourgogne-et-Franche-Comté;387
+yes;yes;no;AMIENS;Avenue P. et M. Curie;Ecole maternelle de Mers-les-Bains ;;80350.0;Mers-les-Bains;;;;;;67.0;67.0;;0802044M;;PUBLIC;32;Hauts-de-France;2867
+yes;yes;no;TOULOUSE;15 rue de l'Eglise;Ecole d'Arfons ;;81110.0;Arfons;;;;;;5.0;13.0;;0810172X;;PUBLIC;76;Occitanie;177
+yes;yes;no;LILLE;4 rue Bomy;Ecole élémentaire de Reclinghem ;;62560.0;Reclinghem;;;;;;55.0;57.0;;0624297J;;PUBLIC;32;Hauts-de-France;236
+yes;yes;no;BESANCON;Hameau de l'Assise;Ecole maternelle Le Grand Bois Andelnans ;;90400.0;Andelnans;;;;;;49.0;41.0;;0900343J;;PUBLIC;27;Bourgogne-et-Franche-Comté;1228
+yes;yes;no;VERSAILLES;2 place de la Mairie;Ecole élémentaire d'Abbéville-la-Rivière ;;91150.0;Abbéville-la-Rivière;;;;;;21.0;18.0;;0910119K;;PUBLIC;11;Île-de-France;296
+yes;yes;no;CRETEIL;Route de trois Moulins;Ecole maternelle de Rubelles ;;77950.0;Rubelles;;;;;;72.0;75.0;;0771796J;;PUBLIC;11;Île-de-France;2012
+yes;yes;no;VERSAILLES;2 rue de Valmy;Ecole maternelle Eugénie Cotton ;;78280.0;Guyancourt;;;;;;67.0;44.0;;0781560X;;PUBLIC;11;Île-de-France;27546
+yes;yes;no;STRASBOURG;Rue Jungholz;Ecole maternelle de Heiligenstein ;;67140.0;Heiligenstein;;;;;;37.0;40.0;;0672619H;;PUBLIC;44;Grand-Est;959
+yes;yes;no;POITIERS;1 rue Mélusine;Ecole Montgazon ;;79200.0;Parthenay;;;;;;158.0;120.0;;0790106L;;PUBLIC;75;Nouvelle-Aquitaine;10204
+yes;yes;no;AMIENS;1 rue de Monceaux;Ecole élémentaire de Hodenc-en-Bray ;;60650.0;Hodenc-en-Bray;;;;;;23.0;24.0;;0600233C;;PUBLIC;32;Hauts-de-France;497
+yes;yes;no;CLERMONT-FERRAND;390 rue du Champclos;Ecole maternelle Le Masage ;;63110.0;Beaumont;;;;;;105.0;93.0;;0631699E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;10926
+yes;yes;no;AMIENS;Chemin Fontaine Saint-Clair;Ecole élémentaire de Tourly ;;60240.0;Tourly;;;;;;26.0;16.0;;0600153R;;PUBLIC;32;Hauts-de-France;176
+yes;yes;no;AMIENS;16 bis rue Ruegg;Ecole élémentaire de Séry-Magneval ;;60800.0;Séry-Magneval;;;;;;23.0;26.0;;0600327E;;PUBLIC;32;Hauts-de-France;289
+yes;yes;no;NANCY-METZ;1 rue des écoles;Ecole élémentaire Schaeferhof ;;57850.0;Dabo;;;;;;48.0;48.0;;0573332M;;PUBLIC;44;Grand-Est;2605
+yes;yes;no;MONTPELLIER;56 avenue de Baixas;Ecole primaire Victor Hugo ;;66240.0;Saint-Estève;;;;;;125.0;122.0;;0660670V;;PUBLIC;76;Occitanie;11846
+yes;yes;no;AMIENS;20 place Henri Sy;Ecole primaire de Lihons ;;80320.0;Lihons;;;;;;77.0;55.0;;0800443X;;PUBLIC;32;Hauts-de-France;392
+yes;yes;no;DIJON;Le bourg;Ecole élémentaire de Beaumont-la-Ferrière ;;58700.0;Beaumont-la-Ferrière;;;;;;17.0;19.0;;0580938E;;PUBLIC;27;Bourgogne-et-Franche-Comté;124
+yes;yes;no;LILLE;20 rue de la Victoire;Ecole maternelle Georges Brassens ;;59560.0;Comines;;;;;;129.0;98.0;;0591003V;;PUBLIC;32;Hauts-de-France;12564
+yes;yes;no;TOULOUSE;Rue de la Lande de Boc;Ecole élémentaire Le Guerissa ;;65300.0;Lannemezan;;;;;;71.0;59.0;;0650497M;;PUBLIC;76;Occitanie;5940
+yes;yes;no;NANCY-METZ;2 Grande rue;Ecole de Domèvre-sur-Durbion ;;88330.0;Domèvre-sur-Durbion;;;;;;38.0;34.0;;0880753R;;PUBLIC;44;Grand-Est;290
+yes;yes;no;NANCY-METZ;Rue du 8 Mai 1945;Ecole primaire Louis Madelin ;;88110.0;Raon-l'Étape;;;;;;96.0;83.0;;0881537T;;PUBLIC;44;Grand-Est;6422
+yes;yes;no;NANCY-METZ;63 rue du Docteur Cabasse;Ecole primaire Joseph Bey ;;88500.0;Mirecourt;;;;;;134.0;133.0;;0881688G;;PUBLIC;44;Grand-Est;5598
+yes;yes;no;DIJON;14 rue Saint-Marcel;Ecole d'Annay-la-Côte ;;89200.0;Annay-la-Côte;;;;;;16.0;11.0;;0890099Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;340
+yes;yes;no;AMIENS;7 Rue Benjamin d'Hardivillers;Ecole primaire Les Samares ;;80290.0;Poix-de-Picardie;;;;;;132.0;131.0;;0801127R;;PUBLIC;32;Hauts-de-France;2395
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Mont-Roc ;;81120.0;Mont-Roc;;;;;;17.0;16.0;;0810267A;;PUBLIC;76;Occitanie;188
+yes;yes;no;POITIERS;3 avenue Jean Augry;Ecole maternelle Marc Chagall ;;86150.0;L'Isle-Jourdain;;;;;;25.0;22.0;;0860299H;;PUBLIC;75;Nouvelle-Aquitaine;8012
+yes;yes;no;NANCY-METZ;2 rue Jules Ferry;Ecole maternelle Jean de la Fontaine ;;54380.0;Dieulouard;;;;;;119.0;126.0;;0540374N;;PUBLIC;44;Grand-Est;4572
+yes;yes;no;NANCY-METZ;1 place de l'église;Ecole de Bulligny ;;54113.0;Bulligny;;;;;;66.0;58.0;;0541794G;;PUBLIC;44;Grand-Est;475
+yes;yes;no;ROUEN;Rue des Papillons;Ecole maternelle Georges Brassens ;;76370.0;Saint-Martin-en-Campagne;;;;;;72.0;61.0;;0762722W;;PUBLIC;28;Normandie;1256
+yes;yes;no;POITIERS;13 rue du 19 Mars 1962;Ecole maternelle Le Crepin ;;86530.0;Naintré;;;;;;87.0;97.0;;0861087P;;PUBLIC;75;Nouvelle-Aquitaine;5850
+yes;yes;no;VERSAILLES;4 rue des écoles;Ecole maternelle Joseph Bara ;;91120.0;Palaiseau;;;;;;78.0;79.0;;0910604M;;PUBLIC;11;Île-de-France;31264
+yes;yes;no;VERSAILLES;Rue des Ruelles;Ecole maternelle Le Village ;;91150.0;Brières-les-Scellés;;;;;;51.0;53.0;;0911466Z;;PUBLIC;11;Île-de-France;1161
+yes;yes;no;CAEN;Place Georges Pompidou;Ecole de Saint-Maurice-lès-Charencey ;;61190.0;Saint-Maurice-lès-Charencey;;;;;;26.0;25.0;;0610987S;;PUBLIC;28;Normandie;536
+yes;yes;no;VERSAILLES;29 avenue Pierre Grenier;Ecole élémentaire Pierre Grenier ;;92100.0;Boulogne-Billancourt;;;;;;171.0;178.0;;0920269T;;PUBLIC;11;Île-de-France;116794
+yes;yes;no;LA REUNION;9 rue Claude de Sigoyer;Ecole maternelle Paille En Queue ;;97460.0;Saint-Paul;;;;;;133.0;114.0;;9740030P;;PUBLIC;4;La-Réunion;104332
+yes;yes;no;VERSAILLES;Place du Quercy;Ecole maternelle Les Avelines Groupe 1 ;;91940.0;Les Ulis;;;;;;75.0;74.0;;0911317M;;PUBLIC;11;Île-de-France;24914
+yes;yes;no;CRETEIL;Place de la Mairie d'Ormeaux;Ecole élémentaire Ormeaux ;;77540.0;Lumigny-Nesles-Ormeaux;Seine-et-Marne;;48.736940000000004;;2.95195;47.0;47.0;;0770844Z;;PUBLIC;11;Île-de-France;1543
+yes;no;no;MAYOTTE;;;;;;;;;;;183.0;;;9760176M;;PUBLIC;6;Mayotte;0
+yes;yes;no;CRETEIL;19 rue Louis Blériot;Ecole maternelle Orly-Parc ;;77400.0;Lagny-sur-Marne;;;;;;39.0;41.0;;0771375B;;PUBLIC;11;Île-de-France;20718
+yes;yes;no;AMIENS;3 place de la Mairie;Ecole élémentaire de Chartèves ;;2400.0;Chartèves;;;;;;25.0;21.0;;0020228M;;PUBLIC;32;Hauts-de-France;353
+yes;yes;no;AMIENS;4 rue Pasteur;Ecole élémentaire de Barzy-sur-Marne ;;2850.0;Barzy-sur-Marne;;;;;;25.0;22.0;;0020374W;;PUBLIC;32;Hauts-de-France;385
+yes;yes;no;AMIENS;88 rue Henri Dunant;Ecole maternelle Groupe scolaire François Collery ;;2100.0;Saint-Quentin;;;;;;101.0;98.0;;0020871L;;PUBLIC;32;Hauts-de-France;55698
+yes;no;no;AMIENS;3 rue du Bois d'Ouvret;Ecole élémentaire de Louâtre ;;2600.0;Louâtre;;;;;;17.0;;;0021036R;;PUBLIC;32;Hauts-de-France;205
+yes;no;no;AMIENS;14 rue des Annois;Ecole maternelle de Saint-Erme-Outre-et-Ramecourt ;;2820.0;Saint-Erme-Outre-et-Ramecourt;;;;;;50.0;;;0021842S;;PUBLIC;32;Hauts-de-France;1883
+yes;yes;no;NICE;Rue Honoré Passeron;Ecole maternelle Ricolfi 2 ;;6390.0;Contes;;;;;;70.0;74.0;;0061803C;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;7279
+yes;yes;no;GRENOBLE;42 boulevard Pasteur;Ecole élémentaire Teillaret ;;7400.0;Le Teil;;;;;;42.0;37.0;;0070337D;;PUBLIC;84;Auvergne-et-Rhône-Alpes;8292
+yes;no;no;GRENOBLE;Le village;Ecole primaire de Dornas ;;7160.0;Dornas;;;;;;10.0;;;0071129P;;PUBLIC;84;Auvergne-et-Rhône-Alpes;243
+yes;no;no;REIMS;1 rue Maurice Ravel;Ecole maternelle Camille Lassaux ;;8300.0;Rethel;;;;;;40.0;;;0080488M;;PUBLIC;44;Grand-Est;7730
+yes;no;no;REIMS;6 place de l'Abbé Haguenin;Ecole primaire d'Avaux ;;8190.0;Avaux;;;;;;24.0;;;0080547B;;PUBLIC;44;Grand-Est;439
+yes;no;no;CLERMONT-FERRAND;37 rue du Docteur Denis;Ecole maternelle Les Mimosas ;;3000.0;Moulins;;;;;;119.0;;;0030843A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;19474
+yes;no;no;CLERMONT-FERRAND;Le bourg;Ecole maternelle de Neuvy ;;3000.0;Neuvy;;;;;;44.0;;;0030949R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1557
+yes;yes;no;CLERMONT-FERRAND;6 rue Couzenottes;Ecole maternelle de Jaligny-sur-Besbre ;;3220.0;Jaligny-sur-Besbre;;;;;;29.0;24.0;;0031026Z;;PUBLIC;84;Auvergne-et-Rhône-Alpes;598
+yes;no;no;AIX-MARSEILLE;Boulevard des Tilleuls;Ecole maternelle Les Tilleuls ;;4100.0;Manosque;;;;;;67.0;;;0040205B;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;22412
+yes;yes;no;GUADELOUPE;2 rue des écoliers;Ecole primaire Gaston Calmet ;;97160.0;Le Moule;;;;;;118.0;108.0;;9710239H;;PUBLIC;1;Guadeloupe;22456
+yes;yes;no;AIX-MARSEILLE;16 rue Jean Macé;Ecole maternelle Puymaure ;;5000.0;Gap;;;;;;94.0;75.0;;0050154R;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;40255
+yes;yes;no;NICE;5 rue Lacan;Ecole maternelle Doumer ;;6600.0;Antibes;;;;;;122.0;123.0;;0060122A;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;75456
+yes;yes;no;GUADELOUPE;Le bourg;Ecole primaire Bourg 1 ;;97114.0;Trois-Rivières;;;;;;128.0;125.0;;9710313N;;PUBLIC;1;Guadeloupe;8578
+yes;yes;no;NICE;Rue des Arbousiers;Ecole primaire Eluard ;;6510.0;Carros;;;;;;147.0;141.0;;0061289U;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;11756
+yes;yes;no;CRETEIL;2 rue Edouard Vaillant;Ecole maternelle Edouard Vaillant 1 ;;94120.0;Fontenay-sous-Bois;;;;;;97.0;88.0;;0941489H;;PUBLIC;11;Île-de-France;53124
+yes;yes;no;VERSAILLES;15 Grande rue;Ecole du Heaulme ;;95640.0;Le Heaulme;;;;;;20.0;23.0;;0950395N;;PUBLIC;11;Île-de-France;200
+yes;no;no;DIJON;Rue Guillemot;Ecole de Villiers-Saint-Benoît ;;89130.0;Villiers-Saint-Benoît;;;;;;14.0;;;0890384J;;PUBLIC;27;Bourgogne-et-Franche-Comté;511
+yes;no;no;DIJON;16 bis rue Georges Varenne;Ecole maternelle de Laroche-Saint-Cydroine ;;89400.0;Laroche-Saint-Cydroine;;;;;;17.0;;;0890948X;;PUBLIC;27;Bourgogne-et-Franche-Comté;1266
+yes;no;no;DIJON;15 rue de la Tour d'Auvergne;Ecole maternelle d'application Rosoirs ;;89000.0;Auxerre;;;;;;94.0;;;0891250A;;PUBLIC;27;Bourgogne-et-Franche-Comté;34869
+yes;no;no;VERSAILLES;4 allée des Eguerets;Ecole maternelle Les Eguerets ;;95280.0;Jouy-le-Moutier;;;;;;106.0;;;0951452M;;PUBLIC;11;Île-de-France;16300
+yes;no;no;MARTINIQUE;110 avenue Abbé Lavigne;Ecole élémentaire Solange Londas ;;97200.0;Fort-de-France;;;;;;143.0;;;9720169B;;PUBLIC;2;Martinique;84174
+yes;yes;no;MARTINIQUE;Rue Victor Hugo;Ecole élémentaire Saint-Pierre A ;;97250.0;Saint-Pierre;;;;;;90.0;84.0;;9720318N;;PUBLIC;2;Martinique;4285
+yes;yes;no;LILLE;Rue Alfred de Musset;Ecole maternelle George Sand ;;59139.0;Wattignies;;;;;;116.0;108.0;;0594245U;;PUBLIC;32;Hauts-de-France;14179
+yes;yes;no;VERSAILLES;Rue du Morvan;Ecole maternelle Les Avelines Groupe 3 ;;91940.0;Les Ulis;;;;;;72.0;74.0;;0911589H;;PUBLIC;11;Île-de-France;24914
+yes;yes;no;VERSAILLES;Place de la Mairie;Ecole maternelle Le Clos En Herbe ;;91840.0;Soisy-sur-École;;;;;;50.0;37.0;;0911689S;;PUBLIC;11;Île-de-France;1367
+yes;no;no;LILLE;Cité des Deux Synthe;Ecole primaire des Deux Synthe ;;59760.0;Grande-Synthe;;;;;;28.0;;;0591278U;;PUBLIC;32;Hauts-de-France;21364
+yes;yes;no;LILLE;Boulevard Vauban;Ecole primaire Maurice Careme ;;59550.0;Landrecies;;;;;;108.0;106.0;;0591494D;;PUBLIC;32;Hauts-de-France;3487
+yes;yes;no;VERSAILLES;1 rue Gambetta;Ecole maternelle Gambetta ;;92170.0;Vanves;;;;;;134.0;122.0;;0920499T;;PUBLIC;11;Île-de-France;28170
+yes;yes;no;NANCY-METZ;6 rue du Château;Ecole élémentaire de Bassing ;;57260.0;Bassing;;;;;;14.0;12.0;;0571417F;;PUBLIC;44;Grand-Est;121
+yes;yes;no;LILLE;50 rue du Docteur Maréchal;Ecole primaire Jean-Michel Dujardin Niv 1 ;;59270.0;Merris;;;;;;41.0;84.0;;0591849P;;PUBLIC;32;Hauts-de-France;1042
+yes;no;no;LILLE;54 rue de la Paix;Ecole primaire Niv 1 Pierre-Gilles de Gennes ;;59165.0;Auberchicourt;;;;;;105.0;;;0593521G;;PUBLIC;32;Hauts-de-France;4399
+yes;yes;no;NANTES;7 rue Maurice Duveau;Ecole Maurice Duveau ;;49700.0;Doué-la-Fontaine;;;;;;122.0;104.0;;0490440M;;PUBLIC;52;Pays-de-la-Loire;7584
+yes;yes;no;NANTES;34 rue du Dolmen;Ecole maternelle Pauline Kergomard ;;49400.0;Saumur;;;;;;76.0;77.0;;0490936B;;PUBLIC;52;Pays-de-la-Loire;27413
+yes;yes;no;DIJON;Le bourg;Ecole de Verneuil ;;58300.0;Verneuil;;;;;;14.0;10.0;;0580198A;;PUBLIC;27;Bourgogne-et-Franche-Comté;323
+yes;yes;no;DIJON;Le bourg;Ecole maternelle de Saint-Aubin-les-Forges ;;58130.0;Saint-Aubin-les-Forges;;;;;;12.0;12.0;;0580934A;;PUBLIC;27;Bourgogne-et-Franche-Comté;427
+yes;yes;no;LILLE;24 rue du Capitaine Jasmin;Ecole maternelle Centre ;;59133.0;Phalempin;;;;;;82.0;78.0;;0591042M;;PUBLIC;32;Hauts-de-France;4395
+yes;yes;no;DIJON;Rue de Lutterbach;Ecole maternelle Antoine Bourdelle ;;71300.0;Montceau-les-Mines;;;;;;32.0;33.0;;0711477V;;PUBLIC;27;Bourgogne-et-Franche-Comté;18969
+yes;no;no;DIJON;49 rue du Bourg;Ecole maternelle Mireille et Gaston Mallet ;;71530.0;Fragnes;;;;;;63.0;;;0711516M;;PUBLIC;27;Bourgogne-et-Franche-Comté;1024
+yes;no;no;NANTES;Route de Montmirail;Ecole primaire RPI Jules Verne ;;72320.0;Saint-Jean-des-Échelles;;;;;;19.0;;;0721031E;;PUBLIC;52;Pays-de-la-Loire;255
+yes;no;no;ORLEANS-TOURS;10 rue Albert Camus;Ecole maternelle la Pontonnerie ;;45120.0;Châlette-sur-Loing;;;;;;105.0;;;0450243V;;PUBLIC;24;Centre-Val-de-Loire;12812
+yes;yes;no;ORLEANS-TOURS;2 rue Molière;Ecole maternelle Molière ;;45000.0;Orléans;;;;;;110.0;111.0;;0450249B;;PUBLIC;24;Centre-Val-de-Loire;114375
+yes;yes;no;CAEN;350 rue du Tram;Ecole maternelle Les îles et Les Ailes ;;50460.0;Urville-Nacqueville;;;;;;72.0;67.0;;0501776J;;PUBLIC;28;Normandie;2154
+yes;yes;no;LILLE;Chemin de la Chapelle;Ecole maternelle Charles Perrault ;;59147.0;Gondecourt;;;;;;83.0;84.0;;0594927K;;PUBLIC;32;Hauts-de-France;3918
+yes;yes;no;LILLE;12 rue de Flandre;Ecole maternelle Les jonquilles ;;59166.0;Bousbecque;;;;;;85.0;78.0;;0595076X;;PUBLIC;32;Hauts-de-France;4773
+yes;no;no;NANTES;ZAC Les Vignes;Ecole primaire Verne ;;72600.0;Mamers;;;;;;43.0;;;0721279Z;;PUBLIC;52;Pays-de-la-Loire;5363
+yes;yes;no;ORLEANS-TOURS;6 rue des écoles;Ecole primaire de Grangermont ;;45390.0;Grangermont;;;;;;26.0;22.0;;0450638Z;;PUBLIC;24;Centre-Val-de-Loire;204
+yes;yes;no;ORLEANS-TOURS;Route de Chatillon/loire;Ecole des Petits ;;45500.0;Autry-le-Châtel;;;;;;49.0;47.0;;0450749V;;PUBLIC;24;Centre-Val-de-Loire;1004
+yes;no;no;ORLEANS-TOURS;167 rue des écoles;Ecole maternelle de Ménestreau-en-Villette ;;45240.0;Ménestreau-en-Villette;;;;;;46.0;;;0451390S;;PUBLIC;24;Centre-Val-de-Loire;1472
+yes;yes;no;TOULOUSE;Le bourg;Ecole maternelle de Saint-Martin-le-Redon ;;46700.0;Saint-Martin-le-Redon;;;;;;17.0;14.0;;0460064V;;PUBLIC;76;Occitanie;210
+yes;no;no;TOULOUSE;Le bourg;Ecole primaire de Saint-Vincent-Rive-d'Olt ;;46140.0;Saint-Vincent-Rive-d'Olt;;;;;;18.0;;;0460083R;;PUBLIC;76;Occitanie;459
+yes;yes;no;NANTES;4 rue du Morvan;Ecole maternelle Voltaire ;;49100.0;Angers;;;;;;229.0;196.0;;0490770W;;PUBLIC;52;Pays-de-la-Loire;150125
+yes;no;no;LYON;Le Château;Ecole maternelle Le cerf Volant ;;69510.0;Thurins;;;;;;61.0;;;0693749A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2964
+yes;yes;no;BESANCON;Place de la Mairie;Ecole maternelle d'Anchenoncourt-et-Chazel ;;70210.0;Anchenoncourt-et-Chazel;;;;;;16.0;19.0;;0700108M;;PUBLIC;27;Bourgogne-et-Franche-Comté;230
+yes;yes;no;BESANCON;12 Grande rue;Ecole primaire de Fédry ;;70120.0;Fédry;;;;;;26.0;15.0;;0700385N;;PUBLIC;27;Bourgogne-et-Franche-Comté;100
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Molières ;;46120.0;Molières;;;;;;18.0;21.0;;0460223T;;PUBLIC;76;Occitanie;376
+yes;yes;no;TOULOUSE;Le bourg;Ecole primaire de Cavagnac ;;46110.0;Cavagnac;;;;;;36.0;26.0;;0460260H;;PUBLIC;76;Occitanie;458
+yes;no;no;TOULOUSE;Le bourg;Ecole primaire du Boulvé ;;46800.0;Le Boulvé;;;;;;11.0;;;0460427P;;PUBLIC;76;Occitanie;192
+yes;yes;no;AMIENS;1 rue de Beauvais;Ecole élémentaire de Fouilloy ;;60220.0;Fouilloy;;;;;;28.0;22.0;;0600837J;;PUBLIC;32;Hauts-de-France;200
+yes;yes;no;NANCY-METZ;34 rue Principale;Ecole maternelle de Théding ;;57450.0;Théding;;;;;;74.0;76.0;;0573261K;;PUBLIC;44;Grand-Est;2480
+yes;yes;no;NANCY-METZ;Rue du Stade;Ecole maternelle d'Ennery ;;57365.0;Ennery;;;;;;105.0;100.0;;0572407G;;PUBLIC;44;Grand-Est;1938
+yes;no;no;NANCY-METZ;2 rue des Jardins;Ecole maternelle la Farandole ;;57880.0;Varsberg;;;;;;23.0;;;0572659F;;PUBLIC;44;Grand-Est;916
+yes;no;no;NANCY-METZ;37 rue Saint-Pierre;Ecole maternelle Louis Royer ;;57935.0;Luttange;;;;;;35.0;;;0572662J;;PUBLIC;44;Grand-Est;920
+yes;yes;no;LILLE;1 rue Eleyne;Ecole primaire Les Viviers niveau 1 ;;59133.0;Phalempin;;;;;;95.0;99.0;;0591041L;;PUBLIC;32;Hauts-de-France;4395
+yes;no;no;DIJON;Le bourg;Ecole primaire de Saint-Pierre-du-Mont ;;58210.0;Saint-Pierre-du-Mont;;;;;;15.0;;;0580295F;;PUBLIC;27;Bourgogne-et-Franche-Comté;202
+yes;yes;no;LILLE;25 rue Carion;Ecole élémentaire Charles Carion ;;59330.0;Hautmont;;;;;;110.0;107.0;;0591351Y;;PUBLIC;32;Hauts-de-France;14271
+yes;yes;no;LILLE;9 place Philippe de Girard;Ecole maternelle Gounod ;;59800.0;Lille;;;;;;99.0;95.0;;0591636H;;PUBLIC;32;Hauts-de-France;231491
+yes;yes;no;NANCY-METZ;14 Grande rue;Ecole élémentaire d'Hablainville ;;54120.0;Hablainville;;;;;;14.0;19.0;;0540494U;;PUBLIC;44;Grand-Est;217
+yes;yes;no;NANCY-METZ;29 rue de Montigny;Ecole de Merviller ;;54120.0;Merviller;;;;;;21.0;13.0;;0540754B;;PUBLIC;44;Grand-Est;377
+yes;no;no;POITIERS;20 boulevard de l'Atlantique;Ecole maternelle Groupe scolaire Jean Zay ;;79000.0;Niort;;;;;;106.0;;;0790186Y;;PUBLIC;75;Nouvelle-Aquitaine;57393
+yes;no;no;ROUEN;Rue de Beaumont;Ecole élémentaire Jean de la Fontaine ;;76740.0;Sotteville-sur-Mer;;;;;;15.0;;;0761411W;;PUBLIC;28;Normandie;361
+yes;no;no;ROUEN;238 Pl de la Presle;Ecole élémentaire de Beaubec-la-Rosière ;;76440.0;Beaubec-la-Rosière;;;;;;21.0;;;0761415A;;PUBLIC;28;Normandie;488
+yes;no;no;NANTES;Boulevard d'Andigne;Ecole élémentaire groupe scolaire Jean de la Fontaine ;;53200.0;Château-Gontier;;;;;;143.0;;;0530910B;;PUBLIC;52;Pays-de-la-Loire;11582
+yes;yes;no;NANCY-METZ;1 Ruelle de l'Ecole;Ecole élémentaire de Chardogne ;;55000.0;Chardogne;;;;;;16.0;14.0;;0550206A;;PUBLIC;44;Grand-Est;316
+yes;yes;no;NANCY-METZ;Chemin de Pilviteuil;Ecole maternelle d'application Jean Errard ;;55000.0;Bar-le-Duc;;;;;;97.0;88.0;;0550229A;;PUBLIC;44;Grand-Est;15950
+yes;yes;no;NANCY-METZ;64 Grande rue;Ecole de Demange-aux-Eaux ;;55130.0;Demange-aux-Eaux;;;;;;41.0;31.0;;0550488G;;PUBLIC;44;Grand-Est;523
+yes;yes;no;NANCY-METZ;Place des Chanoines;Ecole maternelle du Château ;;55200.0;Commercy;;;;;;72.0;68.0;;0550508D;;PUBLIC;44;Grand-Est;6220
+yes;no;no;ROUEN;69 rue de Soquence;Ecole maternelle Paul et Virginie ;;76600.0;Le Havre;;;;;;79.0;;;0762076U;;PUBLIC;28;Normandie;172074
+yes;yes;no;ROUEN;Avenue Charles de Gaulle;Ecole maternelle Jules collet ;;76290.0;Montivilliers;;;;;;98.0;87.0;;0762146V;;PUBLIC;28;Normandie;16198
+yes;no;no;ROUEN;127 rue de Saint Vaast;Ecole maternelle l'Arbre Qui Chante ;;76950.0;Les Grandes-Ventes;;;;;;69.0;;;0762342H;;PUBLIC;28;Normandie;1778
+yes;no;no;ROUEN;36 rue Paul Eluard;Ecole maternelle Marius Grout ;;76290.0;Montivilliers;;;;;;79.0;;;0762449Z;;PUBLIC;28;Normandie;16198
+yes;yes;no;ROUEN;55 Route de la Joserie;Ecole maternelle de la Houssaye-Béranger ;;76690.0;La Houssaye-Béranger;;;;;;34.0;23.0;;0762779H;;PUBLIC;28;Normandie;519
+yes;yes;no;NANCY-METZ;2 place de la Mairie;Ecole de Mont-le-Vignoble ;;54113.0;Mont-le-Vignoble;;;;;;44.0;37.0;;0542135C;;PUBLIC;44;Grand-Est;403
+yes;no;no;NANCY-METZ;50 Grand rue Grande rue;Ecole maternelle de Lebeuville ;;54740.0;Lebeuville;;;;;;17.0;;;0542476Y;;PUBLIC;44;Grand-Est;173
+yes;yes;no;RENNES;Hameau de Saint Raoul;Ecole primaire Fortune Le Cunff ;;56380.0;Guer;;;;;;46.0;41.0;;0560566L;;PUBLIC;53;Bretagne;6310
+yes;yes;no;NANCY-METZ;34 rue Charles de Gaulle;Ecole élémentaire Hellert ;;57850.0;Dabo;;;;;;20.0;19.0;;0570618M;;PUBLIC;44;Grand-Est;2605
+yes;yes;no;LILLE;Résidence Verdun ruE Pierre Larivi;Ecole maternelle Les Lutins ;;59440.0;Avesnes-sur-Helpe;;;;;;45.0;38.0;;0594228A;;PUBLIC;32;Hauts-de-France;4778
+yes;yes;no;LILLE;35 rue Richard Wagner;Ecole maternelle la Croisette ;;59000.0;Lille;;;;;;164.0;179.0;;0594695H;;PUBLIC;32;Hauts-de-France;231491
+yes;yes;no;REIMS;Rue du chêne;Ecole primaire de Frampas ;;52220.0;Frampas;;;;;;16.0;13.0;;0520637K;;PUBLIC;44;Grand-Est;167
+yes;yes;no;ROUEN;37 Route de Clères;Ecole élémentaire de la Houssaye-Béranger ;;76690.0;La Houssaye-Béranger;;;;;;42.0;42.0;;0760626T;;PUBLIC;28;Normandie;519
+yes;yes;no;ROUEN;198 Route de l'Eglise;Ecole élémentaire d'Anquetierville ;;76490.0;Anquetierville;;;;;;22.0;22.0;;0760667M;;PUBLIC;28;Normandie;352
+yes;no;no;AMIENS;Rue du Fort de Ville;Ecole maternelle de Boury-en-Vexin ;;60240.0;Boury-en-Vexin;;;;;;20.0;;;0600129P;;PUBLIC;32;Hauts-de-France;340
+yes;no;no;AMIENS;Ruelle Visette;Ecole maternelle de Duvy ;;60800.0;Duvy;;;;;;25.0;;;0600309K;;PUBLIC;32;Hauts-de-France;468
+yes;no;no;RENNES;Rue des Remparts;Ecole maternelle du Palais ;;56360.0;Le Palais;;;;;;31.0;;;0560341S;;PUBLIC;53;Bretagne;2580
+yes;yes;no;NANCY-METZ;14 rue Bellevue;Ecole élémentaire la Marelle ;;54113.0;Charmes-la-Côte;;;;;;24.0;22.0;;0540313X;;PUBLIC;44;Grand-Est;341
+yes;no;no;POITIERS;Avenue du Marais Poitevin;Ecole maternelle de Magné ;;79460.0;Magné;;;;;;75.0;;;0790934L;;PUBLIC;75;Nouvelle-Aquitaine;2680
+yes;no;no;AMIENS;Rue du calvaire;Ecole primaire de Treux ;;80300.0;Treux;;;;;;21.0;;;0800161R;;PUBLIC;32;Hauts-de-France;239
+yes;no;no;AMIENS;16 rue de Catalogne;Ecole maternelle de Belloy-en-Santerre ;;80200.0;Belloy-en-Santerre;;;;;;28.0;;;0800429G;;PUBLIC;32;Hauts-de-France;160
+yes;no;no;RENNES;Rue Etienne Kerangoarec;Ecole maternelle Réné Guy Cadou ;;56100.0;Lorient;;;;;;95.0;;;0561308T;;PUBLIC;53;Bretagne;57961
+yes;no;no;RENNES;Allée des Glycines;Ecole Réné Guy Cadou ;;56270.0;Ploemeur;;;;;;26.0;;;0561392J;;PUBLIC;53;Bretagne;18039
+yes;no;no;RENNES;Rue Arago;Ecole maternelle Paul Gauguin ;;56270.0;Ploemeur;;;;;;51.0;;;0561578L;;PUBLIC;53;Bretagne;18039
+yes;no;no;TOULOUSE;Labastide Basse;Ecole primaire de Labastide-Gabausse ;;81400.0;Labastide-Gabausse;;;;;;54.0;;;0810305S;;PUBLIC;76;Occitanie;471
+yes;no;no;NANCY-METZ;83 rue Principale;Ecole élémentaire de Lagarde ;;57810.0;Lagarde;;;;;;23.0;;;0571355N;;PUBLIC;44;Grand-Est;176
+yes;no;no;REIMS;;;;;;;;;;;14.0;;;0100215E;;PUBLIC;44;Grand-Est;0
+yes;yes;no;LILLE;2 place Réné Hamoir;Ecole primaire Georges Brassens niveau 1 ;;59600.0;Maubeuge;;;;;;82.0;77.0;;0591829T;;PUBLIC;32;Hauts-de-France;30567
+yes;no;no;CRETEIL;Place de la Mairie;Ecole élémentaire de Villiers-Saint-Georges ;;77560.0;Villiers-Saint-Georges;;;;;;102.0;;;0771470E;;PUBLIC;11;Île-de-France;1210
+yes;no;no;CRETEIL;Place de l'Eglise;Ecole maternelle de Villiers-Saint-Georges ;;77560.0;Villiers-Saint-Georges;;;;;;57.0;;;0771698C;;PUBLIC;11;Île-de-France;1210
+yes;no;no;REIMS;4 rue des Anciens Combattants;Ecole maternelle de Nogent-sur-Aube ;;10240.0;Nogent-sur-Aube;;;;;;25.0;;;0101048K;;PUBLIC;44;Grand-Est;348
+yes;no;no;REIMS;42 Grande rue;Ecole élémentaire de Coclois ;;10240.0;Coclois;;;;;;17.0;;;0101103V;;PUBLIC;44;Grand-Est;187
+yes;no;no;MONTPELLIER;Place de l'Hôtel de Ville;Ecole élémentaire Centre-Ville ;;11800.0;Trèbes;;;;;;101.0;;;0110881Y;;PUBLIC;76;Occitanie;5410
+yes;no;no;TOULOUSE;Le bourg;Ecole de Brasc ;;12550.0;Brasc;;;;;;13.0;;;0120200C;;PUBLIC;76;Occitanie;164
+yes;yes;no;TOULOUSE;Le bourg;Ecole maternelle de Montclar ;;12550.0;Montclar;;;;;;18.0;12.0;;0120476C;;PUBLIC;76;Occitanie;169
+yes;yes;no;TOULOUSE;Bez;Ecole élémentaire Bez ;;12700.0;Naussac;;;;;;30.0;32.0;;0120523D;;PUBLIC;76;Occitanie;356
+yes;no;no;TOULOUSE;15 rue de la gare;Ecole maternelle Paul Girard ;;12000.0;Rodez;;;;;;53.0;;;0120600M;;PUBLIC;76;Occitanie;23741
+yes;yes;no;TOULOUSE;Le bourg;Ecole élémentaire de Sauclières ;;12230.0;Sauclières;;;;;;23.0;13.0;;0120746W;;PUBLIC;76;Occitanie;142
+yes;yes;no;DIJON;9 chemin de Vannas;Ecole élémentaire de Tramayes ;;71520.0;Tramayes;;;;;;61.0;76.0;;0710220D;;PUBLIC;27;Bourgogne-et-Franche-Comté;1015
+yes;yes;no;GRENOBLE;Place de la Comédie;Ecole maternelle Novalaise ;;73470.0;Novalaise;;;;;;96.0;92.0;;0731308A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1982
+yes;no;no;GRENOBLE;;;;;;;;;;;44.0;;;0731407H;;PUBLIC;84;Auvergne-et-Rhône-Alpes;0
+yes;no;no;LILLE;68 rue de l'Epinette;Ecole primaire Marie-Louise Bogart ;;59660.0;Merville;;;;;;37.0;;;0591851S;;PUBLIC;32;Hauts-de-France;9713
+yes;yes;no;GRENOBLE;390 Route des écoles;Ecole maternelle de Sillingy ;;74330.0;Sillingy;;;;;;116.0;124.0;;0741202E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;4819
+yes;yes;no;GRENOBLE;18 allée du Champ du Poirier;Ecole maternelle d'Alby-sur-Chéran ;;74540.0;Alby-sur-Chéran;;;;;;114.0;103.0;;0741382A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2324
+yes;yes;no;CLERMONT-FERRAND;15 place de la Liberté;Ecole maternelle Elsa Triolet ;;3100.0;Montluçon;;;;;;54.0;38.0;;0030375S;;PUBLIC;84;Auvergne-et-Rhône-Alpes;37839
+yes;yes;no;LYON;88 rue de l'Arc;Ecole maternelle Camille Claudel ;;69400.0;Villefranche-sur-Saône;;;;;;106.0;107.0;;0691201F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;36531
+yes;yes;no;CAEN;11 rue Southampton;Ecole élémentaire d'Asnelles ;;14960.0;Asnelles;;;;;;75.0;70.0;;0140231A;;PUBLIC;28;Normandie;587
+yes;yes;no;CAEN;Le bourg;Ecole maternelle d'Ouilly-du-Houley ;;14590.0;Ouilly-du-Houley;;;;;;20.0;19.0;;0141683D;;PUBLIC;28;Normandie;223
+yes;no;no;CRETEIL;49 rue Benoît Malon;Ecole maternelle Benoît Malon 2 ;;94270.0;Le Kremlin-Bicêtre;;;;;;74.0;;;0941732X;;PUBLIC;11;Île-de-France;25863
+yes;no;no;AMIENS;Route de Neuilly;Ecole élémentaire de Breny ;;2210.0;Breny;;;;;;21.0;;;0020161P;;PUBLIC;32;Hauts-de-France;257
+yes;no;no;AMIENS;13 Grande rue;Ecole élémentaire de Brumetz ;;2810.0;Brumetz;;;;;;24.0;;;0020165U;;PUBLIC;32;Hauts-de-France;219
+yes;no;no;AMIENS;Rue du Général Augereau;Ecole élémentaire du Catelet ;;2420.0;Le Catelet;;;;;;43.0;;;0020192Y;;PUBLIC;32;Hauts-de-France;197
+yes;no;no;AMIENS;Rue Albert I;Ecole maternelle Groupe scolAire la Résidence ;;2300.0;Chauny;;;;;;52.0;;;0020263A;;PUBLIC;32;Hauts-de-France;11874
+yes;yes;no;AMIENS;8 rue de la Mairie;Ecole maternelle de Courtemont-Varennes ;;2850.0;Courtemont-Varennes;;;;;;52.0;44.0;;0020581W;;PUBLIC;32;Hauts-de-France;289
+yes;no;no;AMIENS;Rue du Presbytère;Ecole élémentaire de Montigny-le-Franc ;;2250.0;Montigny-le-Franc;;;;;;15.0;;;0020736P;;PUBLIC;32;Hauts-de-France;152
+yes;no;no;AMIENS;12 rue des Rognons;Ecole élémentaire de Joncourt ;;2420.0;Joncourt;;;;;;17.0;;;0020949W;;PUBLIC;32;Hauts-de-France;314
+yes;no;no;AMIENS;Rue de Sains;Ecole élémentaire du Hérie-la-Viéville ;;2120.0;Le Hérie-la-Viéville;;;;;;21.0;;;0021119F;;PUBLIC;32;Hauts-de-France;239
+yes;no;no;AMIENS;Place d'Alsace Lorraine;Ecole maternelle Groupe scolaire Saint-Waast ;;2200.0;Soissons;;;;;;116.0;;;0021195N;;PUBLIC;32;Hauts-de-France;28472
+yes;no;no;CRETEIL;29 rue Albert 1er;Ecole élémentaire Paul Langevin ;;94600.0;Choisy-le-Roi;;;;;;517.0;;;0942080A;;PUBLIC;11;Île-de-France;42769
+yes;no;no;AMIENS;7 rue Fernand Jumeaux;Ecole élémentaire de Parpeville ;;2240.0;Parpeville;;;;;;20.0;;;0021464F;;PUBLIC;32;Hauts-de-France;223
+yes;no;no;AMIENS;Impasse du Sapincourt;Ecole maternelle Groupe scolaire r.fiolet N1 ;;2200.0;Soissons;;;;;;136.0;;;0021806C;;PUBLIC;32;Hauts-de-France;28472
+yes;no;no;LYON;141 rue Eugène Dubois;Ecole maternelle de Vonnas ;;1540.0;Vonnas;;;;;;78.0;;;0010958L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;2919
+yes;no;no;BESANCON;Rue Corne;Ecole de Varogne ;;70240.0;Varogne;;;;;;20.0;;;0700308E;;PUBLIC;27;Bourgogne-et-Franche-Comté;140
+yes;no;no;BESANCON;Route de Pont de Planches;Ecole maternelle de Vezet ;;70130.0;Vezet;;;;;;14.0;;;0700756S;;PUBLIC;27;Bourgogne-et-Franche-Comté;188
+yes;no;no;TOULOUSE;Rue de la Mairie;Ecole maternelle Paul Leygue ;;82110.0;Lauzerte;;;;;;40.0;;;0820693H;;PUBLIC;76;Occitanie;1479
+yes;yes;no;STRASBOURG;48 rue d'Untergrombach Echery;Ecole élémentaire Echery ;;68160.0;Sainte-Marie-aux-Mines;;;;;;37.0;31.0;;0680473V;;PUBLIC;44;Grand-Est;5193
+yes;no;no;DIJON;Le bourg;Ecole de Suin ;;71220.0;Suin;;;;;;11.0;;;0710503L;;PUBLIC;27;Bourgogne-et-Franche-Comté;286
+yes;no;no;NICE;Chemin du Moulin Premier;Ecole maternelle Marcel Pagnol ;;83260.0;La Crau;;;;;;107.0;;;0831525G;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;16612
+yes;yes;no;TOULOUSE;1 rue du Bourg;Ecole maternelle de Lau-Balagnas ;;65400.0;Lau-Balagnas;;;;;;10.0;8.0;;0650851X;;PUBLIC;76;Occitanie;506
+yes;no;no;MARTINIQUE;Cité Calebasse;Ecole maternelle Ravenala ;;97200.0;Fort-de-France;;;;;;64.0;;;9720464X;;PUBLIC;2;Martinique;84174
+yes;yes;no;STRASBOURG;22 rue du Genie;Ecole maternelle Genie ;;67190.0;Mutzig;;;;;;58.0;57.0;;0670213T;;PUBLIC;44;Grand-Est;5864
+yes;no;no;MAYOTTE;Tsingoni;Ecole élémentaire spéciale Tsingoni PPF ;;97680.0;Tsingoni;;;;;;5.0;;;9760109P;;PUBLIC;6;Mayotte;0
+yes;no;no;MAYOTTE;Bandrele;Ecole maternelle Dapani maternelle ;;97660.0;Bandrele;;;;;;221.0;;;9760269N;;PUBLIC;6;Mayotte;0
+yes;no;no;CORSE;Casuccio;Ecole maternelle Morsiglia ;;20238.0;Morsiglia;;;;;;5.0;;;7200076V;;PUBLIC;94;Corse;133
+yes;no;no;GUADELOUPE;17 rue Chevalier Saint Georges;Ecole primaire Elie Chaufrein ;;97100.0;Basse-Terre;;;;;;54.0;;;9710136W;;PUBLIC;1;Guadeloupe;11150
+yes;yes;no;GUADELOUPE;Boulevard Chanzy;Ecole primaire Cideme Salvator ;;97110.0;Pointe-à-Pitre;;;;;;99.0;88.0;;9710192G;;PUBLIC;1;Guadeloupe;15826
+yes;no;no;GUADELOUPE;Route de Vieux Bourg;Ecole élémenTaire d'application Jean Zebus ;;97139.0;Les Abymes;;;;;;115.0;;;9710290N;;PUBLIC;1;Guadeloupe;57960
+yes;yes;no;GUADELOUPE;Lieu-dit LES PLAINES;Ecole maternelle Grand-Camp 1;971.0;97142.0;Les Abymes;Guadeloupe;OUVERT;16.252265123644975;GRAND CAMP;-61.535938037932475;120.0;106.0;;9710724K;GRAND-CAMP 1;PUBLIC;1;Guadeloupe;57960
+yes;no;no;GUADELOUPE;8 chemin Communal;Ecole maternelle Géry Vieux-Habitants ;;97119.0;Vieux-Habitants;;;;;;37.0;;;9710876A;;PUBLIC;1;Guadeloupe;7425
+yes;no;no;GUADELOUPE;Section Faup;Ecole maternelle Faup ;;97112.0;Grand-Bourg;;;;;;42.0;;;9710919X;;PUBLIC;1;Guadeloupe;5376
+yes;no;no;MARTINIQUE;28 avenue du Général de Gaulle;Ecole élémentaire Carbet B ;;97221.0;Le Carbet;;;;;;90.0;;;9720108K;;PUBLIC;2;Martinique;3742
+yes;no;no;DIJON;1 rue de la Maladière;Ecole maternelle Les Clairions ;;89000.0;Auxerre;;;;;;62.0;;;0890418W;;PUBLIC;27;Bourgogne-et-Franche-Comté;34869
+yes;no;no;DIJON;4 place de la Mairie;Ecole primaire de Chassignelles ;;89160.0;Chassignelles;;;;;;12.0;;;0890681G;;PUBLIC;27;Bourgogne-et-Franche-Comté;325
+yes;yes;no;DIJON;9 rue d'Orléans;Ecole maternelle de Cravant ;;89460.0;Cravant;;;;;;39.0;50.0;;0890990T;;PUBLIC;27;Bourgogne-et-Franche-Comté;850
+yes;no;no;DIJON;3 rue des écoles;Ecole maternelle de Quarré-les-Tombes ;;89630.0;Quarré-les-Tombes;;;;;;46.0;;;0891153V;;PUBLIC;27;Bourgogne-et-Franche-Comté;705
+yes;yes;no;CAEN;Le bourg;Ecole maternelle de Heugon ;;61470.0;Heugon;;;;;;27.0;20.0;;0610490B;;PUBLIC;28;Normandie;240
+yes;no;no;POITIERS;25 rue Henri Sellier;Ecole maternelle Groupe scolaire Emile Zola ;;79000.0;Niort;;;;;;94.0;;;0790753P;;PUBLIC;75;Nouvelle-Aquitaine;57393
+yes;no;no;AMIENS;1 rue d'Herbecourt;Ecole primaire d'Assevillers ;;80200.0;Assevillers;;;;;;23.0;;;0800428F;;PUBLIC;32;Hauts-de-France;286
+yes;yes;no;AMIENS;9 rue de l'église;Ecole de Proyart ;;80340.0;Proyart;;;;;;74.0;72.0;;0800445Z;;PUBLIC;32;Hauts-de-France;667
+yes;no;no;DIJON;2 rue de l'Eglise;Ecole maternelle Saint-Exupéry ;;89140.0;Cuy;;;;;;32.0;;;0891188H;;PUBLIC;27;Bourgogne-et-Franche-Comté;811
+yes;no;no;BESANCON;Route de Delle;Ecole primaire Sevenans ;;90400.0;Sevenans;;;;;;23.0;;;0900041F;;PUBLIC;27;Bourgogne-et-Franche-Comté;700
+yes;no;no;VERSAILLES;Allée de Québec;Ecole élémentaire Moulin-Pasteur ;;91300.0;Massy;;;;;;227.0;;;0910702U;;PUBLIC;11;Île-de-France;45902
+yes;no;no;POITIERS;10 rue Anne Frank;Ecole maternelle Anne Frank Besse ;;86540.0;Thuré;;;;;;47.0;;;0861050Z;;PUBLIC;75;Nouvelle-Aquitaine;2892
+yes;no;no;LIMOGES;Avenue Général Chambe;Ecole Bellegarde ;;87100.0;Limoges;;;;;;20.0;;;0870259J;;PUBLIC;75;Nouvelle-Aquitaine;135098
+yes;no;no;TOULOUSE;Le bourg;Ecole de Taïx ;;81130.0;Taïx;;;;;;24.0;;;0810333X;;PUBLIC;76;Occitanie;429
+yes;yes;no;GUADELOUPE;Rue Gerville Réache;Ecole primaire Bourg 2 Trois-Rivières ;;97114.0;Trois-Rivières;;;;;;173.0;165.0;;9710307G;;PUBLIC;1;Guadeloupe;8578
+yes;no;no;GUADELOUPE;Jabrun Saint Cyr;Ecole primaire Marcelle Blanchinet ;;97111.0;Morne-à-l'Eau;;;;;;34.0;;;9710602C;;PUBLIC;1;Guadeloupe;17046
+yes;no;no;CRETEIL;2 rue P Brossolette;Ecole élémentaire Nobel ;;93270.0;Sevran;;;;;;160.0;;;0931153Y;;PUBLIC;11;Île-de-France;49465
+yes;yes;no;NANCY-METZ;31 rue du 149ème RI;Ecole maternelle 149e Ri ;;88000.0;Épinal;;;;;;66.0;63.0;;0880278Z;;PUBLIC;44;Grand-Est;32188
+yes;no;no;NANCY-METZ;1 rue de l'Abbé de Barville;Ecole maternelle Centre ;;88450.0;Vincey;;;;;;38.0;;;0880723H;;PUBLIC;44;Grand-Est;2238
+yes;no;no;NANCY-METZ;Allée Emile Gerlach;Ecole maternelle Joli Bois ;;88110.0;Raon-l'Étape;;;;;;46.0;;;0880829Y;;PUBLIC;44;Grand-Est;6422
+yes;yes;no;NANCY-METZ;6 rue de la 2ème DB;Ecole primaire Bouxières ;;88150.0;Thaon-les-Vosges;;;;;;192.0;183.0;;0881606T;;PUBLIC;44;Grand-Est;7895
+yes;yes;no;DIJON;10  RUE PRINCIPALE;Ecole élémentaire La Chapelle;89.0;89340.0;Champigny;Yonne;OUVERT;48.31471065720285;;3.1491395345899416;61.0;47.0;;0890201K;LA CHAPELLE;PUBLIC;27;Bourgogne-et-Franche-Comté;2248
+yes;no;no;GUADELOUPE;Desbonnes;Ecole maternelle Beauperthuy Daniel ;;97115.0;Sainte-Rose;;;;;;26.0;;;9711162L;;PUBLIC;1;Guadeloupe;20144
+yes;no;no;CRETEIL;49 rue Benoît Malon;Ecole maternelle Benoît Malon 1 ;;94270.0;Le Kremlin-Bicêtre;;;;;;100.0;;;0940402B;;PUBLIC;11;Île-de-France;25863
+yes;yes;no;CRETEIL;Boulevard de Friedberg;Ecole élémentaire Albert Camus ;;94350.0;Villiers-sur-Marne;;;;;;241.0;266.0;;0941274Z;;PUBLIC;11;Île-de-France;28190
+yes;yes;no;LIMOGES;Hameau de Puy Mery;Ecole primaire Puy Mery ;;87110.0;Le Vigen;;;;;;43.0;45.0;;0870479Y;;PUBLIC;75;Nouvelle-Aquitaine;2068
+yes;no;no;VERSAILLES;7 rue Flammarion;Ecole maternelle Flammarion ;;95600.0;Eaubonne;;;;;;99.0;;;0951035J;;PUBLIC;11;Île-de-France;24606
+yes;no;no;LIMOGES;Le bourg;Ecole Sussac ;;87130.0;Sussac;;;;;;15.0;;;0870515M;;PUBLIC;75;Nouvelle-Aquitaine;342
+yes;no;no;LIMOGES;2 rue Charles Gide;Ecole l'Abbessaille ;;87000.0;Limoges;;;;;;71.0;;;0870680S;;PUBLIC;75;Nouvelle-Aquitaine;135098
+yes;no;no;MAYOTTE;Mtsamoudou;Ecole élémentaire Mtsamoudou ;;97660.0;Bandrele;;;;;;5.0;;;9760033G;;PUBLIC;6;Mayotte;0
+yes;yes;no;POITIERS;16 avenue Jean Jaurès;Ecole primaire Pablo Néruda ;;86530.0;Naintré;;;;;;110.0;99.0;;0861089S;;PUBLIC;75;Nouvelle-Aquitaine;5850
+yes;no;no;LIMOGES;2 place du Presidial;Ecole élémentaire Presidial ;;87000.0;Limoges;;;;;;76.0;;;0870278E;;PUBLIC;75;Nouvelle-Aquitaine;135098
+yes;yes;no;POITIERS;Place de la Mairie;Ecole d'Antigny ;;86310.0;Antigny;;;;;;20.0;10.0;;0860090F;;PUBLIC;75;Nouvelle-Aquitaine;578
+yes;no;no;POITIERS;1 rue St Martial;Ecole primaire Saint-Martial ;;86300.0;Chauvigny;;;;;;47.0;;;0860223A;;PUBLIC;75;Nouvelle-Aquitaine;7086
+yes;no;no;POITIERS;Rue de Belgique;Ecole primaire Ville haute ;;86500.0;Montmorillon;;;;;;78.0;;;0860399S;;PUBLIC;75;Nouvelle-Aquitaine;6197
+yes;no;no;VERSAILLES;4 chemin des Hauts Toupets;Ecole maternelle Les Hauts Toupets ;;95490.0;Vauréal;;;;;;102.0;;;0951629E;;PUBLIC;11;Île-de-France;15705
+yes;no;no;VERSAILLES;Rue Robert Lepeltier;Ecole maternelle Georges Duhamel ;;95660.0;Champagne-sur-Oise;;;;;;96.0;;;0951845P;;PUBLIC;11;Île-de-France;4717
+yes;no;no;NANCY-METZ;10 rue Le Village;Ecole primaire de Belmont-sur-Buttant ;;88600.0;Belmont-sur-Buttant;;;;;;17.0;;;0880467E;;PUBLIC;44;Grand-Est;288
+yes;no;no;NANCY-METZ;30 rue Maurice Lemaire;Ecole de Colroy-la-Grande ;;88490.0;Colroy-la-Grande;;;;;;49.0;;;0881081X;;PUBLIC;44;Grand-Est;535
+yes;no;no;POITIERS;Rue Pouzillard;Ecole maternelle Louise Michel ;;86300.0;Chauvigny;;;;;;38.0;;;0860716L;;PUBLIC;75;Nouvelle-Aquitaine;7086
+yes;yes;no;GUADELOUPE;46 rue Schoëlcher;Ecole primaire Amédée Fengarol 1 ;;97110.0;Pointe-à-Pitre;;;;;;167.0;148.0;;9710191F;;PUBLIC;1;Guadeloupe;15826
+yes;no;no;NANTES;2 rue Tulipes Hameau des Conches;Ecole Les Tulipes ;;85560.0;Longeville-sur-Mer;;;;;;18.0;;;0850361F;;PUBLIC;52;Pays-de-la-Loire;2455
+yes;yes;no;VERSAILLES;55 rue de Villeneuve;Ecole maternelle du Landy ;;92110.0;Clichy;;;;;;100.0;83.0;;0922453S;;PUBLIC;11;Île-de-France;59255
+yes;no;no;VERSAILLES;103 rue Maurice Arnoux;Ecole maternelle Maurice Arnoux ;;92120.0;Montrouge;;;;;;150.0;;;0922576A;;PUBLIC;11;Île-de-France;49656
+yes;no;no;LA REUNION;122 rue des Lataniers;Ecole maternelle Evariste Courteaud ;;97419.0;La Possession;;;;;;11.0;;;9740185H;;PUBLIC;4;La-Réunion;31439
+yes;no;no;LA REUNION;Route de Cilaos;Ecole primaire Leon Dierx;974.0;97421.0;Saint-Louis;La Réunion;OUVERT;-21.2437667537053;;55.45668411349524;5.0;;;9740275F;LEON DIERX;PUBLIC;4;La-Réunion;52656
+yes;yes;no;CRETEIL;9 avenue du Stade;Ecole maternelle Fort du Bois ;;77400.0;Lagny-sur-Marne;;;;;;78.0;88.0;;0770439J;;PUBLIC;11;Île-de-France;20718
+yes;yes;no;CRETEIL;Place de la Mairie;Ecole élémentaire de Nesles la Gilberde ;;77540.0;Lumigny-Nesles-Ormeaux;;;;;;51.0;43.0;;0770842X;;PUBLIC;11;Île-de-France;1543
+yes;yes;no;CRETEIL;1 rue Nicolas Tappereau;Ecole maternelle Les Mezereaux 2 ;;77000.0;Melun;;;;;;98.0;103.0;;0771586F;;PUBLIC;11;Île-de-France;40066
+yes;yes;no;LYON;Place Bouvier;Ecole maternelle Centre ;;42600.0;Montbrison;;;;;;45.0;122.0;;0420304C;;PUBLIC;84;Auvergne-et-Rhône-Alpes;15673
+yes;yes;no;LYON;Cité Piotière;Ecole maternelle Piotière ;;42230.0;Roche-la-Molière;;;;;;28.0;24.0;;0420335L;;PUBLIC;84;Auvergne-et-Rhône-Alpes;10093
+yes;yes;no;LYON;Le Chapitre;Ecole primaire Le Bourg ;;42130.0;Leigneux;;;;;;46.0;46.0;;0420505W;;PUBLIC;84;Auvergne-et-Rhône-Alpes;401
+yes;yes;no;LYON;Rue Emile Zola-La Chapelle;Ecole maternelle Rimbaud ;;42160.0;Andrézieux-Bouthéon;;;;;;101.0;97.0;;0421188N;;PUBLIC;84;Auvergne-et-Rhône-Alpes;9844
+yes;yes;no;LYON;5 allée Jean Racine;Ecole maternelle Monthieu ;;42100.0;Saint-Étienne;;;;;;90.0;79.0;;0421509M;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;yes;no;CRETEIL;5 place Thomas Le Pilleur;Ecole élémentaire Robert Doisneau ;;77700.0;Serris;;;;;;127.0;128.0;;0772507G;;PUBLIC;11;Île-de-France;8369
+yes;yes;no;CLERMONT-FERRAND;4 route du Mazet;Ecole Elémentaire;43.0;43400.0;Le Chambon-sur-Lignon;Haute-Loire;OUVERT;45.05893830362381;;4.301964332531123;110.0;93.0;;0430515B;LE CHAMBON-SUR-LIGNON;PUBLIC;84;Auvergne-et-Rhône-Alpes;2570
+yes;yes;no;REIMS;Rue André Malraux;Ecole maternelle Croix Dampierre ;;51000.0;Châlons-en-Champagne;;;;;;81.0;76.0;;0511613B;;PUBLIC;44;Grand-Est;44899
+yes;yes;no;REIMS;7 rue des Hauts;Ecole maternelle de Val-des-Marais ;;51130.0;Val-des-Marais;;;;;;52.0;50.0;;0511919J;;PUBLIC;44;Grand-Est;568
+yes;yes;no;REIMS;2 rue des écoles;Ecole de Suzannecourt ;;52300.0;Suzannecourt;;;;;;30.0;24.0;;0520108K;;PUBLIC;44;Grand-Est;358
+yes;yes;no;NANCY-METZ;1 place de la Mairie;Ecole élémentaire d'Anoux ;;54150.0;Anoux;;;;;;37.0;16.0;;0540160F;;PUBLIC;44;Grand-Est;252
+yes;yes;no;AMIENS;13 Grande rue Grande rue;Ecole de Villers-sur-Trie ;;60590.0;Villers-sur-Trie;;;;;;20.0;22.0;;0601686G;;PUBLIC;32;Hauts-de-France;336
+yes;yes;no;PARIS;51 rue Ramponeau;Ecole primaire Ramponeau ;;75020.0;Paris;;;;;;112.0;97.0;;0750979G;;PUBLIC;11;Île-de-France;194771
+yes;yes;no;LILLE;19 A rue Principale;Ecole primaire de Coyecques ;;62560.0;Coyecques;;;;;;73.0;80.0;;0621750R;;PUBLIC;32;Hauts-de-France;576
+yes;yes;no;LILLE;20 bis rue de Fruges;Ecole primaire Jacques Prévert ;;62130.0;Saint-Pol-sur-Ternoise;;;;;;209.0;223.0;;0622062E;;PUBLIC;32;Hauts-de-France;5081
+yes;yes;no;LILLE;Rue Blanqui;Ecole maternelle Adrienne Berteloot ;;62800.0;Liévin;;;;;;87.0;89.0;;0622283V;;PUBLIC;32;Hauts-de-France;31517
+yes;no;no;ORLEANS-TOURS;Rue des Fontenils;Ecole maternelle Rochelude ;;37500.0;Chinon;;;;;;35.0;;;0370301B;;PUBLIC;24;Centre-Val-de-Loire;8044
+yes;no;no;ORLEANS-TOURS;16 rue Jean Moulin;Ecole maternelle Moulin  ;;37540.0;Saint-Cyr-sur-Loire;;;;;;74.0;;;0370804Y;;PUBLIC;24;Centre-Val-de-Loire;16239
+yes;yes;no;ORLEANS-TOURS;7 rue des écoles;Ecole maternelle Lebert ;;37230.0;Luynes;;;;;;100.0;76.0;;0371106B;;PUBLIC;24;Centre-Val-de-Loire;5207
+yes;no;no;GRENOBLE;Place Albert Rivet;Ecole maternelle Le Bourg ;;38770.0;La Motte-d'Aveillans;;;;;;54.0;;;0381653R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1797
+yes;yes;no;MONTPELLIER;4 rue du 81e Régiment d'infanterie;Ecole élementaire publique internat d'excellence;34.0;34080.0;Montpellier;Hérault;;43.62007;;3.87669;9.0;;;0342280U;;PUBLIC;76;Occitanie;272084
+yes;yes;no;ORLEANS-TOURS;Le bourg;Ecole élémentaire de Vijon ;;36160.0;Vijon;;;;;;17.0;16.0;;0360076M;;PUBLIC;24;Centre-Val-de-Loire;309
+yes;no;no;ORLEANS-TOURS;64 avenue de la République;Ecole primaire Ré ;;37540.0;Saint-Cyr-sur-Loire;;;;;;98.0;;;0370148K;;PUBLIC;24;Centre-Val-de-Loire;16239
+yes;no;no;ROUEN;14 rue d'Artois Saint Michel;Ecole maternelle Jean Macé ;;27000.0;Évreux;;;;;;198.0;;;0270068C;;PUBLIC;28;Normandie;49722
+yes;no;no;ROUEN;4 rue Anatole France;Ecole maternelle Maxime Marchand ;;27000.0;Évreux;;;;;;97.0;;;0270073H;;PUBLIC;28;Normandie;49722
+yes;yes;no;ROUEN;4 rue de l'Eglise;Ecole élémentaire de Saint-Vincent-du-Boulay ;;27230.0;Saint-Vincent-du-Boulay;;;;;;43.0;45.0;;0270337V;;PUBLIC;28;Normandie;350
+yes;yes;no;ROUEN;4 rue de l'Iton;Ecole élémentaire de Saint-Germain-des-Angles ;;27930.0;Saint-Germain-des-Angles;;;;;;25.0;26.0;;0270503A;;PUBLIC;28;Normandie;196
+yes;no;no;ROUEN;59 rue Saint Germain;Ecole élémentaire Evreux rue Saint-Germain ;;27000.0;Évreux;;;;;;67.0;;;0271805R;;PUBLIC;28;Normandie;49722
+yes;yes;no;ORLEANS-TOURS;18 rue du Général Lebreton;Ecole élémentaire de Luigny ;;28480.0;Luigny;;;;;;16.0;17.0;;0280376G;;PUBLIC;24;Centre-Val-de-Loire;403
+yes;yes;no;ORLEANS-TOURS;2 rue Saint Martin;Ecole élémentaire de Vieuvicq ;;28120.0;Vieuvicq;;;;;;25.0;22.0;;0280449L;;PUBLIC;24;Centre-Val-de-Loire;469
+yes;no;no;ORLEANS-TOURS;1 rue des Acacias;Ecole maternelle Groupe scolaire Jean Macé ;;28400.0;Nogent-le-Rotrou;;;;;;57.0;;;0280543N;;PUBLIC;24;Centre-Val-de-Loire;10496
+yes;yes;no;VERSAILLES;18 Grande rue Grand rue;Ecole Antoine de St.exupery ;;91590.0;Orveau;;;;;;8.0;5.0;;0910160E;;PUBLIC;11;Île-de-France;194
+yes;yes;no;TOULOUSE;Le village;Ecole élémentaire Tournan ;;32420.0;Tournan;;;;;;20.0;22.0;;0320313S;;PUBLIC;76;Occitanie;205
+yes;no;no;CRETEIL;52 avenue du Bois;Ecole maternelle Paris ;;94430.0;Chennevières-sur-Marne;;;;;;55.0;;;0940721Y;;PUBLIC;11;Île-de-France;18134
+yes;no;no;GRENOBLE;Le bourg;Ecole maternelle de Brézins ;;38590.0;Brézins;;;;;;73.0;;;0382478M;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1917
+yes;no;no;GRENOBLE;Rue Jean Moulin Cidex 725;Ecole maternelle mas de la Raz ;;38090.0;Villefontaine;;;;;;83.0;;;0382587F;;PUBLIC;84;Auvergne-et-Rhône-Alpes;18168
+yes;no;no;GRENOBLE;Rue Aimé Paquet;Ecole maternelle Doudard de Lagrée ;;38660.0;Saint-Vincent-de-Mercuze;;;;;;40.0;;;0383002G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;1476
+yes;no;no;BESANCON;2 rue de Salins;Ecole élémentaire de Lemuy ;;39110.0;Lemuy;;;;;;42.0;;;0390454G;;PUBLIC;27;Bourgogne-et-Franche-Comté;233
+yes;no;no;BESANCON;10 cours Georges Clémenceau;Ecole élémentaire Jeanne d'Arc ;;39100.0;Dole;;;;;;112.0;;;0391066X;;PUBLIC;27;Bourgogne-et-Franche-Comté;23312
+yes;yes;no;VERSAILLES;6 bis avenue de Sequigny;Ecole maternelle Les Erables ;;91360.0;Villemoisson-sur-Orge;;;;;;87.0;86.0;;0911883C;;PUBLIC;11;Île-de-France;6950
+yes;yes;no;VERSAILLES;3 allée Louvois;Ecole élémentaire la marché ;;92430.0;Marnes-la-Coquette;;;;;;59.0;63.0;;0920758Z;;PUBLIC;11;Île-de-France;1673
+yes;no;no;ORLEANS-TOURS;20 rue des Tilleuls;Ecole primaire d'Huêtre ;;45520.0;Huêtre;;;;;;23.0;;;0450459E;;PUBLIC;24;Centre-Val-de-Loire;279
+yes;no;no;TOULOUSE;Rue Pech Barriat;Ecole maternelle de Limogne-en-Quercy ;;46260.0;Limogne-en-Quercy;;;;;;47.0;;;0460200T;;PUBLIC;76;Occitanie;786
+yes;no;no;TOULOUSE;Le bourg;Ecole primaire d'Anglars ;;46120.0;Anglars;;;;;;20.0;;;0460391A;;PUBLIC;76;Occitanie;206
+yes;no;no;TOULOUSE;Le bourg;Ecole maternelle de Luzech ;;46140.0;Luzech;;;;;;62.0;;;0460523U;;PUBLIC;76;Occitanie;1711
+yes;no;no;REIMS;6 place de la République;Ecole maternelle d'Aigny ;;51150.0;Aigny;;;;;;22.0;;;0510606G;;PUBLIC;44;Grand-Est;263
+yes;no;no;REIMS;15 avenue Charles de Gaulle;Ecole maternelle d'application Jean de la Fontaine ;;51000.0;Châlons-en-Champagne;;;;;;62.0;;;0510630H;;PUBLIC;44;Grand-Est;44899
+yes;no;no;REIMS;9 rue Georges Lainé;Ecole maternelle de Broyes ;;51120.0;Broyes;;;;;;14.0;;;0511584V;;PUBLIC;44;Grand-Est;367
+yes;no;no;NANCY-METZ;3 rue du 8 Mai 1945;Ecole maternelle Irène Joliot-Curie ;;54580.0;Auboué;;;;;;50.0;;;0540179B;;PUBLIC;44;Grand-Est;2536
+yes;no;no;LYON;Rue de la Paix;Ecole maternelle Pasteur ;;42160.0;Andrézieux-Bouthéon;;;;;;69.0;;;0420104K;;PUBLIC;84;Auvergne-et-Rhône-Alpes;9844
+yes;yes;no;LYON;5 rue de l'Alcazar;Ecole maternelle Bois de la Barge ;;42700.0;Firminy;;;;;;73.0;78.0;;0420267M;;PUBLIC;84;Auvergne-et-Rhône-Alpes;17066
+yes;no;no;LYON;Montée du Docteur Odin;Ecole maternelle Petit Prince ;;42330.0;Saint-Galmier;;;;;;117.0;;;0421199A;;PUBLIC;84;Auvergne-et-Rhône-Alpes;5643
+yes;no;no;NANCY-METZ;3 rue de Sancy;Ecole élémentaire d'Anderny ;;54560.0;Anderny;;;;;;14.0;;;0540157C;;PUBLIC;44;Grand-Est;259
+yes;no;no;NANCY-METZ;;;;;;;;;;;19.0;;;0540211L;;PUBLIC;44;Grand-Est;0
+yes;yes;no;STRASBOURG;108 rue du Four;Ecole maternelle de Goxwiller ;;67210.0;Goxwiller;;;;;;45.0;50.0;;0670196Z;;PUBLIC;44;Grand-Est;852
+yes;yes;no;BORDEAUX;1 rue François Mitterrand;Ecole maternelle Groupe scolaire J.g Teyssier ;;33990.0;Hourtin;;;;;;108.0;110.0;;0332328B;;PUBLIC;75;Nouvelle-Aquitaine;3375
+yes;no;no;STRASBOURG;4 rue de Saverne;Ecole élémentaire de Gottenhouse ;;67700.0;Gottenhouse;;;;;;20.0;;;0671133T;;PUBLIC;44;Grand-Est;393
+yes;no;no;STRASBOURG;15 rue de Haguenau;Ecole maternelle Philippe Chretien Schweitzer ;;67350.0;Pfaffenhoffen;;;;;;129.0;;;0671466E;;PUBLIC;44;Grand-Est;2794
+yes;no;no;STRASBOURG;17 rue de Phalsbourg;Ecole maternelle de Drulingen ;;67320.0;Drulingen;;;;;;38.0;;;0672148W;;PUBLIC;44;Grand-Est;1483
+yes;no;no;STRASBOURG;10 rue des écoles;Ecole maternelle de Lembach ;;67510.0;Lembach;;;;;;56.0;;;0672152A;;PUBLIC;44;Grand-Est;1614
+yes;yes;no;STRASBOURG;Rue des écoles;Ecole élémentaire de Wisches ;;67130.0;Wisches;;;;;;69.0;55.0;;0672228H;;PUBLIC;44;Grand-Est;2121
+yes;no;no;NANCY-METZ;Grande rue;Ecole de Val-et-Châtillon ;;54480.0;Val-et-Châtillon;;;;;;37.0;;;0542078R;;PUBLIC;44;Grand-Est;623
+yes;no;no;NANTES;6 avenue Victor Hugo;Ecole maternelle de Longué-Jumelles ;;49160.0;Longué-Jumelles;;;;;;52.0;;;0490123T;;PUBLIC;52;Pays-de-la-Loire;6875
+yes;yes;no;TOULOUSE;Le village;Ecole Beaucaire ;;32410.0;Beaucaire;;;;;;25.0;15.0;;0320426P;;PUBLIC;76;Occitanie;276
+yes;no;no;STRASBOURG;46 Grand rue;Ecole maternelle Pierre Pflimlin ;;67350.0;Uberach;;;;;;35.0;;;0672362D;;PUBLIC;44;Grand-Est;1178
+yes;no;no;STRASBOURG;2 rue de l'église;Ecole maternelle de Burnhaupt-le-Bas ;;68520.0;Burnhaupt-le-Bas;;;;;;75.0;;;0680649L;;PUBLIC;44;Grand-Est;1828
+yes;no;no;STRASBOURG;5 rue de Muespach;Ecole maternelle de Roppentzwiller ;;68480.0;Roppentzwiller;;;;;;32.0;;;0680679U;;PUBLIC;44;Grand-Est;689
+yes;yes;no;STRASBOURG;57 Grand rue;Ecole maternelle de Kruth ;;68820.0;Kruth;;;;;;36.0;34.0;;0680707Z;;PUBLIC;44;Grand-Est;959
+yes;no;no;MONTPELLIER;25 rue Alberti;Ecole maternelle Port Ariane ;;34970.0;Lattes;;;;;;97.0;;;0341861N;;PUBLIC;76;Occitanie;15748
+yes;yes;no;STRASBOURG;4 rue des Roitelets;Ecole maternelle la Colombe ;;68500.0;Issenheim;;;;;;35.0;50.0;;0681455M;;PUBLIC;44;Grand-Est;3457
+yes;no;no;STRASBOURG;8 rue des écoles;Ecole maternelle de Wolfgantzen ;;68600.0;Wolfgantzen;;;;;;28.0;;;0681518F;;PUBLIC;44;Grand-Est;1041
+yes;no;no;BESANCON;1 rue de l'Ecole;Ecole de Saint-Germain-en-Montagne ;;39300.0;Saint-Germain-en-Montagne;;;;;;82.0;;;0390301R;;PUBLIC;27;Bourgogne-et-Franche-Comté;451
+yes;no;no;NANTES;5 rue relais du Petit Verger;Ecole maternelle de Noyant ;;49490.0;Noyant;;;;;;65.0;;;0491850V;;PUBLIC;52;Pays-de-la-Loire;1879
+yes;no;no;RENNES;Rue de Botkermarrec;Ecole maternelle du Centre ;;56150.0;Baud;;;;;;68.0;;;0560668X;;PUBLIC;53;Bretagne;6126
+yes;no;no;CLERMONT-FERRAND;;;;;;;;;;;11.0;;;0430256V;;PUBLIC;84;Auvergne-et-Rhône-Alpes;0
+yes;no;no;RENNES;Rue de Galway;Ecole maternelle Jean Paul Sartre ;;56100.0;Lorient;;;;;;44.0;;;0561493U;;PUBLIC;53;Bretagne;57961
+yes;no;no;NANCY-METZ;2 rue Principale;Ecole élémentaire de Berviller-en-Moselle ;;57550.0;Berviller-en-Moselle;;;;;;12.0;;;0570770C;;PUBLIC;44;Grand-Est;496
+yes;no;no;NANCY-METZ;Rue Saint-Etienne;Ecole maternelle de Wittring ;;57905.0;Wittring;;;;;;26.0;;;0570930B;;PUBLIC;44;Grand-Est;809
+yes;no;no;NANCY-METZ;106 rue du lac;Ecole élémentaire Diefenbach ;;57510.0;Puttelange-aux-Lacs;;;;;;9.0;;;0571701P;;PUBLIC;44;Grand-Est;3096
+yes;no;no;NANTES;1 rue Victor Marre Penhoet;Ecole primaire Paul Bert ;;44600.0;Saint-Nazaire;;;;;;102.0;;;0440866C;;PUBLIC;52;Pays-de-la-Loire;68513
+yes;no;no;NANTES;69 rue de Cardurand;Ecole primaire Gambetta ;;44600.0;Saint-Nazaire;;;;;;169.0;;;0440894H;;PUBLIC;52;Pays-de-la-Loire;68513
+yes;no;no;NANTES;4 rue de la Mairie;Ecole Le Petit Prince ;;49123.0;Le Fresne-sur-Loire;;;;;;84.0;;;0441574X;;PUBLIC;52;Pays-de-la-Loire;977
+yes;no;no;LILLE;67 place Charles de Gaulle;Ecole maternelle Henri des ;;59870.0;Vred;;;;;;48.0;;;0595107F;;PUBLIC;32;Hauts-de-France;1353
+yes;no;no;RENNES;16 avenue Jules Tricault;Ecole maternelle Jacques Prévert ;;35170.0;Bruz;;;;;;134.0;;;0352436H;;PUBLIC;53;Bretagne;16855
+yes;no;no;LYON;Route de Saint-Paul;Ecole maternelle Les Pins ;;42740.0;Saint-Paul-en-Jarez;;;;;;51.0;;;0421532M;;PUBLIC;84;Auvergne-et-Rhône-Alpes;4486
+yes;no;no;LYON;19 rue Ch.gounod;Ecole primaire Montreynaud Gounod ;;42000.0;Saint-Étienne;;;;;;94.0;;;0421536S;;PUBLIC;84;Auvergne-et-Rhône-Alpes;172023
+yes;no;no;AMIENS;6 rue Marcel Dassault;Ecole élémentaire de Plainville ;;60120.0;Plainville;;;;;;23.0;;;0600289N;;PUBLIC;32;Hauts-de-France;163
+yes;no;no;BORDEAUX;Le bourg;Ecole de Juxue ;;64120.0;Juxue;;;;;;17.0;;;0640925H;;PUBLIC;75;Nouvelle-Aquitaine;203
+yes;no;no;ORLEANS-TOURS;1 rue Touche;Ecole Cousse ;;37210.0;Vernou-sur-Brenne;;;;;;58.0;;;0370184Z;;PUBLIC;24;Centre-Val-de-Loire;2673
+yes;no;no;TOULOUSE;2 côté de Peyrolle;Ecole maternelle d'Auriac-sur-Vendinelle ;;31460.0;Auriac-sur-Vendinelle;;;;;;44.0;;;0312594B;;PUBLIC;76;Occitanie;991
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire Montegut sur Arros ;;32730.0;Montégut-Arros;;;;;;16.0;;;0320168J;;PUBLIC;76;Occitanie;291
+yes;no;no;BORDEAUX;Place Gambetta;Ecole maternelle de Sabres ;;40630.0;Sabres;;;;;;53.0;;;0400758G;;PUBLIC;75;Nouvelle-Aquitaine;1210
+yes;yes;no;TOULOUSE;18 rue Georges Clémenceau;Ecole maternelle Paul Guth ;;65380.0;Ossun;;;;;;72.0;73.0;;0650749L;;PUBLIC;76;Occitanie;2314
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire Tillac ;;32170.0;Tillac;;;;;;16.0;;;0320309M;;PUBLIC;76;Occitanie;262
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire Clermont Pouyguilles ;;32300.0;Clermont-Pouyguillès;;;;;;5.0;;;0320489H;;PUBLIC;76;Occitanie;159
+yes;yes;no;BORDEAUX;248 rue Berruer;Ecole maternelle d'application Flornoy ;;33000.0;Bordeaux;;;;;;187.0;194.0;;0330258B;;PUBLIC;75;Nouvelle-Aquitaine;243626
+yes;no;no;BORDEAUX;43 rue des Frères Reclus;Ecole maternelle Pauline Kergomard ;;33220.0;Sainte-Foy-la-Grande;;;;;;93.0;;;0330305C;;PUBLIC;75;Nouvelle-Aquitaine;2321
+yes;no;no;LYON;49 rue du Matel;Ecole maternelle Matel ;;42300.0;Roanne;;;;;;106.0;;;0420329E;;PUBLIC;84;Auvergne-et-Rhône-Alpes;35507
+yes;no;no;NANCY-METZ;22 rue du 18 Juin 1940;Ecole maternelle Bellecroix la Volière ;;57070.0;Metz;;;;;;46.0;;;0572537Y;;PUBLIC;44;Grand-Est;118634
+yes;no;no;MONTPELLIER;Place de l'Eglise;Ecole primaire d'Ur ;;66760.0;Ur;;;;;;5.0;;;0660423B;;PUBLIC;76;Occitanie;349
+yes;no;no;LILLE;Rue de la Mairie;Ecole primaire RPI 22 ;;62175.0;Boisleux-Saint-Marc;;;;;;21.0;;;0620575N;;PUBLIC;32;Hauts-de-France;261
+yes;no;no;LILLE;Allée de la Loisne;Ecole primaire Marie Curie ;;62290.0;Noeux-les-Mines;;;;;;112.0;;;0620982F;;PUBLIC;32;Hauts-de-France;12424
+yes;no;no;ORLEANS-TOURS;6 rue des Jacobins;Ecole maternelle France  ;;37000.0;Tours;;;;;;65.0;;;0370284H;;PUBLIC;24;Centre-Val-de-Loire;134803
+yes;no;no;NANCY-METZ;8 rue des écoles;Ecole maternelle de Nébing ;;57670.0;Nébing;;;;;;15.0;;;0572948V;;PUBLIC;44;Grand-Est;365
+yes;no;no;BORDEAUX;Le bourg;Ecole de Saint-Just-Ibarre ;;64120.0;Saint-Just-Ibarre;;;;;;33.0;;;0641092P;;PUBLIC;75;Nouvelle-Aquitaine;233
+yes;no;no;GRENOBLE;2 rue de la Mairie;Ecole maternelle Bayard ;;38550.0;Le Péage-de-Roussillon;;;;;;48.0;;;0380840G;;PUBLIC;84;Auvergne-et-Rhône-Alpes;6730
+yes;no;no;BORDEAUX;10 rue Victor Hugo;Ecole primaire Jules Ferry ;;64150.0;Mourenx;;;;;;69.0;;;0641713P;;PUBLIC;75;Nouvelle-Aquitaine;6770
+yes;no;no;TOULOUSE;Larrose;Ecole élémentaire de Tarasteix ;;65320.0;Tarasteix;;;;;;15.0;;;0650240H;;PUBLIC;76;Occitanie;262
+yes;no;no;TOULOUSE;Le village;Ecole élémentaire de Thermes-Magnoac ;;65230.0;Thermes-Magnoac;;;;;;22.0;;;0650447H;;PUBLIC;76;Occitanie;220
+yes;no;no;VERSAILLES;Chemin du Bas des Grands Près;Ecole maternelle Claude Monet ;;78380.0;Bougival;;;;;;145.0;;;0782494M;;PUBLIC;11;Île-de-France;8729
+yes;no;no;LILLE;40 rue de la Cavée;Ecole maternelle Henri Barbusse ;;62470.0;Calonne-Ricouart;;;;;;76.0;;;0622957C;;PUBLIC;32;Hauts-de-France;5563
+yes;no;no;POITIERS;Place Louis Jouvet;Ecole maternelle Groupe scolaire E. Pérochon ;;79000.0;Niort;;;;;;92.0;;;0790172H;;PUBLIC;75;Nouvelle-Aquitaine;57393
+yes;no;no;CAEN;Le bourg;Ecole élémentaire de Semallé ;;61250.0;Semallé;;;;;;23.0;;;0610659K;;PUBLIC;28;Normandie;388
+yes;no;no;CAEN;Rue du Champ des Vignes;Ecole maternelle de Saint-Germain-du-Corbéis ;;61000.0;Saint-Germain-du-Corbéis;;;;;;79.0;;;0610949A;;PUBLIC;28;Normandie;3868
+yes;no;no;CAEN;Le bourg;Ecole maternelle de Vrigny ;;61570.0;Vrigny;;;;;;14.0;;;0611079S;;PUBLIC;28;Normandie;358
+yes;no;no;CAEN;Le bourg;Ecole élémentaire de Rouvres ;;14190.0;Rouvres;;;;;;29.0;;;0140342W;;PUBLIC;28;Normandie;213
+yes;no;no;CAEN;117 rue d'Authie;Ecole maternelle Authie-Sud ;;14000.0;Caen;;;;;;98.0;;;0140375G;;PUBLIC;28;Normandie;107229
+yes;no;no;CAEN;12 rue du Pont Creon;Ecole maternelle J Guehenno ;;14000.0;Caen;;;;;;72.0;;;0140428P;;PUBLIC;28;Normandie;107229
+yes;no;no;CAEN;Place de l'église;Ecole élémentaire de Soulangy ;;14700.0;Soulangy;;;;;;23.0;;;0140665X;;PUBLIC;28;Normandie;256
+yes;no;no;AMIENS;8 rue du Bois;Ecole primaire d'Oissy ;;80540.0;Oissy;;;;;;18.0;;;0800251N;;PUBLIC;32;Hauts-de-France;234
+yes;no;no;AMIENS;14 rue de Bretagne;Ecole d'Hervilly ;;80240.0;Hervilly;;;;;;25.0;;;0800414R;;PUBLIC;32;Hauts-de-France;164
+yes;no;no;AMIENS;13 rue du Bas;Ecole de Millencourt-en-Ponthieu ;;80135.0;Millencourt-en-Ponthieu;;;;;;27.0;;;0800618M;;PUBLIC;32;Hauts-de-France;370
+yes;no;no;AMIENS;26 rue Metz l'Evêque;Ecole maternelle Notre-Dame ;;80000.0;Amiens;;;;;;65.0;;;0800832V;;PUBLIC;32;Hauts-de-France;132699
+yes;no;no;AMIENS;1 place de l'église;Ecole élémentaire Roger Cordonnier ;;80540.0;Saisseval;;;;;;21.0;;;0801818S;;PUBLIC;32;Hauts-de-France;239
+yes;no;no;AMIENS;Rue du Docteur Fafet;Ecole maternelle Fafet ;;80000.0;Amiens;;;;;;46.0;;;0802059D;;PUBLIC;32;Hauts-de-France;132699
+yes;no;no;DIJON;4 impasse des écoles;Ecole maternelle d'Héry ;;89550.0;Héry;;;;;;59.0;;;0890669U;;PUBLIC;27;Bourgogne-et-Franche-Comté;1871
+yes;no;no;DIJON;5 place M Muzard;Ecole maternelle d'Aillant-sur-Tholon ;;89110.0;Aillant-sur-Tholon;;;;;;46.0;;;0890738U;;PUBLIC;27;Bourgogne-et-Franche-Comté;1399
+yes;no;no;AMIENS;1 rue Principale;Ecole élémentaire de Prévillers ;;60360.0;Prévillers;;;;;;23.0;;;0602079J;;PUBLIC;32;Hauts-de-France;207
+yes;no;no;AMIENS;;;;;;;;;;;55.0;;;0602145F;;PUBLIC;32;Hauts-de-France;0
+yes;no;no;DIJON;Rue des écoles;Ecole de Massangis ;;89440.0;Massangis;;;;;;18.0;;;0890909E;;PUBLIC;27;Bourgogne-et-Franche-Comté;406
+yes;yes;no;DIJON;12 rue du Puits;Ecole maternelle du Puits ;;89600.0;Saint-Florentin;;;;;;38.0;20.0;;0890972Y;;PUBLIC;27;Bourgogne-et-Franche-Comté;4692
+yes;no;no;DIJON;1 rue de l'Eglise;Ecole primaire de Saint-Bris-le-Vineux ;;89530.0;Saint-Bris-le-Vineux;;;;;;21.0;;;0891039W;;PUBLIC;27;Bourgogne-et-Franche-Comté;1085
+yes;no;no;DIJON;15 rue haute;Ecole élémentaire de Blannay ;;89200.0;Blannay;;;;;;16.0;;;0891260L;;PUBLIC;27;Bourgogne-et-Franche-Comté;124
+yes;no;no;BESANCON;2 rue Ferdinand Anthony;Ecole primaire Urcerey ;;90800.0;Urcerey;;;;;;24.0;;;0900255N;;PUBLIC;27;Bourgogne-et-Franche-Comté;202
+yes;no;no;AIX-MARSEILLE;116 impasse Sévigné;Ecole maternelle Les Ramières ;;84700.0;Sorgues;;;;;;67.0;;;0840883D;;PUBLIC;93;Provence-Alpes-Côte-d'Azur;18500
+yes;no;no;CAEN;Rue Alexandre Lainé;Ecole maternelle Jacques Prévert ;;61600.0;La Ferté-Macé;;;;;;72.0;;;0610908F;;PUBLIC;28;Normandie;5661
+yes;no;no;LILLE;Place Guynemer;Ecole maternelle Georges Guynemer ;;62700.0;Bruay-la-Buissière;;;;;;17.0;;;0620345N;;PUBLIC;32;Hauts-de-France;22802
+yes;no;no;NANTES;Rue de la Croix du Camp;Ecole élémentaire Marceau Bretaud ;;85200.0;Fontenay-le-Comte;;;;;;63.0;;;0850313D;;PUBLIC;52;Pays-de-la-Loire;13647
+yes;no;no;LILLE;22 rue du Général de Gaulle;Ecole maternelle Ferry-Mendès-France ;;62720.0;Rinxent;;;;;;110.0;;;0624014B;;PUBLIC;32;Hauts-de-France;2862
+yes;no;no;BORDEAUX;Le bourg;Ecole élémentaire d'Ainhice-Mongelos ;;64220.0;Ainhice-Mongelos;;;;;;13.0;;;0640267T;;PUBLIC;75;Nouvelle-Aquitaine;161
+yes;yes;no;STRASBOURG;6 rue des Anciens Combattants;Ecole maternelle de Chalampé ;;68490.0;Chalampé;;;;;;34.0;35.0;;0681137S;;PUBLIC;44;Grand-Est;967
+yes;no;no;CRETEIL;15 rue Saint Nicolas;Ecole élémentaire de Guignes ;;77390.0;Guignes;;;;;;185.0;;;0770718M;;PUBLIC;11;Île-de-France;3358
+yes;yes;no;STRASBOURG;2 A rue de Riquewihr;Ecole maternelle Les Hortensias ;;68000.0;Colmar;;;;;;24.0;26.0;;0681827S;;PUBLIC;44;Grand-Est;67956
+yes;no;no;CRETEIL;281 rue Jules Ferry;Ecole maternelle de Bray-sur-Seine ;;77480.0;Bray-sur-Seine;;;;;;64.0;;;0771307C;;PUBLIC;11;Île-de-France;2294
+yes;no;no;VERSAILLES;Rue de Paris;Ecole maternelle Les Ormes ;;91410.0;Saint-Cyr-sous-Dourdan;;;;;;29.0;;;0911502N;;PUBLIC;11;Île-de-France;1006
+yes;no;no;STRASBOURG;155 rue de l'Eglise;Ecole Ets Prot ;;67130.0;Wildersbach;;;;;;14.0;;;0671287K;;PUBLIC;44;Grand-Est;303
+yes;no;no;STRASBOURG;12 rue de la gare;Ecole maternelle de Russ ;;67130.0;Russ;;;;;;32.0;;;0671491G;;PUBLIC;44;Grand-Est;1282
+yes;no;no;STRASBOURG;Grand rue;Ecole maternelle de Saales ;;67420.0;Saales;;;;;;17.0;;;0671492H;;PUBLIC;44;Grand-Est;820
+yes;yes;no;STRASBOURG;Rue des Rochers;Ecole maternelle de Wimmenau ;;67290.0;Wimmenau;;;;;;30.0;29.0;;0672446V;;PUBLIC;44;Grand-Est;1132
+yes;no;no;STRASBOURG;7 A rue Principale;Ecole maternelle de Gumbrechtshoffen ;;67110.0;Gumbrechtshoffen;;;;;;29.0;;;0672540X;;PUBLIC;44;Grand-Est;1139
+yes;no;no;VERSAILLES;4 rue Amaury Duval;Ecole maternelle Amaury Duval ;;92120.0;Montrouge;;;;;;146.0;;;0922577B;;PUBLIC;11;Île-de-France;49656
+yes;no;no;LILLE;1 rue Vermeer;Ecole maternelle Paul Verlaine ;;59650.0;Villeneuve-d'Ascq;;;;;;132.0;;;0595371T;;PUBLIC;32;Hauts-de-France;62616
+yes;no;no;PARIS;90 boulevard Vincent Auriol;Ecole maternelle Vincent Auriol ;;75013.0;Paris;;;;;;49.0;;;0751310S;;PUBLIC;11;Île-de-France;183713
+yes;no;no;PARIS;28 rue d'Aubervilliers;Ecole maternelle Aubervilliers S ;;75019.0;Paris;;;;;;71.0;;;0755013S;;PUBLIC;11;Île-de-France;185953
+yes;no;no;AMIENS;8 rue des Déportés;Ecole maternelle de Tartigny ;;60120.0;Tartigny;;;;;;25.0;;;0600293T;;PUBLIC;32;Hauts-de-France;278
+yes;no;no;LILLE;24 rue des écoles;Ecole maternelle Groupe Céline Harcqz ;;59680.0;Colleret;;;;;;74.0;;;0590844X;;PUBLIC;32;Hauts-de-France;1669
+yes;no;no;LILLE;12 rue de la Paix;Ecole maternelle Jean Macé ;;59140.0;Dunkerque;;;;;;37.0;;;0590967F;;PUBLIC;32;Hauts-de-France;89882
+yes;no;no;LILLE;17 rue Stolberg;Ecole maternelle Charles Perrault ;;59155.0;Faches-Thumesnil;;;;;;48.0;;;0591136P;;PUBLIC;32;Hauts-de-France;17497
+yes;yes;no;ROUEN;45 rue du Ballon;Ecole élémentaire du Catelier ;;76590.0;Le Catelier;;;;;;19.0;16.0;;0760711K;;PUBLIC;28;Normandie;240
+yes;no;no;STRASBOURG;3 rue Saint Joseph;Ecole maternelle Les P'tits Lupins Marienthal ;;67500.0;Haguenau;;;;;;59.0;;;0670349R;;PUBLIC;44;Grand-Est;34419
+yes;no;no;STRASBOURG;7 rue des Juifs;Ecole maternelle la Marelle ;;67590.0;Schweighouse-sur-Moder;;;;;;43.0;;;0670350S;;PUBLIC;44;Grand-Est;4931
+yes;no;no;NANCY-METZ;Rue de la Mairie;Ecole de Frebécourt ;;88630.0;Frebécourt;;;;;;12.0;;;0880659N;;PUBLIC;44;Grand-Est;303
+yes;no;no;NANCY-METZ;85 rue des Glycines;Ecole primaire de Xaffévillers ;;88700.0;Xaffévillers;;;;;;26.0;;;0880811D;;PUBLIC;44;Grand-Est;165
+yes;no;no;DIJON;22 rue Albert Camus;Ecole primaire Albert Camus groupe A ;;58000.0;Nevers;;;;;;104.0;;;0580041E;;PUBLIC;27;Bourgogne-et-Franche-Comté;34841
+yes;no;no;DIJON;Le bourg;Ecole primaire de Villapourçon ;;58370.0;Villapourçon;;;;;;10.0;;;0580199B;;PUBLIC;27;Bourgogne-et-Franche-Comté;447
+yes;no;no;DIJON;Le bourg;Ecole maternelle de Cuncy-lès-Varzy ;;58210.0;Cuncy-lès-Varzy;;;;;;20.0;;;0580289Z;;PUBLIC;27;Bourgogne-et-Franche-Comté;137
+yes;no;no;DIJON;Rue des Vannes;Ecole maternelle Pierre Malardier ;;58130.0;Urzy;;;;;;40.0;;;0580717P;;PUBLIC;27;Bourgogne-et-Franche-Comté;1839
+yes;no;no;DIJON;27 rue de Saint-Romain;Ecole primaire de Saint-Romain-le-Preux ;;89116.0;Saint-Romain-le-Preux;;;;;;16.0;;;0890230S;;PUBLIC;27;Bourgogne-et-Franche-Comté;192
+yes;no;no;DIJON;4 rue de l'Eglise;Ecole primaire d'Irancy ;;89290.0;Irancy;;;;;;13.0;;;0890301U;;PUBLIC;27;Bourgogne-et-Franche-Comté;290
+yes;no;no;CRETEIL;1 rue Louise Michel;Ecole maternelle Louise Michel ;;77240.0;Vert-Saint-Denis;;;;;;89.0;;;0772082V;;PUBLIC;11;Île-de-France;7154
+yes;no;no;BESANCON;4 rue de la Mairie;Ecole primaire de Sorans-lès-Breurey ;;70190.0;Sorans-lès-Breurey;;;;;;36.0;;;0700732R;;PUBLIC;27;Bourgogne-et-Franche-Comté;423
+yes;no;no;DIJON;100 impasse des écoles;Ecole maternelle Jules Pinsard ;;71680.0;Crêches-sur-Saône;;;;;;128.0;;;0710176F;;PUBLIC;27;Bourgogne-et-Franche-Comté;2907
+yes;no;no;DIJON;St Romain des îles;Ecole maternelle de Saint-Symphorien-d'Ancelles ;;71570.0;Saint-Symphorien-d'Ancelles;;;;;;23.0;;;0710459N;;PUBLIC;27;Bourgogne-et-Franche-Comté;1119
+yes;no;no;DIJON;Le bourg;Ecole de Roussillon-en-Morvan ;;71550.0;Roussillon-en-Morvan;;;;;;10.0;;;0710663K;;PUBLIC;27;Bourgogne-et-Franche-Comté;267
+yes;no;no;DIJON;Le bourg;Ecole de Saint-Didier-sur-Arroux ;;71190.0;Saint-Didier-sur-Arroux;;;;;;17.0;;;0710695V;;PUBLIC;27;Bourgogne-et-Franche-Comté;241
+yes;no;no;NANCY-METZ;13 rue Principale;Ecole élémentaire de Roppeviller ;;57230.0;Roppeviller;;;;;;9.0;;;0573456X;;PUBLIC;44;Grand-Est;123
+yes;no;no;NANCY-METZ;12 rue de l'Ecole;Ecole maternelle de Sanry-lès-Vigy ;;57640.0;Sanry-lès-Vigy;;;;;;15.0;;;0573558H;;PUBLIC;44;Grand-Est;503
+yes;no;no;AMIENS;304 chaussée de Rouvroy;Ecole maternelle Rouvroy ;;80100.0;Abbeville;;;;;;55.0;;;0800818E;;PUBLIC;32;Hauts-de-France;23821
+yes;no;no;CRETEIL;2 rue Saint Nicolas;Ecole élémentaire Groupe 1 ;;77390.0;Guignes;;;;;;123.0;;;0770719N;;PUBLIC;11;Île-de-France;3358
+yes;no;no;MONTPELLIER;4 rue de l'école maternelle;Ecole maternelle de Nissan-lez-Enserune ;;34440.0;Nissan-lez-Enserune;;;;;;122.0;;;0340569J;;PUBLIC;76;Occitanie;3907
+yes;no;no;CRETEIL;2 rue Louise Michel;Ecole élémentaire Louise Michel ;;77240.0;Vert-Saint-Denis;;;;;;155.0;;;0772117H;;PUBLIC;11;Île-de-France;7154
+yes;no;no;POITIERS;2 chemin des Chateliers;Ecole maternelle Les Minimes ;;86100.0;Châtellerault;;;;;;52.0;;;0860212N;;PUBLIC;75;Nouvelle-Aquitaine;31262
+yes;yes;no;PARIS;56 rue Boissière;Ecole maternelle Boissière T ;;75016.0;Paris;;;;;;126.0;120.0;;0751265T;;PUBLIC;11;Île-de-France;166552
+yes;no;no;VERSAILLES;Rue Collin Mamet;Ecole maternelle Louis Blériot ;;78530.0;Buc;;;;;;49.0;;;0780520S;;PUBLIC;11;Île-de-France;5606
+yes;no;no;DIJON;Le bourg;Ecole élémentaire de Maltat ;;71140.0;Maltat;;;;;;6.0;;;0711333N;;PUBLIC;27;Bourgogne-et-Franche-Comté;290
+yes;no;no;NANTES;88 avenue de la République;Ecole primaire Marcel Pagnol ;;72400.0;La Ferté-Bernard;;;;;;73.0;;;0720397R;;PUBLIC;52;Pays-de-la-Loire;9116
+yes;no;no;VERSAILLES;4 rue Cimarosa;Ecole maternelle Le Petit Prince ;;78150.0;Le Chesnay;;;;;;103.0;;;0780839N;;PUBLIC;11;Île-de-France;28640
+yes;yes;no;GRENOBLE;9 place de l'église;Ecole maternelle de Groisy ;;74570.0;Groisy;;;;;;140.0;140.0;;0741201D;;PUBLIC;84;Auvergne-et-Rhône-Alpes;3395
+yes;no;no;VERSAILLES;1 rue des Saules;Ecole maternelle Louis Pergaud ;;78370.0;Plaisir;;;;;;43.0;;;0780540N;;PUBLIC;11;Île-de-France;31342
+yes;no;no;POITIERS;Le bourg;Ecole élémentaire de Lorigné ;;79190.0;Lorigné;;;;;;24.0;;;0790282C;;PUBLIC;75;Nouvelle-Aquitaine;288
+yes;no;no;VERSAILLES;Avenue du Plan de l'Eglise;Ecole maternelle Bois de la Garenne ;;78960.0;Voisins-le-Bretonneux;;;;;;59.0;;;0781221D;;PUBLIC;11;Île-de-France;11464
+yes;no;no;ROUEN;1 place de l'Eglise;Ecole élémentaire Le Manoir du Vent ;;76460.0;Blosseville;;;;;;19.0;;;0761156U;;PUBLIC;28;Normandie;290
+yes;no;no;ROUEN;94 rue Desramé;Ecole maternelle Croix-Blanche ;;76620.0;Le Havre;;;;;;70.0;;;0761242M;;PUBLIC;28;Normandie;172074
+yes;no;no;VERSAILLES;62 rue Paul Déroulède;Ecole élémentaire Paul Bert A ;;92270.0;Bois-Colombes;;;;;;354.0;;;0920265N;;PUBLIC;11;Île-de-France;28561
+yes;no;no;VERSAILLES;13 rue de l'Abbé Derry;Ecole maternelle la Fontaine ;;92130.0;Issy-les-Moulineaux;;;;;;155.0;;;0920445J;;PUBLIC;11;Île-de-France;65662
+yes;no;no;ROUEN;42 rue de la Seine;Ecole élémentaire André Pican ;;76430.0;Tancarville;;;;;;43.0;;;0762335A;;PUBLIC;28;Normandie;1346
+yes;no;no;GRENOBLE;42 rue Centrale;Ecole maternelle Colovry ;;74940.0;Annecy-le-Vieux;;;;;;78.0;;;0741327R;;PUBLIC;84;Auvergne-et-Rhône-Alpes;20166

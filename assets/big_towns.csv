@@ -1,0 +1,24 @@
+region_code,region,town,lat,long
+84,Auvergne-et-Rhône-Alpes,Clermont-Ferrand,45.77966,3.08628
+84,Auvergne-et-Rhône-Alpes,Lyon,45.74846,4.84671
+27,Bourgogne-Franche-Comté,Besançon,47.24878,6.01815
+27,Bourgogne-Franche-Comté,Dijon,47.31667,5.01667
+53,Bretagne,Rennes,48.11198,-1.67429
+24,Centre-Val-de-Loire,Orléans,47.90289,1.90389
+94,Corse,Ajaccio,41.92723,8.73462
+94,Corse,Bastia,42.70278,9.45
+44,Grand-Est,Châlons en Champagne,48.95393,4.36724
+44,Grand-Est,Metz,48.95393,4.36724
+44,Grand-Est,Strasbourg,48.58392,7.74553
+32,Hauts-de-France,Amiens,49.9,2.3
+32,Hauts-de-France,Lille,50.63297,3.05858
+11,Ile-de-France,Paris,48.85341,2.3488
+28,Normandie,Caen,49.18585,-0.35912
+28,Normandie,Rouen,49.44313,1.09932
+75,Nouvelle-Aquitaine,Bordeaux,44.84044,-0.5805
+75,Nouvelle-Aquitaine,Limoges,45.83153,1.25781
+75,Nouvelle-Aquitaine,Poitiers,46.58333,0.33333
+76,Occitanie,Montpellier,43.61092,3.87723
+76,Occitanie,Toulouse,43.60426,1.44367
+93,PACA,Marseille,43.29695,5.38107
+52,Pays-de-la-Loire,Nantes,47.21725,-1.55336

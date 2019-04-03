@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Session 11</title>
+    <meta name="viewport" content="width=device-width, height=device-height,  initial-scale=1.0, user-scalable=no;user-scalable=0;"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/css/index.css">
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="colorbrewer.css">
+  </head>
+  <body>
+      <header class="jumbotron text-center header">
+          <div class="container">
+            <h1><span v-html="title"></span></h1>
+          </div>
+      </header>
+      <section class="container" id="intro">
+          <div class="row align-items-center justify-content-md-center">
+            <p class="col-lg-8 col-sm-10 col-12">
+              <strong><span v-html="chapo"></span></strong>
+            </p>
+          
+            <p class="col-lg-8 col-sm-12 col-12" v-for="(item, index) in items">
+                <strong v-if="item.inter"><span v-html="item.inter"></span><br><br></strong>
+                <span v-html="item.message"></span>
+            </p>
+
+          </div>
+        </section>
+        
+        <div id="map" class="container">
+          
+          <p class="col-lg-8 col-sm-12 col-12"><strong>Entre 2015 et 2017, quelles écoles ont fermé ?</strong></p>
+          <p class="col-lg-8 col-sm-12 col-12"><span>Pour savoir quelles écoles ont fermé dans une région particulière, cliquez sur celle-ci et passez votre souris sur les points rouges.</span></p>
+        </div>
+        <section class="container" id="content">
+            <div class="row align-items-center justify-content-md-center">            
+              <p class="col-lg-8 col-sm-10 col-12" v-for="(item, index) in items">
+                  <strong v-if="item.inter"><span v-html="item.inter"></span><br><br></strong>
+                  <span v-html="item.message"></span>
+              </p>
+            </div>
+          </section>
+
+   
+    
+
+    <script src="vendors/vue.min.js"></script>
+    <script src="main.js"></script>
+    <script src="static/js/index.js"></script>
+  </body>
+</html>

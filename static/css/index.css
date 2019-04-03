@@ -1,0 +1,135 @@
+#card_question {
+    display:none;
+}
+
+.invisible {
+    display:none;
+}
+svg {
+    display: block;
+    margin: auto;
+}
+
+#map {
+    margin: 0 auto;
+    text-align: center;
+    padding-top:30px;
+}
+p{
+    margin: 0 auto;
+    margin-top: 20px;
+    padding:5px;
+}
+.jumbotron {
+    background-color: #222731  !important;
+    border: 1px solid #979797;
+    border-top: none;
+    border-radius: 0 !important;
+    overflow: visible;
+    text-align: center;
+}
+
+header h1 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-family: MarrSans-Medium;
+    font-size: 40px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+}
+
+.intro p {
+    opacity: 0.9;
+    font-family: TheAntiquaB-W5Plain;
+    font-size: 16px;
+    color: #222731;
+    letter-spacing: 0;
+    padding-bottom: 10px;
+    margin:0 auto;
+
+}
+
+#app {
+    margin-bottom: 20px;
+
+}
+
+.card-header, .btn, input {
+    font-family: TheAntiquaB-W5Plain;
+    font-size: 17px;
+    padding: 20px;
+}
+
+.card-text {
+    font-family: TheAntiquaB-W5Plain;
+    font-size: 17px;
+
+}
+
+input {
+    min-height: 70px;
+}
+
+.card {
+    border: none;
+}
+
+.card-header {
+    margin-top:20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.choice, .next, .start {
+    margin-top:20px;
+    background-color: #e7e7e7; 
+    color: #222731;
+}
+
+.maj {
+text-transform: uppercase;
+font-Weight: Bold;
+}
+.data {
+   text-align:left !important;
+}
+
+button, input  {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+.toCenter {
+    margin: 0 auto;
+}
+
+
+.choice:hover, .start:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+#app {
+    margin-top: 20px;
+    text-align: center;
+}
+
+input[type="color"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+select:focus,
+textarea {
+  font-size: 16px;
+}
+

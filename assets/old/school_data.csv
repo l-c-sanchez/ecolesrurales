@@ -1,0 +1,1202 @@
+school_code,lat,lon,region_code,address,postal_code,town,name,region,pop_count,closed,Académie
+0240807X,45.424362,0.8631506,75,Pomerede,24800.0,Saint-Romain-et-Saint-Clément,Ecole primaire de Saint-Romain-et-Saint-Clément,Nouvelle-Aquitaine,328.0,2017,BORDEAUX
+0240920V,45.197017200000005,0.7835042,75,4 rue des Charmilles,24750.0,Trélissac,Ecole élémentaire Les Maurilloux,Nouvelle-Aquitaine,6836.0,2016,BORDEAUX
+0240955H,44.8534568,0.48753100000000005,75,Rue Aristide Briand,24100.0,Bergerac,Ecole R.Desmaison,Nouvelle-Aquitaine,28063.0,2017,BORDEAUX
+0240990W,44.870418799999996,0.3742764,75,6 rue André Rousseau,24130.0,La Force,Ecole élémentaire de la Force,Nouvelle-Aquitaine,2568.0,2016,BORDEAUX
+0241013W,44.845628399999995,0.9082579,75,4 place de l'Eglise,24480.0,Le Buisson-de-Cadouin,Ecole maternelle du Buisson-de-Cadouin,Nouvelle-Aquitaine,2073.0,2017,BORDEAUX
+0241115G,45.570555600000006,0.5613889,75,Route d'Angouleme,24300.0,Javerlhac-et-la-Chapelle-Saint-Robert,Ecole maternelle de Javerlhac-et-la-Chapelle-Saint-Robert,Nouvelle-Aquitaine,876.0,2016,BORDEAUX
+0241123R,45.29233,0.74936,75,Rue Almunia de San Jan,24460.0,Agonac,Ecole maternelle d'Agonac,Nouvelle-Aquitaine,1718.0,2016,BORDEAUX
+0241133B,44.74607125,0.975186732678294,75,Place Liberté,24170.0,Belvès,Ecole maternelle de Belvès,Nouvelle-Aquitaine,1383.0,2016,BORDEAUX
+0250343M,47.2362653,6.6478649999999995,27,3 rue de l'Eglise,25380.0,Chamesey,Ecole intercommunale,Bourgogne-et-Franche-Comté,119.0,2017,BESANCON
+0250395U,47.2574922,6.7027625,27,Route Nationale,25380.0,Cour-Saint-Maurice,Ecole élémentaire de Cour-Saint-Maurice,Bourgogne-et-Franche-Comté,167.0,2016,BESANCON
+0020894L,49.06142020000001,3.5731984,32,11 rue de Champagne,2850.0,Passy-sur-Marne,Ecole élémentaire de Passy-sur-Marne,Hauts-de-France,146.0,2017,AMIENS
+0020944R,49.09049829999999,3.5358892,32,9 rue du Châtelet,2850.0,Jaulgonne,Ecole élémentaire de Jaulgonne,Hauts-de-France,654.0,2017,AMIENS
+0021699L,49.84861110000001,3.2863888,32,Rue de l'église,2100.0,Saint-Quentin,Ecole Jacques Prévert,Hauts-de-France,55698.0,2017,AMIENS
+0140210C,49.2482981,-1.0452622,28,Le bourg,14330.0,Lison,Ecole maternelle de Lison,Normandie,458.0,2017,CAEN
+0250935F,47.2785585,6.7352213,27,Le village,25380.0,Vauclusotte,Ecole de Vauclusotte,Bourgogne-et-Franche-Comté,98.0,2017,BESANCON
+0260138J,44.5159006,5.2154189,84,Le village,26460.0,Bouvières,Ecole de Bouvières,Auvergne-et-Rhône-Alpes,139.0,2016,GRENOBLE
+0260659A,44.9332277,4.8920810999999995,84,29 rue Albert Thomas,26000.0,Valence,Ecole maternelle Jules Ferry,Auvergne-et-Rhône-Alpes,61767.0,2016,GRENOBLE
+0511234P,48.9894458,4.3154379,44,Place de la Mairie,51520.0,Recy,Ecole maternelle de Recy,Grand-Est,1047.0,2016,REIMS
+0511831N,49.328446899999996,3.9453038,44,1 Grande rue,51220.0,Villers-Franqueux,Ecole maternelle de Villers-Franqueux,Grand-Est,302.0,2017,REIMS
+0512106M,49.0279127,4.2372528,44,Rue Basse,51150.0,Vraux,Ecole maternelle Les Carrières,Grand-Est,480.0,2016,REIMS
+0520103E,48.4426265,5.1412535,44,Rue Jules Ferry,52300.0,Joinville,Ecole maternelle Mermoz,Grand-Est,3443.0,2017,REIMS
+0520609E,48.1435047,5.1444735999999995,44,3 rue de la Montagné,52000.0,Condes,Ecole primaire de Condes,Grand-Est,312.0,2016,REIMS
+0520909F,48.2952568,5.2464882093597005,44,Avenue de Verdun,52270.0,Roches-Bettaincourt,Ecole de Roches-Bettaincourt,Grand-Est,621.0,2017,REIMS
+0221482S,48.28993035,-2.5260125118511296,53,Rue Pierre Gineste,22330.0,Collinée,Ecole primaire Pierre Gineste,Bretagne,921.0,2016,RENNES
+0221602X,48.6787936,-3.5231644,53,23 rue des écoles,22300.0,Ploumilliau,Ecole maternelle de Ploumilliau,Bretagne,2496.0,2017,RENNES
+0240271P,45.1909365,0.7184406999999999,75,74 boulevard Ampère,24000.0,Périgueux,Ecole élémentaire d'application Clos Chassaing,Nouvelle-Aquitaine,30036.0,2016,BORDEAUX
+0240304A,44.8534568,0.48753100000000005,75,19 rue Emile Zola,24100.0,Bergerac,Ecole maternelle Alba,Nouvelle-Aquitaine,28063.0,2016,BORDEAUX
+0240334H,44.640229999999995,1.03398,75,Le bourg,24550.0,Saint-Cernin-de-l'Herm,Ecole élémentaire de Saint-Cernin-de-l'Herm,Nouvelle-Aquitaine,231.0,2016,BORDEAUX
+0240383L,44.90528,0.54942,75,Le bourg,24140.0,Queyssac,Ecole maternelle de Queyssac,Nouvelle-Aquitaine,458.0,2017,BORDEAUX
+0240402G,45.4287117,0.7046508,75,Le bourg,24530.0,Quinsac,Ecole élémentaire de Quinsac,Nouvelle-Aquitaine,388.0,2017,BORDEAUX
+0240403H,45.32447,0.77998,75,Le bourg,24460.0,Saint-Front-d'Alemps,Ecole de Saint-Front-d'Alemps,Nouvelle-Aquitaine,262.0,2016,BORDEAUX
+0140379L,49.182800799999995,-0.3690815,28,23 rue Bosnières,14000.0,Caen,Ecole maternelle Bosnières,Normandie,107229.0,2017,CAEN
+0140421G,49.182800799999995,-0.3690815,28,65 avenue de la Libération,14000.0,Caen,Ecole maternelle Pigacière,Normandie,107229.0,2016,CAEN
+0140643Y,48.896474100000006,-0.19991289999999998,28,4 rue du Maréchal Foch,14700.0,Falaise,Ecole maternelle Maréchal Foch,Normandie,8343.0,2017,CAEN
+0140676J,48.878440600000005,-0.160385,28,Le bourg,14700.0,La Hoguette,Ecole élémentaire Les Roches-Feuilles,Normandie,714.0,2017,CAEN
+0141377W,48.84902185,-0.565216636395482,28,6 rue Neuve,14110.0,Condé-sur-Noireau,Ecole élémentaire la Varende,Normandie,5244.0,2016,CAEN
+0141563Y,49.182800799999995,-0.3690815,28,9 ter rue de la Haie Vigne,14000.0,Caen,Ecole maternelle Haie Vigne,Normandie,107229.0,2016,CAEN
+0141691M,49.2764624,-0.7024738,28,Rue de Beauvais,14400.0,Bayeux,Ecole maternelle Argouges,Normandie,13888.0,2017,CAEN
+0142016R,49.1129522,-0.47249220000000003,28,Le bourg,14210.0,Esquay-Notre-Dame,Ecole maternelle d'Esquay-Notre-Dame,Normandie,1438.0,2017,CAEN
+0312623H,43.6044622,1.4442469,76,7 rue Xavier Darasse,31500.0,Toulouse,Ecole maternelle Limayrac Jérôme Pugens,Occitanie,458298.0,2016,TOULOUSE
+0320247V,43.9218218,0.8012234,76,Le village,32380.0,Saint-Créac,Ecole Saint-Creac,Occitanie,104.0,2016,TOULOUSE
+0320453U,43.6397222,-0.0222222,76,Le village,32400.0,Cahuzac-sur-Adour,Ecole Cahuzac Adour,Occitanie,233.0,2017,TOULOUSE
+0320464F,43.9752122,0.6099933000000001,76,Le village,32700.0,Castéra-Lectourois,Ecole élémentaire de Castéra-Lectourois,Occitanie,332.0,2017,TOULOUSE
+0240584E,45.1724869,0.7650347839958431,75,Avenue Louis Lescure,24750.0,Boulazac,Ecole élémentaire Yves Peron,Nouvelle-Aquitaine,6851.0,2016,BORDEAUX
+0240632G,45.3583333,0.33944440000000003,75,Le bourg,24320.0,Saint-Martial-Viveyrol,Ecole élémentaire de Saint-Martial-Viveyrol,Nouvelle-Aquitaine,202.0,2017,BORDEAUX
+0240682L,44.845628399999995,0.9082579,75,6 rue Fénelon,24480.0,Le Buisson-de-Cadouin,Ecole élémentaire du Buisson-de-Cadouin,Nouvelle-Aquitaine,2073.0,2017,BORDEAUX
+0240716Y,44.83201079999999,1.3100538000000002,75,Le bourg,24370.0,Veyrignac,Ecole élémentaire de Veyrignac,Nouvelle-Aquitaine,333.0,2016,BORDEAUX
+0241117J,45.138268100000005,0.752132860790254,75,9 rue Eugène Leroy,24750.0,Atur,Ecole maternelle d'Atur,Nouvelle-Aquitaine,1901.0,2017,BORDEAUX
+0250495C,47.16835579999999,6.826355199999999,27,3 place Francois-Xavier Joubert,25140.0,Fournet-Blancheroche,Ecole maternelle de Fournet-Blancheroche,Bourgogne-et-Franche-Comté,347.0,2016,BESANCON
+0140671D,48.939940899999996,-0.2547982,28,Le bourg,14420.0,Villers-Canivet,Ecole maternelle de Villers-Canivet,Normandie,766.0,2017,CAEN
+0150174H,44.89699475,2.2321001080992597,84,Le bourg,15290.0,Pers,Ecole de Pers,Auvergne-et-Rhône-Alpes,302.0,2017,CLERMONT-FERRAND
+0142135V,49.369315500000006,0.27486900000000003,28,Le bourg,14600.0,Genneville,Ecole maternelle de Genneville,Normandie,782.0,2017,CAEN
+0142157U,49.24874435,-0.602242244099141,28,11 rue de Creuilly,14740.0,Martragny,Ecole maternelle de Martragny,Normandie,372.0,2016,CAEN
+0150311G,45.053480799999996,2.1477305,84,Le bourg,15150.0,Cros-de-Montvert,Ecole de Cros-de-Montvert,Auvergne-et-Rhône-Alpes,203.0,2016,CLERMONT-FERRAND
+0150425F,44.928544099999996,2.4433101,84,24 avenue Jean Baptiste Veyre,15000.0,Aurillac,Ecole maternelle Jean Baptiste Veyre,Auvergne-et-Rhône-Alpes,26572.0,2016,CLERMONT-FERRAND
+0150692W,44.9642272,2.4898166,84,La Pradelle,15130.0,Saint-Simon,Ecole maternelle la Pradelle,Auvergne-et-Rhône-Alpes,1143.0,2017,CLERMONT-FERRAND
+0030330T,46.5660526,3.3331703,84,13 boulevard de Courtais,3000.0,Moulins,Ecole maternelle Marie Laurencin,Auvergne-et-Rhône-Alpes,19474.0,2017,CLERMONT-FERRAND
+0320585M,43.646355799999995,0.5850506999999999,76,Rue Ernest Vila,32000.0,Auch,Ecole élémentaire Marianne,Occitanie,21962.0,2017,TOULOUSE
+0550991D,48.645295700000005,5.3394095,44,6 rue des Pressoirs,55500.0,Longeaux,Ecole maternelle de Longeaux,Grand-Est,229.0,2016,NANCY-METZ
+0160197C,45.323574900000004,0.1899025,75,Le bourg,16390.0,Pillac,Ecole de Pillac,Nouvelle-Aquitaine,270.0,2017,POITIERS
+0030616D,46.1324239,3.4602736000000003,84,10 rue Jean Epinat,3300.0,Cusset,Ecole maternelle Les Darcins,Auvergne-et-Rhône-Alpes,13545.0,2017,CLERMONT-FERRAND
+0030740N,46.3464789733877,3.8305934422415095,84,8 rue de la Mairie,3130.0,Bert,Ecole élémentaire de Bert,Auvergne-et-Rhône-Alpes,256.0,2017,CLERMONT-FERRAND
+0050153P,44.56424570000001,6.4957085,93,Boulevard Pasteur,5200.0,Embrun,Ecole maternelle la Farandole,Provence-Alpes-Côte-d'Azur,6123.0,2017,AIX-MARSEILLE
+0212101V,47.779773399999996,4.8607185,27,Place de l'Hôtel de Ville,21290.0,Recey-sur-Ource,Ecole maternelle de Recey-sur-Ource,Bourgogne-et-Franche-Comté,371.0,2016,DIJON
+0220484G,48.5141594,-2.7602707000000004,53,2 rue de la corniche,22000.0,Saint-Brieuc,Ecole maternelle Cesson Bourg,Bretagne,45331.0,2016,RENNES
+0560739Z,47.711927100000004,-3.3088391,53,2 impasse des écoles,56670.0,Riantec,Ecole maternelle la Petite mer,Bretagne,5232.0,2017,RENNES
+0561415J,48.0647729,-2.9675702,53,Rue des églantines,56300.0,Pontivy,Ecole maternelle Marcel collet,Bretagne,13915.0,2017,RENNES
+0561725W,47.747733600000004,-3.3660907,53,Rue de la Bollardière,56100.0,Lorient,Ecole maternelle Kerfichant,Bretagne,57961.0,2017,RENNES
+0570406G,49.264743200000005,6.6277712,44,14 rue de l'école,57550.0,Rémering,Ecole élémentaire de Rémering,Grand-Est,445.0,2016,NANCY-METZ
+0060231U,43.8119541,7.3146204,93,Rue H.passeron,6390.0,Contes,Ecole maternelle groupe Ricolfi 1,Provence-Alpes-Côte-d'Azur,7279.0,2017,NICE
+0221474H,48.74957,-2.9855088,53,5 rue Yves Le Bitter,22470.0,Plouézec,Ecole maternelle Marcel Le Roy,Bretagne,3259.0,2016,RENNES
+0240180R,44.8106395,0.8238780000000001,75,Le bourg,24480.0,Molières,Ecole élémentaire de Molières,Nouvelle-Aquitaine,323.0,2017,BORDEAUX
+0270336U,49.0738551,0.46196940000000003,28,Le bourg,27230.0,Saint-Mards-de-Fresne,Ecole élémentaire de Saint-Mards-de-Fresne,Normandie,352.0,2017,ROUEN
+0270365A,48.8995494,1.2329159,28,24 rue de l'Ecole,27220.0,Les Authieux,Ecole élémentaire des Authieux,Normandie,284.0,2017,ROUEN
+0240296S,45.1909365,0.7184406999999999,75,Rue Clos Chassaing,24000.0,Périgueux,Ecole maternelle d'application Clos Chassaing,Nouvelle-Aquitaine,30036.0,2016,BORDEAUX
+0240301X,45.197017200000005,0.7835042,75,4 rue des Charmilles,24750.0,Trélissac,Ecole maternelle Claudine Gerbeau,Nouvelle-Aquitaine,6836.0,2016,BORDEAUX
+0240313K,44.6312198,0.8725428,75,Le bourg,24540.0,Biron,Ecole de Biron,Nouvelle-Aquitaine,188.0,2017,BORDEAUX
+0240419A,45.336641,1.0490102,75,8 boulevard André Dupuy,24160.0,Excideuil,Ecole élémentaire d'Excideuil,Nouvelle-Aquitaine,1162.0,2016,BORDEAUX
+0240582C,45.138268100000005,0.752132860790254,75,9 rue Eugène Leroy,24750.0,Atur,Ecole élémentaire d'Atur,Nouvelle-Aquitaine,1901.0,2017,BORDEAUX
+0100144C,48.0629678470786,3.91875099874401,44,9 Grande rue,10130.0,Bernon,Ecole primaire de Bernon,Grand-Est,191.0,2016,REIMS
+0100198L,48.502765999999994,4.2738976,44,4 rue Jeanne d'Arc,10240.0,Chaudrey,Ecole primaire de Chaudrey,Grand-Est,155.0,2016,REIMS
+0100250T,48.2701237,3.8071497,44,9 rue Eugénie Geoffroy,10190.0,Estissac,Ecole maternelle d'Estissac,Grand-Est,1902.0,2016,REIMS
+0100924A,48.2088406,3.8914306000000005,44,5 Route d'Estissac,10190.0,Bercenay-en-Othe,Ecole maternelle de Bercenay-en-Othe,Grand-Est,450.0,2016,REIMS
+0451199J,47.76351,2.0215,24,113 rue de Chantaloup,45240.0,Marcilly-en-Villette,Ecole maternelle de Marcilly-en-Villette,Centre-Val-de-Loire,2040.0,2016,ORLEANS-TOURS
+0451311F,48.2104339,2.0179646,24,Rue des écoles,45480.0,Outarville,Ecole maternelle d'Outarville,Centre-Val-de-Loire,1400.0,2016,ORLEANS-TOURS
+0460227X,44.5418304,1.0737531,76,Le bourg,46700.0,Montcabrier,Ecole primaire de Montcabrier,Occitanie,343.0,2017,TOULOUSE
+0460271V,44.9898406,1.6634008000000002,76,Le bourg,46110.0,Condat,Ecole primaire de Condat,Occitanie,397.0,2016,TOULOUSE
+0460401L,44.7841401,1.8513429,76,Le bourg,46120.0,Aynac,Ecole maternelle d'Aynac,Occitanie,596.0,2016,TOULOUSE
+0460419F,44.3770903,1.1533354559551101,76,Le bourg,46800.0,Belmontet,Ecole maternelle de Belmontet,Occitanie,149.0,2017,TOULOUSE
+0460600C,44.9971233,1.6389476635401001,76,Le bourg,46110.0,Les Quatre-Routes-du-Lot,Ecole maternelle des Quatre-Routes-du-Lot,Occitanie,634.0,2017,TOULOUSE
+0280156T,48.2825990166904,1.65838836542575,24,9 rue de l'église,28150.0,Boncé,Ecole élémentaire Bonce,Centre-Val-de-Loire,243.0,2017,ORLEANS-TOURS
+0280285H,48.4231,1.46835,24,1 avenue de la République,28600.0,Luisant,Ecole primaire Charlemagne,Centre-Val-de-Loire,6720.0,2017,ORLEANS-TOURS
+0180451T,47.3030026,2.5239669,24,13 Route de Boisbelle,18250.0,Henrichemont,Ecole maternelle d'Henrichemont,Centre-Val-de-Loire,1806.0,2017,ORLEANS-TOURS
+0180588S,46.9921896,2.2552381,24,Breuil,18400.0,Saint-Florent-sur-Cher,Ecole maternelle Le Breuil,Centre-Val-de-Loire,6629.0,2016,ORLEANS-TOURS
+9740951R,-20.935458399999998,55.29167629999999,4,Rue Louis Aragon,97420.0,Le Port,Ecole maternelle Françoise Dolto,La-Réunion,35881.0,2016,LA REUNION
+9760022V,-12.77607895,45.2846124862922,6,Labatoir 1 la Ferme,97615.0,Dzaoudzi,Ecole élémentaire Labattoir 1 la Ferme,Mayotte,17831.0,2016,MAYOTTE
+9760028B,-12.913218400000002,45.194967,6,Bandrele,97660.0,Bandrele,Ecole élémentaire Bandrele Village,Mayotte,10282.0,2016,MAYOTTE
+0080345G,49.7429367,4.7462556,44,6 rue Gambetta,8000.0,Villers-Semeuse,Ecole maternelle Gambetta,Grand-Est,3599.0,2016,REIMS
+0080520X,49.4254547,4.176461799999999,44,3 Grande rue,8190.0,Roizy,Ecole élémentaire de Roizy,Grand-Est,231.0,2016,REIMS
+0090137A,42.9003627,1.3404767,76,Hameau d'Espies,9320.0,Boussenac,Ecole de Boussenac,Occitanie,185.0,2017,TOULOUSE
+0170589Y,45.6245332,-1.0287636,75,18 rue des écoles,17200.0,Royan,Ecole élémentaire Jules Ferry,Nouvelle-Aquitaine,18138.0,2016,POITIERS
+0110864E,43.21303579999999,2.3491068999999998,76,1  RUE RABELAIS,11000.0,Carcassonne,Ecole primaire la Prade,Occitanie,46724.0,2017,MONTPELLIER
+0120338C,44.5923335,2.42216998397436,76,Rue Gonzague Florens,12320.0,Conques,Ecole Prosper Mérimée,Occitanie,255.0,2017,TOULOUSE
+0120475B,44.476229,2.2295701,76,Route Sangayrac,12220.0,Montbazens,Ecole maternelle de Montbazens,Occitanie,1418.0,2017,TOULOUSE
+0410098J,47.35296115,1.2239873718126,24,Place Lucien Gigaud,41400.0,Bourré,Ecole Lucien Gigaud,Centre-Val-de-Loire,676.0,2017,ORLEANS-TOURS
+0190375E,45.406522499999994,2.0450180000000002,75,24 rue du Mouricou,19300.0,Égletons,Ecole maternelle Marcelle Bergeal,Nouvelle-Aquitaine,4334.0,2016,LIMOGES
+0190547S,45.233554600000005,1.6974158,75,Le bourg,19330.0,Chameyrat,Ecole élémentaire de Chameyrat,Nouvelle-Aquitaine,1584.0,2016,LIMOGES
+0210472Z,47.290721000000005,4.2946459,27,2 Grande rue,21210.0,Villargoix,Ecole RPI,Bourgogne-et-Franche-Comté,154.0,2016,DIJON
+0210509P,47.23017,5.1929099999999995,27,8 Route de Genlis,21110.0,Varanges,Ecole élémentaire RPI,Bourgogne-et-Franche-Comté,751.0,2017,DIJON
+0100796L,48.2784599,4.0507314,44,1 rue Pierre de Celle,10120.0,Saint-André-les-Vergers,Ecole maternelle Montier la Celle,Grand-Est,11770.0,2017,REIMS
+0171051A,45.6245332,-1.0287636,75,23 rue de la Terrasse,17200.0,Royan,Ecole maternelle Jules Ferry,Nouvelle-Aquitaine,18138.0,2016,POITIERS
+0180779Z,47.1354385,2.5499221000000003,24,Ste Solange,18220.0,Sainte-Solange,Ecole maternelle de Sainte-Solange,Centre-Val-de-Loire,1178.0,2016,ORLEANS-TOURS
+0120585W,44.1883973,3.1322855,76,Boyne,12640.0,Rivière-sur-Tarn,Ecole maternelle Boyne,Occitanie,1050.0,2017,TOULOUSE
+0420322X,46.0345572,4.0729178,84,18 place Berthelot,42300.0,Roanne,Ecole maternelle Berthelot,Auvergne-et-Rhône-Alpes,35507.0,2016,LYON
+0420327C,46.0345572,4.0729178,84,Place Larochette,42300.0,Roanne,Ecole maternelle Larochette,Auvergne-et-Rhône-Alpes,35507.0,2016,LYON
+0211333K,47.2089381,5.3531973,27,5 rue des Rosiers,21130.0,Villers-les-Pots,Ecole maternelle de Villers-les-Pots,Bourgogne-et-Franche-Comté,1076.0,2017,DIJON
+0211891S,47.276819700000004,5.1748412,27,4 bis rue du Marais,21110.0,Magny-sur-Tille,Ecole maternelle de Magny-sur-Tille,Bourgogne-et-Franche-Comté,847.0,2016,DIJON
+0280792J,48.7358807,1.3684253999999998,24,Rue du Lièvre d'Or,28100.0,Dreux,Ecole maternelle Croix Tienac,Centre-Val-de-Loire,31373.0,2016,ORLEANS-TOURS
+0290512Z,48.45148029999999,-4.2557901,53,75 rue Fontaine Blanche,29800.0,Landerneau,Ecole maternelle Ferdinand Buisson,Bretagne,15443.0,2017,RENNES
+0120719S,44.7373,2.7288200000000002,76,Le bourg,12460.0,Saint-Symphorien-de-Thénières,Ecole de Saint-Symphorien-de-Thénières,Occitanie,230.0,2017,TOULOUSE
+0190145E,45.158498200000004,1.5332389,75,2 carrefour carriven,19100.0,Brive-la-Gaillarde,Ecole élémentaire Pont Cardinal,Nouvelle-Aquitaine,46794.0,2017,LIMOGES
+0190510B,45.4143034,2.4284517999999995,75,Le bourg,19110.0,Sarroux,Ecole élémentaire de Sarroux,Nouvelle-Aquitaine,424.0,2017,LIMOGES
+0291163G,47.8126044,-4.3377655,53,Rue Mathurin Meheut,29760.0,Penmarch,Ecole maternelle Auguste Dupouy,Bretagne,5401.0,2017,RENNES
+0180234G,46.9921896,2.2552381,24,Rue Charles Migraine,18400.0,Saint-Florent-sur-Cher,Ecole élémentaire Louis Dezelot 1,Centre-Val-de-Loire,6629.0,2017,ORLEANS-TOURS
+0420522P,45.4235,4.06555,84,7 rue des Monnaires,42380.0,Saint-Bonnet-le-Château,Ecole maternelle chemin des Monnaires,Auvergne-et-Rhône-Alpes,1583.0,2016,LYON
+0420673D,45.4401467,4.3873058,84,23 rue Ambroise Paré,42100.0,Saint-Étienne,Ecole maternelle Solaure,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0420702K,45.74456841313721,4.22591794358575,84,Le bourg,42110.0,Sainte-Foy-Saint-Sulpice,Ecole Le Bourg,Auvergne-et-Rhône-Alpes,533.0,2017,LYON
+0420928F,45.6072875,4.0627318,84,50 avenue Alsace Lorraine,42600.0,Montbrison,Ecole maternelle Château Lacheze,Auvergne-et-Rhône-Alpes,15673.0,2016,LYON
+0420933L,45.5414,4.18354,84,59 rue du Onze Novembre,42450.0,Sury-le-Comtal,Ecole maternelle R. du 11 Novembre,Auvergne-et-Rhône-Alpes,6057.0,2017,LYON
+0290790B,47.9960325,-4.1024782,53,12 rue du Lycée,29000.0,Quimper,Ecole élémentaire Jules Ferry,Bretagne,63532.0,2017,RENNES
+0061755A,43.833177,7.472391900000001,93,Place Lucien Rousset,6500.0,Castillon,Ecole Castillon,Provence-Alpes-Côte-d'Azur,381.0,2017,NICE
+0130487J,43.5139051,4.9884322999999995,93,12 place des Carmes,13800.0,Istres,Ecole maternelle Carmes,Provence-Alpes-Côte-d'Azur,42937.0,2017,AIX-MARSEILLE
+0422101F,45.4401467,4.3873058,84,5 rue Raoul Follereau,42100.0,Saint-Étienne,Ecole maternelle Cotonne,Auvergne-et-Rhône-Alpes,172023.0,2016,LYON
+0430413R,45.118917100000004,3.9065257000000004,84,Le bourg,43800.0,Lavoûte-sur-Loire,Ecole élémentaire de Lavoûte-sur-Loire,Auvergne-et-Rhône-Alpes,841.0,2017,CLERMONT-FERRAND
+0160196B,45.4199869,0.056499900000000006,75,Le bourg,16190.0,Nonac,Ecole de Nonac,Nouvelle-Aquitaine,303.0,2016,POITIERS
+0160561Y,45.7078066,0.5547653,75,Le bourg,16220.0,Rouzède,Ecole élémentaire de Rouzède,Nouvelle-Aquitaine,223.0,2017,POITIERS
+0071178T,45.2399639,4.6675474999999995,84,Cité de Bernaudin,7100.0,Annonay,Ecole Bernaudin,Auvergne-et-Rhône-Alpes,16075.0,2017,GRENOBLE
+0090111X,43.1661872,1.2755831,76,1 place des écoles,9350.0,La Bastide-de-Besplas,Ecole primaire de la Bastide-de-Besplas,Occitanie,384.0,2017,TOULOUSE
+0100095Z,48.2514482840827,4.70577699728286,44,Rue du Donjon,10200.0,Champignol-lez-Mondeville,Ecole primaire de Champignol-lez-Mondeville,Grand-Est,323.0,2016,REIMS
+0100227T,47.99585089999999,3.8643686,44,36 Route Principale,10130.0,Les Croûtes,Ecole primaire des Croûtes,Grand-Est,108.0,2016,REIMS
+0100412U,48.5185158,3.5955059,44,Rue du Four,10400.0,Pont-sur-Seine,Ecole maternelle de Pont-sur-Seine,Grand-Est,1131.0,2017,REIMS
+0100465B,48.2784599,4.0507314,44,99 rue Thiers,10120.0,Saint-André-les-Vergers,Ecole maternelle Auguste Renoir,Grand-Est,11770.0,2016,REIMS
+0351787C,48.0181129,-1.651345,53,3 avenue de la Mare Guesclin,35230.0,Saint-Erblon,Ecole maternelle Les Colombes,Bretagne,2662.0,2017,RENNES
+0352095M,48.368382700000005,-1.2177018,53,14 rue de la Dussetière,35133.0,Lécousse,Ecole maternelle Montaubert,Bretagne,3058.0,2017,RENNES
+0360241S,46.947782600000004,1.9889131000000002,24,8 rue François Habert,36100.0,Issoudun,Ecole maternelle FranE£ois Habert,Centre-Val-de-Loire,12420.0,2016,ORLEANS-TOURS
+0360484F,46.428091200000004,2.0528147,24,4 rue de l'Ecole,36160.0,Sazeray,Ecole de Sazeray,Centre-Val-de-Loire,314.0,2017,ORLEANS-TOURS
+0292028X,47.8201167,-3.7921065,53,Rue de Gwaremm Zu,29920.0,Névez,Ecole maternelle Bourg,Bretagne,2682.0,2016,RENNES
+0170436G,46.1591126,-1.1520434,75,Rue Nicolas de Largilliére,17000.0,La Rochelle,Ecole maternelle Gaston Balande,Nouvelle-Aquitaine,74344.0,2016,POITIERS
+9710152N,16.2408636,-61.533407700000005,1,Boulevard Chanzy,97110.0,Pointe-à-Pitre,Ecole maternelle Cideme Salvator,Guadeloupe,15826.0,2016,GUADELOUPE
+9710389W,16.3316709,-61.3476233,1,Cadenet,97160.0,Le Moule,Ecole maternelle Laurette Vitalle,Guadeloupe,22456.0,2017,GUADELOUPE
+9710492H,16.3776349,-61.48778370000001,1,Rue Evremont Gène,97131.0,Petit-Canal,Ecole maternelle Amédée Fengarol,Guadeloupe,8057.0,2017,GUADELOUPE
+9710497N,16.2255854,-61.385755700000004,1,Rue Victor Hugo,97180.0,Sainte-Anne,Ecole maternelle Paul Lacavé,Guadeloupe,24653.0,2016,GUADELOUPE
+0110176G,43.21303579999999,2.3491068999999998,76,6 rue Déodat de Séverac,11000.0,Carcassonne,Ecole maternelle Paul Lacombe,Occitanie,46724.0,2016,MONTPELLIER
+0110651Y,43.2108325,2.4412578999999996,76,Place de l'Hôtel de Ville,11800.0,Trèbes,Ecole maternelle Trebes Ville,Occitanie,5410.0,2016,MONTPELLIER
+0260940F,45.0458886,5.0528680999999995,84,Boulevard Henri Dunant,26100.0,Romans-sur-Isère,Ecole maternelle Ninon Vallin,Auvergne-et-Rhône-Alpes,33632.0,2016,GRENOBLE
+0261028B,44.9332277,4.8920810999999995,84,1 rue Maurice Ravel,26000.0,Valence,Ecole maternelle Maurice Ravel,Auvergne-et-Rhône-Alpes,61767.0,2016,GRENOBLE
+0270863S,48.90859715,1.1640740779346699,28,2 rue Saint-Barthélémy,27240.0,Thomer-la-Sôgne,Ecole élémentaire de Thomer-la-Sôgne,Normandie,327.0,2017,ROUEN
+0571959V,49.034658,6.1569029,44,55 rue Principale,57420.0,Coin-lès-Cuvry,Ecole élémentaire Le Cèdre Bleu,Grand-Est,685.0,2016,NANCY-METZ
+0572137N,49.119696399999995,6.176355200000001,44,13 rue Christian Pfister,57000.0,Metz,Ecole maternelle Sablon Au pommier Rose,Grand-Est,118634.0,2017,NANCY-METZ
+0572314F,49.3086945,6.587674400000001,44,23 rue Principale,57320.0,Heining-lès-Bouzonville,Ecole élémentaire d'Heining-lès-Bouzonville,Grand-Est,512.0,2017,NANCY-METZ
+0671974G,48.851978700000004,7.6124713869939695,44,1 rue de l'Ecole,67350.0,La Walck,Ecole de la Walck,Grand-Est,1130.0,2016,STRASBOURG
+0672452B,48.3966676,7.4425002000000005,44,1 chemin de l'Oberberg,67140.0,Mittelbergheim,Ecole maternelle de Mittelbergheim,Grand-Est,658.0,2016,STRASBOURG
+0672620J,48.455352500000004,7.206870299999999,44,16 A rue de Schirmeck,67570.0,Rothau,Ecole maternelle de Rothau,Grand-Est,1575.0,2016,STRASBOURG
+0111002E,43.020213299999995,2.391578,76,Le village,11580.0,Villardebelle,Ecole élémentaire de Villardebelle,Occitanie,54.0,2017,MONTPELLIER
+0160187S,45.348473999999996,0.24915460000000003,75,Le bourg,16390.0,Palluaud,Ecole élémentaire de Palluaud,Nouvelle-Aquitaine,239.0,2016,POITIERS
+0160287A,45.6763498,0.2188754,75,63 rue des Seguins,16600.0,Ruelle-sur-Touvre,Ecole élémentaire A. Daudet,Nouvelle-Aquitaine,7357.0,2016,POITIERS
+0160449B,45.7594369,0.1278348,75,Rue principale,16330.0,Vars,Ecole maternelle F Dolto,Nouvelle-Aquitaine,2021.0,2017,POITIERS
+0160529N,46.0316836,0.7211031,75,Le bourg,16500.0,Esse,Ecole d'Esse,Nouvelle-Aquitaine,505.0,2016,POITIERS
+0280310K,48.4231,1.46835,24,110 avenue M Maunoury,28600.0,Luisant,Ecole maternelle Jean de la Fontaine,Centre-Val-de-Loire,6720.0,2017,ORLEANS-TOURS
+0572592H,49.149292200000005,6.9490582,44,17 rue de l'Ecole,57460.0,Bousbach,Ecole maternelle de Bousbach,Grand-Est,1149.0,2016,NANCY-METZ
+0572687L,49.1198867,6.287998402696981,44,5 rue de la Chappé,57645.0,Montoy-Flanville,Ecole maternelle Les Quatre Saisons,Grand-Est,1117.0,2016,NANCY-METZ
+0572781N,49.25150479999999,6.0938369,44,Rue Saint Exupéry,57120.0,Rombas,Ecole maternelle Rond Bois,Grand-Est,10002.0,2016,NANCY-METZ
+0681387N,47.7569173878324,7.288916684651969,44,53 rue Principale,68210.0,Wolfersdorf,Ecole intercommunale,Grand-Est,346.0,2016,STRASBOURG
+0681512Z,47.76278129999999,7.1529679,44,3 rue de la Station,68700.0,Aspach-le-Bas,Ecole élémentaire des 2 Aspach-Michelbach,Grand-Est,1307.0,2017,STRASBOURG
+0160851N,45.9935688,0.6461785,75,Le bourg,16500.0,Ansac-sur-Vienne,Ecole Ratier - Lacouture,Nouvelle-Aquitaine,856.0,2016,POITIERS
+0161030H,46.01203889999999,0.0795577,75,Rue du Docteur Feuillet,16240.0,Villefagnan,Ecole maternelle de Villefagnan,Nouvelle-Aquitaine,997.0,2016,POITIERS
+0161129R,45.7750157,0.2093391,75,Le bourg,16560.0,Anais,Ecole maternelle d'Anais,Nouvelle-Aquitaine,591.0,2017,POITIERS
+0410893Y,48.04060429999999,1.076786,24,11 Route de Cloyes,41270.0,Droué,Ecole maternelle de Droué,Centre-Val-de-Loire,1013.0,2017,ORLEANS-TOURS
+0420326B,46.0345572,4.0729178,84,18 rue Lakanal,42300.0,Roanne,Ecole maternelle Lakanal,Auvergne-et-Rhône-Alpes,35507.0,2016,LYON
+0420377G,45.434898700000005,4.3212622000000005,84,3 rue Louis Comté,42230.0,Roche-la-Molière,Ecole primaire Centre 1,Auvergne-et-Rhône-Alpes,10093.0,2016,LYON
+0420652F,45.4401467,4.3873058,84,10 rue Docteur Laënnec,42100.0,Saint-Étienne,Ecole maternelle Guizay,Auvergne-et-Rhône-Alpes,172023.0,2016,LYON
+0670207L,48.2422436,7.3799809000000005,44,163 rue des Prelats,67600.0,Orschwiller,Ecole maternelle d'Orschwiller,Grand-Est,633.0,2017,STRASBOURG
+0670220A,48.542510899999996,7.7102193,44,Rue de Sélestat,67540.0,Ostwald,Ecole maternelle Le Schloessel,Grand-Est,11925.0,2016,STRASBOURG
+0670292D,48.584614,7.750712700000001,44,2 rue Welsch,67100.0,Strasbourg,Ecole maternelle Neuhof A,Grand-Est,275718.0,2016,STRASBOURG
+0670364G,48.9012785,7.9757435,44,2 rue des écoles,67690.0,Hatten,Ecole maternelle de Hatten,Grand-Est,1935.0,2016,STRASBOURG
+0671099F,48.71944845,7.58331394234607,44,3 rue de l'Eglise,67270.0,Gingsheim,Ecole élémentaire de Gingsheim,Grand-Est,334.0,2016,STRASBOURG
+0420961S,46.0205,4.09203,84,Rue Winston Churchill,42120.0,Le Coteau,Ecole maternelle plaines,Auvergne-et-Rhône-Alpes,6775.0,2016,LYON
+0421190R,46.0345572,4.0729178,84,4 rue de Bourgogne,42300.0,Roanne,Ecole maternelle Fontquentin,Auvergne-et-Rhône-Alpes,35507.0,2017,LYON
+0421472X,45.4401467,4.3873058,84,9 allée Rachel,42100.0,Saint-Étienne,Ecole primaire Montferre,Auvergne-et-Rhône-Alpes,172023.0,2016,LYON
+0421529J,45.4401467,4.3873058,84,17 rue Gounod,42000.0,Saint-Étienne,Ecole maternelle d'application Montreynaud Gounod,Auvergne-et-Rhône-Alpes,172023.0,2016,LYON
+0421988H,45.4401467,4.3873058,84,10 rue H Dunant,42100.0,Saint-Étienne,Ecole primaire Beaulieu,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0830730T,43.1007714,5.878894799999999,93,97 avenue Henri Guillaume,83500.0,La Seyne-sur-Mer,Ecole maternelle Romain Rolland,Provence-Alpes-Côte-d'Azur,64523.0,2017,NICE
+0671470J,48.9404465,7.0899329,44,7 rue du Châlet,67260.0,Sarre-Union,Ecole maternelle Le Petit Prince,Grand-Est,2967.0,2016,STRASBOURG
+0671521P,48.989436299999994,8.044114599999999,44,170 rue Neuve,67160.0,Schleithal,Ecole maternelle de Schleithal,Grand-Est,1473.0,2017,STRASBOURG
+0480362H,44.1998,3.92277,76,Le village,48160.0,Saint-Martin-de-Boubaux,Ecole primaire de Saint-Martin-de-Boubaux,Occitanie,180.0,2016,MONTPELLIER
+0311118X,43.4599858,1.3262332000000001,76,Rue du Maréchal Lyautey,31600.0,Muret,Ecole maternelle Jean Mermoz,Occitanie,24725.0,2017,TOULOUSE
+0490099S,47.473988399999996,-0.5515588,52,18 rue Colonel de Sauveboeuf,49000.0,Angers,Ecole maternelle Pierre et Marie Curie,Pays-de-la-Loire,150125.0,2016,NANTES
+0890470C,48.0201831,3.8050892,27,17 rue d'En Haut,89570.0,Beugnon,Ecole de Beugnon,Bourgogne-et-Franche-Comté,329.0,2016,DIJON
+0890993W,47.9411544,3.1309538,27,4 allée du Docteur Gauthereau,89120.0,Villefranche,Ecole primaire de Villefranche,Bourgogne-et-Franche-Comté,635.0,2016,DIJON
+0891081S,47.7741815,3.7546242999999997,27,17 rue Nicolas Droin,89800.0,Courgis,Ecole de Courgis,Bourgogne-et-Franche-Comté,259.0,2017,DIJON
+0891294Y,47.8634136,3.7279379,27,2 rue Auxerroise,89800.0,Lignorelles,Ecole élémentaire de Lignorelles,Bourgogne-et-Franche-Comté,184.0,2016,DIJON
+0900055W,47.717980299999994,6.9690806,27,40 rue des Vosges,90110.0,Romagny-sous-Rougemont,Ecole primaire Romagny sous Rougemont,Bourgogne-et-Franche-Comté,201.0,2017,BESANCON
+0900095P,47.7418553,6.8251786999999995,27,Rue haute Rive,90200.0,Giromagny,Ecole primaire Docteur Benoît,Bourgogne-et-Franche-Comté,3141.0,2017,BESANCON
+0490989J,47.05249335,-0.8782112545094142,52,26 rue du Planty,49300.0,Cholet,Ecole maternelle Le Planty,Pays-de-la-Loire,53890.0,2016,NANTES
+0681782T,48.07775170000001,7.3579641,44,2 rue des Marguerites,68000.0,Colmar,Ecole maternelle Les Marguerites,Grand-Est,67956.0,2017,STRASBOURG
+0332316N,44.893145200000006,-0.15606620000000002,75,Groupe scolaire Grand Pontet,33330.0,Saint-Émilion,Ecole maternelle Elie Janailhac,Nouvelle-Aquitaine,1911.0,2017,BORDEAUX
+0332763Z,44.9259011,-0.48818459999999997,75,38 avenue du chemin de la vie,33440.0,Ambarès-et-Lagrave,Ecole maternelle la Souris Verte,Nouvelle-Aquitaine,14609.0,2017,BORDEAUX
+0911135P,48.482408899999996,2.3476234000000002,11,Rue des Pierres rangées,91590.0,La Ferté-Alais,Ecole maternelle Champ de Coq,Île-de-France,3960.0,2016,VERSAILLES
+0020597N,49.9216667,3.4030556000000005,32,18 rue Principale,2110.0,Croix-Fonsomme,Ecole élémentaire de Croix-Fonsomme,Hauts-de-France,230.0,2016,AMIENS
+0020868H,49.84861110000001,3.2863888,32,Impasse Jacquart,2100.0,Saint-Quentin,Ecole maternelle Groupe scolaire Quentin-Barre,Hauts-de-France,55698.0,2016,AMIENS
+0311650A,43.6828953,1.31799,76,Place Jean Jaurès,31840.0,Aussonne,Ecole maternelle Louise Michel,Occitanie,6867.0,2016,TOULOUSE
+0320158Y,43.3525,0.5125,76,Le village,32140.0,Monlaur-Bernet,Ecole maternelle Empu Monlaur Bernet,Occitanie,171.0,2017,TOULOUSE
+0320307K,43.6520371776118,-0.10823350520633802,76,Le village,32400.0,Termes-d'Armagnac,Ecole maternelle Empu Termes d'Armagnanc,Occitanie,186.0,2017,TOULOUSE
+0320317W,43.461388899999996,0.2158333,76,Le village,32230.0,Troncens,Ecole élémentaire Troncens,Occitanie,184.0,2016,TOULOUSE
+0320462D,43.972777799999996,0.4577778,76,Le village,32100.0,Castelnau-sur-l'Auvignon,Ecole élémentaire Castelnau Auvignon,Occitanie,177.0,2017,TOULOUSE
+0320611R,43.5479869,0.29451109999999997,76,Le village,32320.0,Pouylebon,Ecole maternelle Empu Pouylebon,Occitanie,147.0,2016,TOULOUSE
+0301529Z,43.8629,4.45426,76,Avenue de Paris,30320.0,Marguerittes,Ecole maternelle Taillefer,Occitanie,8608.0,2016,MONTPELLIER
+0330545N,44.884237899999995,-0.6111474,75,12 rue Théodore Bellemer,33520.0,Bruges,Ecole primaire Camille Claudel,Nouvelle-Aquitaine,16954.0,2016,BORDEAUX
+0331104W,45.129870700000005,-0.5076217000000001,75,Rue de la gare,33920.0,Saint-Christoly-de-Blaye,Ecole maternelle de Saint-Christoly-de-Blaye,Nouvelle-Aquitaine,2031.0,2017,BORDEAUX
+0080513P,49.457891100000005,4.1032291,44,8 rue Balzan,8190.0,Vieux-lès-Asfeld,Ecole primaire de Vieux-lès-Asfeld,Grand-Est,320.0,2016,REIMS
+0080755C,50.1032047,4.762525599999999,44,Rue du Général Sarrail,8320.0,Aubrives,Ecole maternelle Jeanine Lambeau,Grand-Est,866.0,2016,REIMS
+0081101D,49.433024700000004,4.0534287,44,Rue d'Obernai,8190.0,Brienne-sur-Aisne,Ecole élémentaire de Brienne-sur-Aisne,Grand-Est,193.0,2016,REIMS
+0090070C,42.7731821,1.51365726343815,76,Le village,9220.0,Vicdessos,Ecole primaire de Vicdessos,Occitanie,543.0,2017,TOULOUSE
+0500448R,49.28282425,-1.53963994128265,28,Rue du Docteur Callegari,50250.0,La Haye-du-Puits,Ecole maternelle Le Chat Perche,Normandie,1547.0,2017,CAEN
+0500764J,49.1912371,-1.1912143097844,28,4 rue du Moulin Fauvel,50620.0,Le Hommet-d'Arthenay,Ecole RPI Les Bords de Terrette,Normandie,393.0,2016,CAEN
+0501034C,49.68706625,-1.40794853093579,28,Le bourg,50330.0,Cosqueville,Ecole Jules Ferry,Normandie,565.0,2016,CAEN
+0920449N,48.9026,2.30551,11,19 rue d'Alsace,92110.0,Clichy,Ecole maternelle Victor Hugo,Île-de-France,59255.0,2017,VERSAILLES
+0511414K,49.2577886,4.031926,44,43 rue Jean et Gilberte Droit,51100.0,Reims,Ecole maternelle Gilberte Droit,Grand-Est,182592.0,2017,REIMS
+0511518Y,49.2854977,3.8165964,44,2 allée des Acacias,51140.0,Jonchery-sur-Vesle,Ecole maternelle du Parc de la Fontaine,Grand-Est,1887.0,2017,REIMS
+0520995Z,48.15969570000001,5.549050599999999,44,1 place des Tilleuls,52150.0,Huilliécourt,Ecole Henri Henriot,Grand-Est,120.0,2016,REIMS
+0521020B,48.45828,5.13999,44,Place Georges Pompidou,52300.0,Vecqueville,Ecole de Vecqueville,Grand-Est,610.0,2017,REIMS
+0270396J,48.95917,1.2915299999999998,28,7 rue de la Liberté,27220.0,Saint-Germain-de-Fresney,Ecole élémentaire de Saint-Germain-de-Fresney,Normandie,216.0,2017,ROUEN
+0510366W,49.1373278,4.3660294,44,Rue Albert Camus,51400.0,Mourmelon-le-Grand,Ecole maternelle Léon Bourgeois,Grand-Est,5339.0,2016,REIMS
+0510629G,48.9566218,4.3628851,44,3 rue J de la Fontaine,51000.0,Châlons-en-Champagne,Ecole élémentaire d'application Jean de la Fontaine,Grand-Est,44899.0,2016,REIMS
+0922522S,48.9026,2.30551,11,9 rue Sophie Foucault,92110.0,Clichy,Ecole maternelle Sophie Foucault,Île-de-France,59255.0,2017,VERSAILLES
+0631506V,45.893068,3.1136667,84,25 rue Victor Basch,63200.0,Riom,Ecole maternelle Maurice Genest,Auvergne-et-Rhône-Alpes,18675.0,2017,CLERMONT-FERRAND
+0271348U,49.246919299999995,1.4215533999999999,28,Rue des Maraîchers,27700.0,Les Andelys,Ecole maternelle Pauline Kergomard,Normandie,8201.0,2017,ROUEN
+0271493B,48.949459999999995,1.3041399999999999,28,2 place de la Mairie,27220.0,Fresney,Ecole élémentaire de Fresney,Normandie,337.0,2017,ROUEN
+0280211C,48.0827574,1.7408966000000001,24,9 rue Chanzy,28140.0,Terminiers,Ecole maternelle de Terminiers,Centre-Val-de-Loire,941.0,2016,ORLEANS-TOURS
+0511586X,49.1514315,4.2514192,44,3 rue de la gare,51400.0,Sept-Saulx,Ecole maternelle de Sept-Saulx,Grand-Est,593.0,2016,REIMS
+0511967L,48.8793138165297,3.59301958253128,44,4 Route de Montmort,51210.0,Fromentières,Ecole maternelle de Fromentières,Grand-Est,385.0,2017,REIMS
+0220654S,48.403605400000004,-2.9112668999999998,53,18 rue Maréchal Leclerc,22800.0,Quintin,Ecole maternelle de Quintin,Bretagne,2822.0,2017,RENNES
+0220690F,48.1960984,-2.9826182529094303,53,Rue Sainte-Suzanne,22530.0,Mûr-de-Bretagne,Ecole maternelle de Mûr-de-Bretagne,Bretagne,2078.0,2017,RENNES
+0221477L,48.5245,-2.00563,53,Le bourg,22490.0,Plouër-sur-Rance,Ecole maternelle de Plouër-sur-Rance,Bretagne,3409.0,2017,RENNES
+0221604Z,48.7732657,-3.5187178999999995,53,22 Route de Trebeurden,22560.0,Pleumeur-Bodou,Ecole maternelle Jean Le Morvan,Bretagne,3983.0,2016,RENNES
+0301179U,43.692438200000005,4.2754772,76,Avenue Robert Gourdon,30600.0,Vauvert,Ecole élémentaire du Pic d'Etienne,Occitanie,11195.0,2017,MONTPELLIER
+0931314Y,48.9392142,2.5257254000000002,11,4 rue P Brossolette,93270.0,Sevran,Ecole élémentaire Marie Curie,Île-de-France,49465.0,2016,CRETEIL
+0932067S,48.9031,2.48291,11,77 avenue H Barbusse,93140.0,Bondy,Ecole maternelle Camille Claudel,Île-de-France,52865.0,2017,CRETEIL
+0601124W,49.2093315,2.6964792,32,3 rue de l'église,60810.0,Montépilloy,Ecole élémentaire de Montépilloy,Hauts-de-France,162.0,2017,AMIENS
+0240182T,44.845628399999995,0.9082579,75,Hameau de Cadouin,24480.0,Le Buisson-de-Cadouin,Ecole primaire du Buisson-de-Cadouin,Nouvelle-Aquitaine,2073.0,2016,BORDEAUX
+0240274T,45.1872222,0.6922222,75,Rue Eugénie Cotton,24660.0,Coulounieix-Chamiers,Ecole maternelle Eugène Le Roy,Nouvelle-Aquitaine,8108.0,2017,BORDEAUX
+0240307D,44.8534568,0.48753100000000005,75,Avenue Aristide Briand,24100.0,Bergerac,Ecole maternelle René Desmaison,Nouvelle-Aquitaine,28063.0,2017,BORDEAUX
+0240766C,45.10310820000001,1.3661530000000002,75,Bourg Nord,24120.0,Grèzes,Ecole élémentaire de Grèzes,Nouvelle-Aquitaine,196.0,2016,BORDEAUX
+0240954G,44.8534568,0.48753100000000005,75,19 rue Emile Zola,24100.0,Bergerac,Ecole élémentaire Alba,Nouvelle-Aquitaine,28063.0,2016,BORDEAUX
+0860375R,47.0116175,0.17621520000000002,75,2 rue de la Liberté,86200.0,Messemé,Ecole primaire de Messemé,Nouvelle-Aquitaine,228.0,2017,POITIERS
+0860383Z,46.1896443,0.687578,75,Rue Baptiste Toussaint,86150.0,Millac,Ecole de Millac,Nouvelle-Aquitaine,489.0,2016,POITIERS
+0860402V,46.424957299999996,0.8682027,75,2 place du Vieux marché,86500.0,Montmorillon,Ecole maternelle Ville haute,Nouvelle-Aquitaine,6197.0,2016,POITIERS
+0610072X,48.7428859,-0.0223695,28,18 rue du Paty,61200.0,Argentan,Ecole maternelle Fernand Léger,Normandie,13903.0,2017,CAEN
+0610662N,48.7513195,0.0754344795141468,28,Le bourg,61310.0,Silly-en-Gouffern,Ecole élémentaire Louis Louvrier,Normandie,399.0,2017,CAEN
+0250481M,47.1387693,6.470813,27,Place Cassard,25390.0,Flangebouche,Ecole de Flangebouche,Bourgogne-et-Franche-Comté,724.0,2017,BESANCON
+0250591G,47.061160799999996,6.6690523,27,2 rue du Neuf Clos,25130.0,Villers-le-Lac,Ecole Chauffaud,Bourgogne-et-Franche-Comté,4680.0,2016,BESANCON
+0250811W,47.1848615,5.9903449,27,8 rue de la Maltournée,25720.0,Pugey,Ecole primaire de Pugey,Bourgogne-et-Franche-Comté,784.0,2017,BESANCON
+0251879G,47.5515894,6.6955773,27,26 grande rue,25750.0,Aibre,Ecole primaire Intercommunale d'Aibre,Bourgogne-et-Franche-Comté,472.0,2017,BESANCON
+0560313L,47.7639726,-3.3444489,53,33 rue Guy Ropartz,56600.0,Lanester,Ecole maternelle Pauline Kergomard,Bretagne,21874.0,2016,RENNES
+0560383M,47.96848,-2.9893010175124104,53,Hameau de Talvern Neneze,56930.0,Pluméliau,Ecole primaire de Pluméliau,Bretagne,3594.0,2016,RENNES
+0560834C,48.0647729,-2.9675702,53,Rue de Kerdisson,56300.0,Pontivy,Ecole maternelle Paul Langevin,Bretagne,13915.0,2016,RENNES
+0860525D,47.0100270075767,0.175250970175021,75,5 rue de la Mairie,86200.0,Ranton,Ecole primaire de Ranton,Nouvelle-Aquitaine,184.0,2017,POITIERS
+0860715K,46.5695048,0.6439464,75,37 rue des Pignons Blancs,86300.0,Chauvigny,Ecole maternelle Les Guiraudières,Nouvelle-Aquitaine,7086.0,2017,POITIERS
+0861025X,46.5695048,0.6439464,75,1 rue de Montmorillon,86300.0,Chauvigny,Ecole primaire Saint-Pierre Les Eglises,Nouvelle-Aquitaine,7086.0,2016,POITIERS
+0861065R,46.7742953,0.5357531,75,9 rue d'Alsace,86530.0,Cenon-sur-Vienne,Ecole maternelle Marcel Ribbe,Nouvelle-Aquitaine,1828.0,2017,POITIERS
+0861104H,46.7376338,0.42933640000000006,75,3 rue haute,86490.0,Beaumont,Ecole maternelle de Beaumont,Nouvelle-Aquitaine,1897.0,2017,POITIERS
+0870247W,45.83542429999999,1.2644847,75,10 rue Edouard Cholet,87000.0,Limoges,Ecole maternelle Edouard Herriot,Nouvelle-Aquitaine,135098.0,2017,LIMOGES
+0290478M,48.3905283,-4.4860088,53,2 rue Victor Rossel,29200.0,Brest,Ecole maternelle Vauban,Bretagne,139386.0,2016,RENNES
+0290564F,47.9960325,-4.1024782,53,75 rue de la Terre Noire,29000.0,Quimper,Ecole maternelle Yves Le Manchec,Bretagne,63532.0,2016,RENNES
+0570333C,49.0588015,6.5489725,44,1 Route de la forêt,57690.0,Elvange,Ecole élémentaire d'Elvange,Grand-Est,364.0,2016,NANCY-METZ
+0570416T,49.280602200000004,6.6317962,44,2 rue de l'Ecole,57550.0,Villing,Ecole élémentaire de Villing,Grand-Est,491.0,2016,NANCY-METZ
+0880330F,48.355301399999995,5.694857099999999,44,13 place Carrière,88300.0,Neufchâteau,Ecole maternelle Jean Rostand,Grand-Est,6602.0,2017,NANCY-METZ
+0881505H,47.908075399999994,6.783638099999999,44,1 rue de l'Eglise,88160.0,Le Ménil,Ecole maternelle du Ménil,Grand-Est,1110.0,2016,NANCY-METZ
+0881614B,48.169151899999996,6.593786099999999,44,14 Grand rue,88460.0,Charmois-devant-Bruyères,Ecole maternelle B. Fremiot,Grand-Est,408.0,2016,NANCY-METZ
+0881665G,48.0914619,6.4782907,44,262 rue du Stade,88220.0,Hadol,Ecole maternelle Centre,Grand-Est,2351.0,2016,NANCY-METZ
+0890309C,47.5188531,3.4847233999999996,27,2 rue de la Mairie,89480.0,Andryes,Ecole d'Andryes,Bourgogne-et-Franche-Comté,443.0,2017,DIJON
+0020556U,49.3973,3.46759,32,8 rue de la Caure,2370.0,Condé-sur-Aisne,Ecole de Condé-sur-Aisne,Hauts-de-France,386.0,2017,AMIENS
+0020687L,49.8302778,3.3555556,32,22 rue de la Grange aux Bois,2720.0,Mesnil-Saint-Laurent,Ecole élémentaire de Mesnil-Saint-Laurent,Hauts-de-France,447.0,2016,AMIENS
+0020699Z,49.7705556,3.6166667,32,Rue de Verdun,2270.0,Monceau-le-Neuf-et-Faucouzy,Ecole élémentaire de Monceau-le-Neuf-et-Faucouzy,Hauts-de-France,332.0,2016,AMIENS
+0020708J,49.1469,3.21981,32,8 rue Principale,2470.0,Monnes,Ecole élémentaire de Monnes,Hauts-de-France,119.0,2016,AMIENS
+0020874P,49.84861110000001,3.2863888,32,218 rue de Paris,2100.0,Saint-Quentin,Ecole maternelle Ernest Lavisse,Hauts-de-France,55698.0,2016,AMIENS
+0020961J,49.818009,3.605658,32,Rue du Vert Galan,2120.0,Landifay-et-Bertaignemont,Ecole maternelle Marguerite Jolly,Hauts-de-France,282.0,2016,AMIENS
+0442108C,47.2233007,-1.6346964,52,Rue du Tillay,44800.0,Saint-Herblain,Ecole maternelle Condorcet,Pays-de-la-Loire,43784.0,2017,NANTES
+0450262R,47.9027336,1.9086066000000002,24,1 impasse Joseph Cressot,45100.0,Orléans,Ecole maternelle d'application Jardin des Plantes,Centre-Val-de-Loire,114375.0,2016,ORLEANS-TOURS
+6200677S,41.5921091,9.2761531,94,Hameau de Trinité,20137.0,Porto-Vecchio,Ecole maternelle Trinité maternelle,Corse,11354.0,2017,CORSE
+0596638V,50.630508899999995,3.0706414,32,50 boulevard de Strasbourg,59000.0,Lille,Ecole Saint-Exupery-Mme de Ségur,Hauts-de-France,231491.0,2017,LILLE
+0460242N,44.4903014,1.3139098999999999,76,Le bourg,46140.0,Parnac,Ecole primaire de Parnac,Occitanie,380.0,2017,TOULOUSE
+0460340V,44.7789948,1.7233939999999999,76,4 rue d'Alsace,46500.0,Gramat,Ecole maternelle Louis Mazet,Occitanie,3596.0,2017,TOULOUSE
+0600685U,49.3623895,2.4370282000000003,32,6 rue Charles de Gaulle,60600.0,Breuil-le-Vert,Ecole du Centre,Hauts-de-France,2957.0,2017,AMIENS
+0100156R,48.3777152,4.2576617,44,18 rue Basse,10220.0,Bouy-Luxembourg,Ecole primaire de Bouy-Luxembourg,Grand-Est,211.0,2016,REIMS
+0100597V,48.1701298,4.653119599999999,44,1 rue de l'Ecole,10200.0,Urville,Ecole primaire d'Urville,Grand-Est,142.0,2016,REIMS
+0100634K,48.1723292,4.0180216,44,17 Route Nationale,10320.0,Villery,Ecole primaire de Villery,Grand-Est,274.0,2016,REIMS
+0100654G,48.358178514571705,4.11671430077492,44,43 Route impériale,10150.0,Voué,Ecole primaire de Voué,Grand-Est,640.0,2016,REIMS
+0210554N,47.0800061992585,4.15291736247929,27,Le Maupas,21430.0,Sussey,Ecole RPI,Bourgogne-et-Franche-Comté,269.0,2016,DIJON
+0210906W,47.074740000000006,4.5591099999999996,27,Place de la Mairie,21230.0,Lacanche,Ecole maternelle de Lacanche,Bourgogne-et-Franche-Comté,587.0,2016,DIJON
+0470387R,44.4966624,0.9684626000000001,75,Rue du chemin Rouge,47500.0,Fumel,Ecole élémentaire chemin Rouge,Nouvelle-Aquitaine,5074.0,2016,BORDEAUX
+0370445H,47.3454102,0.30285809999999996,24,13 rue Chevaliers Macquaux,37130.0,Les Essards,Ecole primaire des Essards,Centre-Val-de-Loire,152.0,2016,ORLEANS-TOURS
+0440992P,47.2233007,-1.6346964,52,5 rue de Lozère,44800.0,Saint-Herblain,Ecole maternelle Bernardière,Pays-de-la-Loire,43784.0,2017,NANTES
+0540466N,48.4816397,6.7328844,44,18 Grande rue,54120.0,Gélacourt,Ecole élémentaire de Gélacourt,Grand-Est,172.0,2017,NANCY-METZ
+0101026L,48.2580873,4.031268,44,867 Route de Troyes,10120.0,Saint-Germain,Ecole maternelle Jean Monnet,Grand-Est,2284.0,2016,REIMS
+0101075P,48.446543299999995,4.356431400000001,44,2 Ruelle Cocos,10240.0,Pougy,Ecole élémentaire de Pougy,Grand-Est,294.0,2016,REIMS
+0110799J,43.1837661,3.0042120999999997,76,129 Route d'Armissan,11100.0,Narbonne,Ecole maternelle Les Platanes,Occitanie,52802.0,2017,MONTPELLIER
+0470890M,44.0276979,0.29044309999999995,75,Villeneuve de Mezin,47170.0,Lannes,Ecole maternelle Villeneuve de Mezin,Nouvelle-Aquitaine,389.0,2017,BORDEAUX
+0371109E,47.2729908,0.5996983,24,Rue des Grands Clos,37260.0,Artannes-sur-Indre,Ecole primaire Guehenno,Centre-Val-de-Loire,2534.0,2016,ORLEANS-TOURS
+0380214B,45.054713,6.0306625,84,Route Nationale,38520.0,Le Bourg-d'Oisans,Ecole Les Sables,Auvergne-et-Rhône-Alpes,3235.0,2016,GRENOBLE
+0120260T,44.17364548792089,2.53652265308789,76,Taurines,12120.0,Centrès,Ecole Taurines,Occitanie,526.0,2016,TOULOUSE
+0120481H,43.8436,2.56773,76,Le bourg,12380.0,Montfranc,Ecole élémentaire de Montfranc,Occitanie,124.0,2016,TOULOUSE
+0120913C,43.9268331,2.5472505,76,Le bourg,12550.0,Plaisance,Ecole de Plaisance,Occitanie,201.0,2016,TOULOUSE
+0190161X,45.158498200000004,1.5332389,75,3 rue Laënnec,19100.0,Brive-la-Gaillarde,Ecole maternelle Gaubre,Nouvelle-Aquitaine,46794.0,2017,LIMOGES
+0490734G,47.368630100000004,-0.27674019135809896,52,25 quai des Mariniers,49350.0,Le Thoureil,Ecole élémentaire du Thoureil,Pays-de-la-Loire,444.0,2017,NANTES
+0381292Y,45.111331,5.278244,84,Le bourg,38840.0,La Sône,Ecole primaire Les Marronniers,Auvergne-et-Rhône-Alpes,591.0,2017,GRENOBLE
+0381893B,45.183668299999994,5.75448,84,15 rue Le Corbusier,38400.0,Saint-Martin-d'Hères,Ecole maternelle Saint-Just,Auvergne-et-Rhône-Alpes,38019.0,2017,GRENOBLE
+0420280B,45.5002145,4.320397799999999,84,57 rue de la Libération,42480.0,La Fouillouse,Ecole maternelle R. de la Libération,Auvergne-et-Rhône-Alpes,4316.0,2017,LYON
+0420309H,46.1453805,4.109231899999999,84,112 rue du 11 Novembre,42720.0,Pouilly-sous-Charlieu,Ecole maternelle R. du 11 Novembre,Auvergne-et-Rhône-Alpes,2512.0,2017,LYON
+0420790F,45.473408,4.3792689000000005,84,7 avenue Jules Ferry,42270.0,Saint-Priest-en-Jarez,Ecole maternelle Ferry,Auvergne-et-Rhône-Alpes,6125.0,2017,LYON
+0421075R,45.4401467,4.3873058,84,15 rue de l'Université,42100.0,Saint-Étienne,Ecole maternelle Metare Cottencière,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0190360N,45.366354799999996,1.7144158,75,Avenue Jean Vinatier,19700.0,Seilhac,Ecole maternelle de Seilhac,Nouvelle-Aquitaine,1699.0,2016,LIMOGES
+0210535T,47.3524041095477,4.54551707971295,27,Village Thorey,21350.0,Thorey-sous-Charny,Ecole élémentaire RPI,Bourgogne-et-Franche-Comté,169.0,2017,DIJON
+0210665J,47.667359999999995,4.2445900000000005,27,Rue des Fossés,21500.0,Rougemont,Ecole de Rougemont,Bourgogne-et-Franche-Comté,170.0,2016,DIJON
+0210787S,47.6241674,4.3373194,27,29 rue Marceau,21500.0,Montbard,Ecole maternelle Jules Ferry,Bourgogne-et-Franche-Comté,5394.0,2016,DIJON
+0211008G,47.08379,4.62134,27,Rue de l'Eglise,21360.0,Écutigny,Ecole d'Écutigny,Bourgogne-et-Franche-Comté,99.0,2017,DIJON
+0500497U,48.6474693,-0.9424389999999999,28,Rue du Xii ème Arrondissement,50140.0,Mortain,Ecole maternelle Yves Pouliquen,Normandie,1685.0,2016,CAEN
+0390290D,46.7604057,5.9402266,27,1 Route des Sapins,39300.0,Équevillon,Ecole élémentaire d'Équevillon,Bourgogne-et-Franche-Comté,592.0,2016,BESANCON
+0390449B,46.9318996,5.9662505,27,1 place de la Mairie,39110.0,Dournon,Ecole élémentaire de Dournon,Bourgogne-et-Franche-Comté,128.0,2016,BESANCON
+0390509S,46.6739021,5.5586167,27,5 avenue Aristide Briand,39000.0,Lons-le-Saunier,Ecole élémentaire Aristide Briand,Bourgogne-et-Franche-Comté,17063.0,2016,BESANCON
+0390684G,46.367,5.708069999999999,27,7 montée de l'Ecole,39360.0,Jeurre,Ecole de Jeurre,Bourgogne-et-Franche-Comté,259.0,2017,BESANCON
+0422157S,45.4401467,4.3873058,84,4 impasse de la Palle,42100.0,Saint-Étienne,Ecole maternelle Montchovet,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0211412W,47.525588799999994,5.3695751,27,40 rue de l'Eglise,21610.0,Fontaine-Française,Ecole maternelle de Fontaine-Française,Bourgogne-et-Franche-Comté,909.0,2016,DIJON
+0211728P,46.97703,4.8905,27,1 rue de Lis,21200.0,Sainte-Marie-la-Blanche,Ecole maternelle de Sainte-Marie-la-Blanche,Bourgogne-et-Franche-Comté,835.0,2016,DIJON
+0211912P,47.006553000000004,5.2393965,27,Rue Princesse de Conti,21250.0,Tichey,Ecole RPI,Bourgogne-et-Franche-Comté,217.0,2016,DIJON
+0460078K,44.74469439999999,1.4907273,76,Le bourg,46300.0,Saint-Projet,Ecole primaire de Saint-Projet,Occitanie,361.0,2017,TOULOUSE
+0460313R,44.6642467,1.9518723000000002,76,Le bourg,46100.0,Fons,Ecole primaire de Fons,Occitanie,399.0,2017,TOULOUSE
+0390934D,46.3877989,5.8641501,27,11 rue de Franche-Comté,39200.0,Saint-Claude,Ecole maternelle Franche Comté,Bourgogne-et-Franche-Comté,10346.0,2016,BESANCON
+0460576B,44.7847558,1.8999269,76,Le bourg,46120.0,Leyme,Ecole maternelle de Leyme,Occitanie,947.0,2016,TOULOUSE
+0501849N,49.6343606,-1.62856869074902,28,Avenue de Normandie,50100.0,Cherbourg-Octeville,Ecole primaire Amont Quentin,Normandie,37055.0,2016,CAEN
+0595308Z,50.200250200000006,3.8336383,32,64 rue de la Victoire,59620.0,Aulnoye-Aymeries,Ecole maternelle Louise Michel,Hauts-de-France,8816.0,2016,LILLE
+0510576Z,49.2577886,4.031926,44,22 rue Albert Thomas,51100.0,Reims,Ecole maternelle Jules Ferry,Grand-Est,182592.0,2016,REIMS
+0510968A,49.047599100000006,4.08816616780357,44,2 rue de l'école,51150.0,Bisseuil,Ecole de Bisseuil,Grand-Est,645.0,2017,REIMS
+0511908X,48.68266,3.80144,44,4 rue de Sezanne,51120.0,Gaye,Ecole maternelle de Gaye,Grand-Est,581.0,2017,REIMS
+0595764V,50.5732932,3.0823682,32,Rue du guet,59175.0,Vendeville,Ecole maternelle de Vendeville,Hauts-de-France,1692.0,2017,LILLE
+0600128N,49.175414700000005,1.9019138999999998,32,6 rue Pelée,60240.0,Bouconvillers,Ecole élémentaire de Bouconvillers,Hauts-de-France,361.0,2016,AMIENS
+0600148K,49.2413145823151,1.8857331086071298,32,11 rue de la Mairie,60240.0,Montjavoult,Ecole de Montjavoult,Hauts-de-France,454.0,2016,AMIENS
+0600166E,49.151971,2.9837988999999996,32,3 place de l'église,60620.0,Antilly,Ecole élémentaire d'Antilly,Hauts-de-France,302.0,2017,AMIENS
+0600281E,49.63096015177629,2.30825410992372,32,8 rue Cardonnois-Broyes,60120.0,Broyes,Ecole élémentaire de Broyes,Hauts-de-France,174.0,2016,AMIENS
+0070135J,44.447247261799,4.09651757719874,84,Le village,7140.0,Malbosc,Ecole primaire Noël Garidel,Auvergne-et-Rhône-Alpes,147.0,2016,GRENOBLE
+0070353W,44.5493789,4.6829629,84,42 boulevard Pasteur,7400.0,Le Teil,Ecole maternelle Teillaret,Auvergne-et-Rhône-Alpes,8292.0,2017,GRENOBLE
+0071324B,45.1891,4.79833,84,Place du Général de Goutel,7370.0,Sarras,Ecole maternelle de Sarras,Auvergne-et-Rhône-Alpes,2082.0,2016,GRENOBLE
+0080216S,49.79756,4.6754,44,4 rue du Paquis,8090.0,Damouzy,Ecole de Damouzy,Grand-Est,414.0,2016,REIMS
+0520619R,48.177014,5.1516194,44,3 rue du Tertre,52000.0,Riaucourt,Ecole primaire de Riaucourt,Grand-Est,435.0,2016,REIMS
+0520824N,48.6668291,4.8977944,44,Rue du Château,52100.0,Villiers-en-Lieu,Ecole maternelle de Villiers-en-Lieu,Grand-Est,1555.0,2017,REIMS
+0342061F,43.677910100000005,3.9868904,76,210 rue de la Guesse,34160.0,Castries,Ecole la Guesse,Occitanie,5935.0,2016,MONTPELLIER
+0350904T,48.0131094,-1.7023101000000003,53,3 allée de l'Ecole,35131.0,Pont-Péan,Ecole maternelle Lucie Aubrac,Bretagne,3905.0,2017,RENNES
+0470249R,44.4174761,0.39816273090189397,75,Le bourg,47400.0,Grateloup-Saint-Gayrand,Ecole élémentaire de Grateloup-Saint-Gayrand,Nouvelle-Aquitaine,444.0,2017,BORDEAUX
+0561525D,47.62798,-2.8229152,53,1 rue Plessis d'Arradon,56610.0,Arradon,Ecole maternelle Les Corallines,Bretagne,5514.0,2017,RENNES
+0561623K,47.7636187,-3.1194205000000004,53,17 rue Nationale,56690.0,Landévant,Ecole maternelle de Landévant,Bretagne,3482.0,2017,RENNES
+0211940V,47.28156,5.18971,27,1 rue de la Mairie,21110.0,Izier,Ecole maternelle d'Izier,Bourgogne-et-Franche-Comté,806.0,2016,DIJON
+0220754A,48.317935399999996,-2.2620533,53,38 rue de la Madeleine,22250.0,Broons,Ecole maternelle de Broons,Bretagne,2958.0,2016,RENNES
+0220818V,48.38102515,-2.33228275857413,53,Le bourg,22270.0,Dolo,Ecole primaire de Dolo,Bretagne,672.0,2016,RENNES
+0220898G,48.46244615,-2.51650229207986,53,15 rue docteur Lavergne,22400.0,Lamballe,Ecole maternelle Lavergne,Bretagne,12217.0,2016,RENNES
+0220914Z,48.2849898,-2.41256441182033,53,Le bourg,22330.0,Langourla,Ecole primaire Le Ble En Herbe,Bretagne,522.0,2016,RENNES
+0351837G,48.1244503,-1.214331,53,7 allée de la Hodeyère,35500.0,Vitré,Ecole maternelle la Hodeyère,Bretagne,17463.0,2017,RENNES
+0530295H,48.071037700000005,-0.7723499,52,61 avenue Pierre de Coubertin,53000.0,Laval,Ecole maternelle groupe scolaire Les Pommeraies,Pays-de-la-Loire,50479.0,2016,NANTES
+0480430G,44.3380133,3.22842731840373,76,Le village,48500.0,Saint-Georges-de-Lévéjac,Ecole de Saint-Georges-de-Lévéjac,Occitanie,250.0,2017,MONTPELLIER
+0360555H,46.5790893,2.00521388557935,24,Le bourg,36400.0,Vicq-Exemplet,Ecole élémentaire de Vicq-Exemplet,Centre-Val-de-Loire,322.0,2017,ORLEANS-TOURS
+0221534Y,48.288079499999995,-2.1543918,53,8 rue des écoles,22350.0,Caulnes,Ecole maternelle de Caulnes,Bretagne,2448.0,2017,RENNES
+0221633F,48.18859125,-2.58719821925169,53,Rue des écoles,22210.0,Plémet,Ecole maternelle de Plémet,Bretagne,3212.0,2016,RENNES
+0221640N,48.24010935,-2.55527984239813,53,Rue des écoles,22330.0,Saint-Gilles-du-Mené,Ecole primaire de Saint-Gilles-du-Mené,Bretagne,468.0,2016,RENNES
+0221826R,48.434473,-2.219882,53,2 rue du Meloir Sentier,22980.0,Plélan-le-Petit,Ecole maternelle Montafilan,Bretagne,1836.0,2016,RENNES
+0240276V,45.336641,1.0490102,75,1 rue Antoine Gay,24160.0,Excideuil,Ecole maternelle d'Excideuil,Nouvelle-Aquitaine,1162.0,2016,BORDEAUX
+0421465P,45.6072875,4.0627318,84,3 rue Fernand Léger,42600.0,Montbrison,Ecole maternelle Beauregard,Auvergne-et-Rhône-Alpes,15673.0,2017,LYON
+0371373S,47.385141100000006,0.5545861999999999,24,2 rue de la Corderie,37230.0,Luynes,Ecole maternelle Camus,Centre-Val-de-Loire,5207.0,2017,ORLEANS-TOURS
+0371404A,47.231224100000006,0.2519958,24,Place de l'église,37420.0,Huismes,Ecole maternelle d'Huismes,Centre-Val-de-Loire,1550.0,2017,ORLEANS-TOURS
+0380196G,45.4912311,5.3866972,84,17 rue du Général Brocard,38690.0,Biol,Ecole élémentaire Brocard,Auvergne-et-Rhône-Alpes,1405.0,2017,GRENOBLE
+0240388S,45.29233,0.74936,75,Rue de la BEAURONNE,24460.0,Agonac,Ecole élémentaire d'Agonac,Nouvelle-Aquitaine,1718.0,2016,BORDEAUX
+0240583D,45.17838205,0.8204095174289671,75,Le bourg,24330.0,Bassillac,Ecole élémentaire de Bassillac,Nouvelle-Aquitaine,1786.0,2017,BORDEAUX
+0240627B,45.328055600000006,0.31237909999999997,75,Le bourg,24320.0,Lusignac,Ecole maternelle de Lusignac,Nouvelle-Aquitaine,189.0,2016,BORDEAUX
+0240715X,44.908188700000004,1.3397368,75,Le bourg,24370.0,Simeyrols,Ecole maternelle de Simeyrols,Nouvelle-Aquitaine,252.0,2016,BORDEAUX
+0240753N,45.30813,0.81893,75,Le bourg,24460.0,Ligueux,Ecole élémentaire de Ligueux,Nouvelle-Aquitaine,282.0,2017,BORDEAUX
+0240854Y,45.0145321,0.6472144000000001,75,Le bourg,24380.0,Saint-Maime-de-Péreyrol,Ecole élémentaire de Saint-Maime-de-Péreyrol,Nouvelle-Aquitaine,276.0,2017,BORDEAUX
+0240968X,45.1872222,0.6922222,75,Rue Eugénie Cotton,24660.0,Coulounieix-Chamiers,Ecole élémentaire Eugène Le Roy,Nouvelle-Aquitaine,8108.0,2017,BORDEAUX
+0240985R,44.870418799999996,0.3742764,75,4 rue André Rousseau,24130.0,La Force,Ecole maternelle de la Force,Nouvelle-Aquitaine,2568.0,2016,BORDEAUX
+0430911G,45.118917100000004,3.9065257000000004,84,Le bourg,43800.0,Lavoûte-sur-Loire,Ecole maternelle de Lavoûte-sur-Loire,Auvergne-et-Rhône-Alpes,841.0,2017,CLERMONT-FERRAND
+0542180B,48.5101741,6.768275900000001,44,4 rue de la Mairie,54120.0,Reherrey,Ecole maternelle de Reherrey,Grand-Est,126.0,2017,NANCY-METZ
+0542341B,48.6453022,6.8060775,44,2 Grande rue,54450.0,Avricourt,Ecole d'Avricourt,Grand-Est,392.0,2016,NANCY-METZ
+0550789J,49.0548828295899,5.13310618266323,44,8 place Jean Blaise,55120.0,Aubréville,Ecole d'Aubréville,Grand-Est,391.0,2017,NANCY-METZ
+0251612S,47.510236799999994,6.7977564,27,Rue Samuel Marti,25200.0,Montbéliard,Ecole maternelle Grosjean Jules,Bourgogne-et-Franche-Comté,25697.0,2016,BESANCON
+0370304E,47.590492299999994,0.9084165999999999,24,4 rue Hector Berlioz,37110.0,Château-Renault,Ecole maternelle Prévert,Centre-Val-de-Loire,5072.0,2017,ORLEANS-TOURS
+0370570U,47.231224100000006,0.2519958,24,Place de la Mairie,37420.0,Huismes,Ecole primaire d'Huismes,Centre-Val-de-Loire,1550.0,2017,ORLEANS-TOURS
+0371380Z,47.4371991493408,0.372737234758632,24,32 rue des écoles,37340.0,Gizeux,Ecole primaire Emile Thierry,Centre-Val-de-Loire,408.0,2016,ORLEANS-TOURS
+0141839Y,49.3291667,-0.3886111,28,Avenue Général Koenig,14750.0,Saint-Aubin-sur-Mer,Ecole maternelle Jean Baptiste Couture,Normandie,2266.0,2017,CAEN
+0150332E,45.2517313820506,2.55219363350221,84,Le bourg,15400.0,Le Claux,Ecole élémentaire du Claux,Auvergne-et-Rhône-Alpes,196.0,2016,CLERMONT-FERRAND
+0150619S,44.928544099999996,2.4433101,84,Rue Georges Clémenceau,15000.0,Aurillac,Ecole Marmiers,Auvergne-et-Rhône-Alpes,26572.0,2016,CLERMONT-FERRAND
+0381415G,45.5252114,4.874784099999999,84,Rue de la Convention Estressin,38200.0,Vienne,Ecole maternelle Côteau Sainte-Hélène,Auvergne-et-Rhône-Alpes,29325.0,2016,GRENOBLE
+0381476Y,45.07583579999999,5.7715863,84,Avenue de Venaria,38220.0,Vizille,Ecole maternelle Joliot Curie,Auvergne-et-Rhône-Alpes,7571.0,2016,GRENOBLE
+0631289J,45.649908,3.7088801,84,Rue des écoles,63480.0,Vertolaye,Ecole maternelle de Vertolaye,Auvergne-et-Rhône-Alpes,554.0,2016,CLERMONT-FERRAND
+0640564R,42.9750902,-0.6217117,75,Le bourg,64490.0,Lées-Athas,Ecole primaire de Lées-Athas,Nouvelle-Aquitaine,291.0,2017,BORDEAUX
+0390618K,47.2224,5.53366,27,Place de la Mairie,39290.0,Montmirey-le-Château,Ecole de Montmirey-le-Château,Bourgogne-et-Franche-Comté,170.0,2017,BESANCON
+0160501H,45.4405085,-0.198012764899828,75,Le bourg,16300.0,Montchaude,Ecole élémentaire de Montchaude,Nouvelle-Aquitaine,540.0,2017,POITIERS
+0160510T,45.4709095,-0.1528288,75,Avenue Bernard Fischer,16300.0,Barbezieux-Saint-Hilaire,Ecole élémentaire Félix Gaillard,Nouvelle-Aquitaine,4774.0,2017,POITIERS
+0160587B,45.8735576,0.7188033,75,7 rue des écoles,16150.0,Chabanais,Ecole maternelle de Chabanais,Nouvelle-Aquitaine,1763.0,2016,POITIERS
+0160927W,45.68445139999999,0.5660516,75,Le bourg,16220.0,Écuras,Ecole d'Écuras,Nouvelle-Aquitaine,598.0,2017,POITIERS
+0160972V,45.9908656,0.4103041,75,1 place des Tilleuls,16350.0,Champagne-Mouton,Ecole maternelle de Champagne-Mouton,Nouvelle-Aquitaine,945.0,2017,POITIERS
+0161026D,45.5296896,-0.23913850000000003,75,Le Menallier,16300.0,Lachaise,Ecole élémentaire André Clerjaud,Nouvelle-Aquitaine,336.0,2017,POITIERS
+0170302L,45.702450899999995,-0.4921932,75,10 rue Jean Monnet,17610.0,Dompierre-sur-Charente,Ecole maternelle de Dompierre-sur-Charente,Nouvelle-Aquitaine,475.0,2016,POITIERS
+0390138N,46.75453515,5.55660302185966,27,40 place de la Mairie,39210.0,Saint-Germain-lès-Arlay,Ecole de Saint-Germain-lès-Arlay,Bourgogne-et-Franche-Comté,482.0,2016,BESANCON
+0390933C,47.2047,5.68505,27,2 rue Fontaine d'Embrun,39350.0,Gendrey,Ecole maternelle de Gendrey,Bourgogne-et-Franche-Comté,408.0,2016,BESANCON
+0400652S,43.8911318,-0.500972,75,5 impasse du Carboue,40000.0,Mont-de-Marsan,Ecole maternelle Carboue,Nouvelle-Aquitaine,31334.0,2017,BORDEAUX
+0140286K,49.08899775,-0.198534850833071,28,2 rue des Canadiens,14370.0,Billy,Ecole élémentaire de Billy,Normandie,377.0,2017,CAEN
+0140660S,48.9716102,-0.24754629999999997,28,Rue du marché,14420.0,Potigny,Ecole maternelle Antoine de Saint-Exupéry,Normandie,1954.0,2017,CAEN
+0140679M,48.8965132,-0.13832650000000002,28,Rue la Croix,14700.0,Villy-lez-Falaise,Ecole élémentaire de Villy-lez-Falaise,Normandie,277.0,2017,CAEN
+0140686V,49.0174187,-0.12397550000000002,28,Cidex E  13,14270.0,Ernes,Ecole élémentaire d'Ernes,Normandie,325.0,2016,CAEN
+0141059A,48.82212835,-0.96880173694407,28,Le bourg,14380.0,Saint-Manvieu-Bocage,Ecole de Saint-Manvieu-Bocage,Normandie,545.0,2016,CAEN
+0141565A,49.179086299999994,-0.2672692,28,4 Allée des Enfants,14840.0,Démouville,Ecole maternelle de Démouville,Normandie,3281.0,2017,CAEN
+0141659C,48.8517468,-0.8872594458318379,28,Rue de l'Eglise,14500.0,Vire,Ecole maternelle Malraux-Neuville,Normandie,11597.0,2016,CAEN
+0131829T,43.3015041,5.548003285875901,93,429 avenue Mireille Lauze,13011.0,Marseille,Ecole maternelle Pomme Mazenode,Provence-Alpes-Côte-d'Azur,90555.0,2016,AIX-MARSEILLE
+0180320A,47.0805693,2.398932,24,13 rue de la Halle,18000.0,Bourges,Ecole élémentaire Auron B,Centre-Val-de-Loire,67189.0,2016,ORLEANS-TOURS
+0420122E,46.1483,4.042269999999999,84,Impasse Bonlieu,42720.0,La Bénisson-Dieu,Ecole primaire,Auvergne-et-Rhône-Alpes,432.0,2016,LYON
+0420319U,45.528840100000004,4.6187385999999995,84,Place Pasteur,42800.0,Rive-de-Gier,Ecole maternelle Pasteur,Auvergne-et-Rhône-Alpes,14658.0,2016,LYON
+0420841L,45.5086864,4.0416546,84,Le bourg,42560.0,Soleymieux,Ecole primaire Le Bourg,Auvergne-et-Rhône-Alpes,666.0,2017,LYON
+0160198D,45.3981244449386,0.110404189787165,75,Le bourg,16190.0,Salles-Lavalette,Ecole maternelle de Salles-Lavalette,Nouvelle-Aquitaine,364.0,2017,POITIERS
+0160375W,45.608672999999996,0.1013099,75,17 avenue de la gare,16400.0,La Couronne,Ecole élémentaire Jacques Prévert,Nouvelle-Aquitaine,7466.0,2016,POITIERS
+0160422X,45.7428942,-0.0910086,75,Place du Canton,16170.0,Vaux-Rouillac,Ecole de Vaux-Rouillac,Nouvelle-Aquitaine,300.0,2016,POITIERS
+0160666M,46.0635586,0.2392556,75,Le bourg,16700.0,Taizé-Aizie,Ecole maternelle de Taizé-Aizie,Nouvelle-Aquitaine,588.0,2016,POITIERS
+0160739S,45.5711281,-0.2667791,75,Le bourg,16130.0,Verrières,Ecole élémentaire de Verrières,Nouvelle-Aquitaine,346.0,2016,POITIERS
+0160869H,45.6763498,0.2188754,75,98 avenue Jean Jaurès,16600.0,Ruelle-sur-Touvre,Ecole maternelle Le Maine Gagnaud,Nouvelle-Aquitaine,7357.0,2017,POITIERS
+0160892H,45.7009701,-0.35835459999999997,75,Rue des écoles,16100.0,Javrezac,Ecole Jean Rostand,Nouvelle-Aquitaine,605.0,2016,POITIERS
+0170899K,45.517222,-0.826111,75,11 Route du Pineau,17120.0,Chenac-Saint-Seurin-d'Uzet,Ecole élémentaire de Chenac-Saint-Seurin-d'Uzet,Nouvelle-Aquitaine,582.0,2016,POITIERS
+0630592B,45.86018189999999,3.4203664,84,Route de Lezoux,63190.0,Orléat,Ecole Pont Astier,Auvergne-et-Rhône-Alpes,2081.0,2017,CLERMONT-FERRAND
+0132749T,43.5569467,4.7295988,93,Hameau de mas Thibert,13104.0,Arles,Ecole maternelle Marinette Carletti,Provence-Alpes-Côte-d'Azur,52566.0,2016,AIX-MARSEILLE
+0631515E,45.855795,3.5489707000000004,84,Rue Emile Zola,63300.0,Thiers,Ecole maternelle Emile Zola,Auvergne-et-Rhône-Alpes,11308.0,2017,CLERMONT-FERRAND
+0631749J,45.77246895,3.23889848098283,84,4 rue de la Porte du Vent,63111.0,Dallet,Ecole maternelle de Dallet,Auvergne-et-Rhône-Alpes,1452.0,2017,CLERMONT-FERRAND
+0140131S,49.22100089999999,-0.6792915,28,Le bourg,14250.0,Ellon,Ecole élémentaire d'Ellon,Normandie,476.0,2016,CAEN
+0140513G,49.1460831,0.22551679999999996,28,Place de la République,14100.0,Lisieux,Ecole maternelle Caroline Duchemin,Normandie,21132.0,2016,CAEN
+0140647C,48.8909429900377,-0.172750936079535,28,Le bourg,14700.0,Les Loges-Saulces,Ecole élémentaire des Loges-Saulces,Normandie,175.0,2016,CAEN
+0141019G,48.84902185,-0.565216636395482,28,Rue Albert Camus,14110.0,Condé-sur-Noireau,Ecole Albert Camus,Normandie,5244.0,2016,CAEN
+0141100V,48.8517468,-0.8872594458318379,28,Rue de la Foulerie,14500.0,Vire,Ecole maternelle de la Tour aux Raines,Normandie,11597.0,2016,CAEN
+0141384D,49.2031097,-0.3353513,28,917 boulevard Grande Delle,14200.0,Hérouville-Saint-Clair,Ecole maternelle Jean Boisard,Normandie,21393.0,2016,CAEN
+0141566B,48.896474100000006,-0.19991289999999998,28,3 rue Charlotte Herpin,14700.0,Falaise,Ecole maternelle Charlotte Herpin,Normandie,8343.0,2017,CAEN
+0141656Z,49.2366859,-0.3262163,28,Rue des écoles,14112.0,Biéville-Beuville,Ecole maternelle de Biéville-Beuville,Normandie,2747.0,2016,CAEN
+0800730J,50.1015635,1.4473006000000002,32,1 rue du 11 Novembre 1918,80460.0,Ault,Ecole primaire J Cozette M.Berquer,Hauts-de-France,1584.0,2017,AMIENS
+0561316B,47.8758768,-3.0199362,53,Rue de Coet Ligne,56150.0,Baud,Ecole maternelle Gourandel,Bretagne,6126.0,2016,RENNES
+0141657A,48.9161569,-0.48224350000000005,28,7 rue Delavigne,14570.0,Clécy,Ecole maternelle de Clécy,Normandie,1251.0,2017,CAEN
+0141679Z,49.1355556,-0.2941667,28,Route de Four,14540.0,Soliers,Ecole maternelle intercommunale,Normandie,2164.0,2017,CAEN
+0142129N,49.20141605,-0.836754924986576,28,15 Route de Bayeux,14490.0,Vaubadon,Ecole de Vaubadon,Normandie,438.0,2016,CAEN
+0142252X,49.141239299999995,-0.3506969,28,4 rue Marivaux,14123.0,Ifs,Ecole maternelle Jean Vilar,Normandie,11500.0,2016,CAEN
+0180286N,47.2217489,2.0691421,24,Rue de la Poterie,18100.0,Vierzon,Ecole maternelle Tunnel Château,Centre-Val-de-Loire,27113.0,2016,ORLEANS-TOURS
+0180414C,46.6664315,2.5522142000000003,24,Rue Jean Valette,18200.0,Ainay-le-Vieil,Ecole élémentaire,Centre-Val-de-Loire,203.0,2017,ORLEANS-TOURS
+0180439E,46.6418114,2.2835591,24,Rue du Champ de Foire,18170.0,Le Châtelet,Ecole maternelle du Châtelet,Centre-Val-de-Loire,1068.0,2016,ORLEANS-TOURS
+0570360G,48.9808121,6.4664978,44,2 rue de l'Abbé Nicolas,57580.0,Vatimont,Ecole élémentaire de Vatimont,Grand-Est,319.0,2016,NANCY-METZ
+0570814A,49.161036700000004,6.853844400000001,44,1 rue Houchard,57800.0,Rosbruck,Ecole maternelle Le Temps des Cerises,Grand-Est,771.0,2017,NANCY-METZ
+0571145K,49.099983200000004,6.153041,44,19 rue Pougin,57950.0,Montigny-lès-Metz,Ecole maternelle d'application Pougin,Grand-Est,21831.0,2017,NANCY-METZ
+0600467G,49.43009970000001,2.0823355,32,22 rue Paul Doumer,60000.0,Beauvais,Ecole maternelle Elsa Triolet,Hauts-de-France,55252.0,2017,AMIENS
+0190415Y,44.993430700000005,2.00979358444882,75,Le bourg,19430.0,Camps-Saint-Mathurin-Léobazel,Ecole élémentaire de Camps-Saint-Mathurin-Léobazel,Nouvelle-Aquitaine,242.0,2017,LIMOGES
+0190482W,45.4243315,1.5637278000000001,75,Les Buges,19140.0,Uzerche,Ecole maternelle Les Buges,Nouvelle-Aquitaine,2934.0,2017,LIMOGES
+0190561G,45.1723833,1.7342495,75,Le bourg,19190.0,Le Chastang,Ecole du Chastang,Nouvelle-Aquitaine,372.0,2017,LIMOGES
+0210200D,47.1839,4.67322,27,Route de Thorey sur Ouche,21360.0,Crugey,Ecole élémentaire RPI,Bourgogne-et-Franche-Comté,192.0,2017,DIJON
+0210304S,47.125851209535,4.667585283198219,27,Place de la Mairie,21360.0,La Bussière-sur-Ouche,Ecole élémentaire RPI,Bourgogne-et-Franche-Comté,137.0,2017,DIJON
+0210413K,47.6196013682994,4.330804218402919,27,1 Grand rue,21500.0,Asnières-en-Montagne,Ecole d'Asnières-en-Montagne,Bourgogne-et-Franche-Comté,190.0,2016,DIJON
+0940492Z,48.8051624,2.4197113,11,56 rue Paul Vaillant Couturier,94140.0,Alfortville,Ecole maternelle Henri Barbusse,Île-de-France,44818.0,2017,CRETEIL
+0600921A,49.527063299999995,1.8512721,32,7 rue de l'école,60380.0,Wambez,Ecole de Wambez,Hauts-de-France,156.0,2016,AMIENS
+0601538W,49.4179497,2.8263171000000002,32,3 rue Edouard Branly,60200.0,Compiègne,Ecole maternelle Georges Pompidou 1,Hauts-de-France,40430.0,2016,AMIENS
+0030360A,46.3464789733877,3.8305934422415095,84,Rue du 18 Juin 1940,3130.0,Montcombroux-les-Mines,Ecole élémentaire de Montcombroux-les-Mines,Auvergne-et-Rhône-Alpes,334.0,2017,CLERMONT-FERRAND
+0880445F,48.1471,6.0629,44,11 Grande rue,88260.0,Senonges,Ecole primaire de Senonges,Grand-Est,125.0,2017,NANCY-METZ
+0880620W,48.2527,5.945,44,45 rue du Gras,88800.0,Parey-sous-Montfort,Ecole maternelle de Parey-sous-Montfort,Grand-Est,140.0,2017,NANCY-METZ
+0881543Z,48.177517200000004,6.393281900000001,44,8 rue de la Mairie,88390.0,Les Forges,Ecole maternelle des Forges,Grand-Est,1953.0,2017,NANCY-METZ
+0890175G,47.4261876,3.9966803,27,4 rue de la Mairie,89630.0,Saint-Brancher,Ecole de Saint-Brancher,Bourgogne-et-Franche-Comté,314.0,2017,DIJON
+0610077C,48.580906,-0.38203748624326295,28,8 rue Pierre Neveu,61600.0,La Ferté-Macé,Ecole maternelle Charles Perrault,Normandie,5661.0,2016,CAEN
+0610200L,48.6773586,0.0889576,28,Le bourg,61570.0,Médavy,Ecole maternelle de Médavy,Normandie,152.0,2017,CAEN
+9710676H,16.2408636,-61.533407700000005,1,Rue Shoelcher,97110.0,Pointe-à-Pitre,Ecole primaire Amédée Fengarol 2,Guadeloupe,15826.0,2017,GUADELOUPE
+9720207T,14.817095500208499,-61.0665079377225,2,Rue Victor Schoëlcher,97214.0,Le Lorrain,Ecole maternelle Gilbert Tarquin,Martinique,7177.0,2017,MARTINIQUE
+0900284V,47.5075682,6.9977521,27,53 rue d'Alsace,90100.0,Delle,Ecole maternelle Louise Michel,Bourgogne-et-Franche-Comté,5818.0,2017,BESANCON
+0590966E,51.0347708,2.3772525,32,80 boulevard Alexandre III,59140.0,Dunkerque,Ecole primaire Parc de la Marine,Hauts-de-France,89882.0,2016,LILLE
+0591052Y,50.5223657,3.1158401000000002,32,Avenue François Mitterrand,59710.0,Pont-à-Marcq,Ecole maternelle Groupe Philpppe-Laurent Roland,Hauts-de-France,2774.0,2017,LILLE
+0590970J,51.0347708,2.3772525,32,76 rue du Président Wilson,59140.0,Dunkerque,Ecole maternelle Parc de la Marine,Hauts-de-France,89882.0,2016,LILLE
+0591354B,50.2513704,3.9200611000000003,32,245 avenue du Général Leclerc,59330.0,Hautmont,Ecole maternelle Les jonquilles,Hauts-de-France,14271.0,2016,LILLE
+0751217R,48.856610100000005,2.3514992,11,17 rue Alphonse Baudin,75011.0,Paris,Ecole primaire Alphonse Baudin,Île-de-France,153461.0,2017,PARIS
+0592680T,50.753123200000005,3.1209016,32,12 rue Jules Watteeuw,59223.0,Roncq,Ecole maternelle Marie Curie,Hauts-de-France,13524.0,2016,LILLE
+0591679E,50.9946103,2.2192457,32,2 rue Siméon Courcot,59279.0,Loon-Plage,Ecole primaire Lamartine niveau 1,Hauts-de-France,6314.0,2016,LILLE
+0592517R,50.587877899999995,3.0511654999999998,32,Rue du 14 juillet,59139.0,Wattignies,Ecole maternelle Bracke-Desrousseaux,Hauts-de-France,14179.0,2017,LILLE
+0921519B,48.8126688,2.2385432,11,Allée du Canada,92190.0,Meudon,Ecole maternelle Les Sablons,Île-de-France,45043.0,2017,VERSAILLES
+0922053G,48.8953328,2.2561602,11,1 boulevard Aristide Briand,92400.0,Courbevoie,Ecole maternelle Aristide Briand,Île-de-France,85523.0,2017,VERSAILLES
+0751366C,48.856610100000005,2.3514992,11,20 rue Paul Valéry,75016.0,Paris,Ecole maternelle Paul Valéry C,Île-de-France,166552.0,2017,PARIS
+0540143M,48.8969262,6.2597394,44,5 Grand rue,54610.0,Abaucourt,Ecole maternelle d'Abaucourt,Grand-Est,304.0,2016,NANCY-METZ
+0540444P,48.6846355,5.786620500000001,44,4 bis rue Jeanne d'Arc,54570.0,Foug,Ecole élémentaire du Centre,Grand-Est,2668.0,2017,NANCY-METZ
+0760388J,49.924618200000005,1.0791444,28,2 rue du faubourg de la Barre,76200.0,Dieppe,Ecole élémentaire Madame de Sévigné,Normandie,30214.0,2016,ROUEN
+0760457J,49.4595571,1.3623213,28,618 rte de la Vallée,76116.0,Saint-Denis-le-Thiboult,Ecole élémentaire Fernand Grandin,Normandie,513.0,2016,ROUEN
+0760662G,49.6197245,0.27845349999999996,28,15 Route du Carreau,76280.0,Vergetot,Ecole élémentaire Albert Jacquard,Normandie,433.0,2016,ROUEN
+0760709H,49.8050152,1.0515461000000002,28,Route de la Mairie,76590.0,Bertreville-Saint-Ouen,Ecole élémentaire de Bertreville-Saint-Ouen,Normandie,355.0,2016,ROUEN
+0760843D,49.493897499999996,0.10797319999999999,28,8 rue Gustave Brindeau,76600.0,Le Havre,Ecole élémentaire Valmy I,Normandie,172074.0,2016,ROUEN
+0761042V,49.67588,0.84519,28,299 rue de l'Avenir,76760.0,Criquetot-sur-Ouville,Ecole élémentaire de Criquetot-sur-Ouville,Normandie,780.0,2017,ROUEN
+0761052F,49.6947186,0.8597473,28,3 Route de Berville,76760.0,Ouville-l'Abbaye,Ecole d'Ouville-l'Abbaye,Normandie,642.0,2017,ROUEN
+0541089R,48.4827,6.8138,44,2 rue de la Mairie,54540.0,Vacqueville,Ecole maternelle de Vacqueville,Grand-Est,255.0,2017,NANCY-METZ
+0541095X,48.4634,6.5489999999999995,44,4 rue haute,54830.0,Vallois,Ecole élémentaire de Vallois,Grand-Est,141.0,2016,NANCY-METZ
+0541188Y,48.657868900000004,6.7088882,44,31 Grande rue,54370.0,Xousse,Ecole élémentaire de Xousse,Grand-Est,123.0,2016,NANCY-METZ
+0542107X,48.804007899999995,6.3418035999999995,44,5 rue de l'Eglise,54760.0,Bey-sur-Seille,Ecole élémentaire de Bey-sur-Seille,Grand-Est,155.0,2016,NANCY-METZ
+0550684V,49.0548828295899,5.13310618266323,44,16 rue André Maginot,55120.0,Neuvilly-en-Argonne,Ecole élémentaire de Neuvilly-en-Argonne,Grand-Est,219.0,2016,NANCY-METZ
+0700546N,47.5505365290717,5.84125851475676,27,Rue de la Mairie,70130.0,Neuvelle-lès-la-Charité,Ecole primaire de Neuvelle-lès-la-Charité,Bourgogne-et-Franche-Comté,231.0,2016,BESANCON
+0710169Y,46.7888997,4.8529605,27,1 rue Leschenault de la Tour,71100.0,Chalon-sur-Saône,Ecole maternelle la Citadelle,Bourgogne-et-Franche-Comté,45166.0,2017,DIJON
+0710180K,46.8054064,4.428596099999999,27,15 rue du Vilet,71200.0,Le Creusot,Ecole maternelle Mouillelongue,Bourgogne-et-Franche-Comté,22308.0,2017,DIJON
+0710211U,46.747427,4.4699684,27,12 rue Jean Bouveri,71210.0,Montchanin,Ecole maternelle Jean de la Fontaine,Bourgogne-et-Franche-Comté,5226.0,2017,DIJON
+0710369R,46.600523200000005,4.0633824999999995,27,Rue Danton,71130.0,Gueugnon,Ecole élémentaire Jean Macé,Bourgogne-et-Franche-Comté,7367.0,2017,DIJON
+0594842T,50.654089500000005,3.1839429,32,192 rue de la Vallée,59510.0,Hem,Ecole maternelle de Lattre de Tassigny,Hauts-de-France,18721.0,2017,LILLE
+0640665A,42.9969381,-0.6175989000000001,75,Place de l'Eglise,64490.0,Osse-en-Aspe,Ecole primaire d'Osse-en-Aspe,Nouvelle-Aquitaine,330.0,2017,BORDEAUX
+0640855G,43.20758675,-1.0637938060951602,75,Route Départementale 918,64120.0,Bunus,Ecole élémentaire de Bunus,Nouvelle-Aquitaine,153.0,2016,BORDEAUX
+0641524J,43.4813927,-1.5149934999999999,75,27 rue Euskadi,64600.0,Anglet,Ecole maternelle Tivoli,Nouvelle-Aquitaine,39184.0,2016,BORDEAUX
+9710117A,16.3776349,-61.48778370000001,1,Rue Paul Lacavé,97131.0,Petit-Canal,Ecole primaire Alice Delacroix,Guadeloupe,8057.0,2017,GUADELOUPE
+0596364X,51.0347708,2.3772525,32,145 rue de Cassel,59640.0,Dunkerque,Ecole Albert Samain,Hauts-de-France,89882.0,2017,LILLE
+0600150M,49.2413145823151,1.8857331086071298,32,45 rue de l'Aunette,60240.0,Senots,Ecole élémentaire de Senots,Hauts-de-France,329.0,2016,AMIENS
+0650181U,43.432753600000005,0.0843131,76,26 rue des Pyrénées,65140.0,Gensac,Ecole élémentaire de Gensac,Occitanie,108.0,2017,TOULOUSE
+0650280B,42.9974157,-0.0538888,76,Le village,65400.0,Vier-Bordes,Ecole élémentaire de Vier-Bordes,Occitanie,102.0,2016,TOULOUSE
+0650332H,43.076102399999996,-0.0472452,76,1 rue Ribère,65100.0,Aspin-en-Lavedan,Ecole élémentaire d'Aspin-en-Lavedan,Occitanie,267.0,2016,TOULOUSE
+0650699G,43.0255659,0.6023704000000001,76,Avenue de Lesponne,65370.0,Loures-Barousse,Ecole maternelle de Loures-Barousse,Occitanie,611.0,2017,TOULOUSE
+0650700H,43.12522979999999,0.384241,76,Rue de la Lande de Boc,65300.0,Lannemezan,Ecole maternelle Le Guerissa,Occitanie,5940.0,2017,TOULOUSE
+0660202L,42.54848320000001,2.3878706000000003,76,Place de l'Ancienne Mairie,66820.0,Vernet-les-Bains,Ecole maternelle de Vernet-les-Bains,Occitanie,1379.0,2017,MONTPELLIER
+0730673K,45.612143700000004,6.8457969,84,Le Chatelard,73700.0,Montvalezan,Ecole élémentaire Le Chatelard-Montvalezan,Auvergne-et-Rhône-Alpes,673.0,2016,GRENOBLE
+0271137P,49.0268903,1.1510163999999998,28,Rue des Sangliers,27000.0,Évreux,Ecole maternelle du Canada,Normandie,49722.0,2017,ROUEN
+0620489V,50.255160499999995,2.4730029,32,8 rue de la Mairie,62810.0,Grand-Rullecourt,Ecole primaire RPI 39,Hauts-de-France,404.0,2017,LILLE
+0622251K,50.4049,2.8245400000000003,32,Rue de Versailles,62210.0,Avion,Ecole maternelle Marcel Cachin,Hauts-de-France,17876.0,2017,LILLE
+0911795G,48.62960985,2.4435958971089398,11,5 allée Marco Polo,91000.0,Évry,Ecole élémentaire Marco Polo,Île-de-France,53237.0,2017,VERSAILLES
+0911892M,48.5136159,2.2174622000000004,11,2 rue des écoles,91730.0,Chamarande,Ecole maternelle Bastard,Île-de-France,1143.0,2017,VERSAILLES
+0280367X,48.3037516936298,0.8490794332218901,24,30 rue Emmeline,28480.0,Beaumont-les-Autels,Ecole Beaumont Les Autels,Centre-Val-de-Loire,435.0,2017,ORLEANS-TOURS
+0623048B,50.518440600000005,2.6004002999999996,32,23 rue de Fouquières,62232.0,Fouquereuil,Ecole maternelle de Fouquereuil,Hauts-de-France,1340.0,2016,LILLE
+0741271E,46.0833937,6.7269662,84,Le Quart,74340.0,Samoëns,Ecole maternelle la Quart,Auvergne-et-Rhône-Alpes,2282.0,2016,GRENOBLE
+0741411G,46.351282399999995,6.292389900000001,84,Rue des écoles,74140.0,Messery,Ecole maternelle de Messery,Auvergne-et-Rhône-Alpes,2153.0,2016,GRENOBLE
+0290490A,48.3905283,-4.4860088,53,3 rue Yves Giloux,29200.0,Brest,Ecole maternelle Ferdinand Buisson,Bretagne,139386.0,2017,RENNES
+0332730N,44.8422361,-0.6469599,75,135 avenue de la Somme,33700.0,Mérignac,Ecole maternelle Arnaud Lafon,Nouvelle-Aquitaine,68386.0,2017,BORDEAUX
+0340358E,43.935142,3.7070719,76,Rue des écoles Republicaines,34190.0,Ganges,Ecole maternelle de Ganges,Occitanie,3967.0,2017,MONTPELLIER
+0771491C,48.539927,2.6608169,11,1 rue Nicolas Tappereau,77000.0,Melun,Ecole maternelle Les Mezereaux 1,Île-de-France,40066.0,2017,CRETEIL
+0572903W,49.1092707,6.4054894,44,3 allée des Tilleuls,57530.0,Courcelles-Chaussy,Ecole de Plein Air écolE de Plein Air Landonvillers,Grand-Est,3054.0,2016,NANCY-METZ
+0580185L,47.0664625660931,3.65272502109248,27,Le bourg,58110.0,Saint-Péreuse,Ecole primaire de Saint-Péreuse,Bourgogne-et-Franche-Comté,265.0,2016,DIJON
+0580341F,46.9876601,3.1577203,27,56 boulevard Victor Hugo,58000.0,Nevers,Ecole primaire Victor Hugo,Bourgogne-et-Franche-Comté,34841.0,2016,DIJON
+0640818S,43.4832523,-1.5592776000000002,75,14 rue Alsace,64200.0,Biarritz,Ecole maternelle d'Alsace,Nouvelle-Aquitaine,24993.0,2017,BORDEAUX
+0641053X,43.2957547,-0.36856679999999997,75,5 rue d'Armagnac,64000.0,Pau,Ecole maternelle Stanislas Lavigne,Nouvelle-Aquitaine,77575.0,2016,BORDEAUX
+0611063Z,48.4312059,0.0911374,28,19 rue Augustin Fresnel,61000.0,Alençon,Ecole Jacques Prévert,Normandie,26350.0,2016,CAEN
+0680483F,48.093718700000004,7.553712599999999,44,15 rue des Jardins,68320.0,Baltzenheim,Ecole Les îles du Rhin,Grand-Est,584.0,2017,STRASBOURG
+0680692H,47.9024133,7.253469,44,Rue des écoles,68500.0,Issenheim,Ecole maternelle Soeur Fridoline,Grand-Est,3457.0,2017,STRASBOURG
+0681038J,47.749418799999994,7.339935499999999,44,6 rue Jean Montavont,68200.0,Mulhouse,Ecole maternelle Montavont,Grand-Est,112063.0,2017,STRASBOURG
+0650218J,43.242674900000004,0.09652260000000001,76,Avenue Jean Jaurès,65800.0,Aureilhan,Ecole élémentaire Lamartine,Occitanie,7959.0,2017,TOULOUSE
+0650219K,43.242674900000004,0.09652260000000001,76,2 rue Joliot Curie,65800.0,Aureilhan,Ecole élémentaire Joliot Curie,Occitanie,7959.0,2017,TOULOUSE
+0650296U,43.06582120000001,0.1530914,76,Place Réné Escoula,65200.0,Bagnères-de-Bigorre,Ecole élémentaire du Pic du Midi,Occitanie,7633.0,2017,TOULOUSE
+0650402J,43.2284141,0.1046315,76,Rue Jean Zay,65600.0,Séméac,Ecole élémentaire Montaigu,Occitanie,4713.0,2016,TOULOUSE
+0770064B,48.4149956,3.2394035,11,213 rue Jules Ferry,77480.0,Bray-sur-Seine,Ecole élémentaire Louis Pergaud,Île-de-France,2294.0,2016,CRETEIL
+0251818R,47.419161700000004,6.5237197,27,10 grande rue,25340.0,Pompierre-sur-Doubs,Ecole primaire intercommunale,Bourgogne-et-Franche-Comté,299.0,2017,BESANCON
+0650554Z,43.167521,0.26713459999999994,76,Le village,65190.0,Lanespède,Ecole élémentaire de Lanespède,Occitanie,147.0,2017,TOULOUSE
+0650645Y,43.12522979999999,0.384241,76,346 rue Pasteur,65300.0,Lannemezan,Ecole maternelle Paul Baratgin,Occitanie,5940.0,2017,TOULOUSE
+0650719D,43.0255659,0.6023704000000001,76,Avenue de Lesponne,65370.0,Loures-Barousse,Ecole élémentaire de Loures-Barousse,Occitanie,611.0,2017,TOULOUSE
+0650928F,43.12522979999999,0.384241,76,474 Boulevard des Tilleuls,65300.0,Lannemezan,Ecole primaire Bourtoulets,Occitanie,5940.0,2017,TOULOUSE
+0660385K,42.6598814443053,2.8638419954762995,76,Rue Damien Benizet,66260.0,Saint-Laurent-de-Cerdans,Ecole maternelle de Saint-Laurent-de-Cerdans,Occitanie,1173.0,2017,MONTPELLIER
+0761567R,50.059109899999996,1.3827656000000002,28,89 rue Alexandre Papin,76470.0,Le Tréport,Ecole maternelle Pierre Brossolette,Normandie,5116.0,2016,ROUEN
+0270093E,49.0473467,1.1624156,28,95 avenue Aristide Briand,27930.0,Gravigny,Ecole maternelle Marie Curie,Normandie,3984.0,2017,ROUEN
+0710841D,46.4698148,4.2442193,27,Le bourg,71120.0,Champlecy,Ecole de Champlecy,Bourgogne-et-Franche-Comté,219.0,2016,DIJON
+0711047C,46.8160316,4.7143651,27,15 rue Clos Laval,71640.0,Saint-Martin-sous-Montaigu,Ecole de Saint-Martin-sous-Montaigu,Bourgogne-et-Franche-Comté,368.0,2016,DIJON
+0711276B,46.2110224,4.7555202,27,Le bourg,71570.0,La Chapelle-de-Guinchay,Ecole maternelle de la Chapelle-de-Guinchay,Bourgogne-et-Franche-Comté,3943.0,2017,DIJON
+0711280F,46.321219799999994,4.7448989,27,Rue des Preauds,71960.0,Prissé,Ecole maternelle de Prissé,Bourgogne-et-Franche-Comté,1937.0,2016,DIJON
+0762415M,49.3880756,1.1428247999999999,28,Rue Général de Gaulle,76240.0,Belbeuf,Ecole maternelle Maurice Genevoix,Normandie,1966.0,2016,ROUEN
+0690444H,45.7337532,4.9092351999999995,84,47 avenue Ferdinand Buisson,69500.0,Bron,Ecole maternelle Ferdinand Buisson,Auvergne-et-Rhône-Alpes,38746.0,2016,LYON
+0240488A,45.4225,0.31805559999999994,75,Le bourg,24320.0,Champagne-et-Fontaine,Ecole primaire de Champagne-et-Fontaine,Nouvelle-Aquitaine,405.0,2017,BORDEAUX
+0720417M,48.136804600000005,0.7958405,52,Grande rue,72320.0,Gréez-sur-Roc,Ecole primaire RPI,Pays-de-la-Loire,354.0,2016,NANTES
+0721272S,47.78473029999999,0.6381374939631651,52,3 rue du Tusson,72340.0,Loir en Vallée,Ecole maternelle Les P'tits Loups,Pays-de-la-Loire,350.0,2016,NANTES
+0691107D,46.0268039,4.5572383,84,Le bourg,69870.0,Saint-Cyr-le-Chatoux,Ecole de Saint-Cyr-le-Chatoux,Auvergne-et-Rhône-Alpes,136.0,2016,LYON
+0240851V,45.03633,0.8307899999999999,75,Le bourg,24380.0,Lacropte,Ecole élémentaire de Lacropte,Nouvelle-Aquitaine,650.0,2017,BORDEAUX
+0330247P,44.79384015,-0.6063085906819761,75,5 rue Lucien Fauré,33300.0,Bordeaux,Ecole maternelle Lucien Fauré,Nouvelle-Aquitaine,243626.0,2017,BORDEAUX
+0670245C,48.4770169,7.567958,44,2 place du Tramway,67880.0,Krautergersheim,Ecole maternelle de Krautergersheim,Grand-Est,1715.0,2017,STRASBOURG
+0670375U,48.969314700000005,7.9913427,44,32 rue des Forgerons,67160.0,Seebach,Ecole maternelle de Seebach,Grand-Est,1707.0,2016,STRASBOURG
+0741145T,46.1875056,6.291881,84,161 rue de la Poste,74380.0,Cranves-Sales,Ecole maternelle de Cranves-Sales,Auvergne-et-Rhône-Alpes,6292.0,2017,GRENOBLE
+0741461L,46.2922313,6.309989900000001,84,Les Mogets,74140.0,Loisin,Ecole maternelle de Loisin,Auvergne-et-Rhône-Alpes,1458.0,2017,GRENOBLE
+0672108C,48.584614,7.750712700000001,44,39 rue de Wattwiller,67100.0,Strasbourg,Ecole maternelle Ampère,Grand-Est,275718.0,2017,STRASBOURG
+0672541Y,48.6285965,7.625021799999999,44,88 chemin de la Souffel,67370.0,Stutzheim-Offenheim,Ecole maternelle Le Petit Pont,Grand-Est,1415.0,2017,STRASBOURG
+0672667K,48.535574600000004,7.432170200000001,44,2 rue de l'Eglise,67190.0,Gresswiller,Ecole maternelle de Gresswiller,Grand-Est,1609.0,2017,STRASBOURG
+0680227C,47.8626304,7.213669599999999,44,3 place de la Mairie,68500.0,Hartmannswiller,Ecole de Hartmannswiller,Grand-Est,652.0,2017,STRASBOURG
+0751306M,48.856610100000005,2.3514992,11,9 rue Franc Nohain,75013.0,Paris,Ecole maternelle Franc Nohain M,Île-de-France,183713.0,2017,PARIS
+0740368Y,45.752557200000005,6.29168300187786,84,65 avenue de Horgen,74210.0,Faverges,Ecole maternelle Réné Cassin,Auvergne-et-Rhône-Alpes,6968.0,2017,GRENOBLE
+0730374K,45.675462200000005,6.3925417,84,Rue Pargoud,73200.0,Albertville,Ecole maternelle Pargoud-Albertville,Auvergne-et-Rhône-Alpes,19071.0,2017,GRENOBLE
+0731393T,45.6136449,6.3174574,84,La Pallaz,73460.0,Sainte-Hélène-sur-Isère,Ecole maternelle la Pallaz-Ste Hélène sur Isère,Auvergne-et-Rhône-Alpes,1147.0,2017,GRENOBLE
+0761143E,49.5934182,0.21266179999999998,28,Route de la Lezarde,76133.0,Notre-Dame-du-Bec,Ecole élémentaire de Notre-Dame-du-Bec,Normandie,447.0,2017,ROUEN
+0770063A,48.4149956,3.2394035,11,Rue du Tripot,77480.0,Bray-sur-Seine,Ecole élémentaire Jéhan de Brie,Île-de-France,2294.0,2016,CRETEIL
+0692598Z,45.6738,4.8583099999999995,84,20 chemin de Beauregard,69320.0,Feyzin,Ecole maternelle la Tour,Auvergne-et-Rhône-Alpes,9377.0,2016,LYON
+0772528E,48.8567,2.7855615,11,5 place Thomas Le Pilleur,77700.0,Serris,Ecole maternelle Robert Doisneau,Île-de-France,8369.0,2017,CRETEIL
+0700602Z,47.8859052,6.1263847,27,Rue Cornée,70210.0,Melincourt,Ecole primaire de Melincourt,Bourgogne-et-Franche-Comté,241.0,2017,BESANCON
+0710287B,46.64134620000001,4.3717516,27,14 rue Camille Desmoulins,71230.0,Saint-Vallier,Ecole maternelle Jean Damichel,Bourgogne-et-Franche-Comté,8824.0,2017,DIJON
+0680655T,47.7569173878324,7.288916684651969,44,Rue de Fulleren,68210.0,Dannemarie,Ecole maternelle de Dannemarie,Grand-Est,2292.0,2017,STRASBOURG
+0680666E,47.909462899999994,7.211327099999999,44,13 rue des Chanoines,68500.0,Guebwiller,Ecole maternelle Les Remparts,Grand-Est,11322.0,2016,STRASBOURG
+0681214A,47.909462899999994,7.211327099999999,44,10 rue des Vignerons,68500.0,Guebwiller,Ecole élémentaire Rebzunft,Grand-Est,11322.0,2017,STRASBOURG
+0681464X,47.8091086,7.2402432,44,1 rue de la Moselle,68310.0,Wittelsheim,Ecole maternelle Arc-en-ciel,Grand-Est,10562.0,2017,STRASBOURG
+0753277E,48.856610100000005,2.3514992,11,5 rue Milton,75009.0,Paris,Ecole maternelle Milton E,Île-de-France,59427.0,2017,PARIS
+0030402W,46.39495170000001,3.7515747999999998,84,Le bourg,3130.0,Liernolles,Ecole élémentaire de Liernolles,Auvergne-et-Rhône-Alpes,211.0,2017,CLERMONT-FERRAND
+0760293F,49.623196115417606,1.53556490171404,28,Le bourg,76440.0,Fontaine-en-Bray,Ecole élémentaire de Fontaine-en-Bray,Normandie,169.0,2017,ROUEN
+0760653X,49.598476,0.2625657,28,350 Route du Village,76280.0,Hermeville,Ecole élémentaire d'Hermeville,Normandie,369.0,2017,ROUEN
+0760847H,49.8579786,0.9954325,28,Rue de l'Ancienne Mare,76550.0,Ambrumesnil,Ecole élémentaire d'Ambrumesnil,Normandie,501.0,2017,ROUEN
+0760870H,49.8542277,1.0710182,28,Rue de la Mairie,76550.0,Sauqueville,Ecole élémentaire de Sauqueville,Normandie,377.0,2017,ROUEN
+0030551H,46.1135216,3.6826943,84,Le bourg,3250.0,Châtel-Montagne,Ecole Claudius Meunier,Auvergne-et-Rhône-Alpes,380.0,2017,CLERMONT-FERRAND
+0760820D,49.493897499999996,0.10797319999999999,28,15 rue Maurice Bouchor,76610.0,Le Havre,Ecole élémentaire Maurice Bouchor I,Normandie,172074.0,2016,ROUEN
+0760852N,49.8658434,0.8880653000000001,28,Route de Dieppe,76740.0,Le Bourg-Dun,Ecole élémentaire Pauline Kergomard,Normandie,419.0,2016,ROUEN
+0760891F,49.794339443467706,0.6280928629561899,28,Rue de l'Ecole,76450.0,Hautot-l'Auvray,Ecole élémentaire d'Hautot-l'Auvray,Normandie,357.0,2017,ROUEN
+0020276P,49.7544444,3.5725,32,Rue du Château,2270.0,Chevresis-Monceau,Ecole élémentaire de Chevresis-Monceau,Hauts-de-France,368.0,2016,AMIENS
+0020434L,49.5206,3.57971,32,6 rue de l'école,2000.0,Étouvelles,Ecole élémentaire d'Étouvelles,Hauts-de-France,215.0,2017,AMIENS
+0020648U,49.515,3.9781800000000005,32,2bis rue du Moulin,2190.0,La Malmaison,Ecole de la Malmaison,Hauts-de-France,417.0,2016,AMIENS
+0770080U,48.4570001,3.3742663,11,2 Grande rue,77114.0,Villiers-sur-Seine,Ecole élémentaire de Villiers-sur-Seine,Île-de-France,301.0,2017,CRETEIL
+0020936G,49.4638994,3.9744055,32,3 rue de la place,2190.0,Prouvais,Ecole de Prouvais,Hauts-de-France,347.0,2016,AMIENS
+0021324D,49.953055600000006,3.1938889,32,Rue de Priel,2420.0,Villeret,Ecole de Villeret,Hauts-de-France,310.0,2017,AMIENS
+0021678N,49.21436880682779,3.3549198988681095,32,Rue des écoles,2210.0,Vierzy,Ecole de Vierzy,Hauts-de-France,446.0,2016,AMIENS
+0251384U,46.9040348,6.3546345,27,8 rue Albert Camus,25300.0,Pontarlier,Ecole maternelle Péguy Charles,Bourgogne-et-Franche-Comté,17398.0,2017,BESANCON
+0251627H,47.327306799999995,6.011267,27,Route de Bonnay,25870.0,Devecey,Ecole maternelle de Devecey,Bourgogne-et-Franche-Comté,1374.0,2017,BESANCON
+0770592A,48.5590252,2.6824060000000003,11,Route de trois Moulins,77950.0,Rubelles,Ecole élémentaire Claudine Fabrici,Île-de-France,2012.0,2017,CRETEIL
+0382802P,45.159305700000004,5.6878134000000005,84,43 avenue du Grand Champ,38180.0,Seyssins,Ecole maternelle Blanche Rochas,Auvergne-et-Rhône-Alpes,6945.0,2016,GRENOBLE
+0382899V,45.4693305,5.473267118454441,84,465 rue du Grand Champ,38730.0,Virieu,Ecole maternelle de la Vallée,Auvergne-et-Rhône-Alpes,1109.0,2016,GRENOBLE
+0390446Y,46.931999999999995,5.93256,27,2 Route de Pontarlier,39110.0,Cernans,Ecole maternelle de Cernans,Bourgogne-et-Franche-Comté,139.0,2016,BESANCON
+0400725W,43.7080596,-1.0533076000000001,75,Rue Hugues,40100.0,Dax,Ecole maternelle Les Pins,Nouvelle-Aquitaine,20776.0,2016,BORDEAUX
+0400775A,43.8825787,-0.5201452,75,21 avenue du 21 aoE»t,40280.0,Saint-Pierre-du-Mont,Ecole maternelle Bourg,Nouvelle-Aquitaine,9337.0,2017,BORDEAUX
+0370212E,47.3900474,0.6889268,24,2 rue des Jacobins,37000.0,Tours,Ecole primaire France,Centre-Val-de-Loire,134803.0,2016,ORLEANS-TOURS
+0371382B,47.2729908,0.5996983,24,Les Grands Clos,37260.0,Artannes-sur-Indre,Ecole maternelle Guehenno,Centre-Val-de-Loire,2534.0,2016,ORLEANS-TOURS
+0140642X,48.896474100000006,-0.19991289999999998,28,1 rue de Nyon,14700.0,Falaise,Ecole maternelle Camp Ferme,Normandie,8343.0,2017,CAEN
+0320120G,43.7258333,0.10388889999999999,76,Hameau du Parre,32290.0,Margouët-Meymes,Ecole élémentaire Margouet-Meymes,Occitanie,193.0,2017,TOULOUSE
+0320129S,43.608737,-0.097589,76,Le village,32400.0,Maumusson-Laguian,Ecole élémentaire Maumusson Laguian,Occitanie,146.0,2016,TOULOUSE
+0320159Z,43.4999606,0.2133846,76,Le village,32230.0,Monlezun,Ecole maternelle Empu Monlezun Pardiac,Occitanie,203.0,2016,TOULOUSE
+0320164E,43.394088599999996,0.41885390000000006,76,Le village,32300.0,Montaut,Ecole maternelle Empu Montaut d'Astarac,Occitanie,111.0,2016,TOULOUSE
+0320371E,43.4075,0.49444440000000006,76,Le village,32300.0,Lagarde-Hachan,Ecole Lagarde Hachan,Occitanie,161.0,2016,TOULOUSE
+0141622M,48.8253485,-1.04035886236471,28,Rue du collège,14380.0,Saint-Sever-Calvados,Ecole maternelle de Saint-Sever-Calvados,Normandie,1248.0,2017,CAEN
+0141664H,48.896474100000006,-0.19991289999999998,28,6 avenue de la Crosse,14700.0,Falaise,Ecole maternelle Fontaine Couverte,Normandie,8343.0,2017,CAEN
+0141871H,49.195482500000004,0.35663720000000004,28,Route du Général de Gaulle,14590.0,Moyaux,Ecole maternelle de Moyaux,Normandie,1337.0,2017,CAEN
+0320503Y,43.72347429999999,0.729581,76,Le bourg,32270.0,Crastes,Ecole élémentaire Crastes,Occitanie,251.0,2017,TOULOUSE
+0270420K,49.2675049,0.9147993652315409,28,Rue du Général de Gaulle,27370.0,Le Thuit-Simer,Ecole élémentaire du Thuit-Simer,Normandie,458.0,2017,ROUEN
+0270902J,48.8212529,0.7095443,28,43 rue Georges Clémenceau,27250.0,Rugles,Ecole élémentaire Georges Veuclin grouPe I,Normandie,2353.0,2017,ROUEN
+0280088U,48.0747843739993,1.3445741790559,24,30 rue des Murgers,28200.0,Saint-Cloud-en-Dunois,Ecole maternelle Saint-Cloud En Dunois,Centre-Val-de-Loire,240.0,2017,ORLEANS-TOURS
+0621029G,50.7765241,1.8348287,32,125 rue de la Mairie,62132.0,Boursin,Ecole primaire de Boursin,Hauts-de-France,272.0,2017,LILLE
+0280284G,48.4231,1.46835,24,Cours Charles Brune,28600.0,Luisant,Ecole primaire André Juster,Centre-Val-de-Loire,6720.0,2017,ORLEANS-TOURS
+0271270J,49.27895039999999,1.777826,28,1 rue du Côteau,27140.0,Gisors,Ecole maternelle Joliot Curie,Normandie,11201.0,2017,ROUEN
+0621738C,50.639593700000006,2.4000602000000004,32,118 rue haute,62120.0,Aire-sur-la-Lys,Ecole d'Aire-sur-la-Lys,Hauts-de-France,9947.0,2016,LILLE
+0621832E,50.45049,2.21829,32,12 rue Marcel Dollet,62134.0,Teneur,Ecole primaire RPI 125,Hauts-de-France,287.0,2016,LILLE
+0280422G,48.2795417,1.4611983999999998,24,20 rue Jules Ferry,28360.0,Meslay-le-Vidame,Ecole primaire de Meslay-le-Vidame,Centre-Val-de-Loire,533.0,2017,ORLEANS-TOURS
+0332329C,44.7081826,-0.4009928,75,Route de la Ruasse,33550.0,Langoiran,Ecole maternelle Pomarède,Nouvelle-Aquitaine,2302.0,2017,BORDEAUX
+0332480S,45.127123100000006,-0.6635964,75,18 rue Docteur Gelineau,33390.0,Blaye,Ecole maternelle Pierre Bergeon,Nouvelle-Aquitaine,4730.0,2016,BORDEAUX
+0623070A,50.302204700000004,2.7767966,32,29 rue Raoul Briquet,62223.0,Saint-Nicolas,Ecole maternelle Constant Dutilleux,Hauts-de-France,4634.0,2017,LILLE
+0280446H,48.270233700000006,1.2715658,24,16 Grande rue,28120.0,Saint-Avit-les-Guespières,Ecole maternelle Saint-Avit Les Guespières,Centre-Val-de-Loire,376.0,2017,ORLEANS-TOURS
+0340514Z,43.6112422,3.8767337,76,759 rue Croix de Figuerolles,34070.0,Montpellier,Ecole élémentaire Dante Alighieri,Occitanie,272084.0,2016,MONTPELLIER
+0382256W,45.2066078,5.6629992,84,1 rue des Parcs,38360.0,Sassenage,Ecole maternelle Rivoire la Dame,Auvergne-et-Rhône-Alpes,11705.0,2017,GRENOBLE
+0382466Z,45.3558251,5.616002,84,Rue du 11 Novembre,38500.0,Coublevie,Ecole élémentaire Le Bérard,Auvergne-et-Rhône-Alpes,4567.0,2017,GRENOBLE
+0311295P,43.6434,1.37799,76,Chemin des Près,31700.0,Blagnac,Ecole maternelle Les Près,Occitanie,22969.0,2017,TOULOUSE
+0220346G,48.675503799999994,-2.928296,53,Avenue Laënnec,22580.0,Plouha,Ecole maternelle Jacques et Mona Ozouf,Bretagne,4505.0,2016,RENNES
+0221124C,48.32409335,-2.49628947585718,53,Rue Penthievre,22330.0,Le Gouray,Ecole du Gouray,Bretagne,1263.0,2016,RENNES
+0400558P,44.0295744,-1.1987407039618898,75,Le bourg,40170.0,Uza,Ecole maternelle d'Uza,Nouvelle-Aquitaine,159.0,2017,BORDEAUX
+0221609E,48.808542700000004,-3.3723211,53,1 place d'Aiguilles,22660.0,Trélévern,Ecole maternelle de Trélévern,Bretagne,1360.0,2017,RENNES
+0221627Z,48.7322183,-3.4587993999999997,53,Rue du calvaire,22300.0,Lannion,Ecole maternelle Servel,Bretagne,19627.0,2017,RENNES
+0221628A,48.7322183,-3.4587993999999997,53,Rue des 7 Tournants,22300.0,Lannion,Ecole maternelle Kroas-Hent,Bretagne,19627.0,2016,RENNES
+0221637K,48.784201,-3.2319779,53,Rue du Phare de la Corne,22220.0,Tréguier,Ecole maternelle Goas Mikaël,Bretagne,2489.0,2016,RENNES
+0240407M,45.32966665,0.625948985254953,75,Le bourg,24310.0,Valeuil,Ecole élémentaire de Valeuil,Nouvelle-Aquitaine,388.0,2016,BORDEAUX
+0240556Z,45.570555600000006,0.5613889,75,Route d'Angouleme,24300.0,Javerlhac-et-la-Chapelle-Saint-Robert,Ecole primaire de Javerlhac-et-la-Chapelle-Saint-Robert,Nouvelle-Aquitaine,876.0,2016,BORDEAUX
+0641049T,43.2957547,-0.36856679999999997,75,29 rue Mozart,64000.0,Pau,Ecole maternelle Marancy,Nouvelle-Aquitaine,77575.0,2017,BORDEAUX
+0080449V,49.4021636,4.70952028242988,44,16 rue Désiré Guelliot,8400.0,Vouziers,Ecole primaire Hippolyte Taine,Grand-Est,4019.0,2016,REIMS
+0080554J,49.4251987,4.125623200000001,44,Rue principale,8190.0,Houdilcourt,Ecole primaire de Houdilcourt,Grand-Est,149.0,2016,REIMS
+0080596E,49.88562,4.3890400000000005,44,22 Grande rue,8260.0,Éteignières,Ecole primaire d'Éteignières,Grand-Est,534.0,2016,REIMS
+0240868N,44.98572539999999,0.7219503,75,La Pisserotte,24380.0,Saint-Michel-de-Villadeix,Ecole élémentaire de Saint-Michel-de-Villadeix,Nouvelle-Aquitaine,317.0,2016,BORDEAUX
+0240963S,44.74607125,0.975186732678294,75,20 rue des écoles,24170.0,Belvès,Ecole de Belvès,Nouvelle-Aquitaine,1383.0,2016,BORDEAUX
+0240972B,44.769516700000004,0.7526427698362429,75,2 place de 8 Mai 1945,24440.0,Beaumont-du-Périgord,Ecole maternelle Saint-Exupéry,Nouvelle-Aquitaine,1090.0,2016,BORDEAUX
+0241049K,45.1724869,0.7650347839958431,75,Rue Louis Lescure,24750.0,Boulazac,Ecole maternelle Yves Peron,Nouvelle-Aquitaine,6851.0,2016,BORDEAUX
+0241094J,45.17838205,0.8204095174289671,75,Le bourg,24330.0,Bassillac,Ecole maternelle de Bassillac,Nouvelle-Aquitaine,1786.0,2017,BORDEAUX
+0370567R,47.170289430962704,0.24386412314186498,24,Rue de la Mairie,37500.0,Candes-Saint-Martin,Ecole primaire de Candes-Saint-Martin,Centre-Val-de-Loire,229.0,2017,ORLEANS-TOURS
+0460382R,44.4917756,1.0858997,76,Le bourg,46700.0,Vire-sur-Lot,Ecole primaire de Vire-sur-Lot,Occitanie,376.0,2017,TOULOUSE
+0460649F,44.4495,1.4364999,76,Place de l'Ecole,46000.0,Cahors,Ecole maternelle Begoux,Occitanie,19616.0,2017,TOULOUSE
+0141560V,49.182800799999995,-0.3690815,28,60 place Champlain,14000.0,Caen,Ecole maternelle Nicolas Copernic,Normandie,107229.0,2017,CAEN
+0100194G,48.3185478,4.0413095000000006,44,2 rue Ferdinand Buisson,10600.0,La Chapelle-Saint-Luc,Ecole maternelle Ferdinand Buisson,Grand-Est,12634.0,2017,REIMS
+0100768F,48.39418010000001,4.5268522,44,30 rue de l'Ecole militaire,10500.0,Brienne-le-Château,Ecole maternelle Jean de la Fontaine,Grand-Est,2950.0,2016,REIMS
+0100814F,48.6700396,4.2005817,44,12 rue des Tonnelles,10230.0,Mailly-le-Camp,Ecole maternelle de Mailly-le-Camp,Grand-Est,1712.0,2016,REIMS
+0101080V,48.4458161,4.5804014,44,10 rue de l'Ecole,10500.0,Vallentigny,Ecole maternelle de Vallentigny,Grand-Est,182.0,2016,REIMS
+0570973Y,49.2984278,6.054280400000001,44,23 rue des Près,57700.0,Ranguevaux,Ecole maternelle de l'Etang,Grand-Est,791.0,2017,NANCY-METZ
+0120428A,44.4835,2.25886,76,Le bourg,12220.0,Lugan,Ecole de Lugan,Occitanie,343.0,2017,TOULOUSE
+0591758R,50.6767018,3.1043032000000004,32,80 rue Robert Schuman,59700.0,Marcq-en-Barœul,Ecole maternelle Desrousseaux,Hauts-de-France,39392.0,2017,LILLE
+0180442H,46.6934875,2.5236259999999997,24,6 rue Domaine,18200.0,Drevant,Ecole élémentaire de Drevant,Centre-Val-de-Loire,565.0,2016,ORLEANS-TOURS
+0180813L,47.1462117,2.2214381000000003,24,55 rue Victor Hugo,18500.0,Mehun-sur-Yèvre,Ecole maternelle Jean de la Fontaine,Centre-Val-de-Loire,6804.0,2016,ORLEANS-TOURS
+0195040A,45.046991399999996,2.0085655,75,Le bourg,19430.0,Sexcles,Ecole élémentaire de Sexcles,Nouvelle-Aquitaine,231.0,2017,LIMOGES
+0210593F,47.277517700000004,4.2306919999999995,27,2 place Monge,21210.0,Saulieu,Ecole élémentaire Monge,Bourgogne-et-Franche-Comté,2490.0,2016,DIJON
+0210874L,47.2841003,5.057479799999999,27,1 bis rue Colonel Fonck,21600.0,Longvic,Ecole maternelle Valentin,Bourgogne-et-Franche-Comté,8981.0,2016,DIJON
+0211752R,47.0534609,5.2770421999999995,27,13 rue Bossuet,21170.0,Franxault,Ecole maternelle RPI,Bourgogne-et-Franche-Comté,449.0,2016,DIJON
+0594341Y,50.1250142,3.6913023000000003,32,23 rue Jules Ferry,59550.0,Landrecies,Ecole maternelle du Grand Parc,Hauts-de-France,3487.0,2017,LILLE
+0650294S,43.06582120000001,0.1530914,76,12 rue Hount Blanque,65200.0,Bagnères-de-Bigorre,Ecole élémentaire Jules Ferry,Occitanie,7633.0,2017,TOULOUSE
+0130888V,43.2874985714814,5.36069019065576,93,3 impasse de la Gavelière,13007.0,Marseille,Ecole maternelle Marius Thomas,Provence-Alpes-Côte-d'Azur,35262.0,2016,AIX-MARSEILLE
+0420654H,45.4401467,4.3873058,84,81 rue de la Jomayère,42100.0,Saint-Étienne,Ecole maternelle Jomayère,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0650748K,43.1831715,-0.0268132,76,18 Rue Georges Clémenceau,65380.0,Ossun,Ecole élémentaire Paul Guth,Occitanie,2314.0,2017,TOULOUSE
+0650850W,43.12522979999999,0.384241,76,346 rue Pasteur,65300.0,Lannemezan,Ecole élémentaire Paul Bert Paul Baratgin,Occitanie,5940.0,2017,TOULOUSE
+0710791Z,46.2914780382876,4.0583295683687695,27,Le bourg,71110.0,Céron,Ecole élémentaire de Céron,Bourgogne-et-Franche-Comté,281.0,2017,DIJON
+0711274Z,46.8540616,5.1751176,27,22 Grande rue,71310.0,Saint-Bonnet-en-Bresse,Ecole de Saint-Bonnet-en-Bresse,Bourgogne-et-Franche-Comté,475.0,2016,DIJON
+0711367A,46.64134620000001,4.3717516,27,11 rue Pasteur,71230.0,Saint-Vallier,Ecole maternelle Pasteur,Bourgogne-et-Franche-Comté,8824.0,2016,DIJON
+0670301N,48.6919519,7.886425599999999,44,3 chemin des écoliers,67760.0,Gambsheim,Ecole maternelle Le Verger,Grand-Est,4615.0,2017,STRASBOURG
+0140766G,49.2412693,-0.2255993,28,Route de Sallenelles,14860.0,Bréville-les-Monts,Ecole de Bréville-les-Monts,Normandie,651.0,2016,CAEN
+0140911P,49.2505283,0.1331312,28,Le bourg,14130.0,Clarbec,Ecole élémentaire de Clarbec,Normandie,380.0,2016,CAEN
+0700938P,47.6197251,6.1545239,27,5 rue de Barboilloz,70000.0,Vesoul,Ecole maternelle Le Grand Gresil,Bourgogne-et-Franche-Comté,15473.0,2017,BESANCON
+0141538W,49.1705071,-0.41290879999999996,28,2 place de l'Eglise,14760.0,Bretteville-sur-Odon,Ecole maternelle de Bretteville-sur-Odon,Normandie,3894.0,2017,CAEN
+0141670P,49.2747222,0.15222220000000003,28,Le bourg,14130.0,Reux,Ecole maternelle de Reux,Normandie,402.0,2016,CAEN
+0141673T,49.3941667,0.2966667,28,Le bourg,14600.0,Ablon,Ecole maternelle d'Ablon,Normandie,1211.0,2016,CAEN
+0141675V,49.156538299999994,-0.3937312,28,Place du marché,14111.0,Louvigny,Ecole maternelle Pauline Kergomard,Normandie,2766.0,2016,CAEN
+0141995T,48.9187667,-0.21404650000000003,28,Chemin des écoles,14700.0,Aubigny,Ecole maternelle d'Aubigny,Normandie,290.0,2016,CAEN
+0160195A,45.336127600000005,0.2232607,75,Le bourg,16390.0,Montignac-le-Coq,Ecole élémentaire de Montignac-le-Coq,Nouvelle-Aquitaine,132.0,2017,POITIERS
+0160256S,45.6677249,0.16711289999999998,75,153 Route de Paris Le Pontouvre,16160.0,Gond-Pontouvre,Ecole maternelle Charles Perrault,Nouvelle-Aquitaine,5883.0,2016,POITIERS
+0710989P,46.7890718,4.6769169999999995,27,Cidex 106,71640.0,Barizey,Ecole élémentaire de Barizey,Bourgogne-et-Franche-Comté,130.0,2017,DIJON
+0320200U,43.6326723,0.2137618,76,Le village,32320.0,Peyrusse-Grande,Ecole maternelle Empu Peyrusse Grande,Occitanie,157.0,2017,TOULOUSE
+0160625T,45.67292335,0.411893604131535,75,Le bourg,16220.0,Vilhonneur,Ecole élémentaire de Vilhonneur,Nouvelle-Aquitaine,371.0,2016,POITIERS
+0161068Z,45.5534902,0.12393019999999999,75,34 avenue 24 aoE»t 1944,16440.0,Mouthiers-sur-Boëme,Ecole maternelle Les Tilleuls,Nouvelle-Aquitaine,2493.0,2016,POITIERS
+0170196W,46.03771629999999,-0.6302566,75,Le Treuil Mureau,17380.0,Puyrolland,Ecole élémentaire de Puyrolland,Nouvelle-Aquitaine,185.0,2016,POITIERS
+0680681W,47.5863563,7.2533811,44,6 rue des écoles,68560.0,Hirsingue,Ecole maternelle l'Envol,Grand-Est,2202.0,2017,STRASBOURG
+9740260P,-21.167769399999997,55.2881932,4,32 rue Adrien Lagourgue,97436.0,Saint-Leu,Ecole élémentaire Piton St-Leu grouPe B,La-Réunion,33154.0,2017,LA REUNION
+9740433C,-20.9042845,55.606119299999996,4,239 rue Louis Hoareau,97441.0,Sainte-Suzanne,Ecole élémentaire publique Bagatelle,La-Réunion,22209.0,2017,LA REUNION
+0420657L,45.4401467,4.3873058,84,22 rue Descours,42000.0,Saint-Étienne,Ecole maternelle Descours,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0420900A,45.4536,4.75322,84,Le bourg,42410.0,Vérin,Ecole maternelle Le Bourg,Auvergne-et-Rhône-Alpes,683.0,2017,LYON
+0950533N,48.9891693,2.3197111,11,Avenue 1ère Armée Française,95160.0,Montmorency,Ecole maternelle Ferdinand Buisson,Île-de-France,20796.0,2017,VERSAILLES
+0940394T,48.76302379999999,2.4093664,11,29 rue Albert 1er,94600.0,Choisy-le-Roi,Ecole maternelle Paul Langevin,Île-de-France,42769.0,2017,CRETEIL
+0941548X,48.8490721,2.4749347000000004,11,2 rue Edouard Vaillant,94120.0,Fontenay-sous-Bois,Ecole maternelle Edouard Vaillant 2,Île-de-France,53124.0,2017,CRETEIL
+0380442Z,45.1437,5.71927,84,13 rue Manouchian,38130.0,Échirolles,Ecole maternelle Paul Langevin 1,Auvergne-et-Rhône-Alpes,35684.0,2017,GRENOBLE
+0810839X,43.9875724,2.1383353,76,Avenue Jean Jaurès,81130.0,Cagnac-les-Mines,Ecole maternelle Jean Jaurès,Occitanie,2353.0,2017,TOULOUSE
+0820768P,43.9675,1.5852778,76,Place de la Gendarmerie,82230.0,Monclar-de-Quercy,Ecole maternelle la Rose des vents,Occitanie,1914.0,2017,TOULOUSE
+0400833N,43.8911318,-0.500972,75,5 rue Louis Barthou,40000.0,Mont-de-Marsan,Ecole maternelle Pegle,Nouvelle-Aquitaine,31334.0,2017,BORDEAUX
+0641039G,43.2957547,-0.36856679999999997,75,3 bis rue Bonado,64000.0,Pau,Ecole maternelle Maréchal Bosquet,Nouvelle-Aquitaine,77575.0,2016,BORDEAUX
+0650563J,43.1731794,0.25471170000000004,76,30 chemin Cami Dera Mignouna,65190.0,Ozon,Ecole élémentaire d'Ozon,Occitanie,286.0,2017,TOULOUSE
+0650603C,43.12522979999999,0.384241,76,474 boulevard des Tilleuls,65300.0,Lannemezan,Ecole maternelle Bourtoulets,Occitanie,5940.0,2017,TOULOUSE
+0781217Z,48.8035403,2.1266886,11,18 rue Jean de la Bruyère,78000.0,Versailles,Ecole maternelle la Farandole,Île-de-France,85272.0,2016,VERSAILLES
+0782252Z,48.8976716,2.1026594,11,2 allée de Normandie,78230.0,Le Pecq,Ecole maternelle Maréchal Leclerc,Île-de-France,16237.0,2017,VERSAILLES
+0782334N,48.821447799999994,1.9871825,11,1 rue Tristan Bernard,78340.0,Les Clayes-sous-Bois,Ecole maternelle Nouveau Cottage,Île-de-France,17735.0,2017,VERSAILLES
+0783080Z,48.799708,2.0672137999999998,11,54 rue du Docteur Vaillant,78210.0,Saint-Cyr-l'École,Ecole maternelle Paul Langevin,Île-de-France,18089.0,2017,VERSAILLES
+0783368M,48.972460399999996,1.9830623,11,8 impasse des Ormes,78540.0,Vernouillet,Ecole maternelle Tom Pouce,Île-de-France,9698.0,2017,VERSAILLES
+0624299L,50.0822866,2.7908385,32,Impasse de l'Eglise,62450.0,Warlencourt-Eaucourt,Ecole élémentaire RPI 96,Hauts-de-France,160.0,2016,LILLE
+0731216A,45.5662672,5.9203636,84,Rue du Talweg,73000.0,Chambéry,Ecole maternelle Pablo Neruda,Auvergne-et-Rhône-Alpes,58653.0,2016,GRENOBLE
+0710727E,46.796949299343794,4.84281726174242,27,1 rue des Pierres,71400.0,Autun,Ecole élémentaire Chancelier Rolin,Bourgogne-et-Franche-Comté,13863.0,2016,DIJON
+0710794C,46.2456386,4.0114577,27,Le bourg,71110.0,Artaix,Ecole d'Artaix,Bourgogne-et-Franche-Comté,339.0,2016,DIJON
+0710802L,46.349674,4.2601544,27,Le bourg,71800.0,Saint-Germain-en-Brionnais,Ecole élémentaire de Saint-Germain-en-Brionnais,Bourgogne-et-Franche-Comté,197.0,2016,DIJON
+0710996X,46.9040729,4.481756099999999,27,Rue du Général de Gaulle,71490.0,Saint-Émiland,Ecole de Saint-Émiland,Bourgogne-et-Franche-Comté,335.0,2016,DIJON
+0711719H,46.8392713,4.331151599999999,27,Le bourg,71710.0,Saint-Symphorien-de-Marmagne,Ecole maternelle de Saint-Symphorien-de-Marmagne,Bourgogne-et-Franche-Comté,847.0,2016,DIJON
+0710177G,46.435311,4.2743162,27,26 rue Champagny,71120.0,Charolles,Ecole maternelle Marguerite Bouzereau,Bourgogne-et-Franche-Comté,2757.0,2017,DIJON
+0800437R,49.909153623920005,2.92662674782354,32,43 chaussée Brunehaut,80200.0,Estrées-Deniécourt,Ecole maternelle d'Estrées-Deniécourt,Hauts-de-France,346.0,2016,AMIENS
+0800447B,49.909153623920005,2.92662674782354,32,1 rue de Marcaille,80200.0,Soyécourt,Ecole primaire de Soyécourt,Hauts-de-France,169.0,2016,AMIENS
+0800819F,50.106083500000004,1.8337028999999998,32,24 place du Pont des Près,80100.0,Abbeville,Ecole maternelle Pont des Près,Hauts-de-France,23821.0,2016,AMIENS
+0800821H,50.106083500000004,1.8337028999999998,32,24 rue Phileas Lebesgue,80100.0,Abbeville,Ecole maternelle faubourg du Bois Chaufour,Hauts-de-France,23821.0,2016,AMIENS
+0801177V,49.900582799999995,2.3216924999999997,32,Rue Baudrez,80136.0,Rivery,Ecole primaire Jean Cayeux,Hauts-de-France,3437.0,2016,AMIENS
+0801785F,49.992824299999995,1.8768544999999999,32,2 rue Defarcy,80490.0,Hallencourt,Ecole maternelle d'Hallencourt,Hauts-de-France,1374.0,2016,AMIENS
+0810295F,44.0301194,2.1323326000000002,76,Rue Ferdinand Cassan,81400.0,Blaye-les-Mines,Ecole maternelle Fernand Cassan,Occitanie,3073.0,2016,TOULOUSE
+0601888B,49.336708,2.1486811,32,48 Grande rue,60430.0,Hodenc-l'Évêque,Ecole élémentaire de Hodenc-l'Évêque,Hauts-de-France,246.0,2017,AMIENS
+0620423Y,50.70513629999999,2.1217900000000003,32,Rue Marie Curie,62380.0,Lumbres,Ecole maternelle Marie Curie,Hauts-de-France,3801.0,2017,LILLE
+0610084K,48.4484342,0.7798020135619479,28,23 bis rue Marcel Louvel,61110.0,Rémalard,Ecole maternelle Les Comptines,Normandie,1212.0,2016,CAEN
+0610227R,48.4520099484466,0.0712042991394307,28,Le bourg,61250.0,Neuilly-le-Bisson,Ecole élémentaire de Neuilly-le-Bisson,Normandie,313.0,2016,CAEN
+0610480R,48.83260315543261,0.501641527394375,28,5 place de Mairie,61550.0,Glos-la-Ferrière,Ecole de Glos-la-Ferrière,Normandie,544.0,2016,CAEN
+0611003J,48.7651713,0.6278039000000001,28,Rue Clémence Gibory,61300.0,L'Aigle,Ecole maternelle Moulin E  Vent,Normandie,7983.0,2016,CAEN
+0880589M,48.2537,5.9983,44,181 Grande rue,88800.0,Domjulien,Ecole primaire de Domjulien,Grand-Est,188.0,2017,NANCY-METZ
+0880746H,48.2672201,6.488870200000001,44,95 rue de l'école,88150.0,Bayecourt,Ecole primaire de Bayecourt,Grand-Est,271.0,2017,NANCY-METZ
+0761569T,49.7577729,0.374891,28,248 avenue Jean Lorrain,76400.0,Fécamp,Ecole maternelle Jean Lorrain,Normandie,19381.0,2016,ROUEN
+0762359B,49.531383500000004,0.23867399999999997,28,Rue de la Forge,76290.0,Saint-Martin-du-Manoir,Ecole maternelle du Point du jour,Normandie,1539.0,2017,ROUEN
+0890181N,47.3857699,4.0476536,27,14 rue de l'Eglise,89630.0,Saint-Léger-Vauban,Ecole de Saint-Léger-Vauban,Bourgogne-et-Franche-Comté,387.0,2017,DIJON
+0802044M,50.0656325,1.3889703000000002,32,Avenue P. et M. Curie,80350.0,Mers-les-Bains,Ecole maternelle de Mers-les-Bains,Hauts-de-France,2867.0,2017,AMIENS
+0810172X,43.4302,2.16882,76,15 rue de l'Eglise,81110.0,Arfons,Ecole d'Arfons,Occitanie,177.0,2017,TOULOUSE
+0624297J,50.571375,2.1741874,32,4 rue Bomy,62560.0,Reclinghem,Ecole élémentaire de Reclinghem,Hauts-de-France,236.0,2017,LILLE
+0900343J,47.6029643,6.8682683,27,Hameau de l'Assise,90400.0,Andelnans,Ecole maternelle Le Grand Bois Andelnans,Bourgogne-et-Franche-Comté,1228.0,2017,BESANCON
+0910119K,48.3463691,2.16588,11,2 place de la Mairie,91150.0,Abbéville-la-Rivière,Ecole élémentaire d'Abbéville-la-Rivière,Île-de-France,296.0,2017,VERSAILLES
+0771796J,48.5590252,2.6824060000000003,11,Route de trois Moulins,77950.0,Rubelles,Ecole maternelle de Rubelles,Île-de-France,2012.0,2017,CRETEIL
+0781560X,48.7709414,2.0706084,11,2 rue de Valmy,78280.0,Guyancourt,Ecole maternelle Eugénie Cotton,Île-de-France,27546.0,2017,VERSAILLES
+0672619H,48.4238894,7.450833199999999,44,Rue Jungholz,67140.0,Heiligenstein,Ecole maternelle de Heiligenstein,Grand-Est,959.0,2017,STRASBOURG
+0790106L,46.6481266,-0.24726869999999998,75,1 rue Mélusine,79200.0,Parthenay,Ecole Montgazon,Nouvelle-Aquitaine,10204.0,2017,POITIERS
+0600233C,49.4669473,1.8971509999999998,32,1 rue de Monceaux,60650.0,Hodenc-en-Bray,Ecole élémentaire de Hodenc-en-Bray,Hauts-de-France,497.0,2017,AMIENS
+0631699E,45.753974,3.0865394,84,390 rue du Champclos,63110.0,Beaumont,Ecole maternelle Le Masage,Auvergne-et-Rhône-Alpes,10926.0,2017,CLERMONT-FERRAND
+0600153R,49.223176200000005,1.9468289,32,Chemin Fontaine Saint-Clair,60240.0,Tourly,Ecole élémentaire de Tourly,Hauts-de-France,176.0,2017,AMIENS
+0600327E,49.2581737,2.8539068,32,16 bis rue Ruegg,60800.0,Séry-Magneval,Ecole élémentaire de Séry-Magneval,Hauts-de-France,289.0,2017,AMIENS
+0573332M,48.65358,7.2368372999999995,44,1 rue des écoles,57850.0,Dabo,Ecole élémentaire Schaeferhof,Grand-Est,2605.0,2017,NANCY-METZ
+0660670V,42.7100287,2.8456715,76,56 avenue de Baixas,66240.0,Saint-Estève,Ecole primaire Victor Hugo,Occitanie,11846.0,2017,MONTPELLIER
+0800443X,49.824270399999996,2.7654259,32,20 place Henri Sy,80320.0,Lihons,Ecole primaire de Lihons,Hauts-de-France,392.0,2017,AMIENS
+0580938E,47.1804171695358,3.33634881664923,27,Le bourg,58700.0,Beaumont-la-Ferrière,Ecole élémentaire de Beaumont-la-Ferrière,Bourgogne-et-Franche-Comté,124.0,2017,DIJON
+0591003V,50.7653265,3.0066319,32,20 rue de la Victoire,59560.0,Comines,Ecole maternelle Georges Brassens,Hauts-de-France,12564.0,2017,LILLE
+0650497M,43.12522979999999,0.384241,76,Rue de la Lande de Boc,65300.0,Lannemezan,Ecole élémentaire Le Guerissa,Occitanie,5940.0,2017,TOULOUSE
+0880753R,48.2860794,6.4713441,44,2 Grande rue,88330.0,Domèvre-sur-Durbion,Ecole de Domèvre-sur-Durbion,Grand-Est,290.0,2017,NANCY-METZ
+0881537T,48.406984,6.8437227,44,Rue du 8 Mai 1945,88110.0,Raon-l'Étape,Ecole primaire Louis Madelin,Grand-Est,6422.0,2017,NANCY-METZ
+0881688G,48.300530200000004,6.1312974,44,63 rue du Docteur Cabasse,88500.0,Mirecourt,Ecole primaire Joseph Bey,Grand-Est,5598.0,2017,NANCY-METZ
+0890099Z,47.5347,3.8865800000000004,27,14 rue Saint-Marcel,89200.0,Annay-la-Côte,Ecole d'Annay-la-Côte,Bourgogne-et-Franche-Comté,340.0,2017,DIJON
+0801127R,49.774968900000005,1.9818506,32,7 Rue Benjamin d'Hardivillers,80290.0,Poix-de-Picardie,Ecole primaire Les Samares,Hauts-de-France,2395.0,2017,AMIENS
+0810267A,43.7685112,2.2589104,76,Le bourg,81120.0,Mont-Roc,Ecole primaire de Mont-Roc,Occitanie,188.0,2017,TOULOUSE
+0860299H,46.2358775,0.6861455,75,3 avenue Jean Augry,86150.0,L'Isle-Jourdain,Ecole maternelle Marc Chagall,Nouvelle-Aquitaine,8012.0,2017,POITIERS
+0540374N,48.8416054,6.0683191,44,2 rue Jules Ferry,54380.0,Dieulouard,Ecole maternelle Jean de la Fontaine,Grand-Est,4572.0,2017,NANCY-METZ
+0541794G,48.575668,5.8513897,44,1 place de l'église,54113.0,Bulligny,Ecole de Bulligny,Grand-Est,475.0,2017,NANCY-METZ
+0762722W,49.9568229,1.2218919,28,Rue des Papillons,76370.0,Saint-Martin-en-Campagne,Ecole maternelle Georges Brassens,Normandie,1256.0,2017,ROUEN
+0861087P,46.7638945,0.48237340000000006,75,13 rue du 19 Mars 1962,86530.0,Naintré,Ecole maternelle Le Crepin,Nouvelle-Aquitaine,5850.0,2017,POITIERS
+0910604M,48.71445870000001,2.2453842,11,4 rue des écoles,91120.0,Palaiseau,Ecole maternelle Joseph Bara,Île-de-France,31264.0,2017,VERSAILLES
+0911466Z,48.4577346,2.1388602000000003,11,Rue des Ruelles,91150.0,Brières-les-Scellés,Ecole maternelle Le Village,Île-de-France,1161.0,2017,VERSAILLES
+0610987S,48.641358600000004,0.749490944862018,28,Place Georges Pompidou,61190.0,Saint-Maurice-lès-Charencey,Ecole de Saint-Maurice-lès-Charencey,Normandie,536.0,2017,CAEN
+0920269T,48.8356649,2.240206,11,29 avenue Pierre Grenier,92100.0,Boulogne-Billancourt,Ecole élémentaire Pierre Grenier,Île-de-France,116794.0,2017,VERSAILLES
+9740030P,-21.000609899999997,55.2771585,4,9 rue Claude de Sigoyer,97460.0,Saint-Paul,Ecole maternelle Paille En Queue,La-Réunion,104332.0,2017,LA REUNION
+0911317M,48.680558700000006,2.1690093,11,Place du Quercy,91940.0,Les Ulis,Ecole maternelle Les Avelines Groupe 1,Île-de-France,24914.0,2017,VERSAILLES
+0770844Z,48.737539,2.951462,11,Place de la Mairie d'Ormeaux,77540.0,Lumigny-Nesles-Ormeaux,Ecole élémentaire Ormeaux,Île-de-France,1543.0,2017,CRETEIL
+0771375B,48.8773018,2.7056056,11,19 rue Louis Blériot,77400.0,Lagny-sur-Marne,Ecole maternelle Orly-Parc,Île-de-France,20718.0,2017,CRETEIL
+0020228M,49.0483038718163,3.3980128176417406,32,3 place de la Mairie,2400.0,Chartèves,Ecole élémentaire de Chartèves,Hauts-de-France,353.0,2017,AMIENS
+0020374W,49.0864834,3.5528175,32,4 rue Pasteur,2850.0,Barzy-sur-Marne,Ecole élémentaire de Barzy-sur-Marne,Hauts-de-France,385.0,2017,AMIENS
+0020871L,49.84861110000001,3.2863888,32,88 rue Henri Dunant,2100.0,Saint-Quentin,Ecole maternelle Groupe scolaire François Collery,Hauts-de-France,55698.0,2017,AMIENS
+0021036R,49.2721699766556,3.12652514777423,32,3 rue du Bois d'Ouvret,2600.0,Louâtre,Ecole élémentaire de Louâtre,Hauts-de-France,205.0,2016,AMIENS
+0021842S,49.5151,3.83985,32,14 rue des Annois,2820.0,Saint-Erme-Outre-et-Ramecourt,Ecole maternelle de Saint-Erme-Outre-et-Ramecourt,Hauts-de-France,1883.0,2016,AMIENS
+0061803C,43.8119541,7.3146204,93,Rue Honoré Passeron,6390.0,Contes,Ecole maternelle Ricolfi 2,Provence-Alpes-Côte-d'Azur,7279.0,2017,NICE
+0070337D,44.5493789,4.6829629,84,42 boulevard Pasteur,7400.0,Le Teil,Ecole élémentaire Teillaret,Auvergne-et-Rhône-Alpes,8292.0,2017,GRENOBLE
+0071129P,44.8529331,4.3516535,84,Le village,7160.0,Dornas,Ecole primaire de Dornas,Auvergne-et-Rhône-Alpes,243.0,2016,GRENOBLE
+0080488M,49.50914470000001,4.3666467,44,1 rue Maurice Ravel,8300.0,Rethel,Ecole maternelle Camille Lassaux,Grand-Est,7730.0,2016,REIMS
+0080547B,49.4560072,4.0843034,44,6 place de l'Abbé Haguenin,8190.0,Avaux,Ecole primaire d'Avaux,Grand-Est,439.0,2016,REIMS
+0030843A,46.5660526,3.3331703,84,37 rue du Docteur Denis,3000.0,Moulins,Ecole maternelle Les Mimosas,Auvergne-et-Rhône-Alpes,19474.0,2016,CLERMONT-FERRAND
+0030949R,46.5606,3.2911300000000003,84,Le bourg,3000.0,Neuvy,Ecole maternelle de Neuvy,Auvergne-et-Rhône-Alpes,1557.0,2016,CLERMONT-FERRAND
+0031026Z,46.3802795,3.5928142,84,6 rue Couzenottes,3220.0,Jaligny-sur-Besbre,Ecole maternelle de Jaligny-sur-Besbre,Auvergne-et-Rhône-Alpes,598.0,2017,CLERMONT-FERRAND
+0040205B,43.8338026,5.7826657,93,Boulevard des Tilleuls,4100.0,Manosque,Ecole maternelle Les Tilleuls,Provence-Alpes-Côte-d'Azur,22412.0,2016,AIX-MARSEILLE
+9710239H,16.3316709,-61.3476233,1,2 rue des écoliers,97160.0,Le Moule,Ecole primaire Gaston Calmet,Guadeloupe,22456.0,2017,GUADELOUPE
+0050154R,44.561197799999995,6.0820018,93,16 rue Jean Macé,5000.0,Gap,Ecole maternelle Puymaure,Provence-Alpes-Côte-d'Azur,40255.0,2017,AIX-MARSEILLE
+0060122A,43.5836,7.10905,93,5 rue Lacan,6600.0,Antibes,Ecole maternelle Doumer,Provence-Alpes-Côte-d'Azur,75456.0,2017,NICE
+9710313N,15.976743300000003,-61.6441603,1,Le bourg,97114.0,Trois-Rivières,Ecole primaire Bourg 1,Guadeloupe,8578.0,2017,GUADELOUPE
+0061289U,43.7846,7.18785,93,Rue des Arbousiers,6510.0,Carros,Ecole primaire Eluard,Provence-Alpes-Côte-d'Azur,11756.0,2017,NICE
+0941489H,48.8490721,2.4749347000000004,11,2 rue Edouard Vaillant,94120.0,Fontenay-sous-Bois,Ecole maternelle Edouard Vaillant 1,Île-de-France,53124.0,2017,CRETEIL
+0950395N,49.1658092,2.0013435,11,15 Grande rue,95640.0,Le Heaulme,Ecole du Heaulme,Île-de-France,200.0,2017,VERSAILLES
+0890384J,47.7821588,3.2120077,27,Rue Guillemot,89130.0,Villiers-Saint-Benoît,Ecole de Villiers-Saint-Benoît,Bourgogne-et-Franche-Comté,511.0,2016,DIJON
+0890948X,47.9642268,3.4843747000000005,27,16 bis rue Georges Varenne,89400.0,Laroche-Saint-Cydroine,Ecole maternelle de Laroche-Saint-Cydroine,Bourgogne-et-Franche-Comté,1266.0,2016,DIJON
+0891250A,47.796128700000004,3.570579,27,15 rue de la Tour d'Auvergne,89000.0,Auxerre,Ecole maternelle d'application Rosoirs,Bourgogne-et-Franche-Comté,34869.0,2016,DIJON
+0951452M,49.0116,2.03194,11,4 allée des Eguerets,95280.0,Jouy-le-Moutier,Ecole maternelle Les Eguerets,Île-de-France,16300.0,2016,VERSAILLES
+9720169B,14.6027962,-61.06767239999999,2,110 avenue Abbé Lavigne,97200.0,Fort-de-France,Ecole élémentaire Solange Londas,Martinique,84174.0,2016,MARTINIQUE
+9720318N,14.741718300000002,-61.176390399999995,2,Rue Victor Hugo,97250.0,Saint-Pierre,Ecole élémentaire Saint-Pierre A,Martinique,4285.0,2017,MARTINIQUE
+0594245U,50.587877899999995,3.0511654999999998,32,Rue Alfred de Musset,59139.0,Wattignies,Ecole maternelle George Sand,Hauts-de-France,14179.0,2017,LILLE
+0911589H,48.680558700000006,2.1690093,11,Rue du Morvan,91940.0,Les Ulis,Ecole maternelle Les Avelines Groupe 3,Île-de-France,24914.0,2017,VERSAILLES
+0911689S,48.4786406,2.494958,11,Place de la Mairie,91840.0,Soisy-sur-École,Ecole maternelle Le Clos En Herbe,Île-de-France,1367.0,2017,VERSAILLES
+0591278U,51.013481299999995,2.3029972,32,Cité des Deux Synthe,59760.0,Grande-Synthe,Ecole primaire des Deux Synthe,Hauts-de-France,21364.0,2016,LILLE
+0591494D,50.1250142,3.6913023000000003,32,Boulevard Vauban,59550.0,Landrecies,Ecole primaire Maurice Careme,Hauts-de-France,3487.0,2017,LILLE
+0920499T,48.8212037,2.289259,11,1 rue Gambetta,92170.0,Vanves,Ecole maternelle Gambetta,Île-de-France,28170.0,2017,VERSAILLES
+0571417F,48.868408200000005,6.8014037,44,6 rue du Château,57260.0,Bassing,Ecole élémentaire de Bassing,Grand-Est,121.0,2017,NANCY-METZ
+0591849P,50.7159968,2.661152,32,50 rue du Docteur Maréchal,59270.0,Merris,Ecole primaire Jean-Michel Dujardin Niv 1,Hauts-de-France,1042.0,2017,LILLE
+0593521G,50.331979600000004,3.2329285,32,54 rue de la Paix,59165.0,Auberchicourt,Ecole primaire Niv 1 Pierre-Gilles de Gennes,Hauts-de-France,4399.0,2016,LILLE
+0490440M,47.19224005,-0.275895320412371,52,7 rue Maurice Duveau,49700.0,Doué-la-Fontaine,Ecole Maurice Duveau,Pays-de-la-Loire,7584.0,2017,NANTES
+0490936B,47.25417435,-0.0661853886972667,52,34 rue du Dolmen,49400.0,Saumur,Ecole maternelle Pauline Kergomard,Pays-de-la-Loire,27413.0,2017,NANTES
+0580198A,46.8073236505319,3.4694939960519,27,Le bourg,58300.0,Verneuil,Ecole de Verneuil,Bourgogne-et-Franche-Comté,323.0,2017,DIJON
+0580934A,47.0594459,3.3081798846095403,27,Le bourg,58130.0,Saint-Aubin-les-Forges,Ecole maternelle de Saint-Aubin-les-Forges,Bourgogne-et-Franche-Comté,427.0,2017,DIJON
+0591042M,50.51721679999999,3.0180377,32,24 rue du Capitaine Jasmin,59133.0,Phalempin,Ecole maternelle Centre,Hauts-de-France,4395.0,2017,LILLE
+0711516M,46.8319775,4.853079167730231,27,49 rue du Bourg,71530.0,Fragnes,Ecole maternelle Mireille et Gaston Mallet,Bourgogne-et-Franche-Comté,1024.0,2016,DIJON
+0721031E,48.1301857,0.7132644,52,Route de Montmirail,72320.0,Saint-Jean-des-Échelles,Ecole primaire RPI Jules Verne,Pays-de-la-Loire,255.0,2016,NANTES
+0450243V,48.0165,2.73636,24,10 rue Albert Camus,45120.0,Châlette-sur-Loing,Ecole maternelle la Pontonnerie,Centre-Val-de-Loire,12812.0,2016,ORLEANS-TOURS
+0450249B,47.9027336,1.9086066000000002,24,2 rue Molière,45000.0,Orléans,Ecole maternelle Molière,Centre-Val-de-Loire,114375.0,2017,ORLEANS-TOURS
+0501776J,49.66486835,-1.7471490971978403,28,350 rue du Tram,50460.0,Urville-Nacqueville,Ecole maternelle Les îles et Les Ailes,Normandie,2154.0,2017,CAEN
+0594927K,50.5432418,2.9830581,32,Chemin de la Chapelle,59147.0,Gondecourt,Ecole maternelle Charles Perrault,Hauts-de-France,3918.0,2017,LILLE
+0595076X,50.7708967,3.0779620999999997,32,12 rue de Flandre,59166.0,Bousbecque,Ecole maternelle Les jonquilles,Hauts-de-France,4773.0,2017,LILLE
+0721279Z,48.3547,0.371483,52,ZAC Les Vignes,72600.0,Mamers,Ecole primaire Verne,Pays-de-la-Loire,5363.0,2016,NANTES
+0450638Z,48.1892917,2.4249579,24,6 rue des écoles,45390.0,Grangermont,Ecole primaire de Grangermont,Centre-Val-de-Loire,204.0,2017,ORLEANS-TOURS
+0450749V,47.5985716,2.6003967999999995,24,Route de Chatillon/loire,45500.0,Autry-le-Châtel,Ecole des Petits,Centre-Val-de-Loire,1004.0,2017,ORLEANS-TOURS
+0451390S,47.7008085,2.0232754,24,167 rue des écoles,45240.0,Ménestreau-en-Villette,Ecole maternelle de Ménestreau-en-Villette,Centre-Val-de-Loire,1472.0,2016,ORLEANS-TOURS
+0460064V,44.5305309,1.0430837,76,Le bourg,46700.0,Saint-Martin-le-Redon,Ecole maternelle de Saint-Martin-le-Redon,Occitanie,210.0,2017,TOULOUSE
+0460083R,44.469545700000005,1.2975521,76,Le bourg,46140.0,Saint-Vincent-Rive-d'Olt,Ecole primaire de Saint-Vincent-Rive-d'Olt,Occitanie,459.0,2016,TOULOUSE
+0490770W,47.473988399999996,-0.5515588,52,4 rue du Morvan,49100.0,Angers,Ecole maternelle Voltaire,Pays-de-la-Loire,150125.0,2017,NANTES
+0693749A,45.6815791,4.6395008,84,Le Château,69510.0,Thurins,Ecole maternelle Le cerf Volant,Auvergne-et-Rhône-Alpes,2964.0,2016,LYON
+0700108M,47.8637825,6.1160513,27,Place de la Mairie,70210.0,Anchenoncourt-et-Chazel,Ecole maternelle d'Anchenoncourt-et-Chazel,Bourgogne-et-Franche-Comté,230.0,2017,BESANCON
+0700385N,47.7322386893336,5.7514549005074596,27,12 Grande rue,70120.0,Fédry,Ecole primaire de Fédry,Bourgogne-et-Franche-Comté,100.0,2017,BESANCON
+0460223T,44.7939277,1.9344873,76,Le bourg,46120.0,Molières,Ecole primaire de Molières,Occitanie,376.0,2017,TOULOUSE
+0460260H,45.007377000000005,1.6435871,76,Le bourg,46110.0,Cavagnac,Ecole primaire de Cavagnac,Occitanie,458.0,2017,TOULOUSE
+0460427P,44.42166775,1.1401246812578998,76,Le bourg,46800.0,Le Boulvé,Ecole primaire du Boulvé,Occitanie,192.0,2016,TOULOUSE
+0600837J,49.734865,1.8252533,32,1 rue de Beauvais,60220.0,Fouilloy,Ecole élémentaire de Fouilloy,Hauts-de-France,200.0,2017,AMIENS
+0573261K,49.1288252,6.8937326,44,34 rue Principale,57450.0,Théding,Ecole maternelle de Théding,Grand-Est,2480.0,2017,NANCY-METZ
+0572407G,49.225619099999996,6.2197994,44,Rue du Stade,57365.0,Ennery,Ecole maternelle d'Ennery,Grand-Est,1938.0,2017,NANCY-METZ
+0572659F,49.1732959,6.6301855,44,2 rue des Jardins,57880.0,Varsberg,Ecole maternelle la Farandole,Grand-Est,916.0,2016,NANCY-METZ
+0572662J,49.2697783,6.3113942000000005,44,37 rue Saint-Pierre,57935.0,Luttange,Ecole maternelle Louis Royer,Grand-Est,920.0,2016,NANCY-METZ
+0591041L,50.51721679999999,3.0180377,32,1 rue Eleyne,59133.0,Phalempin,Ecole primaire Les Viviers niveau 1,Hauts-de-France,4395.0,2017,LILLE
+0580295F,47.40001095,3.44861866365267,27,Le bourg,58210.0,Saint-Pierre-du-Mont,Ecole primaire de Saint-Pierre-du-Mont,Bourgogne-et-Franche-Comté,202.0,2016,DIJON
+0591351Y,50.2513704,3.9200611000000003,32,25 rue Carion,59330.0,Hautmont,Ecole élémentaire Charles Carion,Hauts-de-France,14271.0,2017,LILLE
+0591636H,50.630508899999995,3.0706414,32,9 place Philippe de Girard,59800.0,Lille,Ecole maternelle Gounod,Hauts-de-France,231491.0,2017,LILLE
+0540494U,48.5180357,6.7284065,44,14 Grande rue,54120.0,Hablainville,Ecole élémentaire d'Hablainville,Grand-Est,217.0,2017,NANCY-METZ
+0540754B,48.4813289,6.7772958,44,29 rue de Montigny,54120.0,Merviller,Ecole de Merviller,Grand-Est,377.0,2017,NANCY-METZ
+0790186Y,46.3239455,-0.4645212,75,20 boulevard de l'Atlantique,79000.0,Niort,Ecole maternelle Groupe scolaire Jean Zay,Nouvelle-Aquitaine,57393.0,2016,POITIERS
+0761411W,49.880989899999996,0.8306694,28,Rue de Beaumont,76740.0,Sotteville-sur-Mer,Ecole élémentaire Jean de la Fontaine,Normandie,361.0,2016,ROUEN
+0761415A,49.6454242,1.531435,28,238 Pl de la Presle,76440.0,Beaubec-la-Rosière,Ecole élémentaire de Beaubec-la-Rosière,Normandie,488.0,2016,ROUEN
+0530910B,47.826646200000006,-0.735856935591811,52,Boulevard d'Andigne,53200.0,Château-Gontier,Ecole élémentaire groupe scolaire Jean de la Fontaine,Pays-de-la-Loire,11582.0,2016,NANTES
+0550206A,48.8240088,5.1252992,44,1 Ruelle de l'Ecole,55000.0,Chardogne,Ecole élémentaire de Chardogne,Grand-Est,316.0,2017,NANCY-METZ
+0550229A,48.7712673,5.1623805,44,Chemin de Pilviteuil,55000.0,Bar-le-Duc,Ecole maternelle d'application Jean Errard,Grand-Est,15950.0,2017,NANCY-METZ
+0550488G,48.59167325,5.47380548543842,44,64 Grande rue,55130.0,Demange-aux-Eaux,Ecole de Demange-aux-Eaux,Grand-Est,523.0,2017,NANCY-METZ
+0550508D,48.763203000000004,5.5914753,44,Place des Chanoines,55200.0,Commercy,Ecole maternelle du Château,Grand-Est,6220.0,2017,NANCY-METZ
+0762076U,49.493897499999996,0.10797319999999999,28,69 rue de Soquence,76600.0,Le Havre,Ecole maternelle Paul et Virginie,Normandie,172074.0,2016,ROUEN
+0762146V,49.545292700000005,0.1918673,28,Avenue Charles de Gaulle,76290.0,Montivilliers,Ecole maternelle Jules collet,Normandie,16198.0,2017,ROUEN
+0762342H,49.7855019,1.2294846000000001,28,127 rue de Saint Vaast,76950.0,Les Grandes-Ventes,Ecole maternelle l'Arbre Qui Chante,Normandie,1778.0,2016,ROUEN
+0762449Z,49.545292700000005,0.1918673,28,36 rue Paul Eluard,76290.0,Montivilliers,Ecole maternelle Marius Grout,Normandie,16198.0,2016,ROUEN
+0762779H,49.6317451,1.0828619,28,55 Route de la Joserie,76690.0,La Houssaye-Béranger,Ecole maternelle de la Houssaye-Béranger,Normandie,519.0,2017,ROUEN
+0542135C,48.612881099999996,5.841958900000001,44,2 place de la Mairie,54113.0,Mont-le-Vignoble,Ecole de Mont-le-Vignoble,Grand-Est,403.0,2017,NANCY-METZ
+0542476Y,48.436190100000005,6.246952200000001,44,50 Grand rue Grande rue,54740.0,Lebeuville,Ecole maternelle de Lebeuville,Grand-Est,173.0,2016,NANCY-METZ
+0560566L,47.9036655,-2.1221276000000002,53,Hameau de Saint Raoul,56380.0,Guer,Ecole primaire Fortune Le Cunff,Bretagne,6310.0,2017,RENNES
+0570618M,48.65358,7.2368372999999995,44,34 rue Charles de Gaulle,57850.0,Dabo,Ecole élémentaire Hellert,Grand-Est,2605.0,2017,NANCY-METZ
+0594228A,50.1248,3.9293,32,Résidence Verdun ruE Pierre Larivi,59440.0,Avesnes-sur-Helpe,Ecole maternelle Les Lutins,Hauts-de-France,4778.0,2017,LILLE
+0594695H,50.630508899999995,3.0706414,32,35 rue Richard Wagner,59000.0,Lille,Ecole maternelle la Croisette,Hauts-de-France,231491.0,2017,LILLE
+0520637K,48.519312899999996,4.8208137,44,Rue du chêne,52220.0,Frampas,Ecole primaire de Frampas,Grand-Est,167.0,2017,REIMS
+0760626T,49.6317451,1.0828619,28,37 Route de Clères,76690.0,La Houssaye-Béranger,Ecole élémentaire de la Houssaye-Béranger,Normandie,519.0,2017,ROUEN
+0760667M,49.532558200000004,0.6340975000000001,28,198 Route de l'Eglise,76490.0,Anquetierville,Ecole élémentaire d'Anquetierville,Normandie,352.0,2017,ROUEN
+0600129P,49.2413145823151,1.8857331086071298,32,Rue du Fort de Ville,60240.0,Boury-en-Vexin,Ecole maternelle de Boury-en-Vexin,Hauts-de-France,340.0,2016,AMIENS
+0600309K,49.2348418,2.8552494999999998,32,Ruelle Visette,60800.0,Duvy,Ecole maternelle de Duvy,Hauts-de-France,468.0,2016,AMIENS
+0560341S,47.347061100000005,-3.1548667999999997,53,Rue des Remparts,56360.0,Le Palais,Ecole maternelle du Palais,Bretagne,2580.0,2016,RENNES
+0540313X,48.626296200000006,5.8287285,44,14 rue Bellevue,54113.0,Charmes-la-Côte,Ecole élémentaire la Marelle,Grand-Est,341.0,2017,NANCY-METZ
+0790934L,46.314854100000005,-0.5431161,75,Avenue du Marais Poitevin,79460.0,Magné,Ecole maternelle de Magné,Nouvelle-Aquitaine,2680.0,2016,POITIERS
+0800161R,49.957839,2.5909646,32,Rue du calvaire,80300.0,Treux,Ecole primaire de Treux,Hauts-de-France,239.0,2016,AMIENS
+0800429G,49.88264,2.8540200000000002,32,16 rue de Catalogne,80200.0,Belloy-en-Santerre,Ecole maternelle de Belloy-en-Santerre,Hauts-de-France,160.0,2016,AMIENS
+0561308T,47.747733600000004,-3.3660907,53,Rue Etienne Kerangoarec,56100.0,Lorient,Ecole maternelle Réné Guy Cadou,Bretagne,57961.0,2016,RENNES
+0561392J,47.7354591,-3.4270534,53,Allée des Glycines,56270.0,Ploemeur,Ecole Réné Guy Cadou,Bretagne,18039.0,2016,RENNES
+0561578L,47.7354591,-3.4270534,53,Rue Arago,56270.0,Ploemeur,Ecole maternelle Paul Gauguin,Bretagne,18039.0,2016,RENNES
+0810305S,44.0379,2.0975099999999998,76,Labastide Basse,81400.0,Labastide-Gabausse,Ecole primaire de Labastide-Gabausse,Occitanie,471.0,2016,TOULOUSE
+0571355N,48.691799200000005,6.7077121,44,83 rue Principale,57810.0,Lagarde,Ecole élémentaire de Lagarde,Grand-Est,176.0,2016,NANCY-METZ
+0591829T,50.27964,3.9674154,32,2 place Réné Hamoir,59600.0,Maubeuge,Ecole primaire Georges Brassens niveau 1,Hauts-de-France,30567.0,2017,LILLE
+0771470E,48.6499714,3.406422,11,Place de la Mairie,77560.0,Villiers-Saint-Georges,Ecole élémentaire de Villiers-Saint-Georges,Île-de-France,1210.0,2016,CRETEIL
+0771698C,48.6499714,3.406422,11,Place de l'Eglise,77560.0,Villiers-Saint-Georges,Ecole maternelle de Villiers-Saint-Georges,Île-de-France,1210.0,2016,CRETEIL
+0101048K,48.495163299999994,4.308978700000001,44,4 rue des Anciens Combattants,10240.0,Nogent-sur-Aube,Ecole maternelle de Nogent-sur-Aube,Grand-Est,348.0,2016,REIMS
+0101103V,48.4735598,4.337925299999999,44,42 Grande rue,10240.0,Coclois,Ecole élémentaire de Coclois,Grand-Est,187.0,2016,REIMS
+0110881Y,43.2108325,2.4412578999999996,76,Place de l'Hôtel de Ville,11800.0,Trèbes,Ecole élémentaire Centre-Ville,Occitanie,5410.0,2016,MONTPELLIER
+0120200C,43.9781841,2.5730082000000003,76,Le bourg,12550.0,Brasc,Ecole de Brasc,Occitanie,164.0,2016,TOULOUSE
+0120476C,43.9673651,2.6470951,76,Le bourg,12550.0,Montclar,Ecole maternelle de Montclar,Occitanie,169.0,2017,TOULOUSE
+0120523D,44.5206605,2.0944406000000004,76,Bez,12700.0,Naussac,Ecole élémentaire Bez,Occitanie,356.0,2017,TOULOUSE
+0120600M,44.351620700000005,2.5728419,76,15 rue de la gare,12000.0,Rodez,Ecole maternelle Paul Girard,Occitanie,23741.0,2016,TOULOUSE
+0120746W,44.0003382590018,3.23670381233263,76,Le bourg,12230.0,Sauclières,Ecole élémentaire de Sauclières,Occitanie,142.0,2017,TOULOUSE
+0710220D,46.3077301,4.600430599999999,27,9 chemin de Vannas,71520.0,Tramayes,Ecole élémentaire de Tramayes,Bourgogne-et-Franche-Comté,1015.0,2017,DIJON
+0731308A,45.595134200000004,5.770448200000001,84,Place de la Comédie,73470.0,Novalaise,Ecole maternelle Novalaise,Auvergne-et-Rhône-Alpes,1982.0,2017,GRENOBLE
+0591851S,50.6436584,2.6387499,32,68 rue de l'Epinette,59660.0,Merville,Ecole primaire Marie-Louise Bogart,Hauts-de-France,9713.0,2016,LILLE
+0741202E,45.947137899999994,6.0359602,84,390 Route des écoles,74330.0,Sillingy,Ecole maternelle de Sillingy,Auvergne-et-Rhône-Alpes,4819.0,2017,GRENOBLE
+0741382A,45.819053600000004,6.020555,84,18 allée du Champ du Poirier,74540.0,Alby-sur-Chéran,Ecole maternelle d'Alby-sur-Chéran,Auvergne-et-Rhône-Alpes,2324.0,2017,GRENOBLE
+0030375S,46.3399276,2.6067229,84,15 place de la Liberté,3100.0,Montluçon,Ecole maternelle Elsa Triolet,Auvergne-et-Rhône-Alpes,37839.0,2017,CLERMONT-FERRAND
+0691201F,45.986474900000005,4.726611,84,88 rue de l'Arc,69400.0,Villefranche-sur-Saône,Ecole maternelle Camille Claudel,Auvergne-et-Rhône-Alpes,36531.0,2017,LYON
+0140231A,49.338333299999995,-0.5827778,28,11 rue Southampton,14960.0,Asnelles,Ecole élémentaire d'Asnelles,Normandie,587.0,2017,CAEN
+0141683D,49.1683333,0.3311111,28,Le bourg,14590.0,Ouilly-du-Houley,Ecole maternelle d'Ouilly-du-Houley,Normandie,223.0,2017,CAEN
+0941732X,48.8125893,2.3570028,11,49 rue Benoît Malon,94270.0,Le Kremlin-Bicêtre,Ecole maternelle Benoît Malon 2,Île-de-France,25863.0,2016,CRETEIL
+0020161P,49.185579700000005,3.3531478999999997,32,Route de Neuilly,2210.0,Breny,Ecole élémentaire de Breny,Hauts-de-France,257.0,2016,AMIENS
+0020165U,49.1019,3.1604400000000004,32,13 Grande rue,2810.0,Brumetz,Ecole élémentaire de Brumetz,Hauts-de-France,219.0,2016,AMIENS
+0020192Y,50.0030556,3.245,32,Rue du Général Augereau,2420.0,Le Catelet,Ecole élémentaire du Catelet,Hauts-de-France,197.0,2016,AMIENS
+0020263A,49.6148945,3.2189506000000003,32,Rue Albert I,2300.0,Chauny,Ecole maternelle Groupe scolAire la Résidence,Hauts-de-France,11874.0,2016,AMIENS
+0020581W,49.0735714,3.5417135,32,8 rue de la Mairie,2850.0,Courtemont-Varennes,Ecole maternelle de Courtemont-Varennes,Hauts-de-France,289.0,2017,AMIENS
+0020736P,49.7428344897304,3.79079450912162,32,Rue du Presbytère,2250.0,Montigny-le-Franc,Ecole élémentaire de Montigny-le-Franc,Hauts-de-France,152.0,2016,AMIENS
+0020949W,49.9552008,3.2985797999999997,32,12 rue des Rognons,2420.0,Joncourt,Ecole élémentaire de Joncourt,Hauts-de-France,314.0,2016,AMIENS
+0021119F,49.8230556,3.6455556000000002,32,Rue de Sains,2120.0,Le Hérie-la-Viéville,Ecole élémentaire du Hérie-la-Viéville,Hauts-de-France,239.0,2016,AMIENS
+0021195N,49.383762100000006,3.327613,32,Place d'Alsace Lorraine,2200.0,Soissons,Ecole maternelle Groupe scolaire Saint-Waast,Hauts-de-France,28472.0,2016,AMIENS
+0942080A,48.76302379999999,2.4093664,11,29 rue Albert 1er,94600.0,Choisy-le-Roi,Ecole élémentaire Paul Langevin,Île-de-France,42769.0,2016,CRETEIL
+0021464F,49.7789758856655,3.4306899849347,32,7 rue Fernand Jumeaux,2240.0,Parpeville,Ecole élémentaire de Parpeville,Hauts-de-France,223.0,2016,AMIENS
+0021806C,49.383762100000006,3.327613,32,Impasse du Sapincourt,2200.0,Soissons,Ecole maternelle Groupe scolaire r.fiolet N1,Hauts-de-France,28472.0,2016,AMIENS
+0010958L,46.2189665,4.9925097,84,141 rue Eugène Dubois,1540.0,Vonnas,Ecole maternelle de Vonnas,Auvergne-et-Rhône-Alpes,2919.0,2016,LYON
+0700308E,47.7145,6.203790000000001,27,Rue Corne,70240.0,Varogne,Ecole de Varogne,Bourgogne-et-Franche-Comté,140.0,2016,BESANCON
+0700756S,47.53893925,5.88530738225238,27,Route de Pont de Planches,70130.0,Vezet,Ecole maternelle de Vezet,Bourgogne-et-Franche-Comté,188.0,2016,BESANCON
+0820693H,44.2565123,1.1383233,76,Rue de la Mairie,82110.0,Lauzerte,Ecole maternelle Paul Leygue,Occitanie,1479.0,2016,TOULOUSE
+0680473V,48.2476662,7.185118400000001,44,48 rue d'Untergrombach Echery,68160.0,Sainte-Marie-aux-Mines,Ecole élémentaire Echery,Grand-Est,5193.0,2017,STRASBOURG
+0710503L,46.433626399999994,4.4732816,27,Le bourg,71220.0,Suin,Ecole de Suin,Bourgogne-et-Franche-Comté,286.0,2016,DIJON
+0831525G,43.1497034,6.0737053,93,Chemin du Moulin Premier,83260.0,La Crau,Ecole maternelle Marcel Pagnol,Provence-Alpes-Côte-d'Azur,16612.0,2016,NICE
+0650851X,42.99647,-0.09248730000000001,76,1 rue du Bourg,65400.0,Lau-Balagnas,Ecole maternelle de Lau-Balagnas,Occitanie,506.0,2017,TOULOUSE
+9720464X,14.6027962,-61.06767239999999,2,Cité Calebasse,97200.0,Fort-de-France,Ecole maternelle Ravenala,Martinique,84174.0,2016,MARTINIQUE
+0670213T,48.5395474,7.4555777999999995,44,22 rue du Genie,67190.0,Mutzig,Ecole maternelle Genie,Grand-Est,5864.0,2017,STRASBOURG
+9760109P,-12.7897252,45.1038055,6,Tsingoni,97680.0,Tsingoni,Ecole élémentaire spéciale Tsingoni PPF,Mayotte,13934.0,2016,MAYOTTE
+9760269N,-12.913218400000002,45.194967,6,Bandrele,97660.0,Bandrele,Ecole maternelle Dapani maternelle,Mayotte,10282.0,2016,MAYOTTE
+7200076V,42.943011799999994,9.3677363,94,Casuccio,20238.0,Morsiglia,Ecole maternelle Morsiglia,Corse,133.0,2016,CORSE
+9710136W,16.000077800000003,-61.7333373,1,17 rue Chevalier Saint Georges,97100.0,Basse-Terre,Ecole primaire Elie Chaufrein,Guadeloupe,11150.0,2016,GUADELOUPE
+9710192G,16.2408636,-61.533407700000005,1,Boulevard Chanzy,97110.0,Pointe-à-Pitre,Ecole primaire Cideme Salvator,Guadeloupe,15826.0,2017,GUADELOUPE
+9710290N,16.2706436,-61.5057749,1,Route de Vieux Bourg,97139.0,Les Abymes,Ecole élémenTaire d'application Jean Zebus,Guadeloupe,57960.0,2016,GUADELOUPE
+9710876A,16.059272099999998,-61.76363620000001,1,8 chemin Communal,97119.0,Vieux-Habitants,Ecole maternelle Géry Vieux-Habitants,Guadeloupe,7425.0,2016,GUADELOUPE
+9710919X,15.883641699999998,-61.3146797,1,Section Faup,97112.0,Grand-Bourg,Ecole maternelle Faup,Guadeloupe,5376.0,2016,GUADELOUPE
+9720108K,14.712149499999999,-61.183431999999996,2,28 avenue du Général de Gaulle,97221.0,Le Carbet,Ecole élémentaire Carbet B,Martinique,3742.0,2016,MARTINIQUE
+0890418W,47.796128700000004,3.570579,27,1 rue de la Maladière,89000.0,Auxerre,Ecole maternelle Les Clairions,Bourgogne-et-Franche-Comté,34869.0,2016,DIJON
+0890681G,47.7591331,4.1773119,27,4 place de la Mairie,89160.0,Chassignelles,Ecole primaire de Chassignelles,Bourgogne-et-Franche-Comté,325.0,2016,DIJON
+0890990T,47.6839847,3.6898894999999996,27,9 rue d'Orléans,89460.0,Cravant,Ecole maternelle de Cravant,Bourgogne-et-Franche-Comté,850.0,2017,DIJON
+0891153V,47.3692941,3.9987602,27,3 rue des écoles,89630.0,Quarré-les-Tombes,Ecole maternelle de Quarré-les-Tombes,Bourgogne-et-Franche-Comté,705.0,2016,DIJON
+0610490B,48.8543179,0.398068991210486,28,Le bourg,61470.0,Heugon,Ecole maternelle de Heugon,Normandie,240.0,2017,CAEN
+0790753P,46.3239455,-0.4645212,75,25 rue Henri Sellier,79000.0,Niort,Ecole maternelle Groupe scolaire Emile Zola,Nouvelle-Aquitaine,57393.0,2016,POITIERS
+0800428F,49.897349299999995,2.8343112999999995,32,1 rue d'Herbecourt,80200.0,Assevillers,Ecole primaire d'Assevillers,Hauts-de-France,286.0,2016,AMIENS
+0800445Z,49.8869277,2.7063731,32,9 rue de l'église,80340.0,Proyart,Ecole de Proyart,Hauts-de-France,667.0,2017,AMIENS
+0891188H,48.256840000000004,3.26409,27,2 rue de l'Eglise,89140.0,Cuy,Ecole maternelle Saint-Exupéry,Bourgogne-et-Franche-Comté,811.0,2016,DIJON
+0900041F,47.585829,6.8654458,27,Route de Delle,90400.0,Sevenans,Ecole primaire Sevenans,Bourgogne-et-Franche-Comté,700.0,2016,BESANCON
+0910702U,48.731219700000004,2.2713702000000002,11,Allée de Québec,91300.0,Massy,Ecole élémentaire Moulin-Pasteur,Île-de-France,45902.0,2016,VERSAILLES
+0861050Z,46.831821500000004,0.4573359,75,10 rue Anne Frank,86540.0,Thuré,Ecole maternelle Anne Frank Besse,Nouvelle-Aquitaine,2892.0,2016,POITIERS
+0870259J,45.83542429999999,1.2644847,75,Avenue Général Chambe,87100.0,Limoges,Ecole Bellegarde,Nouvelle-Aquitaine,135098.0,2016,LIMOGES
+0810333X,44.0101,2.11911,76,Le bourg,81130.0,Taïx,Ecole de Taïx,Occitanie,429.0,2016,TOULOUSE
+9710307G,15.976743300000003,-61.6441603,1,Rue Gerville Réache,97114.0,Trois-Rivières,Ecole primaire Bourg 2 Trois-Rivières,Guadeloupe,8578.0,2017,GUADELOUPE
+9710602C,16.331117499999998,-61.45792370000001,1,Jabrun Saint Cyr,97111.0,Morne-à-l'Eau,Ecole primaire Marcelle Blanchinet,Guadeloupe,17046.0,2016,GUADELOUPE
+0931153Y,48.9392142,2.5257254000000002,11,2 rue P Brossolette,93270.0,Sevran,Ecole élémentaire Nobel,Île-de-France,49465.0,2016,CRETEIL
+0880278Z,48.1747684,6.4503642999999995,44,31 rue du 149ème RI,88000.0,Épinal,Ecole maternelle 149e Ri,Grand-Est,32188.0,2017,NANCY-METZ
+0880723H,48.340371399999995,6.3318402,44,1 rue de l'Abbé de Barville,88450.0,Vincey,Ecole maternelle Centre,Grand-Est,2238.0,2016,NANCY-METZ
+0880829Y,48.406984,6.8437227,44,Allée Emile Gerlach,88110.0,Raon-l'Étape,Ecole maternelle Joli Bois,Grand-Est,6422.0,2016,NANCY-METZ
+0881606T,48.249484499999994,6.412361233645151,44,6 rue de la 2ème DB,88150.0,Thaon-les-Vosges,Ecole primaire Bouxières,Grand-Est,7895.0,2017,NANCY-METZ
+0890201K,48.319447499999995,3.1264717999999996,27,10  RUE PRINCIPALE,89340.0,Champigny,Ecole élémentaire La Chapelle,Bourgogne-et-Franche-Comté,2248.0,2017,DIJON
+9711162L,16.3327353,-61.698147,1,Desbonnes,97115.0,Sainte-Rose,Ecole maternelle Beauperthuy Daniel,Guadeloupe,20144.0,2016,GUADELOUPE
+0940402B,48.8125893,2.3570028,11,49 rue Benoît Malon,94270.0,Le Kremlin-Bicêtre,Ecole maternelle Benoît Malon 1,Île-de-France,25863.0,2016,CRETEIL
+0941274Z,48.8262055,2.5406696,11,Boulevard de Friedberg,94350.0,Villiers-sur-Marne,Ecole élémentaire Albert Camus,Île-de-France,28190.0,2017,CRETEIL
+0870479Y,45.7501747,1.2888396,75,Hameau de Puy Mery,87110.0,Le Vigen,Ecole primaire Puy Mery,Nouvelle-Aquitaine,2068.0,2017,LIMOGES
+0951035J,48.9906696,2.2794326000000003,11,7 rue Flammarion,95600.0,Eaubonne,Ecole maternelle Flammarion,Île-de-France,24606.0,2016,VERSAILLES
+0870515M,45.6634929,1.6484555,75,Le bourg,87130.0,Sussac,Ecole Sussac,Nouvelle-Aquitaine,342.0,2016,LIMOGES
+0870680S,45.83542429999999,1.2644847,75,2 rue Charles Gide,87000.0,Limoges,Ecole l'Abbessaille,Nouvelle-Aquitaine,135098.0,2016,LIMOGES
+9760033G,-12.913218400000002,45.194967,6,Mtsamoudou,97660.0,Bandrele,Ecole élémentaire Mtsamoudou,Mayotte,10282.0,2016,MAYOTTE
+0861089S,46.7638945,0.48237340000000006,75,16 avenue Jean Jaurès,86530.0,Naintré,Ecole primaire Pablo Néruda,Nouvelle-Aquitaine,5850.0,2017,POITIERS
+0870278E,45.83542429999999,1.2644847,75,2 place du Presidial,87000.0,Limoges,Ecole élémentaire Presidial,Nouvelle-Aquitaine,135098.0,2016,LIMOGES
+0860090F,46.536399200000005,0.8536503000000001,75,Place de la Mairie,86310.0,Antigny,Ecole d'Antigny,Nouvelle-Aquitaine,578.0,2017,POITIERS
+0860223A,46.5695048,0.6439464,75,1 rue St Martial,86300.0,Chauvigny,Ecole primaire Saint-Martial,Nouvelle-Aquitaine,7086.0,2016,POITIERS
+0860399S,46.424957299999996,0.8682027,75,Rue de Belgique,86500.0,Montmorillon,Ecole primaire Ville haute,Nouvelle-Aquitaine,6197.0,2016,POITIERS
+0951629E,49.0300763,2.0205773000000002,11,4 chemin des Hauts Toupets,95490.0,Vauréal,Ecole maternelle Les Hauts Toupets,Île-de-France,15705.0,2016,VERSAILLES
+0951845P,49.1339431,2.2312397,11,Rue Robert Lepeltier,95660.0,Champagne-sur-Oise,Ecole maternelle Georges Duhamel,Île-de-France,4717.0,2016,VERSAILLES
+0880467E,48.225184000000006,6.763816499999999,44,10 rue Le Village,88600.0,Belmont-sur-Buttant,Ecole primaire de Belmont-sur-Buttant,Grand-Est,288.0,2016,NANCY-METZ
+0881081X,48.32320285,7.115688766050679,44,30 rue Maurice Lemaire,88490.0,Colroy-la-Grande,Ecole de Colroy-la-Grande,Grand-Est,535.0,2016,NANCY-METZ
+0860716L,46.5695048,0.6439464,75,Rue Pouzillard,86300.0,Chauvigny,Ecole maternelle Louise Michel,Nouvelle-Aquitaine,7086.0,2016,POITIERS
+9710191F,16.2408636,-61.533407700000005,1,46 rue Schoëlcher,97110.0,Pointe-à-Pitre,Ecole primaire Amédée Fengarol 1,Guadeloupe,15826.0,2017,GUADELOUPE
+0850361F,46.4251677,-1.4883469999999999,52,2 rue Tulipes Hameau des Conches,85560.0,Longeville-sur-Mer,Ecole Les Tulipes,Pays-de-la-Loire,2455.0,2016,NANTES
+0922453S,48.9026,2.30551,11,55 rue de Villeneuve,92110.0,Clichy,Ecole maternelle du Landy,Île-de-France,59255.0,2017,VERSAILLES
+0922576A,48.8144,2.31606,11,103 rue Maurice Arnoux,92120.0,Montrouge,Ecole maternelle Maurice Arnoux,Île-de-France,49656.0,2016,VERSAILLES
+9740185H,-20.926965799999998,55.3361334,4,122 rue des Lataniers,97419.0,La Possession,Ecole maternelle Evariste Courteaud,La-Réunion,31439.0,2016,LA REUNION
+9740275F,-21.284012399999998,55.41359620000001,4,Route de Cilaos,97421.0,Saint-Louis,Ecole primaire Leon Dierx,La-Réunion,52656.0,2016,LA REUNION
+0770439J,48.8773018,2.7056056,11,9 avenue du Stade,77400.0,Lagny-sur-Marne,Ecole maternelle Fort du Bois,Île-de-France,20718.0,2017,CRETEIL
+0770842X,48.737539,2.951462,11,Place de la Mairie,77540.0,Lumigny-Nesles-Ormeaux,Ecole élémentaire de Nesles la Gilberde,Île-de-France,1543.0,2017,CRETEIL
+0771586F,48.539927,2.6608169,11,1 rue Nicolas Tappereau,77000.0,Melun,Ecole maternelle Les Mezereaux 2,Île-de-France,40066.0,2017,CRETEIL
+0420304C,45.6072875,4.0627318,84,Place Bouvier,42600.0,Montbrison,Ecole maternelle Centre,Auvergne-et-Rhône-Alpes,15673.0,2017,LYON
+0420335L,45.434898700000005,4.3212622000000005,84,Cité Piotière,42230.0,Roche-la-Molière,Ecole maternelle Piotière,Auvergne-et-Rhône-Alpes,10093.0,2017,LYON
+0420505W,45.7523386,3.9746568999999994,84,Le Chapitre,42130.0,Leigneux,Ecole primaire Le Bourg,Auvergne-et-Rhône-Alpes,401.0,2017,LYON
+0421188N,45.5351545,4.2799016482570895,84,Rue Emile Zola-La Chapelle,42160.0,Andrézieux-Bouthéon,Ecole maternelle Rimbaud,Auvergne-et-Rhône-Alpes,9844.0,2017,LYON
+0421509M,45.4401467,4.3873058,84,5 allée Jean Racine,42100.0,Saint-Étienne,Ecole maternelle Monthieu,Auvergne-et-Rhône-Alpes,172023.0,2017,LYON
+0772507G,48.8567,2.7855615,11,5 place Thomas Le Pilleur,77700.0,Serris,Ecole élémentaire Robert Doisneau,Île-de-France,8369.0,2017,CRETEIL
+0430515B,45.060809000000006,4.302941000000001,84,4 route du Mazet,43400.0,Le Chambon-sur-Lignon,Ecole Elémentaire,Auvergne-et-Rhône-Alpes,2570.0,2017,CLERMONT-FERRAND
+0511613B,48.9566218,4.3628851,44,Rue André Malraux,51000.0,Châlons-en-Champagne,Ecole maternelle Croix Dampierre,Grand-Est,44899.0,2017,REIMS
+0511919J,48.82692415,3.9542037745950895,44,7 rue des Hauts,51130.0,Val-des-Marais,Ecole maternelle de Val-des-Marais,Grand-Est,568.0,2017,REIMS
+0520108K,48.4441591,5.1694389,44,2 rue des écoles,52300.0,Suzannecourt,Ecole de Suzannecourt,Grand-Est,358.0,2017,REIMS
+0540160F,49.276047600000005,5.868485,44,1 place de la Mairie,54150.0,Anoux,Ecole élémentaire d'Anoux,Grand-Est,252.0,2017,NANCY-METZ
+0601686G,49.31280555,1.8171514778628102,32,13 Grande rue Grande rue,60590.0,Villers-sur-Trie,Ecole de Villers-sur-Trie,Hauts-de-France,336.0,2017,AMIENS
+0750979G,48.856610100000005,2.3514992,11,51 rue Ramponeau,75020.0,Paris,Ecole primaire Ramponeau,Île-de-France,194771.0,2017,PARIS
+0621750R,50.6032472,2.1830816000000004,32,19 A rue Principale,62560.0,Coyecques,Ecole primaire de Coyecques,Hauts-de-France,576.0,2017,LILLE
+0622062E,50.3812113,2.3361053,32,20 bis rue de Fruges,62130.0,Saint-Pol-sur-Ternoise,Ecole primaire Jacques Prévert,Hauts-de-France,5081.0,2017,LILLE
+0622283V,50.4245,2.7738,32,Rue Blanqui,62800.0,Liévin,Ecole maternelle Adrienne Berteloot,Hauts-de-France,31517.0,2017,LILLE
+0370301B,47.166718200000005,0.2402095,24,Rue des Fontenils,37500.0,Chinon,Ecole maternelle Rochelude,Centre-Val-de-Loire,8044.0,2016,ORLEANS-TOURS
+0370804Y,47.4052448,0.6658199,24,16 rue Jean Moulin,37540.0,Saint-Cyr-sur-Loire,Ecole maternelle Moulin,Centre-Val-de-Loire,16239.0,2016,ORLEANS-TOURS
+0371106B,47.385141100000006,0.5545861999999999,24,7 rue des écoles,37230.0,Luynes,Ecole maternelle Lebert,Centre-Val-de-Loire,5207.0,2017,ORLEANS-TOURS
+0381653R,44.9624037,5.745270099999999,84,Place Albert Rivet,38770.0,La Motte-d'Aveillans,Ecole maternelle Le Bourg,Auvergne-et-Rhône-Alpes,1797.0,2016,GRENOBLE
+0360076M,46.42981760000001,2.1188539,24,Le bourg,36160.0,Vijon,Ecole élémentaire de Vijon,Centre-Val-de-Loire,309.0,2017,ORLEANS-TOURS
+0370148K,47.4052448,0.6658199,24,64 avenue de la République,37540.0,Saint-Cyr-sur-Loire,Ecole primaire Ré,Centre-Val-de-Loire,16239.0,2016,ORLEANS-TOURS
+0270068C,49.0268903,1.1510163999999998,28,14 rue d'Artois Saint Michel,27000.0,Évreux,Ecole maternelle Jean Macé,Normandie,49722.0,2016,ROUEN
+0270073H,49.0268903,1.1510163999999998,28,4 rue Anatole France,27000.0,Évreux,Ecole maternelle Maxime Marchand,Normandie,49722.0,2016,ROUEN
+0270337V,49.1025,0.48956000000000005,28,4 rue de l'Eglise,27230.0,Saint-Vincent-du-Boulay,Ecole élémentaire de Saint-Vincent-du-Boulay,Normandie,350.0,2017,ROUEN
+0270503A,49.0906709,1.1411476,28,4 rue de l'Iton,27930.0,Saint-Germain-des-Angles,Ecole élémentaire de Saint-Germain-des-Angles,Normandie,196.0,2017,ROUEN
+0271805R,49.0268903,1.1510163999999998,28,59 rue Saint Germain,27000.0,Évreux,Ecole élémentaire Evreux rue Saint-Germain,Normandie,49722.0,2016,ROUEN
+0280376G,48.3037516936298,0.8490794332218901,24,18 rue du Général Lebreton,28480.0,Luigny,Ecole élémentaire de Luigny,Centre-Val-de-Loire,403.0,2017,ORLEANS-TOURS
+0280449L,48.2639007,1.2125473999999998,24,2 rue Saint Martin,28120.0,Vieuvicq,Ecole élémentaire de Vieuvicq,Centre-Val-de-Loire,469.0,2017,ORLEANS-TOURS
+0280543N,48.320885100000005,0.8163959,24,1 rue des Acacias,28400.0,Nogent-le-Rotrou,Ecole maternelle Groupe scolaire Jean Macé,Centre-Val-de-Loire,10496.0,2016,ORLEANS-TOURS
+0910160E,48.448035299999994,2.2948861000000003,11,18 Grande rue Grand rue,91590.0,Orveau,Ecole Antoine de St.exupery,Île-de-France,194.0,2017,VERSAILLES
+0320313S,43.4322445,0.7846079,76,Le village,32420.0,Tournan,Ecole élémentaire Tournan,Occitanie,205.0,2017,TOULOUSE
+0940721Y,48.7960018,2.5426621,11,52 avenue du Bois,94430.0,Chennevières-sur-Marne,Ecole maternelle Paris,Île-de-France,18134.0,2016,CRETEIL
+0382478M,45.3481942,5.3072813,84,Le bourg,38590.0,Brézins,Ecole maternelle de Brézins,Auvergne-et-Rhône-Alpes,1917.0,2016,GRENOBLE
+0382587F,45.614003000000004,5.1580574,84,Rue Jean Moulin Cidex 725,38090.0,Villefontaine,Ecole maternelle mas de la Raz,Auvergne-et-Rhône-Alpes,18168.0,2016,GRENOBLE
+0383002G,45.373000000000005,5.95104,84,Rue Aimé Paquet,38660.0,Saint-Vincent-de-Mercuze,Ecole maternelle Doudard de Lagrée,Auvergne-et-Rhône-Alpes,1476.0,2016,GRENOBLE
+0390454G,46.8966981,5.9677182,27,2 rue de Salins,39110.0,Lemuy,Ecole élémentaire de Lemuy,Bourgogne-et-Franche-Comté,233.0,2016,BESANCON
+0391066X,47.0921047,5.4925463,27,10 cours Georges Clémenceau,39100.0,Dole,Ecole élémentaire Jeanne d'Arc,Bourgogne-et-Franche-Comté,23312.0,2016,BESANCON
+0911883C,48.6612042,2.3322423999999997,11,6 bis avenue de Sequigny,91360.0,Villemoisson-sur-Orge,Ecole maternelle Les Erables,Île-de-France,6950.0,2017,VERSAILLES
+0920758Z,48.829358299999996,2.1756092999999996,11,3 allée Louvois,92430.0,Marnes-la-Coquette,Ecole élémentaire la marché,Île-de-France,1673.0,2017,VERSAILLES
+0450459E,48.018342600000004,1.7957935,24,20 rue des Tilleuls,45520.0,Huêtre,Ecole primaire d'Huêtre,Centre-Val-de-Loire,279.0,2016,ORLEANS-TOURS
+0460200T,44.397033799999996,1.7695063000000002,76,Rue Pech Barriat,46260.0,Limogne-en-Quercy,Ecole maternelle de Limogne-en-Quercy,Occitanie,786.0,2016,TOULOUSE
+0460391A,44.7389115,1.9077203999999999,76,Le bourg,46120.0,Anglars,Ecole primaire d'Anglars,Occitanie,206.0,2016,TOULOUSE
+0460523U,44.4778915,1.2872058000000002,76,Le bourg,46140.0,Luzech,Ecole maternelle de Luzech,Occitanie,1711.0,2016,TOULOUSE
+0510606G,49.0354975,4.2088812,44,6 place de la République,51150.0,Aigny,Ecole maternelle d'Aigny,Grand-Est,263.0,2016,REIMS
+0510630H,48.9566218,4.3628851,44,15 avenue Charles de Gaulle,51000.0,Châlons-en-Champagne,Ecole maternelle d'application Jean de la Fontaine,Grand-Est,44899.0,2016,REIMS
+0511584V,48.7586232,3.7684724000000003,44,9 rue Georges Lainé,51120.0,Broyes,Ecole maternelle de Broyes,Grand-Est,367.0,2016,REIMS
+0540179B,49.2128736,5.9750234,44,3 rue du 8 Mai 1945,54580.0,Auboué,Ecole maternelle Irène Joliot-Curie,Grand-Est,2536.0,2016,NANCY-METZ
+0420104K,45.5351545,4.2799016482570895,84,Rue de la Paix,42160.0,Andrézieux-Bouthéon,Ecole maternelle Pasteur,Auvergne-et-Rhône-Alpes,9844.0,2016,LYON
+0420267M,45.3869468,4.2858545,84,5 rue de l'Alcazar,42700.0,Firminy,Ecole maternelle Bois de la Barge,Auvergne-et-Rhône-Alpes,17066.0,2017,LYON
+0421199A,45.603063399999996,4.3148078000000005,84,Montée du Docteur Odin,42330.0,Saint-Galmier,Ecole maternelle Petit Prince,Auvergne-et-Rhône-Alpes,5643.0,2016,LYON
+0540157C,49.3348009,5.881725,44,3 rue de Sancy,54560.0,Anderny,Ecole élémentaire d'Anderny,Grand-Est,259.0,2016,NANCY-METZ
+0670196Z,48.4330923,7.485117599999999,44,108 rue du Four,67210.0,Goxwiller,Ecole maternelle de Goxwiller,Grand-Est,852.0,2017,STRASBOURG
+0332328B,45.1861565,-1.0575333999999998,75,1 rue François Mitterrand,33990.0,Hourtin,Ecole maternelle Groupe scolaire J.g Teyssier,Nouvelle-Aquitaine,3375.0,2017,BORDEAUX
+0671133T,48.721185,7.361716800000001,44,4 rue de Saverne,67700.0,Gottenhouse,Ecole élémentaire de Gottenhouse,Grand-Est,393.0,2016,STRASBOURG
+0671466E,48.84129975,7.60049258863281,44,15 rue de Haguenau,67350.0,Pfaffenhoffen,Ecole maternelle Philippe Chretien Schweitzer,Grand-Est,2794.0,2016,STRASBOURG
+0672148W,48.86669439999999,7.1906291,44,17 rue de Phalsbourg,67320.0,Drulingen,Ecole maternelle de Drulingen,Grand-Est,1483.0,2016,STRASBOURG
+0672152A,49.0036278,7.7899563999999994,44,10 rue des écoles,67510.0,Lembach,Ecole maternelle de Lembach,Grand-Est,1614.0,2016,STRASBOURG
+0672228H,48.509485299999994,7.269141599999999,44,Rue des écoles,67130.0,Wisches,Ecole élémentaire de Wisches,Grand-Est,2121.0,2017,STRASBOURG
+0542078R,48.559399600000006,6.9646289,44,Grande rue,54480.0,Val-et-Châtillon,Ecole de Val-et-Châtillon,Grand-Est,623.0,2016,NANCY-METZ
+0490123T,47.376337899999996,-0.1104675,52,6 avenue Victor Hugo,49160.0,Longué-Jumelles,Ecole maternelle de Longué-Jumelles,Pays-de-la-Loire,6875.0,2016,NANTES
+0320426P,43.8375617,0.384666,76,Le village,32410.0,Beaucaire,Ecole Beaucaire,Occitanie,276.0,2017,TOULOUSE
+0672362D,48.8522761,7.6293725785611795,44,46 Grand rue,67350.0,Uberach,Ecole maternelle Pierre Pflimlin,Grand-Est,1178.0,2016,STRASBOURG
+0680649L,47.7195745,7.1647103,44,2 rue de l'église,68520.0,Burnhaupt-le-Bas,Ecole maternelle de Burnhaupt-le-Bas,Grand-Est,1828.0,2016,STRASBOURG
+0680679U,47.5394593,7.333050599999999,44,5 rue de Muespach,68480.0,Roppentzwiller,Ecole maternelle de Roppentzwiller,Grand-Est,689.0,2016,STRASBOURG
+0680707Z,47.930557,6.964591800000001,44,57 Grand rue,68820.0,Kruth,Ecole maternelle de Kruth,Grand-Est,959.0,2017,STRASBOURG
+0341861N,43.565399299999996,3.9017114,76,25 rue Alberti,34970.0,Lattes,Ecole maternelle Port Ariane,Occitanie,15748.0,2016,MONTPELLIER
+0681455M,47.9024133,7.253469,44,4 rue des Roitelets,68500.0,Issenheim,Ecole maternelle la Colombe,Grand-Est,3457.0,2017,STRASBOURG
+0681518F,48.0284909,7.5024451,44,8 rue des écoles,68600.0,Wolfgantzen,Ecole maternelle de Wolfgantzen,Grand-Est,1041.0,2016,STRASBOURG
+0390301R,46.778218700000004,5.9408961,27,1 rue de l'Ecole,39300.0,Saint-Germain-en-Montagne,Ecole de Saint-Germain-en-Montagne,Bourgogne-et-Franche-Comté,451.0,2016,BESANCON
+0491850V,47.497443,0.0923350673280189,52,5 rue relais du Petit Verger,49490.0,Noyant,Ecole maternelle de Noyant,Pays-de-la-Loire,1879.0,2016,NANTES
+0560668X,47.8758768,-3.0199362,53,Rue de Botkermarrec,56150.0,Baud,Ecole maternelle du Centre,Bretagne,6126.0,2016,RENNES
+0561493U,47.747733600000004,-3.3660907,53,Rue de Galway,56100.0,Lorient,Ecole maternelle Jean Paul Sartre,Bretagne,57961.0,2016,RENNES
+0570770C,49.2716496,6.646490700000001,44,2 rue Principale,57550.0,Berviller-en-Moselle,Ecole élémentaire de Berviller-en-Moselle,Grand-Est,496.0,2016,NANCY-METZ
+0570930B,49.0540236,7.146237299999999,44,Rue Saint-Etienne,57905.0,Wittring,Ecole maternelle de Wittring,Grand-Est,809.0,2016,NANCY-METZ
+0571701P,49.0530406,6.9316068,44,106 rue du lac,57510.0,Puttelange-aux-Lacs,Ecole élémentaire Diefenbach,Grand-Est,3096.0,2016,NANCY-METZ
+0440866C,47.273351700000006,-2.2138904999999998,52,1 rue Victor Marre Penhoet,44600.0,Saint-Nazaire,Ecole primaire Paul Bert,Pays-de-la-Loire,68513.0,2016,NANTES
+0440894H,47.273351700000006,-2.2138904999999998,52,69 rue de Cardurand,44600.0,Saint-Nazaire,Ecole primaire Gambetta,Pays-de-la-Loire,68513.0,2016,NANTES
+0441574X,47.4035523,-0.938858676210172,52,4 rue de la Mairie,49123.0,Le Fresne-sur-Loire,Ecole Le Petit Prince,Pays-de-la-Loire,977.0,2016,NANTES
+0595107F,50.3952484,3.2326712000000004,32,67 place Charles de Gaulle,59870.0,Vred,Ecole maternelle Henri des,Hauts-de-France,1353.0,2016,LILLE
+0352436H,48.0243796,-1.7469644,53,16 avenue Jules Tricault,35170.0,Bruz,Ecole maternelle Jacques Prévert,Bretagne,16855.0,2016,RENNES
+0421532M,45.4825111,4.5741514,84,Route de Saint-Paul,42740.0,Saint-Paul-en-Jarez,Ecole maternelle Les Pins,Auvergne-et-Rhône-Alpes,4486.0,2016,LYON
+0421536S,45.4401467,4.3873058,84,19 rue Ch.gounod,42000.0,Saint-Étienne,Ecole primaire Montreynaud Gounod,Auvergne-et-Rhône-Alpes,172023.0,2016,LYON
+0600289N,49.63096015177629,2.30825410992372,32,6 rue Marcel Dassault,60120.0,Plainville,Ecole élémentaire de Plainville,Hauts-de-France,163.0,2016,AMIENS
+0640925H,43.228615999999995,-1.04231086760756,75,Le bourg,64120.0,Juxue,Ecole de Juxue,Nouvelle-Aquitaine,203.0,2016,BORDEAUX
+0370184Z,47.4197523,0.8470549999999999,24,1 rue Touche,37210.0,Vernou-sur-Brenne,Ecole Cousse,Centre-Val-de-Loire,2673.0,2016,ORLEANS-TOURS
+0312594B,43.5241,1.82637,76,2 côté de Peyrolle,31460.0,Auriac-sur-Vendinelle,Ecole maternelle d'Auriac-sur-Vendinelle,Occitanie,991.0,2016,TOULOUSE
+0320168J,43.3825423,0.22356910000000002,76,Le village,32730.0,Montégut-Arros,Ecole élémentaire Montegut sur Arros,Occitanie,291.0,2016,TOULOUSE
+0400758G,44.149503499999994,-0.7377402,75,Place Gambetta,40630.0,Sabres,Ecole maternelle de Sabres,Nouvelle-Aquitaine,1210.0,2016,BORDEAUX
+0650749L,43.1831715,-0.0268132,76,18 rue Georges Clémenceau,65380.0,Ossun,Ecole maternelle Paul Guth,Occitanie,2314.0,2017,TOULOUSE
+0320309M,43.476111100000004,0.2763889,76,Le village,32170.0,Tillac,Ecole élémentaire Tillac,Occitanie,262.0,2016,TOULOUSE
+0320489H,43.4709929,0.5218082,76,Le village,32300.0,Clermont-Pouyguillès,Ecole élémentaire Clermont Pouyguilles,Occitanie,159.0,2016,TOULOUSE
+0330258B,44.841225,-0.5800364,75,248 rue Berruer,33000.0,Bordeaux,Ecole maternelle d'application Flornoy,Nouvelle-Aquitaine,243626.0,2017,BORDEAUX
+0330305C,44.841649600000004,0.214969,75,43 rue des Frères Reclus,33220.0,Sainte-Foy-la-Grande,Ecole maternelle Pauline Kergomard,Nouvelle-Aquitaine,2321.0,2016,BORDEAUX
+0420329E,46.0345572,4.0729178,84,49 rue du Matel,42300.0,Roanne,Ecole maternelle Matel,Auvergne-et-Rhône-Alpes,35507.0,2016,LYON
+0572537Y,49.119696399999995,6.176355200000001,44,22 rue du 18 Juin 1940,57070.0,Metz,Ecole maternelle Bellecroix la Volière,Grand-Est,118634.0,2016,NANCY-METZ
+0660423B,42.463264200000005,1.9382158999999999,76,Place de l'Eglise,66760.0,Ur,Ecole primaire d'Ur,Occitanie,349.0,2016,MONTPELLIER
+0620575N,50.2120584,2.7982832,32,Rue de la Mairie,62175.0,Boisleux-Saint-Marc,Ecole primaire RPI 22,Hauts-de-France,261.0,2016,LILLE
+0620982F,50.4754,2.6621898999999996,32,Allée de la Loisne,62290.0,Noeux-les-Mines,Ecole primaire Marie Curie,Hauts-de-France,12424.0,2016,LILLE
+0370284H,47.3900474,0.6889268,24,6 rue des Jacobins,37000.0,Tours,Ecole maternelle France,Centre-Val-de-Loire,134803.0,2016,ORLEANS-TOURS
+0572948V,48.9041672,6.8109744999999995,44,8 rue des écoles,57670.0,Nébing,Ecole maternelle de Nébing,Grand-Est,365.0,2016,NANCY-METZ
+0641092P,43.3048593427608,-1.04383321898218,75,Le bourg,64120.0,Saint-Just-Ibarre,Ecole de Saint-Just-Ibarre,Nouvelle-Aquitaine,233.0,2016,BORDEAUX
+0380840G,45.3732685,4.796158599999999,84,2 rue de la Mairie,38550.0,Le Péage-de-Roussillon,Ecole maternelle Bayard,Auvergne-et-Rhône-Alpes,6730.0,2016,GRENOBLE
+0641713P,43.370894299999996,-0.6294320999999999,75,10 rue Victor Hugo,64150.0,Mourenx,Ecole primaire Jules Ferry,Nouvelle-Aquitaine,6770.0,2016,BORDEAUX
+0650240H,43.320741299999995,-0.0047759,76,Larrose,65320.0,Tarasteix,Ecole élémentaire de Tarasteix,Occitanie,262.0,2016,TOULOUSE
+0650447H,43.299055100000004,0.5938321999999999,76,Le village,65230.0,Thermes-Magnoac,Ecole élémentaire de Thermes-Magnoac,Occitanie,220.0,2016,TOULOUSE
+0782494M,48.8642975,2.1377696,11,Chemin du Bas des Grands Près,78380.0,Bougival,Ecole maternelle Claude Monet,Île-de-France,8729.0,2016,VERSAILLES
+0622957C,50.4894092,2.4844817999999997,32,40 rue de la Cavée,62470.0,Calonne-Ricouart,Ecole maternelle Henri Barbusse,Hauts-de-France,5563.0,2016,LILLE
+0790172H,46.3239455,-0.4645212,75,Place Louis Jouvet,79000.0,Niort,Ecole maternelle Groupe scolaire E. Pérochon,Nouvelle-Aquitaine,57393.0,2016,POITIERS
+0610659K,48.474748600000005,0.14859589999999998,28,Le bourg,61250.0,Semallé,Ecole élémentaire de Semallé,Normandie,388.0,2016,CAEN
+0610949A,48.4221718,0.06361280000000001,28,Rue du Champ des Vignes,61000.0,Saint-Germain-du-Corbéis,Ecole maternelle de Saint-Germain-du-Corbéis,Normandie,3868.0,2016,CAEN
+0611079S,48.6688475,-0.0279343955886449,28,Le bourg,61570.0,Vrigny,Ecole maternelle de Vrigny,Normandie,358.0,2016,CAEN
+0140342W,49.0045765,-0.1725382,28,Le bourg,14190.0,Rouvres,Ecole élémentaire de Rouvres,Normandie,213.0,2016,CAEN
+0140375G,49.182800799999995,-0.3690815,28,117 rue d'Authie,14000.0,Caen,Ecole maternelle Authie-Sud,Normandie,107229.0,2016,CAEN
+0140428P,49.182800799999995,-0.3690815,28,12 rue du Pont Creon,14000.0,Caen,Ecole maternelle J Guehenno,Normandie,107229.0,2016,CAEN
+0140665X,48.9420561,-0.2205177,28,Place de l'église,14700.0,Soulangy,Ecole élémentaire de Soulangy,Normandie,256.0,2016,CAEN
+0800251N,49.906092,2.0512212,32,8 rue du Bois,80540.0,Oissy,Ecole primaire d'Oissy,Hauts-de-France,234.0,2016,AMIENS
+0800414R,49.9363775,3.1162449,32,14 rue de Bretagne,80240.0,Hervilly,Ecole d'Hervilly,Hauts-de-France,164.0,2016,AMIENS
+0800618M,50.15183579999999,1.9013003000000002,32,13 rue du Bas,80135.0,Millencourt-en-Ponthieu,Ecole de Millencourt-en-Ponthieu,Hauts-de-France,370.0,2016,AMIENS
+0800832V,49.8941708,2.2956951,32,26 rue Metz l'Evêque,80000.0,Amiens,Ecole maternelle Notre-Dame,Hauts-de-France,132699.0,2016,AMIENS
+0801818S,49.8949866,2.1126148,32,1 place de l'église,80540.0,Saisseval,Ecole élémentaire Roger Cordonnier,Hauts-de-France,239.0,2016,AMIENS
+0802059D,49.8941708,2.2956951,32,Rue du Docteur Fafet,80000.0,Amiens,Ecole maternelle Fafet,Hauts-de-France,132699.0,2016,AMIENS
+0890669U,47.900929999999995,3.62501,27,4 impasse des écoles,89550.0,Héry,Ecole maternelle d'Héry,Bourgogne-et-Franche-Comté,1871.0,2016,DIJON
+0890738U,47.870565500000005,3.32272821477273,27,5 place M Muzard,89110.0,Aillant-sur-Tholon,Ecole maternelle d'Aillant-sur-Tholon,Bourgogne-et-Franche-Comté,1399.0,2016,DIJON
+0602079J,49.60864829999999,1.9960584,32,1 rue Principale,60360.0,Prévillers,Ecole élémentaire de Prévillers,Hauts-de-France,207.0,2016,AMIENS
+0890909E,47.62493,3.9733,27,Rue des écoles,89440.0,Massangis,Ecole de Massangis,Bourgogne-et-Franche-Comté,406.0,2016,DIJON
+0890972Y,48.0017354,3.7280324,27,12 rue du Puits,89600.0,Saint-Florentin,Ecole maternelle du Puits,Bourgogne-et-Franche-Comté,4692.0,2017,DIJON
+0891039W,47.744136100000006,3.6477869,27,1 rue de l'Eglise,89530.0,Saint-Bris-le-Vineux,Ecole primaire de Saint-Bris-le-Vineux,Bourgogne-et-Franche-Comté,1085.0,2016,DIJON
+0891260L,47.507613662238505,3.8850272886971497,27,15 rue haute,89200.0,Blannay,Ecole élémentaire de Blannay,Bourgogne-et-Franche-Comté,124.0,2016,DIJON
+0900255N,47.608574299999994,6.8096061,27,2 rue Ferdinand Anthony,90800.0,Urcerey,Ecole primaire Urcerey,Bourgogne-et-Franche-Comté,202.0,2016,BESANCON
+0840883D,44.0066403,4.8725016,93,116 impasse Sévigné,84700.0,Sorgues,Ecole maternelle Les Ramières,Provence-Alpes-Côte-d'Azur,18500.0,2016,AIX-MARSEILLE
+0610908F,48.580906,-0.38203748624326295,28,Rue Alexandre Lainé,61600.0,La Ferté-Macé,Ecole maternelle Jacques Prévert,Normandie,5661.0,2016,CAEN
+0620345N,50.4821963,2.5461922,32,Place Guynemer,62700.0,Bruay-la-Buissière,Ecole maternelle Georges Guynemer,Hauts-de-France,22802.0,2016,LILLE
+0850313D,46.466112200000005,-0.8063735,52,Rue de la Croix du Camp,85200.0,Fontenay-le-Comte,Ecole élémentaire Marceau Bretaud,Pays-de-la-Loire,13647.0,2016,NANTES
+0624014B,50.8064,1.73997,32,22 rue du Général de Gaulle,62720.0,Rinxent,Ecole maternelle Ferry-Mendès-France,Hauts-de-France,2862.0,2016,LILLE
+0640267T,43.20545870000001,-1.1557764,75,Le bourg,64220.0,Ainhice-Mongelos,Ecole élémentaire d'Ainhice-Mongelos,Nouvelle-Aquitaine,161.0,2016,BORDEAUX
+0681137S,47.8208892,7.5410482000000005,44,6 rue des Anciens Combattants,68490.0,Chalampé,Ecole maternelle de Chalampé,Grand-Est,967.0,2017,STRASBOURG
+0770718M,48.6354878,2.7954418,11,15 rue Saint Nicolas,77390.0,Guignes,Ecole élémentaire de Guignes,Île-de-France,3358.0,2016,CRETEIL
+0681827S,48.07775170000001,7.3579641,44,2 A rue de Riquewihr,68000.0,Colmar,Ecole maternelle Les Hortensias,Grand-Est,67956.0,2017,STRASBOURG
+0771307C,48.4149956,3.2394035,11,281 rue Jules Ferry,77480.0,Bray-sur-Seine,Ecole maternelle de Bray-sur-Seine,Île-de-France,2294.0,2016,CRETEIL
+0911502N,48.5692542,2.0357586,11,Rue de Paris,91410.0,Saint-Cyr-sous-Dourdan,Ecole maternelle Les Ormes,Île-de-France,1006.0,2016,VERSAILLES
+0671287K,48.4377779,7.2238892,44,155 rue de l'Eglise,67130.0,Wildersbach,Ecole Ets Prot,Grand-Est,303.0,2016,STRASBOURG
+0671491G,48.4961447,7.257279799999999,44,12 rue de la gare,67130.0,Russ,Ecole maternelle de Russ,Grand-Est,1282.0,2016,STRASBOURG
+0671492H,48.3489201,7.1068599,44,Grand rue,67420.0,Saales,Ecole maternelle de Saales,Grand-Est,820.0,2016,STRASBOURG
+0672446V,48.8982028302106,7.3117369255297895,44,Rue des Rochers,67290.0,Wimmenau,Ecole maternelle de Wimmenau,Grand-Est,1132.0,2017,STRASBOURG
+0672540X,48.9075169,7.6309516,44,7 A rue Principale,67110.0,Gumbrechtshoffen,Ecole maternelle de Gumbrechtshoffen,Grand-Est,1139.0,2016,STRASBOURG
+0922577B,48.8144,2.31606,11,4 rue Amaury Duval,92120.0,Montrouge,Ecole maternelle Amaury Duval,Île-de-France,49656.0,2016,VERSAILLES
+0595371T,50.6193174,3.1314002,32,1 rue Vermeer,59650.0,Villeneuve-d'Ascq,Ecole maternelle Paul Verlaine,Hauts-de-France,62616.0,2016,LILLE
+0751310S,48.856610100000005,2.3514992,11,90 boulevard Vincent Auriol,75013.0,Paris,Ecole maternelle Vincent Auriol,Île-de-France,183713.0,2016,PARIS
+0755013S,48.856610100000005,2.3514992,11,28 rue d'Aubervilliers,75019.0,Paris,Ecole maternelle Aubervilliers S,Île-de-France,185953.0,2016,PARIS
+0600293T,49.6338596,2.3614502,32,8 rue des Déportés,60120.0,Tartigny,Ecole maternelle de Tartigny,Hauts-de-France,278.0,2016,AMIENS
+0590844X,50.2563884,4.075551,32,24 rue des écoles,59680.0,Colleret,Ecole maternelle Groupe Céline Harcqz,Hauts-de-France,1669.0,2016,LILLE
+0590967F,51.0347708,2.3772525,32,12 rue de la Paix,59140.0,Dunkerque,Ecole maternelle Jean Macé,Hauts-de-France,89882.0,2016,LILLE
+0591136P,50.6026031,3.0697877,32,17 rue Stolberg,59155.0,Faches-Thumesnil,Ecole maternelle Charles Perrault,Hauts-de-France,17497.0,2016,LILLE
+0760711K,49.7544028,1.1490193000000002,28,45 rue du Ballon,76590.0,Le Catelier,Ecole élémentaire du Catelier,Normandie,240.0,2017,ROUEN
+0670349R,48.817223600000005,7.788597800000001,44,3 rue Saint Joseph,67500.0,Haguenau,Ecole maternelle Les P'tits Lupins Marienthal,Grand-Est,34419.0,2016,STRASBOURG
+0670350S,48.821213,7.7358163,44,7 rue des Juifs,67590.0,Schweighouse-sur-Moder,Ecole maternelle la Marelle,Grand-Est,4931.0,2016,STRASBOURG
+0880659N,48.391473299999994,5.6737085,44,Rue de la Mairie,88630.0,Frebécourt,Ecole de Frebécourt,Grand-Est,303.0,2016,NANCY-METZ
+0880811D,48.2952039,6.68847417992282,44,85 rue des Glycines,88700.0,Xaffévillers,Ecole primaire de Xaffévillers,Grand-Est,165.0,2016,NANCY-METZ
+0580041E,46.9876601,3.1577203,27,22 rue Albert Camus,58000.0,Nevers,Ecole primaire Albert Camus groupe A,Bourgogne-et-Franche-Comté,34841.0,2016,DIJON
+0580199B,46.948876299999995,3.9600928,27,Le bourg,58370.0,Villapourçon,Ecole primaire de Villapourçon,Bourgogne-et-Franche-Comté,447.0,2016,DIJON
+0580289Z,47.3716368,3.4545856,27,Le bourg,58210.0,Cuncy-lès-Varzy,Ecole maternelle de Cuncy-lès-Varzy,Bourgogne-et-Franche-Comté,137.0,2016,DIJON
+0580717P,47.048138,3.2028956,27,Rue des Vannes,58130.0,Urzy,Ecole maternelle Pierre Malardier,Bourgogne-et-Franche-Comté,1839.0,2016,DIJON
+0890230S,47.9205351,3.25203930303153,27,27 rue de Saint-Romain,89116.0,Saint-Romain-le-Preux,Ecole primaire de Saint-Romain-le-Preux,Bourgogne-et-Franche-Comté,192.0,2016,DIJON
+0890301U,47.7132623,3.6653566,27,4 rue de l'Eglise,89290.0,Irancy,Ecole primaire d'Irancy,Bourgogne-et-Franche-Comté,290.0,2016,DIJON
+0772082V,48.567102399999996,2.6252499,11,1 rue Louise Michel,77240.0,Vert-Saint-Denis,Ecole maternelle Louise Michel,Île-de-France,7154.0,2016,CRETEIL
+0700732R,47.395449799999994,6.0532726,27,4 rue de la Mairie,70190.0,Sorans-lès-Breurey,Ecole primaire de Sorans-lès-Breurey,Bourgogne-et-Franche-Comté,423.0,2016,BESANCON
+0710176F,46.2462758,4.7868257000000005,27,100 impasse des écoles,71680.0,Crêches-sur-Saône,Ecole maternelle Jules Pinsard,Bourgogne-et-Franche-Comté,2907.0,2016,DIJON
+0710459N,46.1966241,4.7689072,27,St Romain des îles,71570.0,Saint-Symphorien-d'Ancelles,Ecole maternelle de Saint-Symphorien-d'Ancelles,Bourgogne-et-Franche-Comté,1119.0,2016,DIJON
+0710663K,47.026168299999995,4.1199906,27,Le bourg,71550.0,Roussillon-en-Morvan,Ecole de Roussillon-en-Morvan,Bourgogne-et-Franche-Comté,267.0,2016,DIJON
+0710695V,46.833008899999996,4.1158212999999995,27,Le bourg,71190.0,Saint-Didier-sur-Arroux,Ecole de Saint-Didier-sur-Arroux,Bourgogne-et-Franche-Comté,241.0,2016,DIJON
+0573456X,49.101578,7.5083027,44,13 rue Principale,57230.0,Roppeviller,Ecole élémentaire de Roppeviller,Grand-Est,123.0,2016,NANCY-METZ
+0800818E,50.106083500000004,1.8337028999999998,32,304 chaussée de Rouvroy,80100.0,Abbeville,Ecole maternelle Rouvroy,Hauts-de-France,23821.0,2016,AMIENS
+0770719N,48.6354878,2.7954418,11,2 rue Saint Nicolas,77390.0,Guignes,Ecole élémentaire Groupe 1,Île-de-France,3358.0,2016,CRETEIL
+0340569J,43.2900051,3.1279228999999997,76,4 rue de l'école maternelle,34440.0,Nissan-lez-Enserune,Ecole maternelle de Nissan-lez-Enserune,Occitanie,3907.0,2016,MONTPELLIER
+0772117H,48.567102399999996,2.6252499,11,2 rue Louise Michel,77240.0,Vert-Saint-Denis,Ecole élémentaire Louise Michel,Île-de-France,7154.0,2016,CRETEIL
+0860212N,46.8180047,0.545812,75,2 chemin des Chateliers,86100.0,Châtellerault,Ecole maternelle Les Minimes,Nouvelle-Aquitaine,31262.0,2016,POITIERS
+0751265T,48.856610100000005,2.3514992,11,56 rue Boissière,75016.0,Paris,Ecole maternelle Boissière T,Île-de-France,166552.0,2017,PARIS
+0780520S,48.773933899999996,2.1259014,11,Rue Collin Mamet,78530.0,Buc,Ecole maternelle Louis Blériot,Île-de-France,5606.0,2016,VERSAILLES
+0711333N,46.680688200000006,3.8161727999999995,27,Le bourg,71140.0,Maltat,Ecole élémentaire de Maltat,Bourgogne-et-Franche-Comté,290.0,2016,DIJON
+0720397R,48.1860576,0.6554511,52,88 avenue de la République,72400.0,La Ferté-Bernard,Ecole primaire Marcel Pagnol,Pays-de-la-Loire,9116.0,2016,NANTES
+0780839N,48.8255064,2.12798942040892,11,4 rue Cimarosa,78150.0,Le Chesnay,Ecole maternelle Le Petit Prince,Île-de-France,28640.0,2016,VERSAILLES
+0741201D,46.0164774,6.1712940000000005,84,9 place de l'église,74570.0,Groisy,Ecole maternelle de Groisy,Auvergne-et-Rhône-Alpes,3395.0,2017,GRENOBLE
+0780540N,48.817399,1.9476363,11,1 rue des Saules,78370.0,Plaisir,Ecole maternelle Louis Pergaud,Île-de-France,31342.0,2016,VERSAILLES
+0790282C,46.1100611,0.061765999999999995,75,Le bourg,79190.0,Lorigné,Ecole élémentaire de Lorigné,Nouvelle-Aquitaine,288.0,2016,POITIERS
+0781221D,48.758664399999994,2.0510182,11,Avenue du Plan de l'Eglise,78960.0,Voisins-le-Bretonneux,Ecole maternelle Bois de la Garenne,Île-de-France,11464.0,2016,VERSAILLES
+0761156U,49.8535336,0.7990984999999999,28,1 place de l'Eglise,76460.0,Blosseville,Ecole élémentaire Le Manoir du Vent,Normandie,290.0,2016,ROUEN
+0761242M,49.493897499999996,0.10797319999999999,28,94 rue Desramé,76620.0,Le Havre,Ecole maternelle Croix-Blanche,Normandie,172074.0,2016,ROUEN
+0920265N,48.914826899999994,2.2674892000000004,11,62 rue Paul Déroulède,92270.0,Bois-Colombes,Ecole élémentaire Paul Bert A,Île-de-France,28561.0,2016,VERSAILLES
+0920445J,48.8250508,2.273457,11,13 rue de l'Abbé Derry,92130.0,Issy-les-Moulineaux,Ecole maternelle la Fontaine,Île-de-France,65662.0,2016,VERSAILLES
+0762335A,49.526209868317004,0.35472897759286004,28,42 rue de la Seine,76430.0,Tancarville,Ecole élémentaire André Pican,Normandie,1346.0,2016,ROUEN
+0741327R,45.9194156,6.165874724017769,84,42 rue Centrale,74940.0,Annecy-le-Vieux,Ecole maternelle Colovry,Auvergne-et-Rhône-Alpes,20166.0,2016,GRENOBLE
+0521077N,48.0341084,5.3465703,44,77 rue de Verdun,52800.0,Nogent,École élémentaire,Grand-Est,3895.0,2016,REIMS
+9760058J,-12.9571,45.10419999999999,6,Kani Kéli,97625.0,Kani Kéli,École élémentaire de Kani Bé de Kani Keli,Mayotte,5507.0,2016,MAYOTTE
+0100565K,48.2952,4.07965999999999,44,2 boulevard du 14 juillet,10000.0,Troyes,Ecole maternelle Jacobins,Grand-Est,59671.0,2017,REIMS
+0100584F,48.3099,4.066379999999981,44,153 rue de Preize,10000.0,Troyes,Ecole maternelle Preize,Grand-Est,59671.0,2016,REIMS
+0500892Y,48.725,-0.9155550000000403,28,13 rue de Tinchebray,50150.0,Sourdeval,École maternelle publique Les Petits Lutins,Normandie,2651.0,2017,CAEN
+0211840L,47.1449,5.431829999999991,27,,21130.0,Billey,Ecole primaire,Bourgogne-et-Franche-Comté,237.0,2016,DIJON
+9760176M,-12.9624,45.12660000000005,6,Choungui,97625.0,KANI KELI,Ecole maternelle de Choungui,Mayotte,5507.0,2016,MAYOTTE
+0711477V,46.6576,4.362610000000018,27,Rue de Lutterbach,71300.0,Montceau-les-Mines,Ecole maternelle Antoine Bourdelle,Bourgogne-et-Franche-Comté,18969.0,2017,DIJON
+0100215E,47.9531,4.016799999999989,44,10 GRANDE RUE,10210.0,Coussegrey,ECOLE ELEMENTAIRE PUBLIQUE,Grand-Est,179.0,2016,REIMS
+0731407H,45.7,6.11667,84,Chef Lieu,73340.0,La Motte-en-Bauges,École primaire publique la Motte En Bauges,Auvergne-Rhône-Alpes,463.0,2017,GRENOBLE
+9710724K,16.273,-61.50509999999997,1,Lieu-dit LES PLAINES,97142.0,Les Abymes,Ecole maternelle Grand-Camp 1,Guadeloupe,57960.0,2017,GUADELOUPE
+0342280U,43.6201,3.8766900000000533,76,4 rue du 81e Régiment d'infanterie,34080.0,Montpellier,Ecole élementaire publique internat d'excellence,Occitanie,272084.0,2017,MONTPELLIER
+0540211L,49.2313,5.891300000000001,44,5 Rue De L'eglise,54150.0,Les Baroches,École Primaire Les Baroches,Grand-Est,379.0,2016,NANCY-METZ
+0430256V,44.80354,3.90637,84,Place des écoles,43420.0,Saint-Paul-de-Tartas,Ecole,Auvergne-et-Rhône-Alpes,207.0,2016,CLERMONT-FERRAND
+0573558H,49.1831,6.280179999999973,44,12 rue de l'Ecole,57640.0,Sanry-lès-Vigy,Ecole maternelle de Sanry-lès-Vigy,Grand-Est,503.0,2016,NANCY-METZ
